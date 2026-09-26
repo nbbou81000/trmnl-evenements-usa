@@ -5,7 +5,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const API_KEY = process.env.TICKETMASTER_API_KEY;
+const API_KEY = (process.env.TICKETMASTER_API_KEY || "").trim();
 if (!API_KEY) {
   console.error("Erreur : la variable d'environnement TICKETMASTER_API_KEY est manquante.");
   process.exit(1);
@@ -16,33 +16,33 @@ const WINDOW_DAYS = 60;
 const MAX_EVENTS_PER_CITY = 20;
 const DELAY_MS = 250; // reste sous les 5 requêtes/seconde imposées par Ticketmaster
 
-const DAY_LABELS_FR = ["DIM", "LUN", "MAR", "MER", "JEU", "VEN", "SAM"];
+const DAY_LABELS = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
 
 const TYPE_MAP = {
-  "Music": { key: "music", label: "Musique" },
-  "Sports": { key: "sports", label: "Sport" },
-  "Arts & Theatre": { key: "arts", label: "Arts & théâtre" },
-  "Film": { key: "film", label: "Cinéma" },
+  "Music": { key: "music", label: "Music" },
+  "Sports": { key: "sports", label: "Sports" },
+  "Arts & Theatre": { key: "arts", label: "Arts & Theater" },
+  "Film": { key: "film", label: "Film" },
 };
 
 function typeInfo(segmentName) {
-  return TYPE_MAP[segmentName] || { key: "misc", label: "Autre" };
+  return TYPE_MAP[segmentName] || { key: "misc", label: "Other" };
 }
 
 function dayLabelFor(localDate) {
   // localDate au format YYYY-MM-DD (déjà en heure locale du lieu, pas de conversion TZ)
   const [y, m, d] = localDate.split("-").map(Number);
   const weekday = new Date(Date.UTC(y, m - 1, d)).getUTCDay();
-  return DAY_LABELS_FR[weekday];
+  return DAY_LABELS[weekday];
 }
 
 function priceLabel(priceRanges) {
-  if (!priceRanges || priceRanges.length === 0) return "Tarif non communiqué";
+  if (!priceRanges || priceRanges.length === 0) return "Price not available";
   const pr = priceRanges[0];
   const min = Math.round(pr.min);
   const max = Math.round(pr.max);
-  if (min === max) return `${min} $`;
-  return `${min}–${max} $`;
+  if (min === max) return `$${min}`;
+  return `$${min}–$${max}`;
 }
 
 function venueLine(event) {
