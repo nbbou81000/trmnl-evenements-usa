@@ -1,26 +1,26 @@
 {
   "city_label": "Springfield, IL",
-  "updated_at": "2026-09-26T18:12:46.979Z",
+  "updated_at": "2026-09-26T18:40:07.396Z",
   "events": [
     {
-      "day_label": "SAM",
+      "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
       "title": "BRICK CONVENTION | LEGO Fan Expo | Springfield, IL",
       "venue_line": "Illinois State Fairgrounds Il State Fair • Springfield",
-      "price_label": "Tarif non communiqué",
+      "price_label": "Price not available",
       "type_key": "misc",
-      "type_label": "Autre"
+      "type_label": "Other"
     },
     {
-      "day_label": "VEN",
+      "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
       "title": "Ali Siddiq",
       "venue_line": "Sangamon Auditorium • Springfield",
-      "price_label": "Tarif non communiqué",
+      "price_label": "Price not available",
       "type_key": "arts",
-      "type_label": "Arts & théâtre"
+      "type_label": "Arts & Theater"
     }
   ]
 }
