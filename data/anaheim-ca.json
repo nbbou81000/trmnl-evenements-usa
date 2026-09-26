@@ -1,27 +1,7 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-09-26T18:40:47.264Z",
+  "updated_at": "2026-09-26T19:18:12.285Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "English Pub on the Apron",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Goodwood in the Chandelier Room",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -146,16 +126,6 @@
       "day_label": "SAT",
       "day_number": "26",
       "date_iso": "2026-09-26",
-      "title": "156/Silence - From A Distance Tour -MOVED TO THE OBSERVATORY SANTA ANA",
-      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
       "title": "Last First Kiss",
       "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
       "price_label": "Price not available",
@@ -188,7 +158,7 @@
       "date_iso": "2026-09-26",
       "title": "Usama Siddiquee",
       "venue_line": "Brea Improv • Brea",
-      "price_label": "$0",
+      "price_label": "$31",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "156/Silence - From A Distance Tour -MOVED TO THE OBSERVATORY SANTA ANA",
+      "venue_line": "The Observatory • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "156/Silence - From A Distance Tour",
+      "venue_line": "The Observatory • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Francisco Ramos & Carlos Santos (En Espanol)",
+      "venue_line": "The Stand Up Comedy Club • Bellflower",
+      "price_label": "$25–$171",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

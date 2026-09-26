@@ -1,6 +1,6 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-09-26T18:39:57.468Z",
+  "updated_at": "2026-09-26T19:17:21.943Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,16 +11,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Breakaway Music Festival",
-      "venue_line": "zMax Dragway • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
     },
     {
       "day_label": "SAT",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Alicia Villarreal - Bendita Locura Tour 2026",
+      "venue_line": "The Fillmore Charlotte • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

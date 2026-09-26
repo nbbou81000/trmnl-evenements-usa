@@ -1,17 +1,7 @@
 {
   "city_label": "Salt Lake City, UT",
-  "updated_at": "2026-09-26T18:40:35.425Z",
+  "updated_at": "2026-09-26T19:18:00.121Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "Aguilas De Mexicali vs. Jaguares de Nayarit",
+      "venue_line": "The Ballpark at America First Square • South Jordan",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

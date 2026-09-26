@@ -1,47 +1,7 @@
 {
   "city_label": "Denver, CO",
-  "updated_at": "2026-09-26T18:40:33.772Z",
+  "updated_at": "2026-09-26T19:17:58.585Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Day Trip Block Party Denver",
-      "venue_line": "JUNKYARD • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Denver Pioneers Womens Volleyball vs. St. Marys CA Gaels Womens Volleyball",
-      "venue_line": "University of Denver - Hamilton Gymnasium • Denver CO",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Misery",
-      "venue_line": "Arvada Center • Arvada",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Day Out With Thomas (TM), Thomas & Friends",
-      "venue_line": "Colorado Railroad Museum • Golden",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Colorado Symphony Orchestra presents Rachmaninoff???s 3rd Piano Concerto with Garrick Ohlsson & Rune Bergmann",
+      "venue_line": "Boettcher Hall • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Destiny of Desire",
+      "venue_line": "Wolf Theatre at Denver Center for the Performing • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "The Outsiders (Touring)",
+      "venue_line": "Buell Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Hold On To Your Butts",
+      "venue_line": "Galleria Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

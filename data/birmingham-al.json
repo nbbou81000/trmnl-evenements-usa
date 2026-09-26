@@ -1,6 +1,6 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-09-26T18:40:31.745Z",
+  "updated_at": "2026-09-26T19:17:56.629Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,16 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Hamilton (Touring)",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SAT",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The A-List Upgrade: JJ Grey & Mofro - NOT A CONCERT TICKET",
+      "venue_line": "Avondale Brewing Co. • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

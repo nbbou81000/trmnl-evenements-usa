@@ -1,17 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-09-26T18:40:46.259Z",
+  "updated_at": "2026-09-26T19:18:11.271Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Autumnfest Haunted House (No Scare)",
-      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Extreme Dwarfanator Wrestling (21+ Event)",
+      "venue_line": "Rockefellas Bar • Corona",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

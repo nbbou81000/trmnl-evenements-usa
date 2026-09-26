@@ -1,27 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-09-26T18:40:41.828Z",
+  "updated_at": "2026-09-26T19:18:06.801Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "CRSSD Fest - Friday (Ages 21+)",
-      "venue_line": "Waterfront Park - San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "San Diego Toreros Womens Volleyball vs. Pacific Tigers Womens Volleyball",
-      "venue_line": "Jenny Craig Pavilion • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -198,6 +178,26 @@
       "date_iso": "2026-09-27",
       "title": "Barrett Lake Fishing",
       "venue_line": "Barrett Lake • Dulzura",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "CRSSD Fest - Saturday (Ages 21+)",
+      "venue_line": "Waterfront Park - San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "San Diego Padres vs. Arizona Diamondbacks",
+      "venue_line": "PETCO Park • San Diego",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

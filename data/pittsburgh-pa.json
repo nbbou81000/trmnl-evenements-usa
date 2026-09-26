@@ -1,17 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-09-26T18:39:44.777Z",
+  "updated_at": "2026-09-26T19:17:08.837Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Robert Morris University Colonials Womens Hockey vs. Post",
-      "venue_line": "Clearview Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "Pittsburgh Panthers Womens Volleyball vs. Stanford Cardinal Womens Volleyball",
+      "venue_line": "Victory Heights Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

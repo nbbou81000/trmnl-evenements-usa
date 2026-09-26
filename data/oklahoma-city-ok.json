@@ -1,17 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-09-26T18:40:26.044Z",
+  "updated_at": "2026-09-26T19:17:51.151Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Lyric Theatre of Oklahoma • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Oklahoma Warriors vs. El Paso Rhinos",
+      "venue_line": "Blazers Ice Centre • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

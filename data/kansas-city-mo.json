@@ -1,17 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-09-26T18:40:14.978Z",
+  "updated_at": "2026-09-26T19:17:39.452Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "GRINDERS KC FEST DAY 2",
-      "venue_line": "Grinders KC • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
+      "venue_line": "Starlight Theatre • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-09-26T18:40:01.071Z",
+  "updated_at": "2026-09-26T19:17:25.473Z",
   "events": [
     {
       "day_label": "THU",
@@ -38,26 +38,6 @@
       "date_iso": "2026-09-26",
       "title": "Tokyo Matsuri Inspired Selfie Experience",
       "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Tokyo Matsuri Inspired Selfie Experience",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Disney On Ice presents Spotlight Magic!",
-      "venue_line": "Gas South Arena • Duluth",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Tokyo Matsuri Inspired Selfie Experience",
+      "venue_line": "Selfie Paradise Museum • Douglasville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "Gas South Arena • Duluth",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

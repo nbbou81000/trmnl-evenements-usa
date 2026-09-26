@@ -1,6 +1,6 @@
 {
   "city_label": "Los Angeles, CA",
-  "updated_at": "2026-09-26T18:40:41.334Z",
+  "updated_at": "2026-09-26T19:18:06.269Z",
   "events": [
     {
       "day_label": "SAT",
@@ -11,26 +11,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "English Pub on the Apron",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Goodwood in the Chandelier Room",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -198,6 +178,26 @@
       "date_iso": "2026-09-26",
       "title": "Jesse Baez",
       "venue_line": "The Echo • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Yuuri Live 2026 in Los Angeles",
+      "venue_line": "The Wiltern • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Dexter and The Moonrocks",
+      "venue_line": "Hollywood Palladium • Hollywood",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

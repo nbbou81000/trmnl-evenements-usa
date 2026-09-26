@@ -1,17 +1,7 @@
 {
   "city_label": "Washington, DC",
-  "updated_at": "2026-09-26T18:39:54.608Z",
+  "updated_at": "2026-09-26T19:17:19.168Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "The Sage • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "26",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Merrily We Roll Along (Appropriate for mature teens and up. Children under 6 are not admitted at Signature)",
+      "venue_line": "Signature Theatre • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }
