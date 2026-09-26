@@ -1,0 +1,32 @@
+- keyname: ville
+  field_type: select
+  name: Ville
+  description: Ville la plus proche pour les événements à proximité
+  options:
+  - "Austin, TX: austin-tx"
+  - "New York, NY: new-york-ny"
+  - "Los Angeles, CA: los-angeles-ca"
+  - "Chicago, IL: chicago-il"
+  - "Houston, TX: houston-tx"
+  # ... liste complète (~120-150 villes) générée par le pipeline, voir cities.json
+  default: "austin-tx"
+
+- keyname: type_evenement
+  field_type: select
+  name: Type d'événement
+  description: Filtre les événements affichés sur l'écran
+  options:
+  - "Tous: all"
+  - "Musique: music"
+  - "Sport: sports"
+  - "Arts & théâtre: arts"
+  - "Cinéma: film"
+  - "Autre: misc"
+  default: "all"
+
+- keyname: about
+  name: À propos de ce plugin
+  field_type: author_bio
+  category: events,music
+  description: Concerts et événements à proximité, avec date, tarif et type — données Ticketmaster Discovery API, mises à jour quotidiennement.
+  github_url: https://github.com/nbbou81000/trmnl-evenements-usa

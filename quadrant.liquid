@@ -1,0 +1,20 @@
+<div class="layout">
+  <div class="columns">
+    <div class="column">
+      {% for event in events %}
+        {% if forloop.index <= 2 and (type_evenement == "all" or event.type_key == type_evenement) %}
+        <div class="item item--meta-emphasis">
+          <div class="meta">
+            <span class="label label--xsmall">{{ event.day_label }}</span>
+            <span class="value value--small">{{ event.day_number }}</span>
+          </div>
+          <div class="content">
+            <span class="title title--small" data-clamp="1">{{ event.title }}</span>
+            <span class="label label--small">{{ event.price_label }}</span>
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

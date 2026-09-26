@@ -1,0 +1,27 @@
+<div class="layout">
+  <div class="columns">
+    <div class="column">
+      {% for event in events %}
+        {% if type_evenement == "all" or event.type_key == type_evenement %}
+        <div class="item item--meta-emphasis">
+          <div class="meta">
+            <span class="label label--small">{{ event.day_label }}</span>
+            <span class="value value--small">{{ event.day_number }}</span>
+          </div>
+          <div class="content">
+            <span class="title title--small" data-clamp="1">{{ event.title }}</span>
+            <span class="description" data-clamp="1">{{ event.venue_line }}</span>
+            <span class="label label--small">{{ event.price_label }}</span>
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <img class="image" src="https://trmnl.com/images/plugins/trmnl--render.svg">
+  <span class="title">Concerts &amp; événements</span>
+  <span class="instance">{{ city_label }}</span>
+</div>

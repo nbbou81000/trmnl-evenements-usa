@@ -1,0 +1,806 @@
+[
+  {
+    "slug": "new-york-ny",
+    "label": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "slug": "boston-ma",
+    "label": "Boston, MA",
+    "lat": 42.3601,
+    "lon": -71.0589
+  },
+  {
+    "slug": "philadelphia-pa",
+    "label": "Philadelphia, PA",
+    "lat": 39.9526,
+    "lon": -75.1652
+  },
+  {
+    "slug": "pittsburgh-pa",
+    "label": "Pittsburgh, PA",
+    "lat": 40.4406,
+    "lon": -79.9959
+  },
+  {
+    "slug": "buffalo-ny",
+    "label": "Buffalo, NY",
+    "lat": 42.8864,
+    "lon": -78.8784
+  },
+  {
+    "slug": "rochester-ny",
+    "label": "Rochester, NY",
+    "lat": 43.1566,
+    "lon": -77.6088
+  },
+  {
+    "slug": "syracuse-ny",
+    "label": "Syracuse, NY",
+    "lat": 43.0481,
+    "lon": -76.1474
+  },
+  {
+    "slug": "albany-ny",
+    "label": "Albany, NY",
+    "lat": 42.6526,
+    "lon": -73.7562
+  },
+  {
+    "slug": "providence-ri",
+    "label": "Providence, RI",
+    "lat": 41.824,
+    "lon": -71.4128
+  },
+  {
+    "slug": "hartford-ct",
+    "label": "Hartford, CT",
+    "lat": 41.7658,
+    "lon": -72.6734
+  },
+  {
+    "slug": "new-haven-ct",
+    "label": "New Haven, CT",
+    "lat": 41.3083,
+    "lon": -72.9279
+  },
+  {
+    "slug": "bridgeport-ct",
+    "label": "Bridgeport, CT",
+    "lat": 41.1865,
+    "lon": -73.1952
+  },
+  {
+    "slug": "portland-me",
+    "label": "Portland, ME",
+    "lat": 43.6591,
+    "lon": -70.2568
+  },
+  {
+    "slug": "manchester-nh",
+    "label": "Manchester, NH",
+    "lat": 42.9956,
+    "lon": -71.4548
+  },
+  {
+    "slug": "burlington-vt",
+    "label": "Burlington, VT",
+    "lat": 44.4759,
+    "lon": -73.2121
+  },
+  {
+    "slug": "newark-nj",
+    "label": "Newark, NJ",
+    "lat": 40.7357,
+    "lon": -74.1724
+  },
+  {
+    "slug": "jersey-city-nj",
+    "label": "Jersey City, NJ",
+    "lat": 40.7178,
+    "lon": -74.0431
+  },
+  {
+    "slug": "allentown-pa",
+    "label": "Allentown, PA",
+    "lat": 40.6084,
+    "lon": -75.4902
+  },
+  {
+    "slug": "harrisburg-pa",
+    "label": "Harrisburg, PA",
+    "lat": 40.2732,
+    "lon": -76.8867
+  },
+  {
+    "slug": "scranton-pa",
+    "label": "Scranton, PA",
+    "lat": 41.409,
+    "lon": -75.6624
+  },
+  {
+    "slug": "worcester-ma",
+    "label": "Worcester, MA",
+    "lat": 42.2626,
+    "lon": -71.8023
+  },
+  {
+    "slug": "springfield-ma",
+    "label": "Springfield, MA",
+    "lat": 42.1015,
+    "lon": -72.5898
+  },
+  {
+    "slug": "washington-dc",
+    "label": "Washington, DC",
+    "lat": 38.9072,
+    "lon": -77.0369
+  },
+  {
+    "slug": "baltimore-md",
+    "label": "Baltimore, MD",
+    "lat": 39.2904,
+    "lon": -76.6122
+  },
+  {
+    "slug": "richmond-va",
+    "label": "Richmond, VA",
+    "lat": 37.5407,
+    "lon": -77.436
+  },
+  {
+    "slug": "virginia-beach-va",
+    "label": "Virginia Beach, VA",
+    "lat": 36.8529,
+    "lon": -75.978
+  },
+  {
+    "slug": "norfolk-va",
+    "label": "Norfolk, VA",
+    "lat": 36.8508,
+    "lon": -76.2859
+  },
+  {
+    "slug": "charlotte-nc",
+    "label": "Charlotte, NC",
+    "lat": 35.2271,
+    "lon": -80.8431
+  },
+  {
+    "slug": "raleigh-nc",
+    "label": "Raleigh, NC",
+    "lat": 35.7796,
+    "lon": -78.6382
+  },
+  {
+    "slug": "durham-nc",
+    "label": "Durham, NC",
+    "lat": 35.994,
+    "lon": -78.8986
+  },
+  {
+    "slug": "greensboro-nc",
+    "label": "Greensboro, NC",
+    "lat": 36.0726,
+    "lon": -79.792
+  },
+  {
+    "slug": "winston-salem-nc",
+    "label": "Winston-Salem, NC",
+    "lat": 36.0999,
+    "lon": -80.2442
+  },
+  {
+    "slug": "charleston-sc",
+    "label": "Charleston, SC",
+    "lat": 32.7765,
+    "lon": -79.9311
+  },
+  {
+    "slug": "columbia-sc",
+    "label": "Columbia, SC",
+    "lat": 34.0007,
+    "lon": -81.0348
+  },
+  {
+    "slug": "atlanta-ga",
+    "label": "Atlanta, GA",
+    "lat": 33.749,
+    "lon": -84.388
+  },
+  {
+    "slug": "savannah-ga",
+    "label": "Savannah, GA",
+    "lat": 32.0809,
+    "lon": -81.0912
+  },
+  {
+    "slug": "augusta-ga",
+    "label": "Augusta, GA",
+    "lat": 33.4735,
+    "lon": -82.0105
+  },
+  {
+    "slug": "jacksonville-fl",
+    "label": "Jacksonville, FL",
+    "lat": 30.3322,
+    "lon": -81.6557
+  },
+  {
+    "slug": "miami-fl",
+    "label": "Miami, FL",
+    "lat": 25.7617,
+    "lon": -80.1918
+  },
+  {
+    "slug": "fort-lauderdale-fl",
+    "label": "Fort Lauderdale, FL",
+    "lat": 26.1224,
+    "lon": -80.1373
+  },
+  {
+    "slug": "orlando-fl",
+    "label": "Orlando, FL",
+    "lat": 28.5383,
+    "lon": -81.3792
+  },
+  {
+    "slug": "tampa-fl",
+    "label": "Tampa, FL",
+    "lat": 27.9506,
+    "lon": -82.4572
+  },
+  {
+    "slug": "st-petersburg-fl",
+    "label": "St. Petersburg, FL",
+    "lat": 27.7676,
+    "lon": -82.6403
+  },
+  {
+    "slug": "tallahassee-fl",
+    "label": "Tallahassee, FL",
+    "lat": 30.4383,
+    "lon": -84.2807
+  },
+  {
+    "slug": "chicago-il",
+    "label": "Chicago, IL",
+    "lat": 41.8781,
+    "lon": -87.6298
+  },
+  {
+    "slug": "rockford-il",
+    "label": "Rockford, IL",
+    "lat": 42.2711,
+    "lon": -89.094
+  },
+  {
+    "slug": "springfield-il",
+    "label": "Springfield, IL",
+    "lat": 39.7817,
+    "lon": -89.6501
+  },
+  {
+    "slug": "detroit-mi",
+    "label": "Detroit, MI",
+    "lat": 42.3314,
+    "lon": -83.0458
+  },
+  {
+    "slug": "grand-rapids-mi",
+    "label": "Grand Rapids, MI",
+    "lat": 42.9634,
+    "lon": -85.6681
+  },
+  {
+    "slug": "ann-arbor-mi",
+    "label": "Ann Arbor, MI",
+    "lat": 42.2808,
+    "lon": -83.743
+  },
+  {
+    "slug": "columbus-oh",
+    "label": "Columbus, OH",
+    "lat": 39.9612,
+    "lon": -82.9988
+  },
+  {
+    "slug": "cleveland-oh",
+    "label": "Cleveland, OH",
+    "lat": 41.4993,
+    "lon": -81.6944
+  },
+  {
+    "slug": "cincinnati-oh",
+    "label": "Cincinnati, OH",
+    "lat": 39.1031,
+    "lon": -84.512
+  },
+  {
+    "slug": "toledo-oh",
+    "label": "Toledo, OH",
+    "lat": 41.6528,
+    "lon": -83.5379
+  },
+  {
+    "slug": "akron-oh",
+    "label": "Akron, OH",
+    "lat": 41.0814,
+    "lon": -81.519
+  },
+  {
+    "slug": "dayton-oh",
+    "label": "Dayton, OH",
+    "lat": 39.7589,
+    "lon": -84.1916
+  },
+  {
+    "slug": "indianapolis-in",
+    "label": "Indianapolis, IN",
+    "lat": 39.7684,
+    "lon": -86.1581
+  },
+  {
+    "slug": "fort-wayne-in",
+    "label": "Fort Wayne, IN",
+    "lat": 41.0793,
+    "lon": -85.1394
+  },
+  {
+    "slug": "milwaukee-wi",
+    "label": "Milwaukee, WI",
+    "lat": 43.0389,
+    "lon": -87.9065
+  },
+  {
+    "slug": "madison-wi",
+    "label": "Madison, WI",
+    "lat": 43.0731,
+    "lon": -89.4012
+  },
+  {
+    "slug": "minneapolis-mn",
+    "label": "Minneapolis, MN",
+    "lat": 44.9778,
+    "lon": -93.265
+  },
+  {
+    "slug": "kansas-city-mo",
+    "label": "Kansas City, MO",
+    "lat": 39.0997,
+    "lon": -94.5786
+  },
+  {
+    "slug": "st-louis-mo",
+    "label": "St. Louis, MO",
+    "lat": 38.627,
+    "lon": -90.1994
+  },
+  {
+    "slug": "springfield-mo",
+    "label": "Springfield, MO",
+    "lat": 37.209,
+    "lon": -93.2923
+  },
+  {
+    "slug": "omaha-ne",
+    "label": "Omaha, NE",
+    "lat": 41.2565,
+    "lon": -95.9345
+  },
+  {
+    "slug": "lincoln-ne",
+    "label": "Lincoln, NE",
+    "lat": 40.8136,
+    "lon": -96.7026
+  },
+  {
+    "slug": "des-moines-ia",
+    "label": "Des Moines, IA",
+    "lat": 41.5868,
+    "lon": -93.625
+  },
+  {
+    "slug": "cedar-rapids-ia",
+    "label": "Cedar Rapids, IA",
+    "lat": 41.9779,
+    "lon": -91.6656
+  },
+  {
+    "slug": "wichita-ks",
+    "label": "Wichita, KS",
+    "lat": 37.6872,
+    "lon": -97.3301
+  },
+  {
+    "slug": "fargo-nd",
+    "label": "Fargo, ND",
+    "lat": 46.8772,
+    "lon": -96.7898
+  },
+  {
+    "slug": "sioux-falls-sd",
+    "label": "Sioux Falls, SD",
+    "lat": 43.5446,
+    "lon": -96.7311
+  },
+  {
+    "slug": "dallas-tx",
+    "label": "Dallas, TX",
+    "lat": 32.7767,
+    "lon": -96.797
+  },
+  {
+    "slug": "fort-worth-tx",
+    "label": "Fort Worth, TX",
+    "lat": 32.7555,
+    "lon": -97.3308
+  },
+  {
+    "slug": "houston-tx",
+    "label": "Houston, TX",
+    "lat": 29.7604,
+    "lon": -95.3698
+  },
+  {
+    "slug": "san-antonio-tx",
+    "label": "San Antonio, TX",
+    "lat": 29.4241,
+    "lon": -98.4936
+  },
+  {
+    "slug": "austin-tx",
+    "label": "Austin, TX",
+    "lat": 30.2672,
+    "lon": -97.7431
+  },
+  {
+    "slug": "el-paso-tx",
+    "label": "El Paso, TX",
+    "lat": 31.7619,
+    "lon": -106.485
+  },
+  {
+    "slug": "corpus-christi-tx",
+    "label": "Corpus Christi, TX",
+    "lat": 27.8006,
+    "lon": -97.3964
+  },
+  {
+    "slug": "lubbock-tx",
+    "label": "Lubbock, TX",
+    "lat": 33.5779,
+    "lon": -101.8552
+  },
+  {
+    "slug": "amarillo-tx",
+    "label": "Amarillo, TX",
+    "lat": 35.222,
+    "lon": -101.8313
+  },
+  {
+    "slug": "mcallen-tx",
+    "label": "McAllen, TX",
+    "lat": 26.2034,
+    "lon": -98.23
+  },
+  {
+    "slug": "laredo-tx",
+    "label": "Laredo, TX",
+    "lat": 27.5064,
+    "lon": -99.5075
+  },
+  {
+    "slug": "killeen-tx",
+    "label": "Killeen, TX",
+    "lat": 31.1171,
+    "lon": -97.7278
+  },
+  {
+    "slug": "oklahoma-city-ok",
+    "label": "Oklahoma City, OK",
+    "lat": 35.4676,
+    "lon": -97.5164
+  },
+  {
+    "slug": "tulsa-ok",
+    "label": "Tulsa, OK",
+    "lat": 36.154,
+    "lon": -95.9928
+  },
+  {
+    "slug": "little-rock-ar",
+    "label": "Little Rock, AR",
+    "lat": 34.7465,
+    "lon": -92.2896
+  },
+  {
+    "slug": "memphis-tn",
+    "label": "Memphis, TN",
+    "lat": 35.1495,
+    "lon": -90.049
+  },
+  {
+    "slug": "nashville-tn",
+    "label": "Nashville, TN",
+    "lat": 36.1627,
+    "lon": -86.7816
+  },
+  {
+    "slug": "knoxville-tn",
+    "label": "Knoxville, TN",
+    "lat": 35.9606,
+    "lon": -83.9207
+  },
+  {
+    "slug": "chattanooga-tn",
+    "label": "Chattanooga, TN",
+    "lat": 35.0456,
+    "lon": -85.3097
+  },
+  {
+    "slug": "new-orleans-la",
+    "label": "New Orleans, LA",
+    "lat": 29.9511,
+    "lon": -90.0715
+  },
+  {
+    "slug": "baton-rouge-la",
+    "label": "Baton Rouge, LA",
+    "lat": 30.4515,
+    "lon": -91.1871
+  },
+  {
+    "slug": "shreveport-la",
+    "label": "Shreveport, LA",
+    "lat": 32.5252,
+    "lon": -93.7502
+  },
+  {
+    "slug": "jackson-ms",
+    "label": "Jackson, MS",
+    "lat": 32.2988,
+    "lon": -90.1848
+  },
+  {
+    "slug": "birmingham-al",
+    "label": "Birmingham, AL",
+    "lat": 33.5186,
+    "lon": -86.8104
+  },
+  {
+    "slug": "huntsville-al",
+    "label": "Huntsville, AL",
+    "lat": 34.7304,
+    "lon": -86.5861
+  },
+  {
+    "slug": "montgomery-al",
+    "label": "Montgomery, AL",
+    "lat": 32.3792,
+    "lon": -86.3077
+  },
+  {
+    "slug": "mobile-al",
+    "label": "Mobile, AL",
+    "lat": 30.6954,
+    "lon": -88.0399
+  },
+  {
+    "slug": "denver-co",
+    "label": "Denver, CO",
+    "lat": 39.7392,
+    "lon": -104.9903
+  },
+  {
+    "slug": "colorado-springs-co",
+    "label": "Colorado Springs, CO",
+    "lat": 38.8339,
+    "lon": -104.8214
+  },
+  {
+    "slug": "fort-collins-co",
+    "label": "Fort Collins, CO",
+    "lat": 40.5853,
+    "lon": -105.0844
+  },
+  {
+    "slug": "salt-lake-city-ut",
+    "label": "Salt Lake City, UT",
+    "lat": 40.7608,
+    "lon": -111.891
+  },
+  {
+    "slug": "provo-ut",
+    "label": "Provo, UT",
+    "lat": 40.2338,
+    "lon": -111.6585
+  },
+  {
+    "slug": "boise-id",
+    "label": "Boise, ID",
+    "lat": 43.615,
+    "lon": -116.2023
+  },
+  {
+    "slug": "albuquerque-nm",
+    "label": "Albuquerque, NM",
+    "lat": 35.0844,
+    "lon": -106.6504
+  },
+  {
+    "slug": "santa-fe-nm",
+    "label": "Santa Fe, NM",
+    "lat": 35.687,
+    "lon": -105.9378
+  },
+  {
+    "slug": "tucson-az",
+    "label": "Tucson, AZ",
+    "lat": 32.2226,
+    "lon": -110.9747
+  },
+  {
+    "slug": "phoenix-az",
+    "label": "Phoenix, AZ",
+    "lat": 33.4484,
+    "lon": -112.074
+  },
+  {
+    "slug": "las-vegas-nv",
+    "label": "Las Vegas, NV",
+    "lat": 36.1699,
+    "lon": -115.1398
+  },
+  {
+    "slug": "reno-nv",
+    "label": "Reno, NV",
+    "lat": 39.5296,
+    "lon": -119.8138
+  },
+  {
+    "slug": "anchorage-ak",
+    "label": "Anchorage, AK",
+    "lat": 61.2181,
+    "lon": -149.9003
+  },
+  {
+    "slug": "billings-mt",
+    "label": "Billings, MT",
+    "lat": 45.7833,
+    "lon": -108.5007
+  },
+  {
+    "slug": "cheyenne-wy",
+    "label": "Cheyenne, WY",
+    "lat": 41.14,
+    "lon": -104.8202
+  },
+  {
+    "slug": "los-angeles-ca",
+    "label": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "slug": "san-diego-ca",
+    "label": "San Diego, CA",
+    "lat": 32.7157,
+    "lon": -117.1611
+  },
+  {
+    "slug": "san-francisco-ca",
+    "label": "San Francisco, CA",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "slug": "san-jose-ca",
+    "label": "San Jose, CA",
+    "lat": 37.3382,
+    "lon": -121.8863
+  },
+  {
+    "slug": "sacramento-ca",
+    "label": "Sacramento, CA",
+    "lat": 38.5816,
+    "lon": -121.4944
+  },
+  {
+    "slug": "fresno-ca",
+    "label": "Fresno, CA",
+    "lat": 36.7378,
+    "lon": -119.7871
+  },
+  {
+    "slug": "bakersfield-ca",
+    "label": "Bakersfield, CA",
+    "lat": 35.3733,
+    "lon": -119.0187
+  },
+  {
+    "slug": "stockton-ca",
+    "label": "Stockton, CA",
+    "lat": 37.9577,
+    "lon": -121.2908
+  },
+  {
+    "slug": "oakland-ca",
+    "label": "Oakland, CA",
+    "lat": 37.8044,
+    "lon": -122.2712
+  },
+  {
+    "slug": "santa-rosa-ca",
+    "label": "Santa Rosa, CA",
+    "lat": 38.4404,
+    "lon": -122.7141
+  },
+  {
+    "slug": "riverside-ca",
+    "label": "Riverside, CA",
+    "lat": 33.9806,
+    "lon": -117.3755
+  },
+  {
+    "slug": "long-beach-ca",
+    "label": "Long Beach, CA",
+    "lat": 33.7701,
+    "lon": -118.1937
+  },
+  {
+    "slug": "anaheim-ca",
+    "label": "Anaheim, CA",
+    "lat": 33.8366,
+    "lon": -117.9143
+  },
+  {
+    "slug": "palmdale-ca",
+    "label": "Palmdale, CA",
+    "lat": 34.5794,
+    "lon": -118.1165
+  },
+  {
+    "slug": "portland-or",
+    "label": "Portland, OR",
+    "lat": 45.5152,
+    "lon": -122.6784
+  },
+  {
+    "slug": "salem-or",
+    "label": "Salem, OR",
+    "lat": 44.9429,
+    "lon": -123.0351
+  },
+  {
+    "slug": "eugene-or",
+    "label": "Eugene, OR",
+    "lat": 44.0521,
+    "lon": -123.0868
+  },
+  {
+    "slug": "seattle-wa",
+    "label": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  {
+    "slug": "tacoma-wa",
+    "label": "Tacoma, WA",
+    "lat": 47.2529,
+    "lon": -122.4443
+  },
+  {
+    "slug": "spokane-wa",
+    "label": "Spokane, WA",
+    "lat": 47.6588,
+    "lon": -117.426
+  },
+  {
+    "slug": "honolulu-hi",
+    "label": "Honolulu, HI",
+    "lat": 21.3069,
+    "lon": -157.8583
+  }
+]
