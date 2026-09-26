@@ -1,5 +1,206 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-09-26T18:07:01.354Z",
-  "events": []
+  "updated_at": "2026-09-26T18:13:03.504Z",
+  "events": [
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Project Pat",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Indigo Girls",
+      "venue_line": "The Overton Park Shell • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Built To Spill",
+      "venue_line": "Minglewood Hall • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "ZZ Top",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Avett Brothers w/ Drive By Truckers",
+      "venue_line": "Grind City Amphitheater • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "National Civil Rights Museum 2026 Freedom Award",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Umphrey's McGee",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Three Dog Night",
+      "venue_line": "Graceland Soundstage • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "2026 Mid-South Fair, Oct 1-11",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Tarif non communiqué",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "It's Raining Queens",
+      "venue_line": "Halloran Centre at the Orpheum Theatre Memphis • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Punchis Punchis: Banda Rave Experience - 18+",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Drake White",
+      "venue_line": "Minglewood Hall • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Amy Grant + Mac McAnally",
+      "venue_line": "Graceland Soundstage • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Amy Grant + Mac McAnally",
+      "venue_line": "Soundstage at Graceland • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "XAVIER WULF - THE COOL WORLD TOUR",
+      "venue_line": "Minglewood Hall • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Back To The 90s: A Soulful Murder Mystery Experience",
+      "venue_line": "Halloran Centre at the Orpheum Theatre Memphis • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "John Crist Live!",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Back To The 90s: A Soulful Murder Mystery Experience",
+      "venue_line": "Halloran Centre at the Orpheum Theatre Memphis • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+      "venue_line": "FedExForum • Memphis",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    }
+  ]
 }

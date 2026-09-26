@@ -1,5 +1,206 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-09-26T18:06:48.527Z",
-  "events": []
+  "updated_at": "2026-09-26T18:12:48.178Z",
+  "events": [
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Michigan Wolverines Football vs. Iowa Hawkeyes Football",
+      "venue_line": "Michigan Stadium • Ann Arbor",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Sub Urban, Golden Cats",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "30 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Lexie Blue / Mandalyn & The Hunters / Gina & Johnny",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "24–158 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "JCW Presents: Lunacy Live",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "0–21 $",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "Michigan Wolverines Womens Volleyball vs. Washington Huskies Womens Volleyball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "LUN",
+      "day_number": "28",
+      "date_iso": "2026-09-28",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "3 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "LUN",
+      "day_number": "28",
+      "date_iso": "2026-09-28",
+      "title": "Willi Carlisle w/ William Matheny",
+      "venue_line": "Ark • Ann Arbor",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Shwayze, Sammy Adams, Chiddy Bang",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "0 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Shwayze",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Michigan Wolverines Mens Soccer vs. Oakland Golden Grizzlies Mens Soccer",
+      "venue_line": "UM Soccer Stadium • Ann Arbor",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Everything Yes",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "23 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Line Dance Lessons at Diamondback Music Hall",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "13–21 $",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Everything Yes",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Tarif non communiqué",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Holdup, CYDEWAYS, Dylan Reese",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "25 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Whose Live Anyway?",
+      "venue_line": "Michigan Theater • Ann Arbor",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Mick Blankenship | Birthday Bash | W/ Tight Like That • Days of Disaster • Coldville • Hamshackle • Nic Stevens",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "19 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Kanin Wren, Connor Lyman   ",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "20 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Saddle Up Dance Party (Pitbull Night)",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "13–26 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "USA Hockey National Team Development Program vs. Boston College Eagles Hockey",
+      "venue_line": "USA Hockey Arena • Plymouth",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "gnash  ",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "0 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    }
+  ]
 }

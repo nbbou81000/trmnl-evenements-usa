@@ -1,5 +1,196 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-09-26T18:07:13.673Z",
-  "events": []
+  "updated_at": "2026-09-26T18:13:17.656Z",
+  "events": [
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Los Tigres del Norte",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Extreme Dwarfanator Wrestling",
+      "venue_line": "Twin Rivers Saloon • Modesto",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Friends of the Fox presents: Space Jam",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "film",
+      "type_label": "Cinéma"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Bryndis por Siempre y Los Caminantes",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Megan Woods: The Truth Tour - Stockton, CA",
+      "venue_line": "First Baptist Church of Stockton (W Alpine) • Stockton",
+      "price_label": "24–46 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Stockton Thunder vs. Oceanside HC",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Alicia Villarreal - Bendita Locura Tour 2026",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Stockton Thunder vs. Fresno Falcons",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Stockton Thunder vs. Baton Rouge Zydeco",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Stockton Thunder vs. Baton Rouge Zydeco",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Shoreline Mafia",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Stockton Kings vs. Santa Cruz Warriors",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "NUTCRACKER! Magical Christmas Ballet",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Stockton Kings vs. Valley Suns",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Stockton Kings vs. Rip City Remix",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Ramon Ayala - Historia De Un Final",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Stockton Kings vs. Rip City Remix",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "Friends of the Fox Presents: The Blind Side",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "film",
+      "type_label": "Cinéma"
+    },
+    {
+      "day_label": "LUN",
+      "day_number": "23",
+      "date_iso": "2026-11-23",
+      "title": "Stockton Kings vs. Salt Lake City Stars",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    }
+  ]
 }

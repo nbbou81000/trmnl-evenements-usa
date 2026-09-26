@@ -1,5 +1,196 @@
 {
   "city_label": "Anchorage, AK",
-  "updated_at": "2026-09-26T18:07:10.000Z",
-  "events": []
+  "updated_at": "2026-09-26T18:13:13.530Z",
+  "events": [
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "University of Alaska Anchorage Seawolves Hockey vs. University of Mary Marauders Hockey",
+      "venue_line": "Avis Alaska Sports Complex • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "1776",
+      "venue_line": "Anchorage Community Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "1776",
+      "venue_line": "Anchorage Community Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "1776",
+      "venue_line": "Anchorage Community Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "University of Alaska Anchorage Seawolves Hockey vs. Denver Pioneers Hockey",
+      "venue_line": "Sullivan Sports Arena • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "University of Alaska Anchorage Seawolves Hockey vs. Denver Pioneers Hockey",
+      "venue_line": "Sullivan Sports Arena • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "1776",
+      "venue_line": "Anchorage Community Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Tommy Emmanuel, CGP",
+      "venue_line": "Alaska Center for the Performing Arts - Discovery Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Thursday Night Fights:Boxing",
+      "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Tommy Emmanuel, CGP",
+      "venue_line": "Discovery Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "1776",
+      "venue_line": "Anchorage Community Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "1776",
+      "venue_line": "Anchorage Community Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "1776",
+      "venue_line": "Anchorage Community Theatre • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "University of Alaska Anchorage Seawolves Hockey vs. Lake Superior State Lakers Hockey",
+      "venue_line": "Avis Alaska Sports Complex • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "University of Alaska Anchorage Seawolves Hockey vs. Lake Superior State Lakers Hockey",
+      "venue_line": "Avis Alaska Sports Complex • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Thursday Night Fights:Boxing",
+      "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Thursday Night Fights:Boxing",
+      "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "Thursday Night Fights:Boxing",
+      "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Tumua - Das' How Tour",
+      "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    }
+  ]
 }

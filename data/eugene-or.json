@@ -1,5 +1,206 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-09-26T18:07:16.828Z",
-  "events": []
+  "updated_at": "2026-09-26T18:13:21.343Z",
+  "events": [
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "GROUNDATION",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "37 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "Eugene Opera: Macbeth",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Bluey's Big Play - The Stage Show",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Lynyrd Skynyrd",
+      "venue_line": "Cuthbert Amphitheater • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "AJ Croce",
+      "venue_line": "McDonald Theatre • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Bluey's Big Play - The Stage Show",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Holywatr: Deo Gratias Tour",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "28–110 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Oregon Ducks Volleyball vs. Purdue Womens Volleyball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "VEN",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "It's A 2000's Party",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "22–37 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Yelawolf w/ Highly Suspect",
+      "venue_line": "Cuthbert Amphitheater • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Dark Beats for Dark Times III",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "25 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Oregon Ducks Volleyball vs. University of Illinois Fighting Illini Women's Volleyball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "sports",
+      "type_label": "Sport"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "FENG E",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "26–37 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Billy Strings",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "The Living Tombstone",
+      "venue_line": "McDonald Theatre • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Bumpin Uglies - Orange Crush Tour",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "32 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Mike Dawes",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "32 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    }
+  ]
 }

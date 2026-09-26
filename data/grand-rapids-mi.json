@@ -1,5 +1,206 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-09-26T18:06:48.164Z",
-  "events": []
+  "updated_at": "2026-09-26T18:12:47.783Z",
+  "events": [
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Bed By 10pm (21 and Over)",
+      "venue_line": "Intersection - Elevation • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Opening Weekend! Simon Trpceski Plays Prokofiev",
+      "venue_line": "DeVos Performance Hall • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Requiem - Retro Revival (Dark 80s and Goth Classics)",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "21 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "Turtl & Friends",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "12 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "SAM",
+      "day_number": "26",
+      "date_iso": "2026-09-26",
+      "title": "It's a 2000s Party: Grand Rapids (18+)",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "KC & the Sunshine Band",
+      "venue_line": "DeVos Performance Hall • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "Patrick Sweany",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "18 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "High Score Comedy: Round 9",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "Joe Jordan - The Heart Sessions Tour",
+      "venue_line": "The Intersection • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "DIM",
+      "day_number": "27",
+      "date_iso": "2026-09-27",
+      "title": "Joe Jordan - The Heart Sessions Tour",
+      "venue_line": "Intersection • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "LUN",
+      "day_number": "28",
+      "date_iso": "2026-09-28",
+      "title": "Metal Mondays",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "0 $",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "LUN",
+      "day_number": "28",
+      "date_iso": "2026-09-28",
+      "title": "Polyphia Tour MMXXVI  ",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Witch",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "WITCH + Ficus",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "33 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MAR",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Tip Top Tuesday Comedy",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "0 $",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Taking Back Sunday",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Tip Top's Open Mic Hosted by Sound guy Cliff and Rowdy Fingers",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "0 $",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "MER",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Jeru The Damaja + The Fist Coalition + Gwopped Up $peedy + DJ Ill One",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "39 $",
+      "type_key": "music",
+      "type_label": "Musique"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Emo Night",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "0 $",
+      "type_key": "misc",
+      "type_label": "Autre"
+    },
+    {
+      "day_label": "JEU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Tony Rock - Ages 18+",
+      "venue_line": "Intersection • Grand Rapids",
+      "price_label": "Tarif non communiqué",
+      "type_key": "arts",
+      "type_label": "Arts & théâtre"
+    }
+  ]
 }
