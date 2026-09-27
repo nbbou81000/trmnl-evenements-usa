@@ -1,6 +1,6 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-09-26T19:17:56.629Z",
+  "updated_at": "2026-09-27T14:31:16.547Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,56 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Samford University Bulldogs Football vs. VMI Keydets Football",
-      "venue_line": "Pete Hanna Center • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Hamilton (Touring)",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Drag Night at The Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Gimme Gimme Disco - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "QDOT, JAXXXON & Friends",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SUN",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "ELEVATE Upgrade: JJ Grey & Mofro - NOT A CONCERT TICKET",
+      "venue_line": "Avondale Brewing Co. • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "JJ Grey & Mofro - Top of The World Tour",
+      "venue_line": "Avondale Brewing Co. • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Alabama Ballet Presents American Portraits",
+      "venue_line": "BJCC Theatre • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Cash Money & No Limit Tour",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Cash Money Tour | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

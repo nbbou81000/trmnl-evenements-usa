@@ -1,17 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-09-26T19:17:09.992Z",
+  "updated_at": "2026-09-27T14:30:39.388Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Tracy Lawrence: No Alibis Tour",
-      "venue_line": "Kodak Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "$35",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "BOOP! THE MUSICAL",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

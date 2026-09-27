@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-09-26T19:17:10.486Z",
+  "updated_at": "2026-09-27T14:30:39.796Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,56 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Sweet Dreams: a new wave party for early risers",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$13–$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Justin Willman: One For The Ages Tour",
-      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Brotality - Jaws of the Earth Release Show",
-      "venue_line": "Funk N' Waffles • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Dermot Kennedy: The Weight of the Woods Tour",
-      "venue_line": "Empower Federal Credit Union Amphitheater at Lakeview • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "NIGHT SCHOOL",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$10–$14",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SUN",
@@ -199,6 +149,56 @@
       "title": "FREE SHOW - Ky Mcclinton",
       "venue_line": "Funk 'n Waffles • Syracuse",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "ZUFFALO w/s/g TBD",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "John Brown's Body w/s/g Sim Redmond Band",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "SHREK RAVE",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Strictly Hip - A Tribute to The Tragically Hip",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Keller Williams",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$36",
       "type_key": "music",
       "type_label": "Music"
     }

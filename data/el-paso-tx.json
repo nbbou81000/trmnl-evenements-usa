@@ -1,77 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-09-26T19:17:47.360Z",
+  "updated_at": "2026-09-27T14:31:09.218Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Disney On Ice presents Jump In!",
-      "venue_line": "El Paso County Coliseum • El Paso",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Way Out West Festival Featuring Cole Swindell",
-      "venue_line": "El Paso Convention Center • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Support Cowgirl Up",
-      "venue_line": "El Paso Convention Center • El Paso",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "El Paso Film Festival - American Muscle",
-      "venue_line": "PHILANTHROPY THEATRE • El Paso",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Disney On Ice presents Jump In!",
-      "venue_line": "El Paso County Coliseum • El Paso",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "UTEP FB v Oregon State",
-      "venue_line": "Sun Bowl Stadium • El Paso",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "El Paso Film Festival - Late Night Shorts",
-      "venue_line": "PHILANTHROPY THEATRE • El Paso",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-03",
       "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
       "venue_line": "Sun Bowl Stadium • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Matthew West",
+      "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Josh Conway w/ Homeshake",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "UTEP Choirs In Concert: Music Without Borders - UTEP Dept. of Music",
+      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Pouya w/ Fat Nick",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Juanes North America Tour 2026",
+      "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "El Paso Pro Musica - Visions of Humanity and Unity",
+      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Toadies",
+      "venue_line": "Lowbrow Palace • El Paso",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

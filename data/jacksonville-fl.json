@@ -1,57 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-09-26T19:17:26.916Z",
+  "updated_at": "2026-09-27T14:30:52.921Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Jax Symphony: Mozart & Tchaikovsky",
-      "venue_line": "Jacksonville Center for the Performing Arts - Jacoby Hall • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Sporting Jax vs. Loudoun United FC",
-      "venue_line": "Hodges Stadium • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Morgan Wade",
-      "venue_line": "FIVE • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Morgan Wade - Love's Insane Tour",
-      "venue_line": "FIVE • Jacksonville",
-      "price_label": "$34–$70",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Sickick - Ages 18+",
-      "venue_line": "Decca Live • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Jax Symphony: The 70's & Beyond",
+      "venue_line": "Jacksonville Center for the Performing Arts - Jacoby Hall • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Sporting Jax vs. Louisville City FC",
+      "venue_line": "Hodges Stadium • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Emo Night Karaoke",
+      "venue_line": "Jack Rabbits • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Celtic Thunder",
+      "venue_line": "Ponte Vedra Concert Hall • Ponte Vedra Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Spy, Violencia, Spite House, Madrugado, Engine",
+      "venue_line": "Corazon del Barrio • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

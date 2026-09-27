@@ -1,67 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-09-26T19:18:16.033Z",
+  "updated_at": "2026-09-27T14:31:32.163Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Eastern Washington Eagles Football vs. Cal Poly Mustangs Football",
-      "venue_line": "Roos Field • Cheney",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Spokane Chiefs vs. Tri-City Americans",
-      "venue_line": "Numerica Veterans Arena • Spokane",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Big Thief - Somersault Slide 360 Tour",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Ashanti & Trey Songz",
-      "venue_line": "BECU Live at Northern Quest • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Ashanti & Trey Songz",
-      "venue_line": "BECU Live Outdoor Venue • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "TEXAS HEADHUNTERS feat. Ian Moore, Jesse Dayton & Johnny Moeller",
-      "venue_line": "The District • Spokane",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -199,6 +139,66 @@
       "title": "DYING FETUS & SANGUISUGABOGG",
       "venue_line": "Knitting Factory - Spokane • Spokane",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Used",
+      "venue_line": "Northern Quest Casino • Airway Heights",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Carbon Leaf",
+      "venue_line": "The District • Spokane",
+      "price_label": "$37",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Slightly Stoopid w/ The Elovaters",
+      "venue_line": "Gesa Credit Union Pavilion • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Judah & the Lion",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "CRADLE OF FILTH: Majestic In Death II",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Gannon Fremin & CCREV",
+      "venue_line": "The District • Spokane",
+      "price_label": "$23",
       "type_key": "music",
       "type_label": "Music"
     }

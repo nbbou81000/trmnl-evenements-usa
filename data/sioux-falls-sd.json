@@ -1,17 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-09-26T19:17:44.158Z",
+  "updated_at": "2026-09-27T14:31:06.673Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Cinch Playoffs - The Governors Cup",
-      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "EMO NIGHT (Sioux Falls)",
+      "venue_line": "Icon Events & Dada Gastropub • Sioux Falls",
+      "price_label": "$20–$46",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

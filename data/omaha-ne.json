@@ -1,87 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-09-26T19:17:41.047Z",
+  "updated_at": "2026-09-27T14:31:04.174Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Omaha Lancers vs. Des Moines Buccaneers",
-      "venue_line": "Liberty First Credit Union Arena • Ralston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Kountry Wayne",
-      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Omaha Men's Soccer vs. Delaware",
-      "venue_line": "Caniglia Field • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Black Label Society | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Black Label Society",
-      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Omaha Community Playhouse • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "The Schizophonics",
-      "venue_line": "Slowdown • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Kountry Wayne",
-      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
+      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Chance The Rapper | Official Caesars Ticket + Hotel Packages",
+      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Omaha Volleyball vs. South Dakota",
+      "venue_line": "Baxter Arena • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Tacos and Tequila Festival (21 and Over with a valid physical photo ID)",
+      "venue_line": "Heartland of America Park • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Omaha Women's Soccer vs. Kansas City",
+      "venue_line": "Caniglia Field • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Omaha Men's Soccer vs. Nebraska Wesleyan",
+      "venue_line": "Caniglia Field • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Megan Woods: The Truth Tour - Bellevue, NE",
+      "venue_line": "Bellevue Christian Center • Bellevue",
+      "price_label": "$24–$75",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Come from Away (Touring)",
+      "venue_line": "Omaha Community Playhouse • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,77 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-09-26T19:18:01.195Z",
+  "updated_at": "2026-09-27T14:31:20.380Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "SHAZAM! The Magic Show",
-      "venue_line": "Morrison Center for the Performing Arts • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "GODSMACK - Rise of The Rock World Tour 2026",
-      "venue_line": "Ford Idaho Center Amphitheater • Nampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "GODSMACK - Rise of The Rock World Tour 2026",
-      "venue_line": "Ford Idaho Center Amphitheater • Nampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Christieprov",
-      "venue_line": "Boise Little Theater • Boise",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Lauren Sanderson, XKYLER",
-      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Portrayal of Guilt , NØ MAN , Smirk",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Lauren Sanderson",
-      "venue_line": "Knitting Factory Concert House - Boise • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -199,6 +129,76 @@
       "title": "Amarok, Past The Light , The Raven Index",
       "venue_line": "Neurolux Lounge • Boise",
       "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Rasmus",
+      "venue_line": "Shrine Social Club • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Filter",
+      "venue_line": "Revolution Concert House & Event Center • Garden City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Living Tombstone",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "BIT BRIGADE  Performs “Mega Man II” + “Castlevania” + “Tetris” LIVE",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Boise State Football vs. Utah State",
+      "venue_line": "Albertsons Stadium • Boise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "DYING FETUS & SANGUISUGABOGG",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Julien- K & NITE: The Neon Chronicles II Tour",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
     }

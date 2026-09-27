@@ -1,97 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-09-26T19:17:08.837Z",
+  "updated_at": "2026-09-27T14:30:38.539Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Tony Rock",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$31–$49",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Altin Gün: North America Tour 2026, support Alex Maas",
-      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "The Lion King (Touring)",
-      "venue_line": "Benedum Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Pittsburgh Symphony Orchestra",
-      "venue_line": "Heinz Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Horse Feathers wsg/ The Hackles",
-      "venue_line": "Club Cafe • Pittsburgh",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Brooke Annibale",
-      "venue_line": "The Sanctuary at Mr. Smalls • Millvale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Ben Harper & The Innocent Criminals with Special Guest Peter More",
-      "venue_line": "Mr Smalls Theatre • Millvale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Jim Henson's Labyrinth: In Concert",
-      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Tony Rock",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$31–$49",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -198,6 +108,96 @@
       "date_iso": "2026-09-27",
       "title": "Pittsburgh Panthers Womens Volleyball vs. Stanford Cardinal Womens Volleyball",
       "venue_line": "Victory Heights Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "28",
+      "date_iso": "2026-09-28",
+      "title": "Soundcheck on Wylie Avenue ft. Donnie Iris & The Cruisers",
+      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "28",
+      "date_iso": "2026-09-28",
+      "title": "Gogol Bordello with Special Guests That Handsome Devil and  Pons",
+      "venue_line": "Mr Smalls Theatre • Millvale",
+      "price_label": "$52",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "28",
+      "date_iso": "2026-09-28",
+      "title": "Gogol Bordello",
+      "venue_line": "Mr Smalls Theater • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Olivia Rodrigo: The Unraveled Tour",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Mariachi El Bronx with  Bedouin Soundclash and Max Diaz",
+      "venue_line": "Mr Smalls Theatre • Millvale",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Public Image Ltd",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Muna w/ Hemlocke Springs",
+      "venue_line": "Stage AE • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Olivia Rodrigo: The Unraveled Tour",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "All Elite Wrestling Presents DYNAMITE",
+      "venue_line": "Petersen Events Center • Pittsburgh",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

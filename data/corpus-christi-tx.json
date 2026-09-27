@@ -1,17 +1,7 @@
 {
   "city_label": "Corpus Christi, TX",
-  "updated_at": "2026-09-26T19:17:47.868Z",
+  "updated_at": "2026-09-27T14:31:09.630Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Los Palominos 35th Anniversary Documentary Tour",
-      "venue_line": "Selena Auditorium • Corpus Christi",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -196,6 +186,16 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
+      "title": "Disney On Ice presents Magic in the Stars",
+      "venue_line": "Hilliard Center Arena • Corpus Christi",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
       "title": "Disney On Ice presents Magic in the Stars",
       "venue_line": "Hilliard Center Arena • Corpus Christi",
       "price_label": "Price not available",

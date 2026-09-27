@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-09-26T19:18:12.741Z",
+  "updated_at": "2026-09-27T14:31:29.722Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "KAL-EL / GOYA / BLACK MOON CULT / IDOL LORD / KING GHIDRA",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +191,16 @@
       "price_label": "$11",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "FREE SHOW: HORROR NERD COMEDY- COMEDIANS TAKING ON THE MOST ICONIC MOVIES",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

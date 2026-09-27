@@ -1,57 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-09-26T19:17:24.459Z",
+  "updated_at": "2026-09-27T14:30:50.850Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "20 YEARS OF HOME TEAM BBQ",
-      "venue_line": "The Refinery • Charleston",
-      "price_label": "$86–$227",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Charleston Battery vs. Rhode Island FC",
-      "venue_line": "Patriots Point Soccer Stadium • Mount Pleasant",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Nate Bargatze: Big Dumb Eyes Goes To College",
-      "venue_line": "Credit One Stadium  • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Charlton Singleton's New Jack Swing",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "90s Burlesque - 18+",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-02",
       "title": "The Basement Yard Live",
       "venue_line": "North Charleston Performing Arts Center • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Movement Social by Jane Do. Fitness",
+      "venue_line": "The Refinery • Charleston",
+      "price_label": "$31–$64",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Charleston Southern Buccaneers Football vs. Gardner Webb Bulldogs Football",
+      "venue_line": "Buccaneer Field • Charleston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Fab Four: Tribute to the Beatles' A Hard Day's Night",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Infinity Song World Tour II Continues...",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome ",
+      "venue_line": "The Charleston Music Hall • Charleston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

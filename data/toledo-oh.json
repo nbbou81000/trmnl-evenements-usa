@@ -1,17 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-09-26T19:17:35.257Z",
+  "updated_at": "2026-09-27T14:30:59.485Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Bowling Green Falcons Football vs. South Florida Bulls Football",
-      "venue_line": "Doyt Perry Stadium • Bowling Green",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Bowling Green Falcons Hockey vs. Bemidji State Beavers Mens Hockey",
       "venue_line": "Slater Family Ice Arena • Bowling Green",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Pulse Boxing",
+      "venue_line": "Glass City Center • Toledo",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

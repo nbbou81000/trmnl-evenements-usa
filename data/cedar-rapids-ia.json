@@ -1,27 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-09-26T19:17:42.659Z",
+  "updated_at": "2026-09-27T14:31:05.475Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Iowa Hawkeyes Womens Volleyball vs. Rutgers Scarlet Knights Womens Volleyball",
-      "venue_line": "Xtream Arena • Coralville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Cedar Rapids Roughriders vs. Dubuque Fighting Saints",
-      "venue_line": "IMON Ice • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Iowa Hawkeyes Womens Volleyball vs. UCLA Bruins Womens Volleyball",
+      "venue_line": "Xtream Arena • Coralville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Cedar Valley Fall Classic - Wrestling",
+      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-09-26T19:18:14.379Z",
+  "updated_at": "2026-09-27T14:31:30.888Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "GROUNDATION",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -199,6 +189,16 @@
       "title": "Mike Dawes",
       "venue_line": "WOW Hall • Eugene",
       "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Steel Pulse",
+      "venue_line": "McDonald Theatre • Eugene",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

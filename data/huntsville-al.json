@@ -1,47 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-09-26T19:17:57.130Z",
+  "updated_at": "2026-09-27T14:31:16.947Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Bryan Callen",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$25–$40",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Professional MMA: Cage Fighting Championships",
-      "venue_line": "Von Braun Center South Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Waitress (Touring)",
-      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Hot Fudge Sunday w/ Tia Kemp",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$46–$60",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -199,6 +159,46 @@
       "title": "Work It Out Wednesday Open Mic",
       "venue_line": "Huntsville Levity Live • Huntsville",
       "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Libbie Higgins",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$27",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Huntsville Havoc vs. Pensacola Ice Flyers",
+      "venue_line": "Von Braun Center Propst Arena • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Rick Burgess Show Presents \"the Are You Ready Live Tour\"",
+      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Mike Goodwin: Open Mike Tour",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$33–$53",
       "type_key": "misc",
       "type_label": "Other"
     }

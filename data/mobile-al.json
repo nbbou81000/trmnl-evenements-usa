@@ -1,67 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-09-26T19:17:58.103Z",
+  "updated_at": "2026-09-27T14:31:17.815Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Mobile Comedy Battle Royale presented by High 5 Printing",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$21–$62",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "The Black Jacket Symphony Presents Def Leppard's 'Hysteria'",
-      "venue_line": "Saenger Theatre Mobile • Mobile",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "R&B ONLY LIVE - Mobile, AL",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Jason Carter Band",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "R&B ONLY LIVE    ",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$65",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Mobile Roast League: Comedians Fight With Words!",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +141,66 @@
       "price_label": "$2",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "An Evening with Shadowgrass (NIGHT ONE)",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$29–$44",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Crescent Comedy Workshop",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Crescent Comedy Chaos",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$9",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "An Evening with Shadowgrass (NIGHT TWO)",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Stagner's Showcase feat. Justin Stagner & Friends",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14–$50",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Comedy Shorts: 3 Short Shows, One Low Price",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$9",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-09-26T19:17:30.059Z",
+  "updated_at": "2026-09-27T14:30:55.352Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Florida A&M Rattlers vs. Alabama A&M University Bulldogs Football",
-      "venue_line": "FAMU Bragg Memorial Stadium • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-13",
       "title": "Club Seats - FSU MBB vs Texas A&M Corpus Cristi",
       "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Florida A&M Rattlers vs. Mississippi Valley Delta Devils Football",
+      "venue_line": "FAMU Bragg Memorial Stadium • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

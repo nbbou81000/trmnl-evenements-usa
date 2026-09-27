@@ -1,27 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-09-26T19:17:56.145Z",
+  "updated_at": "2026-09-27T14:31:16.139Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Jackson State Tigers Football vs. Southern Jaguars Football",
-      "venue_line": "Mississippi Veterans Memorial Stadium • Jackson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Koe Wetzel",
-      "venue_line": "Brandon Amphitheater • Brandon",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
+      "venue_line": "Brandon Amphitheater • Brandon",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Jackson State Tigers Football vs. Florida A&M Rattlers Football",
+      "venue_line": "Mississippi Veterans Memorial Stadium • Jackson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

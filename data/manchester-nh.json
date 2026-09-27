@@ -1,37 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-09-26T19:17:14.338Z",
+  "updated_at": "2026-09-27T14:30:42.760Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Jessica Kirson",
-      "venue_line": "Chubb Theatre at CCA • Concord",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "SNHU Arena • Manchester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Duunes",
-      "venue_line": "BNH Stage • Concord",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "An Evening of Alton Brown",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Laurie Berkner",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Laurie Berkner",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

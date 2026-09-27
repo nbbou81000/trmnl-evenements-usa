@@ -1,47 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-09-26T19:17:33.071Z",
+  "updated_at": "2026-09-27T14:30:57.885Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Michigan Wolverines Football vs. Iowa Hawkeyes Football",
-      "venue_line": "Michigan Stadium • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Sub Urban, Golden Cats",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Lexie Blue / Mandalyn & The Hunters / Gina & Johnny",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$24–$158",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "JCW Presents: Lunacy Live",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$0–$21",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -199,6 +159,46 @@
       "title": "gnash  ",
       "venue_line": "Blind Pig • Ann Arbor",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "BADDIEWEEN: The Ultimate Baddie Halloween Costume Party!",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$13–$32",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Fall Final Car Show (FREE EVENT)",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$0–$28",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Michigan Wolverines Mens Soccer vs. Portland Pilots Mens Soccer",
+      "venue_line": "UM Soccer Stadium • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Joe Cocker A celebration of the music",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$12–$127",
       "type_key": "music",
       "type_label": "Music"
     }

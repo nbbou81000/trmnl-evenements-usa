@@ -1,37 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-09-26T19:17:36.352Z",
+  "updated_at": "2026-09-27T14:31:00.307Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Flashback Funk Fest",
-      "venue_line": "The Rose Music Center at The Heights • Huber Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Dayton Philharmonic Orchestra presents West Side Story",
-      "venue_line": "Winsupply Theatre • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "The Wiz (Touring)",
-      "venue_line": "Kuss Auditorium • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Carpenters Songbook - A Live Celebration",
+      "venue_line": "Winsupply Theatre • Dayton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Gary Allan",
+      "venue_line": "Hobart Arena • Troy",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Lauren Alaina",
+      "venue_line": "APAC - Arbogast Performing Arts Center • Troy",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

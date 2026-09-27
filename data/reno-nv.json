@@ -1,77 +1,7 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-09-26T19:18:04.272Z",
+  "updated_at": "2026-09-27T14:31:22.883Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Laugh Factory",
-      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Nevada Wolfpack Football vs. Air Force Academy Falcons Football",
-      "venue_line": "Mackay Stadium • Reno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "A.J. Croce Presents CROCE PLAYS CROCE",
-      "venue_line": "Silver Legacy Casino Reno • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "A.J. Croce | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "Silver Legacy Casino Reno • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Freakquency",
-      "venue_line": "The Alpine • Reno",
-      "price_label": "$0–$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Social Distortion",
-      "venue_line": "Grand Sierra Resort and Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "26",
-      "date_iso": "2026-09-26",
-      "title": "Laugh Factory",
-      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "27",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Killer Queen",
+      "venue_line": "Grand Sierra Resort and Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Laugh Factory",
+      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "A THRILLING Tribute | Official Caesars Ticket + Hotel Packages",
+      "venue_line": "Eldorado Showroom at Eldorado Casino Reno • Reno",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Michael Jackson - A THRILLING Tribute",
+      "venue_line": "Eldorado Showroom at Eldorado Casino Reno • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "ACID MOTHERS TEMPLE | Magick Potion | Ozymandias",
+      "venue_line": "Cellar Stage • Reno",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Laugh Factory",
+      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Geoff Tate’s Operation: Mindcrime - The Final Chapter",
+      "venue_line": "Cargo Concert Hall • Reno",
+      "price_label": "$47",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
