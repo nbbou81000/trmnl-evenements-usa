@@ -1,57 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-09-27T14:30:57.391Z",
+  "updated_at": "2026-09-28T17:16:03.419Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "KC & the Sunshine Band",
-      "venue_line": "DeVos Performance Hall • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Patrick Sweany",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "High Score Comedy: Round 9",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Joe Jordan - The Heart Sessions Tour",
-      "venue_line": "The Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Joe Jordan - The Heart Sessions Tour",
-      "venue_line": "Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "San Holo presents TRUE LOVE IN A MADE UP WORLD",
+      "venue_line": "Intersection • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "El Ten Eleven",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Jennifer Knapp",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$29–$80",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Grand Valley State Lakers Football vs. Wayne State College Wildcats Football",
+      "venue_line": "Lubbers Stadium • Allendale",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Joe Russo's Almost Dead",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

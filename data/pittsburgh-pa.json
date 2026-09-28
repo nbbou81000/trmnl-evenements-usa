@@ -1,117 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-09-27T14:30:38.539Z",
+  "updated_at": "2026-09-28T17:15:42.308Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "The Lion King (Touring)",
-      "venue_line": "Benedum Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Pittsburgh Steelers v Bengals: 1933 Club Pass (NOT A GAME TICKET)",
-      "venue_line": "Acrisure Stadium • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Pittsburgh Steelers vs. Cincinnati Bengals",
-      "venue_line": "Acrisure Stadium • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Pinky Patel",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$25–$77",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Tony Rock",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$31–$102",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "The Lion King (Touring)",
-      "venue_line": "Benedum Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bear Ghost Tiny Hitman Tour 2026 with  Sarah and the Safe Word and Spaceman Bob",
-      "venue_line": "Mr Smalls Theatre • Millvale",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Buffalo Traffic Jam - Pictures of You Tour",
-      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jay Buchanan",
-      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Octave Cat (18 and Over)",
-      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Pittsburgh Panthers Womens Volleyball vs. Stanford Cardinal Womens Volleyball",
-      "venue_line": "Victory Heights Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Randy Feltface: Gimmick",
+      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Beach House",
+      "venue_line": "Stage AE • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Bad Nerves   with Special Guests Sunny Daze & The Weathermen and Glass Caps",
+      "venue_line": "Mr Smalls Theatre • Millvale",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "El Ten Eleven (18 and Over or accompanied by legal guardian)",
+      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Red Clay Strays",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "KATHY GRIFFIN: New Face, New Tour",
+      "venue_line": "Carnegie Music Hall of Oakland • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Role Model Presents: Chuck On Tour",
+      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Jenny Owen Youngs and Northcote",
+      "venue_line": "Club Cafe • Pittsburgh",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Maggie Rose (18 and Over or accompanied by legal guardian)",
+      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Michael Franti Trio - Heartstrings & Dynamite",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Joe Machi",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

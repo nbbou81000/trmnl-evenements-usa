@@ -1,127 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-09-27T14:31:31.702Z",
+  "updated_at": "2026-09-28T17:16:41.226Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Seahawks Viewing Party",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$2",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Seattle Mariners vs. Los Angeles Angels",
-      "venue_line": "T-Mobile Park • Seattle",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "School of Rock West Seattle Presents: I Heart The 80's (all ages)",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "School of Rock West Seattle Presents: Best of the NW (all ages)",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Matt Mathews: Not What I Ordered World Tour",
-      "venue_line": "Emerald Queen Casino • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Clock-Out Lounge Presents: Collide-O-Scope  film screening : Once Upon a Time In Seattle",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$20",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "for KING & COUNTRY",
-      "venue_line": "WAMU Theater • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "WAMU Theater Amplified Access: for King + Country (Not an Event Ticket",
-      "venue_line": "WAMU Theater • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "JPEGMAFIA (18 and Over)",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Michelle Branch",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Seattle Mariners Ballpark Tour",
-      "venue_line": "T-Mobile Park • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Lumen Field Stadium Tours",
-      "venue_line": "Lumen Field Stadium Tours • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +81,126 @@
       "price_label": "$32",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Channel Tres (21 and Over)",
+      "venue_line": "Showbox SODO • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "ADELA",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Jesse Barrera w/ Albert Posis",
+      "venue_line": "Baba Yaga • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Seattle Mariners Ballpark Tour",
+      "venue_line": "T-Mobile Park • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "\"The Hayley Williams Show\"",
+      "venue_line": "White River Amphitheatre • Auburn",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Jim E. Brown (21+ Event)",
+      "venue_line": "Baba Yaga • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Bassvictim w/ Thoom",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Clock-Out Lounge Presents: Hard Chiller w/ High Priors",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Seattle Mariners Ballpark Tour",
+      "venue_line": "T-Mobile Park • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Seattle Sounders FC vs. Sporting Kansas City",
+      "venue_line": "Lumen Field • Seattle",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

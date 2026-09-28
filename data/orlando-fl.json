@@ -1,87 +1,7 @@
 {
   "city_label": "Orlando, FL",
-  "updated_at": "2026-09-27T14:30:54.135Z",
+  "updated_at": "2026-09-28T17:15:59.623Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Blue Man Group",
-      "venue_line": "ICON Park • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "CHICKEN POO BINGO HOSTED BY GREG RUNGE",
-      "venue_line": "WILD WEST END • Sanford",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Cirque du Soleil: Drawn to Life",
-      "venue_line": "Walt Disney World • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
-      "venue_line": "Kia Center • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Blue Man Group",
-      "venue_line": "ICON Park • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "UCF Knights Mens Soccer vs. Kentucky Wildcats Men's Soccer",
-      "venue_line": "UCF Soccer and Track Complex • Orlando",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Cirque du Soleil: Drawn to Life",
-      "venue_line": "Walt Disney World • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Pouya - The Forever Glades Tour",
-      "venue_line": "The Beacham • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -197,6 +117,86 @@
       "day_number": "30",
       "date_iso": "2026-09-30",
       "title": "Hard Swingin' Country Soiree with Decker & Dimitrov",
+      "venue_line": "Lil' Indies • Orlando",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "WELLS, stardnotmeananything, Toxic Intent, and Hate Me For Life",
+      "venue_line": "Will's Pub • Orlando",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Blue Man Group",
+      "venue_line": "ICON Park • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Ahren Belisle",
+      "venue_line": "Funny Bone Comedy Club - Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Suki Waterhouse: The Loveland Tour",
+      "venue_line": "House of Blues Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN ORLANDO",
+      "venue_line": "Kia Center • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Hamilton (Touring) - Recommended for ages 10 and Over",
+      "venue_line": "Dr. Phillips Performing Arts Center • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Cirque du Soleil: Drawn to Life",
+      "venue_line": "Walt Disney World • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Nesto's Jazz Trio",
       "venue_line": "Lil' Indies • Orlando",
       "price_label": "$0",
       "type_key": "music",

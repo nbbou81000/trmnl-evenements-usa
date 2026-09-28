@@ -1,47 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-09-27T14:30:47.413Z",
+  "updated_at": "2026-09-28T17:15:52.206Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Dirty Dancing",
-      "venue_line": "Altria Theater • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Ziggy Marley and Gov't Mule",
-      "venue_line": "Allianz Amphitheater at Riverfront • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Dirty Dancing",
-      "venue_line": "Altria Theater • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Angel Du$t w/ Agnostic Front",
-      "venue_line": "Canal Club • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Phish",
+      "venue_line": "Allianz Amphitheater at Riverfront • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Altria Theater • Richmond",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Mojo Brookzz LIVE!",
+      "venue_line": "VSU Multi-Purpose Center • Petersburg",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Seven Teller ??? Official Phish Afterparty (18+)",
+      "venue_line": "Ember Music Hall • Richmond",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-09-27T14:31:18.612Z",
+  "updated_at": "2026-09-28T17:16:26.744Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "The Colorado Springs Philharmonic presents Scheherazade",
-      "venue_line": "Pikes Peak Center • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Sweeney Todd",
-      "venue_line": "Ent Center for the Arts • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bruno Mars - The Romantic Tour",
-      "venue_line": "Falcon Stadium • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "ArmâS Length & Holding Absence: North American Co-Headliner Tour 202",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Arm's Length w/ Holding Absence",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bruno Mars - The Romantic Tour",
-      "venue_line": "Falcon Stadium • Usaf Academy",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Colorado Springs Switchbacks FC vs. Oakland Roots SC",
+      "venue_line": "Weidner Field • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Colorado College Tigers Hockey vs. UMass",
+      "venue_line": "Ed Robson Arena • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "For King & Country",
+      "venue_line": "Ford Amphitheater • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Colorado Springs Philharmonic presents Music of the Knights",
+      "venue_line": "Pikes Peak Center • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Figure, Makeshft, Lowfayd",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Sweeney Todd",
+      "venue_line": "Ent Center for the Arts • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

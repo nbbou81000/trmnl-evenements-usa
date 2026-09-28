@@ -1,37 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-09-27T14:30:46.009Z",
+  "updated_at": "2026-09-28T17:15:50.734Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "All Time Low",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Don Omar",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Big E Fair",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-03",
       "title": "The Great Gatsby (Touring)",
       "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "UMass Minutemen Football vs. Eastern Michigan Eagles Football",
+      "venue_line": "Warren P. McGuirk Alumni Stadium • Amherst",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "UConn Huskies Football vs. Syracuse University Football",
+      "venue_line": "Rentschler Field • East Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "ROAR! Comedy: Tony Dabas",
+      "venue_line": "The Armory at MGM Springfield • Springfield",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

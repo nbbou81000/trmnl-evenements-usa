@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-09-27T14:30:39.796Z",
+  "updated_at": "2026-09-28T17:15:43.657Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,36 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jazz Jam",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Los Blancos - Loading Dock Series",
-      "venue_line": "Middle Ages Loading Dock • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Open Mic for MusicCares w/ Very Special Guests!",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "MON",
@@ -199,6 +169,36 @@
       "title": "Keller Williams",
       "venue_line": "Middle Ages Music Hall • Syracuse",
       "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "House Party. A sweaty love-letter to the 2010s rager.",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "An Enchanted Morning With CNY Ballet",
+      "venue_line": "Landmark Theatre • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Jazz Jam",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,17 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-09-27T14:30:45.606Z",
+  "updated_at": "2026-09-28T17:15:50.286Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Crown Magnetar w/ To The Grave",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Uncle Acid and The Deadbeats w/ Messa",
+      "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-09-27T14:30:40.221Z",
+  "updated_at": "2026-09-28T17:15:44.125Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Erra: Drift Outlives the Earth",
-      "venue_line": "Empire Live • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-06",
       "title": "76th Street",
       "venue_line": "Empire Underground • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Ringo Starr and His All Starr Band",
+      "venue_line": "The Palace Theatre Albany • Albany",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

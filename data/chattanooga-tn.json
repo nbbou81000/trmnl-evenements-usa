@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-09-27T14:31:14.514Z",
+  "updated_at": "2026-09-28T17:16:22.112Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bobby Stone Film Series: 9 to 5",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -199,6 +189,16 @@
       "title": "Niko Moon - Back To My Roots Tour",
       "venue_line": "The Signal - Concert Hall • Chattanooga",
       "price_label": "$41–$216",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Niko Moon - VIP Upgrades",
+      "venue_line": "The Signal • Chattanooga",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

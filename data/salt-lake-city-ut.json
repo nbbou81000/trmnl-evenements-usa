@@ -1,97 +1,7 @@
 {
   "city_label": "Salt Lake City, UT",
-  "updated_at": "2026-09-27T14:31:19.467Z",
+  "updated_at": "2026-09-28T17:16:27.680Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Aguilas De Mexicali vs. Jaguares de Nayarit",
-      "venue_line": "The Ballpark at America First Square • South Jordan",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Paintology - Painting and Mixology Class",
-      "venue_line": "ChefDance Social • Park City",
-      "price_label": "$33",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Utah Royals FC vs. North Carolina Courage",
-      "venue_line": "America First Field • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Utah Utes Womens Volleyball vs. Baylor Bears Womens Volleyball",
-      "venue_line": "Huntsman Center • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "YHWH Nailgun",
-      "venue_line": "Kilby Court • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Limelight - An Evening With Gloss Haus",
-      "venue_line": "The Depot • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Emarosa",
-      "venue_line": "Soundwell • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -198,6 +108,96 @@
       "date_iso": "2026-09-29",
       "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
       "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
+      "venue_line": "The Union • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Paris Paloma",
+      "venue_line": "The Complex - UT • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Uncle Acid and The Deadbeats w/ Messa",
+      "venue_line": "The Complex - UT • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Breaking Benjamin",
+      "venue_line": "Utah First Credit Union Amphitheatre • West Valley City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Arrows in Action: I Think We've Toured Here Before ",
+      "venue_line": "Soundwell • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Arrows in Action: I Think We've Toured Here Before",
+      "venue_line": "Soundwell • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Harry Potter and the Cursed Child (Touring)",
+      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "EsDeeKid - Council House Rat Tour",
+      "venue_line": "The Union • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Dear Evan Hansen",
+      "venue_line": "CenterPoint Legacy Theatre • Centerville",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

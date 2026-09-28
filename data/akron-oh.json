@@ -1,27 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-09-27T14:30:59.880Z",
+  "updated_at": "2026-09-28T17:16:06.018Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Wild Thread Presents: Marjorie Prime by Jordan Harrison",
-      "venue_line": "Wild Oscar's • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Scotty McCreery",
-      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Hocus Pocus: The Taste-A-Long Experience",
+      "venue_line": "Akron Civic Theatre • Akron",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Silverada W/ Low Gap",
+      "venue_line": "Musica • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

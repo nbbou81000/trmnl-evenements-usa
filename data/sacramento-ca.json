@@ -1,77 +1,7 @@
 {
   "city_label": "Sacramento, CA",
-  "updated_at": "2026-09-27T14:31:26.096Z",
+  "updated_at": "2026-09-28T17:16:34.895Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Athletics vs Houston Astros: Wiffle Ball Set",
-      "venue_line": "Sutter Health Park • West Sacramento",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Holo Holo Music Festival",
-      "venue_line": "Heart Health Park at Cal Expo • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Menopause the Musical",
-      "venue_line": "Harris Center for the Arts • Folsom",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Extreme Dwarfanator Wrestling",
-      "venue_line": "Carmichael Elks Lodge 2103 • Carmichael",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "156/Silence w/ Aviana",
-      "venue_line": "Goldfield Trading Post - Roseville • Roseville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Joanne McNally: Pinotphile",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Carin Leon - De Sonora Para El Mundo Tour 2026",
-      "venue_line": "Golden 1 Center • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Aftershock",
+      "venue_line": "Discovery Park • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Blob",
+      "venue_line": "Crest Theater • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Eli Young Band",
+      "venue_line": "Quarry Park Amphitheater • Rocklin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Jerry Wayne Longmire",
+      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Las Alucines",
+      "venue_line": "SAFE Credit Union Performing Arts Center • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Aftershock Festival",
+      "venue_line": "Discovery Park • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Aftershock",
+      "venue_line": "Discovery Park • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

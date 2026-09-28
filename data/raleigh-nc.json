@@ -1,77 +1,7 @@
 {
   "city_label": "Raleigh, NC",
-  "updated_at": "2026-09-27T14:30:49.192Z",
+  "updated_at": "2026-09-28T17:15:54.081Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "DPAC • Durham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Rise Against: Ricochet 2026",
-      "venue_line": "Red Hat Amphitheater • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "DPAC • Durham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Suki Waterhouse: The Loveland Tour",
-      "venue_line": "The Ritz • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "North Carolina State Wolfpack Womens Volleyball vs. Duke Blue Devils Womens Volleyball",
-      "venue_line": "Reynolds Coliseum • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Redferrin",
+      "venue_line": "Bowstring Pizza and Brewyard - Raleigh • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Dylan Gossett & Charles Wesley Godwin",
+      "venue_line": "Red Hat Amphitheater • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Maddy Smith Presents: Bad Genes Tour",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$27–$82",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Lounge at Martin Marietta Center for the Performing Arts",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Serial Killers with Dr. Scott Bonn",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Craig Conant",
+      "venue_line": "Goodnights Comedy Club • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
+      "venue_line": "Lenovo Center • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

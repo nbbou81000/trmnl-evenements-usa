@@ -1,27 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-09-27T14:30:50.850Z",
+  "updated_at": "2026-09-28T17:15:55.942Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "LinkU Invitational",
-      "venue_line": "Credit One Stadium  • Charleston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jordan Jensen",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-04",
       "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome ",
       "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "He Is Legend - Time Travel Tour",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

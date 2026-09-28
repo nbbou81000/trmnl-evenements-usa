@@ -1,17 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-09-27T14:30:48.334Z",
+  "updated_at": "2026-09-28T17:15:53.113Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Virginia Symphony: Vivaldi 4 Seasons/Philip Glass",
-      "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "SACRED MUSIC, SACRED CHANTS  - MYSTICAL ARTS OF TIBET",
+      "venue_line": "American Theatre • Hampton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

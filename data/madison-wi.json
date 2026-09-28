@@ -1,37 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-09-27T14:31:01.941Z",
+  "updated_at": "2026-09-28T17:16:08.237Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bruce Hornsby & The Noisemakers: Indigo Park Tour",
-      "venue_line": "Orpheum Theater • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Willi Carlisle -The Universal Bubba Tour",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "They Might Be Giants",
-      "venue_line": "Barrymore Theatre-WI • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Our Lady Peace: 30th Anniversary Tour",
+      "venue_line": "The Sylvee • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "The Wiz (Touring)",
+      "venue_line": "Capitol Theater - Overture Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "The Wiz (Touring)",
+      "venue_line": "Capitol Theater - Overture Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

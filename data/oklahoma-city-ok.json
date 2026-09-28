@@ -1,77 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-09-27T14:31:12.022Z",
+  "updated_at": "2026-09-28T17:16:19.167Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Lyric Theatre of Oklahoma • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Oklahoma Sooners Women Volleyball vs. Florida Gators Womens Volleyball",
-      "venue_line": "McCasland Field House • Norman",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Sound Of Music (Touring)",
-      "venue_line": "Civic Center Music Hall • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Song Of The Saints Tour with Phil Wickham",
-      "venue_line": "Paycom Center • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Phil Wickham | Official Ticket + Hotel Packages",
-      "venue_line": "Paycom Center • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bayonne",
-      "venue_line": "Beer City Music Hall • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Kidd G",
-      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-03",
       "title": "Oklahoma Warriors vs. El Paso Rhinos",
       "venue_line": "Blazers Ice Centre • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Come from Away (Touring)",
+      "venue_line": "Lyric Theatre of Oklahoma • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Come from Away (Touring)",
+      "venue_line": "Lyric Theatre of Oklahoma • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Turnstile w/ Die Spitz",
+      "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Suki Waterhouse: The Loveland Tour",
+      "venue_line": "The Criterion • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Suki Waterhouse: The Loveland Tour",
+      "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Oklahoma Sooners Women Volleyball vs. Texas A&M Aggies Womens Volleyball",
+      "venue_line": "McCasland Field House • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Oklahoma City Thunder vs. Milwaukee Bucks",
+      "venue_line": "Paycom Center • Oklahoma City",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

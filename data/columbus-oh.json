@@ -1,67 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-09-27T14:30:58.291Z",
+  "updated_at": "2026-09-28T17:16:04.282Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Sweeney Todd",
-      "venue_line": "Short North Stage - Garden Theater • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Nep w/ Sierra Sikora",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "CHIP THA RIPPER",
-      "venue_line": "Classics Victorys • Columbus",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Columbus Crew vs. Inter Miami CF",
-      "venue_line": "ScottsMiracle-Gro Field • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Sub Urban",
-      "venue_line": "A&R Music Bar • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Hoodoo Soul Band",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -76,9 +16,9 @@
       "day_label": "MON",
       "day_number": "28",
       "date_iso": "2026-09-28",
-      "title": "The Yawpers at Woodlands Tavern",
+      "title": "+CANCELLED+ The Yawpers at Woodlands Tavern",
       "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$20",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -156,6 +96,16 @@
       "day_label": "THU",
       "day_number": "1",
       "date_iso": "2026-10-01",
+      "title": "Happy Hour w/ The Shaw Brothers at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$2",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
       "title": "Nevertel w/ Rivals",
       "venue_line": "A&R Music Bar • Columbus",
       "price_label": "Price not available",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Hot Flash Heat Wave",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Brand New",
+      "venue_line": "KEMBA Live! • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "WINDHAND with Sonja",
+      "venue_line": "Skully's Music Diner • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Dale Watson & His Lone Stars w/ India Ramey - Used Kids Records' 40th Anniversary Bash Concert Series",
+      "venue_line": "Rumba Cafe • Columbus",
+      "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Oh Geeez, Not Again / Mudd",
+      "venue_line": "Classics Victorys • Columbus",
+      "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

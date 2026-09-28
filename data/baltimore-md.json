@@ -1,67 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-09-27T14:30:47.014Z",
+  "updated_at": "2026-09-28T17:15:51.711Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "All Things Go Music Festival - Sunday",
-      "venue_line": "Merriweather Post Pavilion • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "All Things Go Music Festival - 3-Day Pass",
-      "venue_line": "Merriweather Post Pavilion • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Little Shop of Horrors 40th Anniversary Hosted By Ellen Greene",
-      "venue_line": "M&T Bank Exchange • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "All Things Go 2-Day Pass - Friday & Sunday",
-      "venue_line": "Merriweather Post Pavilion • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jo Koy Live (21+ Event)",
-      "venue_line": "The Hall at Live! • Hanover",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-03",
       "title": "Eddie Griffin",
       "venue_line": "Baltimore Comedy Factory • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Boom Ball",
+      "venue_line": "Prince George's Stadium • Bowie",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Fearless Club At CFG Bank Arena - Smashing Pumpkins",
+      "venue_line": "CFG Bank Arena • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Smashing Pumpkins: The Rats In A Cage Tour",
+      "venue_line": "CFG Bank Arena • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The NINETEEN 62 at CFG Bank Arena - Smashing Pumpkins",
+      "venue_line": "CFG Bank Arena • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Chelsea Handler",
+      "venue_line": "The Lyric - Baltimore • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "CHELSEA HANDLER: THE HIGH AND MIGHTY TOUR",
+      "venue_line": "The Lyric • Baltimore",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

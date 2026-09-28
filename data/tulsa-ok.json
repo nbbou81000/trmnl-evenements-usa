@@ -1,37 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-09-27T14:31:12.427Z",
+  "updated_at": "2026-09-28T17:16:19.587Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jurassic Quest | Arvest Convention Center | Tulsa, OK 2026",
-      "venue_line": "Arvest Convention Center Pepsi Exhibit Hall • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jurassic Quest | Arvest Convention Center | Tulsa, OK 2026",
-      "venue_line": "Arvest Convention Center Pepsi Exhibit Hall • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jurassic Quest | Arvest Convention Center | Tulsa, OK 2026",
-      "venue_line": "Arvest Convention Center Pepsi Exhibit Hall • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Rocky Horror Picture Show Spooktacular Tour with Patricia Quinn",
+      "venue_line": "Chapman Music Hall - TPAC • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Blake Whiten",
+      "venue_line": "Tulsa Expo Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Bobby Lees",
+      "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

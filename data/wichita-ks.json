@@ -1,27 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-09-27T14:31:05.859Z",
+  "updated_at": "2026-09-28T17:16:12.343Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Wichita State Shockers Womens Volleyball vs. South Florida Bulls Womens Volleyball",
-      "venue_line": "Charles Koch Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Lady A",
-      "venue_line": "Wichita Orpheum Theatre • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Phil Collins Story",
+      "venue_line": "The Cotillion • Wichita",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "sKitz Kraven",
+      "venue_line": "Wave • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

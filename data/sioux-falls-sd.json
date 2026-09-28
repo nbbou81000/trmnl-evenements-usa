@@ -1,27 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-09-27T14:31:06.673Z",
+  "updated_at": "2026-09-28T17:16:13.215Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Cinch Playoffs - The Governors Cup 3 DAY SAME SEAT PACKAGE",
-      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Cinch Playoffs - The Governors Cup",
-      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +181,26 @@
       "price_label": "$20–$46",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Goosebumps: The Musical",
+      "venue_line": "Orpheum Theater Sioux Falls - SD • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "The Field Of 68 Opening Day Marathon",
+      "venue_line": "Sanford Pentagon • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

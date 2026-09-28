@@ -1,37 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-09-27T14:31:19.014Z",
+  "updated_at": "2026-09-28T17:16:27.209Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Shawn James",
-      "venue_line": "Aggie Theater • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Umphrey's McGee",
-      "venue_line": "Mishawaka Amphitheatre • Bellvue",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Umphrey's McGee",
-      "venue_line": "Mishawaka Amphitheatre • Bellvue",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Theo Katzman",
+      "venue_line": "Washington's • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Theo Katzman",
+      "venue_line": "Washington's • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Colorado State University Rams Womens Soccer vs. Boise State Broncos Womens Soccer",
+      "venue_line": "CSU Soccer Field • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

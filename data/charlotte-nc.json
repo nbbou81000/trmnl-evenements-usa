@@ -1,47 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-09-27T14:30:48.766Z",
+  "updated_at": "2026-09-28T17:15:53.613Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Celebrating a Career of Service",
-      "venue_line": "The Carolina • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Stanley Simmons",
-      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Loathe: A Stranger to You",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Michael Franti Trio - Heartstrings & Dynamite",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -156,9 +116,9 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
-      "title": "I’ve Got A Fire Tour with Pat Barrett - Huntersville, NC",
+      "title": "SOLD OUT! I’ve Got A Fire Tour with Pat Barrett - Huntersville, NC",
       "venue_line": "Lake Forest Church - Huntersville Campus • Huntersville",
-      "price_label": "$34",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Jammy Buffet",
+      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "Bojangles Coliseum • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "Bojangles Coliseum • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "Bojangles Coliseum • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

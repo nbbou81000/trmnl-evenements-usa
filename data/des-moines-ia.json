@@ -1,17 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-09-27T14:31:04.977Z",
+  "updated_at": "2026-09-28T17:16:11.465Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Highly Suspect & Yelawolf - The War Within Tour",
-      "venue_line": "Vibrant Music Hall • Waukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-03",
       "title": "Taking Back Sunday w/ Thrice",
       "venue_line": "Val Air Ballroom • West Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "512: The Selena Experience",
+      "venue_line": "The Ingersoll • Des Moines",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

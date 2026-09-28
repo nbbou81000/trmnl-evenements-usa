@@ -1,17 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-09-27T14:30:56.184Z",
+  "updated_at": "2026-09-28T17:16:02.087Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Rockford IceHogs vs. Milwaukee Admirals",
-      "venue_line": "BMO Center • Rockford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Rockford IceHogs vs. Grand Rapids Griffins",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-09-27T14:30:40.622Z",
+  "updated_at": "2026-09-28T17:15:44.648Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "The Getaway Driver",
-      "venue_line": "Trinity Repertory Theater Center • Providence",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "The Getaway Driver",
-      "venue_line": "Trinity Repertory Theater Center • Providence",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Rhode Island Rams Football vs. Brown University Bears Football",
+      "venue_line": "Centreville Bank Stadium • Pawtucket",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "PROVIDENCE COLLEGE LATE NIGHT MADNESS FT KELLY CLARKSON",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-09-27T14:31:30.888Z",
+  "updated_at": "2026-09-28T17:16:40.183Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Eugene Opera: Macbeth",
-      "venue_line": "Silva Concert Hall • Eugene",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -199,6 +189,16 @@
       "title": "Steel Pulse",
       "venue_line": "McDonald Theatre • Eugene",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Menzingers: Everything I Ever Saw North American Tour",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$43",
       "type_key": "music",
       "type_label": "Music"
     }

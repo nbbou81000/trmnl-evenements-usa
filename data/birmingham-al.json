@@ -1,47 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-09-27T14:31:16.547Z",
+  "updated_at": "2026-09-28T17:16:24.475Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "18",
-      "date_iso": "2026-09-18",
-      "title": "Southbound Food Festival",
-      "venue_line": "Southbound Food Festival • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Hamilton (Touring)",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Hamilton (Touring)",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "WyndRider with PondDigger, Hiraeth & Nazghul at The Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -59,6 +19,16 @@
       "title": "Mumford & Sons - Prizefighter Tour",
       "venue_line": "Coca-Cola Amphitheater • Birmingham",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Bham Songwriters Night with SlapOut and Galactic Goth",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +169,36 @@
       "title": "Cash Money Tour | Official BJCC Ticket + Hotel Packages",
       "venue_line": "Legacy Arena at the BJCC • Birmingham",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
+      "venue_line": "Coca-Cola Amphitheater • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "S.G. Goodman",
+      "venue_line": "Lakeview Marina Music Park • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Waking April at The Nick with Subhymnal, Slippery Dish, CJ Fagan, TENGEN",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$12",
       "type_key": "music",
       "type_label": "Music"
     }

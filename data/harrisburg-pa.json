@@ -1,37 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-09-27T14:30:44.781Z",
+  "updated_at": "2026-09-28T17:15:49.278Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Lenny Pearce - Toddler Rave World Tour",
-      "venue_line": "Hershey Theatre • Hershey",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Hershey Bears vs. Wilkes Barre Scranton Penguins",
-      "venue_line": "GIANT Center • Hershey",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jason Isbell and the 400 Unit",
-      "venue_line": "Riverfront Park • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "LPR x RSP Present: Sunn O )))",
+      "venue_line": "XL Live • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "W.A.S.P. - 1984 TO HEADLESS",
+      "venue_line": "Capital City Music Hall • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Wednesday 13",
+      "venue_line": "Capital City Music Hall • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

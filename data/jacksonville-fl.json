@@ -1,27 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-09-27T14:30:52.921Z",
+  "updated_at": "2026-09-28T17:15:58.325Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Jacksonville Jaguars vs. New England Patriots",
-      "venue_line": "EverBank Stadium  • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Standing Room Only - Jacksonville Jaguars v New England Patriots",
-      "venue_line": "EverBank Stadium  • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -199,6 +179,26 @@
       "title": "Spy, Violencia, Spite House, Madrugado, Engine",
       "venue_line": "Corazon del Barrio • San Diego",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Tony Roberts",
+      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Black Flag",
+      "venue_line": "Eclipse • Jacksonville",
+      "price_label": "$31–$67",
       "type_key": "music",
       "type_label": "Music"
     }

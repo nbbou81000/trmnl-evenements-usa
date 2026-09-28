@@ -1,37 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-09-27T14:31:20.380Z",
+  "updated_at": "2026-09-28T17:16:28.555Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Christieprov",
-      "venue_line": "Boise Little Theater • Boise",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Christieprov",
-      "venue_line": "Boise Little Theater • Boise",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Igorrr w/ Secret Chiefs 3",
-      "venue_line": "Treefort Music Hall • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +171,36 @@
       "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Take Me Home: The Music Of John Denver Starring Jim Curry",
+      "venue_line": "Morrison Center for the Performing Arts • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Phillip Phillips - Let's Go Far Tour",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "$44–$167",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Bumpin Uglies w/ Artikal Sound System",
+      "venue_line": "Treefort Music Hall • Boise",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

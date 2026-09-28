@@ -1,17 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-09-27T14:31:17.815Z",
+  "updated_at": "2026-09-28T17:16:25.855Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Black and Gold on the Movie Screen",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$2",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "$9",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Slow Degrade  ",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

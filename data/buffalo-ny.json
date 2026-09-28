@@ -1,67 +1,7 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-09-27T14:30:38.954Z",
+  "updated_at": "2026-09-28T17:15:42.784Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Club Seats: Bills vs Chargers",
-      "venue_line": "Highmark Stadium • Orchard Park",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Buffalo Bills vs. Los Angeles Chargers",
-      "venue_line": "Highmark Stadium • Orchard Park",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Hair",
-      "venue_line": "Shea's 710 Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Celebrate the Life of Andy Williams",
-      "venue_line": "Buffalo Riverworks • Buffalo",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Peaches",
-      "venue_line": "Electric City • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Gnash",
-      "venue_line": "Electric City • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -196,11 +136,71 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
+      "title": "Canisius University Hockey vs. Ferris State",
+      "venue_line": "HARBORCENTER • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
       "title": "UB Distinguished Speakers Series Subscription",
       "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "UB Distinguished Speakers Series: Andrew Ross Sorkin",
+      "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Niagara Purple Eagles Hockey vs. Rochester Institute of Technology Mens Hockey",
+      "venue_line": "Dwyer Arena • Niagara University",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Bat Boy the Musical",
+      "venue_line": "Shea's Smith Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Hair",
+      "venue_line": "Shea's 710 Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Wolf Play",
+      "venue_line": "UB Center for the Arts - Black Box Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

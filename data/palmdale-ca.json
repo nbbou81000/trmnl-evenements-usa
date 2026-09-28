@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-09-27T14:31:29.722Z",
+  "updated_at": "2026-09-28T17:16:38.870Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "FREE SHOW: HAUNTU / FINDERS/KEEPERS / SOME GIFTS / STEDMAN & THE MADNESS",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +191,16 @@
       "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "NOCHE DE GÓTICOS: THE SMITHS VS. THE CURE VS. DEPECHE MODE",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

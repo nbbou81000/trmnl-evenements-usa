@@ -1,137 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-09-27T14:31:30.115Z",
+  "updated_at": "2026-09-28T17:16:39.306Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "IN COLOR",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Oregon Symphony presents Dan Brown???s Wild Symphony",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "POISON GIRL FRIEND with Rip Swirl",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Show Me The Body w/ Lip Critic",
-      "venue_line": "Hawthorne Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "JESSE ROPER",
-      "venue_line": "Jack London Revue • Portland",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Chat Pile w/ Soul Glo",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Paris Paloma",
-      "venue_line": "Roseland Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Kruder & Dorfmeister",
-      "venue_line": "McMenamins Crystal Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
-      "venue_line": "Moda Center • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Samuel Aaron with AC Sapphire",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "DON WEST",
-      "venue_line": "Aladdin Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "CHURCH OF HIVE",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$6",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "SINFERNO CABARET",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$14–$314",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -199,6 +69,136 @@
       "title": "KARAOKE FROM HELL",
       "venue_line": "Dante's • Portland",
       "price_label": "$8",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
+      "venue_line": "Cascades Amphitheater • Ridgefield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Water for Elephants (Touring)",
+      "venue_line": "Keller Auditorium • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Two-Step Tuesday with The Evangeliners and Dance Lessons",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "EMAROSA PRESENTS: High Horse Heaven Tour",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "SABABA 5",
+      "venue_line": "Jack London Revue • Portland",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Hermanos Gutierrez",
+      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Michelle Branch",
+      "venue_line": "McMenamins Crystal Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Samantha Fish w/ The Zac Schulze Gang",
+      "venue_line": "Revolution Hall - Portland • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Perfume Genius",
+      "venue_line": "Aladdin Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$14–$20",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Igorrr: North American Tour 2026",
+      "venue_line": "Roseland Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Water for Elephants (Touring)",
+      "venue_line": "Keller Auditorium • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "ALICIA WITT",
+      "venue_line": "Jack London Revue • Portland",
+      "price_label": "$31–$237",
       "type_key": "music",
       "type_label": "Music"
     }

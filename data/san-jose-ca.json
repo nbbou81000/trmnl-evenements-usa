@@ -1,77 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-09-27T14:31:25.683Z",
+  "updated_at": "2026-09-28T17:16:34.385Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "San Francisco 49ers vs. Arizona Cardinals - George Kittle Bobblehead",
-      "venue_line": "Levi's® Stadium • Santa Clara",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bay FC vs. Orlando Pride",
-      "venue_line": "PayPal Park • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Alaire Thomas",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$31–$102",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "AJ Croce w/ Leo Kottke",
-      "venue_line": "Mountain Winery • Saratoga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Yandel - SINFÓNICO",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Spafford",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Sleep - Ages 16+",
-      "venue_line": "The Catalyst-CA • Santa Cruz",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -199,6 +129,76 @@
       "title": "Geoff Tate",
       "venue_line": "The Guild Theatre - CA • Menlo Park",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Groundation",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "\"The Hayley Williams Show\"",
+      "venue_line": "Shoreline Amphitheatre • Mountain View",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Stanford Cardinal Womens Volleyball vs. Virginia Tech Hokies Womens Volleyball",
+      "venue_line": "Maples Pavilion • Stanford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Earthquake",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$37–$102",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Get the Led Out",
+      "venue_line": "Mountain Winery • Saratoga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "John Oates",
+      "venue_line": "The Guild Theatre - CA • Menlo Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Sploinky Rave",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$19–$521",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,87 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-09-27T14:30:54.535Z",
+  "updated_at": "2026-09-28T17:16:00.084Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Boston Red Sox vs. Chicago Cubs",
-      "venue_line": "Tropicana Field • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Steinway Piano Series: Svetozar Ivanov",
-      "venue_line": "USF Barness Recital Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Tampa Bay Buccaneers V Minnesota Vikings",
-      "venue_line": "Raymond James Stadium • Tampa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Pepsi Tailgate: Tampa Bay Buccaneers Vs. Minnesota Vikings",
-      "venue_line": "Raymond James Stadium • Tampa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Crooked Pop Tailgate: Tampa Bay Buccaneers Vs. Minnesota Vikings",
-      "venue_line": "Raymond James Stadium • Tampa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Johnny Based: The GothStar Tour in Tampa",
-      "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Bonnie Prince Billy",
-      "venue_line": "Bayboro Brewing • St. Petersburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Dinosaur World Live!",
-      "venue_line": "Dinosaur World - Florida • Plant City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -198,6 +118,86 @@
       "date_iso": "2026-10-02",
       "title": "America",
       "venue_line": "Ruth Eckerd Hall • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "SCREECHING WEASEL w/The Queers and Billy Batts & The Made Men",
+      "venue_line": "Ferg's Pavilion • St. Petersburg",
+      "price_label": "$44",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Atsuko Okatsuka: The Big Bowl Tour",
+      "venue_line": "Tampa Bay Perf Arts Ctr Ferguson Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Atsuko Okatsuka",
+      "venue_line": "David A. Straz Center - Ferguson Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Singularity Play",
+      "venue_line": "USF Theatre 2 • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Tchaikovsky's 1812 Overture",
+      "venue_line": "Mahaffey Theater • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Atsuko Okatsuka",
+      "venue_line": "Tampa Theater • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Los Tigres del Norte: Los Tigres del Mundo",
+      "venue_line": "Benchmark International Arena • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Streetlight Manifesto",
+      "venue_line": "Jannus Live • Saint Petersburg",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

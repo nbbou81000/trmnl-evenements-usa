@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-09-27T14:31:16.139Z",
+  "updated_at": "2026-09-28T17:16:24.009Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
-      "venue_line": "Brandon Amphitheater • Brandon",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Kevin Gates",
+      "venue_line": "Brandon Amphitheater • Brandon",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

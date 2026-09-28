@@ -1,47 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-09-27T14:31:02.949Z",
+  "updated_at": "2026-09-28T17:16:09.142Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "NASCAR Cup Series Hollywood Casino 400",
-      "venue_line": "Kansas Speedway • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "NASCAR Cup Series Hollywood Casino 400 Racing Electronics",
-      "venue_line": "Kansas Speedway • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Kansas City Royals vs. Cleveland Guardians",
-      "venue_line": "Kauffman Stadium • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "27",
-      "date_iso": "2026-09-27",
-      "title": "Kristin Key (16 and Over)",
-      "venue_line": "The Truman - Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "28",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Temptations",
+      "venue_line": "Ameristar Casino and Hotel • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Kontravoid & Buzz Kull",
+      "venue_line": "Encore at Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Zarna Garg",
+      "venue_line": "Funny Bone Comedy Club - Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+      "venue_line": "T-Mobile Center • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }
