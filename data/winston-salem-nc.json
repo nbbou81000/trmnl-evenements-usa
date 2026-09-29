@@ -1,6 +1,6 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-09-28T17:15:55.482Z",
+  "updated_at": "2026-09-29T15:17:55.347Z",
   "events": [
     {
       "day_label": "FRI",
@@ -156,6 +156,16 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
+      "title": "IMPORTEXPO Car Show",
+      "venue_line": "Greensboro Complex • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
       "title": "Greensboro Gargoyles vs Reading Royals - Opening Weekend",
       "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
@@ -188,16 +198,6 @@
       "date_iso": "2026-10-21",
       "title": "Mastodon",
       "venue_line": "Piedmont Hall • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Koe Wetzel: The Night Champion World Tour",
-      "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

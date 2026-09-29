@@ -1,17 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-09-28T17:16:22.984Z",
+  "updated_at": "2026-09-29T15:18:25.933Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Jersey Boys (Touring)",
-      "venue_line": "Baton Rouge River Center Theater • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -48,7 +38,7 @@
       "date_iso": "2026-10-01",
       "title": "Struggle Jennings",
       "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$34",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-11",
       "title": "YWCA Women's Empowerment Summit",
       "venue_line": "Baton Rouge River Center Theater • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "LAUNDRY DAY",
+      "venue_line": "Chelsea's Live • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,47 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-09-28T17:16:04.282Z",
+  "updated_at": "2026-09-29T15:18:05.080Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Happy Hour w/ The Squirrelers at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$2",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "+CANCELLED+ The Yawpers at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Diva Bleach w/ The Lunar Outlet + Marc & Mookie",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Culture Wars",
-      "venue_line": "A&R Music Bar • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +161,46 @@
       "price_label": "$15",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Happy Hour w/ Hawa at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$2",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Pertinence",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Everything Yes w/ Cosmic Graffiti at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Don Lemon & DL Hughley: DL + DL 'Anything Goes'",
+      "venue_line": "Mershon Auditorium • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-09-28T17:16:11.465Z",
+  "updated_at": "2026-09-29T15:18:13.213Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Dying Fetus w/ Sanguisugabogg",
-      "venue_line": "Val Air Ballroom • West Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-03",
       "title": "512: The Selena Experience",
       "venue_line": "The Ingersoll • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Cheekface w/ Apes of the State",
+      "venue_line": "xBk Live • Des Moines",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,37 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-09-28T17:15:42.308Z",
+  "updated_at": "2026-09-29T15:17:41.239Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Soundcheck on Wylie Avenue ft. Donnie Iris & The Cruisers",
-      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Gogol Bordello with Special Guests That Handsome Devil and  Pons",
-      "venue_line": "Mr Smalls Theatre • Millvale",
-      "price_label": "$52",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Gogol Bordello",
-      "venue_line": "Mr Smalls Theater • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -117,7 +87,7 @@
       "day_number": "30",
       "date_iso": "2026-09-30",
       "title": "Bad Nerves   with Special Guests Sunny Daze & The Weathermen and Glass Caps",
-      "venue_line": "Mr Smalls Theatre • Millvale",
+      "venue_line": "The Funhouse @ Mr Smalls • Millvale",
       "price_label": "$35",
       "type_key": "music",
       "type_label": "Music"
@@ -199,6 +169,36 @@
       "title": "Joe Machi",
       "venue_line": "Pittsburgh Improv • Pittsburgh",
       "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Pittsburgh Symphony Orchestra presents Gerstein Plays Brahms",
+      "venue_line": "Heinz Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Linda Lindas with Special Guests Deux Visages and Colatura",
+      "venue_line": "Mr Smalls Theatre • Millvale",
+      "price_label": "$38",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Wiz Khalifa",
+      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

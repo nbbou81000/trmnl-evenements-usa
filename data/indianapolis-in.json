@@ -1,27 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-09-28T17:16:06.893Z",
+  "updated_at": "2026-09-29T15:18:07.994Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "WNBA Playoffs Round 1 Home Game 2: TBD at Fever",
-      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "PARKING PASS TBD @ Fever Rd 1 Hm Gm 2",
-      "venue_line": "Virginia Avenue Parking Garage • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Lucas Oil Stadium Tour",
+      "venue_line": "Lucas Oil Stadium • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Disney Presents The Lion King (Touring)",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

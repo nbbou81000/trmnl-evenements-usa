@@ -1,57 +1,7 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-09-28T17:15:41.779Z",
+  "updated_at": "2026-09-29T15:17:40.722Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "ACDC Power-Pop Up",
-      "venue_line": "Hard Rock Cafe Philadelphia • Philadelphia",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Punch Line Philly Open Mic Night",
-      "venue_line": "Punch Line Philly Callback Bar • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Phoebe Bridgers: The Lost Tour",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Suites - Phoebe Bridgers: The Lost Tour",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "honestav - The Sweet American Boy Tour ",
-      "venue_line": "Theatre of Living Arts • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Taylor Bickett, Emilie Su, Corrina",
+      "venue_line": "Nikki Lopez Philly • Philadelphia",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Academy of Music - PA • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Opening Night Of The SureKill Comedy Festival",
+      "venue_line": "Punch Line Philly • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Philadelphia Flyers vs. Pittsburgh Penguins",
+      "venue_line": "Xfinity Mobile Arena • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

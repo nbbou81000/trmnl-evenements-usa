@@ -1,27 +1,7 @@
 {
   "city_label": "Austin, TX",
-  "updated_at": "2026-09-28T17:16:15.710Z",
+  "updated_at": "2026-09-29T15:18:17.887Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Five Finger Death Punch",
-      "venue_line": "Germania Insurance Amphitheater • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Emmaline: Sinatra, My Sweetheart Tour",
-      "venue_line": "Antone's Nightclub • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-01",
       "title": "Official 2026 ACL Nights: Montclair",
       "venue_line": "Stubb's Indoors • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Austin City Limits Festival",
+      "venue_line": "Zilker Park • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Austin City Limits Music Festival - Weekend One",
+      "venue_line": "Zilker Park • Austin",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

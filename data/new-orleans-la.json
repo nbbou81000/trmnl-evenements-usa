@@ -1,27 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-09-28T17:16:22.561Z",
+  "updated_at": "2026-09-29T15:18:25.431Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Charmaine Neville Band",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Charmaine Neville Band",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -166,7 +146,7 @@
       "day_label": "THU",
       "day_number": "1",
       "date_iso": "2026-10-01",
-      "title": "Herlin Riley (Jazz at Lincoln Center Orchestra) and Friends",
+      "title": "Herlin Riley (Jazz at Lincoln Center Orchestra) with Kyle Roussel (on Piano), TJ Norris (on Bass), Ari Teitel (on Guitar), & Special Guest Guitar Slim, Jr.",
       "venue_line": "Chickie Wah Wah • New Orleans",
       "price_label": "$33–$57",
       "type_key": "music",
@@ -199,6 +179,26 @@
       "title": "NOLAxNOLA presents: Fowk Band w/ Nikaness",
       "venue_line": "The Den at Howlin' Wolf • New Orleans",
       "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "THE NATIONAL FRIED CHICKEN FESTIVAL PRESENTED BY RAISING CANE’S",
+      "venue_line": "UNO Lakefront Arena Festival Grounds • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Bayside",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

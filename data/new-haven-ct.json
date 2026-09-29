@@ -1,6 +1,6 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-09-28T17:15:45.547Z",
+  "updated_at": "2026-09-29T15:17:44.587Z",
   "events": [
     {
       "day_label": "TUE",
@@ -146,6 +146,16 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
+      "title": "Quinnipiac Bobcats Mens Ice Hockey vs. Merrimack Warriors Hockey",
+      "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Snail Mail / Soccer Mommy: The S&M Tour",
       "venue_line": "College Street Music Hall • New Haven",
       "price_label": "Price not available",
@@ -161,16 +171,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Quinnipiac Bobcats Mens Ice Hockey vs. Merrimack Warriors Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SUN",

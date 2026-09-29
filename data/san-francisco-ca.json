@@ -1,57 +1,7 @@
 {
   "city_label": "San Francisco, CA",
-  "updated_at": "2026-09-28T17:16:33.949Z",
+  "updated_at": "2026-09-29T15:18:37.495Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Social Distortion",
-      "venue_line": "The Masonic • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "LUCKI (6 and Over)",
-      "venue_line": "Warfield • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Phora",
-      "venue_line": "Brick and Mortar Music Hall • San Francisco",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Aldous Harding",
-      "venue_line": "The Castro Theatre • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Tokyo Tea Room, Beach Vacation",
-      "venue_line": "Bimbo's 365 Club • San Francisco",
-      "price_label": "$40",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -59,16 +9,6 @@
       "title": "Triangle Fire/ Choke/ P.O.S./ Ick",
       "venue_line": "Neck of the Woods • San Francisco",
       "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Social Distortion - Born To Kill World Tour",
-      "venue_line": "Fox Theater - Oakland • Oakland",
-      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +139,66 @@
       "title": "Neck of the Woods SF Open Mic Wednesdays",
       "venue_line": "Neck of the Woods • San Francisco",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Porch Light",
+      "venue_line": "Rickshaw Stop • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "DOOM GONG + James Wavey",
+      "venue_line": "Brick and Mortar Music Hall • San Francisco",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "tobi lou - Same Old Jeans Tour (SOLD OUT)",
+      "venue_line": "Cafe Du Nord • San Francisco",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Chasing Abbey",
+      "venue_line": "The Independent • San Francisco",
+      "price_label": "$37",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Twin Temple",
+      "venue_line": "The Castro Theatre • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Beth Orton",
+      "venue_line": "Great American Music Hall • San Francisco",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

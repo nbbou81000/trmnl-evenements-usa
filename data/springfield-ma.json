@@ -1,17 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-09-28T17:15:50.734Z",
+  "updated_at": "2026-09-29T15:17:50.140Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "The Big E Fair",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Big E Fair",
+      "venue_line": "The Big E • West Springfield",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-09-28T17:16:00.084Z",
+  "updated_at": "2026-09-29T15:18:00.598Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "USF SoM Composition Concert",
-      "venue_line": "USF Barness Recital Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Dinosaur World Live!",
-      "venue_line": "Dinosaur World - Florida • Plant City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -128,7 +108,7 @@
       "date_iso": "2026-10-02",
       "title": "SCREECHING WEASEL w/The Queers and Billy Batts & The Made Men",
       "venue_line": "Ferg's Pavilion • St. Petersburg",
-      "price_label": "$44",
+      "price_label": "$46",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-02",
       "title": "Streetlight Manifesto",
       "venue_line": "Jannus Live • Saint Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Gabriel Rutledge",
+      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Midnight Tyrannosaurus (18 and Over)",
+      "venue_line": "The Ritz Ybor • Tampa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

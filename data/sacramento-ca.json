@@ -1,17 +1,7 @@
 {
   "city_label": "Sacramento, CA",
-  "updated_at": "2026-09-28T17:16:34.895Z",
+  "updated_at": "2026-09-29T15:18:38.514Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Critters",
-      "venue_line": "Crest Theater • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-02",
       "title": "Aftershock",
       "venue_line": "Discovery Park • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Judah & the Lion",
+      "venue_line": "Ace of Spades • Sacramento",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

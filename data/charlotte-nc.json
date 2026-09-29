@@ -1,17 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-09-28T17:15:53.613Z",
+  "updated_at": "2026-09-29T15:17:53.281Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Bros. Landreth: Tumbling Wild Tour 2026",
-      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "WEEZER: The Gathering",
+      "venue_line": "Spectrum Center • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

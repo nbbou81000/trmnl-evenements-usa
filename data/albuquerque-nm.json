@@ -1,17 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-09-28T17:16:29.055Z",
+  "updated_at": "2026-09-29T15:18:32.343Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Wu-Tang Forever: The Final Chamber",
-      "venue_line": "First Financial Credit Union Amphitheater • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-04",
       "title": "Arm's Length w/ Holding Absence",
       "venue_line": "Sunshine Theatre • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Knumears w/ Catalyst",
+      "venue_line": "El Rey - NM • Albuquerque",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

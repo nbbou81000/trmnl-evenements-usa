@@ -1,34 +1,14 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-09-28T17:16:02.971Z",
+  "updated_at": "2026-09-29T15:18:03.527Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Ben Harper & The Innocent Criminals",
-      "venue_line": "Saint Andrew's Hall • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Lambrini Girls",
-      "venue_line": "Majestic Theatre-MI • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
       "date_iso": "2026-09-29",
       "title": "Greenleaf, Howling Giant, Armada Lodge",
       "venue_line": "TSDMAAC (Crypt) • Detroit",
-      "price_label": "$12–$31",
+      "price_label": "$12–$33",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +179,26 @@
       "title": "The Chicks - Suite Rental",
       "venue_line": "Fox Theatre Detroit • Detroit",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Mastodon",
+      "venue_line": "The Fillmore Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Fabio Frizzi performs FRIZZI2FULCI",
+      "venue_line": "TSDMAAC • Detroit",
+      "price_label": "$12–$38",
       "type_key": "music",
       "type_label": "Music"
     }

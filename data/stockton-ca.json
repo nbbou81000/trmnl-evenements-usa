@@ -1,6 +1,6 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-09-28T17:16:36.230Z",
+  "updated_at": "2026-09-29T15:18:39.932Z",
   "events": [
     {
       "day_label": "FRI",
@@ -187,6 +187,16 @@
       "day_number": "25",
       "date_iso": "2026-11-25",
       "title": "Stockton Thunder vs. Minnesota Northern Lights",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Stockton Thunder vs. Oceanside HC",
       "venue_line": "Adventist Health Arena • Stockton",
       "price_label": "Price not available",
       "type_key": "sports",

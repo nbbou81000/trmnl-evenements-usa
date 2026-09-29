@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-09-28T17:16:38.870Z",
+  "updated_at": "2026-09-29T15:18:42.884Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "RAISE THE BAR: OPEN MIC NIGHT",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -199,6 +189,16 @@
       "title": "NOCHE DE GÓTICOS: THE SMITHS VS. THE CURE VS. DEPECHE MODE",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "FREE SHOW: FACEHANDS / VETTAGRIT / KAISIN / TRANSMISSIONS",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

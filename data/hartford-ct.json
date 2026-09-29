@@ -1,17 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-09-28T17:15:45.084Z",
+  "updated_at": "2026-09-29T15:17:44.079Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "The Big E Fair",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Hartford Athletic vs. Louisville City FC",
+      "venue_line": "Trinity Health Stadium • Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

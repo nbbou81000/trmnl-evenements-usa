@@ -1,37 +1,7 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-09-28T17:16:30.467Z",
+  "updated_at": "2026-09-29T15:18:33.741Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "VILLANELLE",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$23",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "BILAL",
-      "venue_line": "Crescent Ballroom • Phoenix",
-      "price_label": "$43",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Twin Temple",
-      "venue_line": "The Van Buren • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +168,36 @@
       "date_iso": "2026-09-30",
       "title": "CRADLE OF FILTH: Majestic In Death II with Special Guests",
       "venue_line": "The Van Buren • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Les Miserables (Touring)",
+      "venue_line": "Phoenix Theatre - Stephenson Theatre • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Parcels - Loved Tour 2026",
+      "venue_line": "Arizona Financial Theatre • Phoenix",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

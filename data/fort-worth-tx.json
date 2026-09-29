@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-09-28T17:16:14.252Z",
+  "updated_at": "2026-09-29T15:18:16.146Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Legacy of the Longhorn",
-      "venue_line": "Cowtown Coliseum • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "TCU Horned Frogs Womens Volleyball vs. Colorado Buffaloes Womens Volleyball",
+      "venue_line": "Ed and Rae Schollmaier Arena • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

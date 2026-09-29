@@ -1,17 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-09-28T17:16:00.608Z",
+  "updated_at": "2026-09-29T15:18:01.137Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "USF SoM Composition Concert",
-      "venue_line": "USF Barness Recital Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -68,7 +58,7 @@
       "date_iso": "2026-10-02",
       "title": "SCREECHING WEASEL w/The Queers and Billy Batts & The Made Men",
       "venue_line": "Ferg's Pavilion • St. Petersburg",
-      "price_label": "$44",
+      "price_label": "$46",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Mariachi El Bronx",
+      "venue_line": "Jannus Live • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

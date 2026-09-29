@@ -1,37 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-09-28T17:16:05.132Z",
+  "updated_at": "2026-09-29T15:18:06.126Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Buena Vista Orchestra",
-      "venue_line": "Bogart's • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Whitney w/ Oscar Lindsey",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Carole King and James Taylor Story",
-      "venue_line": "Memorial Hall - OH • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Spooky Fox",
+      "venue_line": "The Southgate House Revival - The Lounge • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Big Whisker Revival XII presented by Mad Viking Beard & Mustache Company",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Don Lemon & DL Hughley: DL + DL 'Anything Goes'",
+      "venue_line": "Taft Theatre • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

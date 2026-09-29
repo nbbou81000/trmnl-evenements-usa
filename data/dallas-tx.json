@@ -1,37 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-09-28T17:16:13.664Z",
+  "updated_at": "2026-09-29T15:18:15.667Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Castle Rat (16 and Under with Parent or Legal Guardian)",
-      "venue_line": "The Studio at the Bomb Factory • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Steve Austin, Ramblin' Ricky Tate, Tommy Luke Trio",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Specialized Karaoke Night with RUEN",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -199,6 +169,36 @@
       "title": "Wub Wednesday",
       "venue_line": "Three Links Deep Ellum • Dallas",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Villanelle",
+      "venue_line": "The Cambridge Room at House Of Blues • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Amyl and the Sniffers",
+      "venue_line": "Longhorn Backyard Amphitheater • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Amyl and the Sniffers",
+      "venue_line": "Longhorn Ballroom & Backyard Amphitheater • Dallas",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,6 +1,6 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-09-28T17:16:16.157Z",
+  "updated_at": "2026-09-29T15:18:18.362Z",
   "events": [
     {
       "day_label": "TUE",
@@ -28,6 +28,16 @@
       "date_iso": "2026-09-30",
       "title": "French Police w/ Social Order",
       "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The UTEP Symphonic and Concert Bands In Concert - UTEP Dept. Of Music",
+      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Los Lonely Boys: Rockpango Fest 2026 - canceled",
-      "venue_line": "Abraham Chavez Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

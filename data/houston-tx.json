@@ -1,27 +1,7 @@
 {
   "city_label": "Houston, TX",
-  "updated_at": "2026-09-28T17:16:14.804Z",
+  "updated_at": "2026-09-29T15:18:16.745Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Luv Language Tour With Jeff Bernat",
-      "venue_line": "The Bronze Peacock at House of Blues Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Telescreens - Why The Lights Flicker North American Tour",
-      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Tinlicker North America 2026",
+      "venue_line": "House of Blues Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Damien Jurado",
+      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

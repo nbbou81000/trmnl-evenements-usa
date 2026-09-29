@@ -1,17 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-09-28T17:16:09.588Z",
+  "updated_at": "2026-09-29T15:18:11.207Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Citizen - Halcyon Blues",
-      "venue_line": "The Hawthorn • St. Louis",
-      "price_label": "$49",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -31,6 +21,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Marc Scibilia - No One Knows My Name Tour",
+      "venue_line": "Delmar Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "WED",

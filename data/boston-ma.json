@@ -1,107 +1,7 @@
 {
   "city_label": "Boston, MA",
-  "updated_at": "2026-09-28T17:15:41.316Z",
+  "updated_at": "2026-09-29T15:17:40.222Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Sports Museum Tour & Boston Bruins Heritage Hall",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Sports Museum Tour & Boston Bruins Heritage Hall",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Sports Museum Tour & Boston Bruins Heritage Hall",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Sports Museum Tour & Boston Bruins Heritage Hall",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Sports Museum Tour & Boston Bruins Heritage Hall",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Louder with Crowder presents: Change My Mind - The Professor Debates",
-      "venue_line": "Boch Center Shubert Theatre • Boston",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Zolita: The Hell's Belles Tour",
-      "venue_line": "Brighton Music Hall presented by Citizens • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) featuring Frank Carter (18 and Over)",
-      "venue_line": "Royale Boston • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Shaboozey - Outlaws Never Die Tour",
-      "venue_line": "MGM Music Hall at Fenway • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -198,6 +98,106 @@
       "date_iso": "2026-09-29",
       "title": "Gnash",
       "venue_line": "Brighton Music Hall presented by Citizens • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+      "venue_line": "MGM Music Hall at Fenway • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Boston Bruins vs. New York Rangers",
+      "venue_line": "TD Garden • Boston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Ludovico Einaudi",
+      "venue_line": "Boston Symphony Hall • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Frog",
+      "venue_line": "Crystal Ballroom at Somerville Theatre • Somerville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Roger Daltrey - A Great Night Out",
+      "venue_line": "Chevalier Theatre • Medford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Slayyyter",
+      "venue_line": "Roadrunner-Boston • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "florence road",
+      "venue_line": "The Sinclair Music Hall • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Ninajirachi (18 and Over)",
+      "venue_line": "Royale Boston • Boston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Hipocampo ",
+      "venue_line": "Middle East - Zuzu • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "29",
+      "date_iso": "2026-09-29",
+      "title": "Mood",
+      "venue_line": "Middle East - Corner/Bakery • Cambridge",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-09-28T17:16:03.838Z",
+  "updated_at": "2026-09-29T15:18:04.445Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Blind Pig Comedy",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$3",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Willi Carlisle w/ William Matheny",
-      "venue_line": "Ark • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -91,6 +71,16 @@
       "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Michigan Wolverines Hockey vs. Bowling Green Falcons Hockey",
+      "venue_line": "Yost Arena • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -197,6 +187,16 @@
       "day_number": "5",
       "date_iso": "2026-10-05",
       "title": "Amélie Farren, Lilith Max, Rabbitology - The Three Wishes Tour",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Congress The Band- SOLD OUT",
       "venue_line": "Blind Pig • Ann Arbor",
       "price_label": "$0",
       "type_key": "music",

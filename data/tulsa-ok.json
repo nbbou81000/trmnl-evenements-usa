@@ -1,6 +1,6 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-09-28T17:16:19.587Z",
+  "updated_at": "2026-09-29T15:18:22.308Z",
   "events": [
     {
       "day_label": "TUE",
@@ -56,21 +56,21 @@
       "day_label": "THU",
       "day_number": "1",
       "date_iso": "2026-10-01",
-      "title": "Tulsa Golden Hurricane Football vs. North Texas Mean Green Football",
-      "venue_line": "H.A. Chapman Stadium • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
       "title": "Drake White",
       "venue_line": "Tulsa Expo Center • Tulsa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Tulsa Golden Hurricane Football vs. North Texas Mean Green Football",
+      "venue_line": "H.A. Chapman Stadium • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "THU",
@@ -133,6 +133,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Hayefield",
+      "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
@@ -188,16 +198,6 @@
       "date_iso": "2026-10-03",
       "title": "Blake Whiten",
       "venue_line": "Tulsa Expo Center • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "The Bobby Lees",
-      "venue_line": "Vanguard - OK • Tulsa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

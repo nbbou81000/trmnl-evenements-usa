@@ -1,27 +1,7 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-09-28T17:15:47.424Z",
+  "updated_at": "2026-09-29T15:17:46.622Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Chandler w/ TuffLuckKid",
-      "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Cate Le Bon",
-      "venue_line": "Higher Ground • South Burlington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +177,26 @@
       "day_number": "27",
       "date_iso": "2026-10-27",
       "title": "Allison Russell w/ Autumn Nicholas",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "The Music of Hey Arnold",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Clutch",
       "venue_line": "Higher Ground • South Burlington",
       "price_label": "Price not available",
       "type_key": "music",

@@ -1,17 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-09-28T17:16:09.142Z",
+  "updated_at": "2026-09-29T15:18:10.654Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Bayonne - The 'Filters' Tour",
-      "venue_line": "recordBar • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "BOOZY BOOK FEST 2026",
+      "venue_line": "Bartle Hall • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

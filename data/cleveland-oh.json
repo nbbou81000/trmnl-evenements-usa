@@ -1,87 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-09-28T17:16:04.700Z",
+  "updated_at": "2026-09-29T15:18:05.658Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Nerd Night",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "DOMi & JD Beck - WHO ASKED? Tour ",
-      "venue_line": "House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "MUSIC TRIVI-AOKE",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Ray Flanagan & Anthony Papaleo wsg Thor Platter",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Witch",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "W.I.T.C.H. / Brood X",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Sub Urban",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Megasound w/ Girl Cologne",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "BOOZY BINGO (PLANT)",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "BIKE NIGHT",
+      "venue_line": "The Mercury Music Lounge • Lakewood",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Modest Mouse",
+      "venue_line": "Jacobs Pavilion at Nautica • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Luna, Sister Ray Davies",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Iguana Death Cult - MOVED TO THE FOUNDRY",
+      "venue_line": "The Mercury Music Lounge • Lakewood",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Dale Watson",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "WEDNESDAY JAM SESSION WITH THE STIX TRIO",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "SHIT SHOW KARAOKE",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

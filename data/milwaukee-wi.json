@@ -1,6 +1,6 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-09-28T17:16:07.791Z",
+  "updated_at": "2026-09-29T15:18:08.984Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,26 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "WWE Monday Night RAW",
-      "venue_line": "Fiserv Forum • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Amigo the Devil w/ Liam St. John",
-      "venue_line": "The Rave-Eagles Club • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Lauren Alaina w/ Shane Profitt",
+      "venue_line": "Pabst Theater • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Too Hot For Leather",
+      "venue_line": "Shank Hall • Milwaukee",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

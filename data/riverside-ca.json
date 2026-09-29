@@ -1,17 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-09-28T17:16:37.555Z",
+  "updated_at": "2026-09-29T15:18:41.469Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Erykah Badu - 21+",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "$25–$77",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Happiness of Pursuit Festival: KOTA THE FRIEND",
+      "venue_line": "Stage Red • Fontana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

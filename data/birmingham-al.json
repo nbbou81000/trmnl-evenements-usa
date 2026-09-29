@@ -1,17 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-09-28T17:16:24.475Z",
+  "updated_at": "2026-09-29T15:18:27.470Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Birmingham Bandstand (Open Mic) at the Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$5",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -199,6 +189,16 @@
       "title": "Waking April at The Nick with Subhymnal, Slippery Dish, CJ Fagan, TENGEN",
       "venue_line": "The Nick • Birmingham",
       "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "All Your Friends: The Indie Party - Ages 18+",
+      "venue_line": "Saturn - Birmingham • Birmingham",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

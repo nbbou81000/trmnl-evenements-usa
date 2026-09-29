@@ -1,24 +1,14 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-09-28T17:16:21.660Z",
+  "updated_at": "2026-09-29T15:18:24.370Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Beach House",
-      "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
       "date_iso": "2026-09-29",
       "title": "The Beths: By Request Tour",
       "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "$27–$37",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Zac Brown Band: Love & Fear Tour",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

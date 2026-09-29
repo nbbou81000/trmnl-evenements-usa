@@ -1,6 +1,6 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-09-28T17:15:44.648Z",
+  "updated_at": "2026-09-29T15:17:43.602Z",
   "events": [
     {
       "day_label": "WED",
@@ -26,21 +26,21 @@
       "day_label": "WED",
       "day_number": "30",
       "date_iso": "2026-09-30",
-      "title": "Line Dancing, Btches 'n Boots",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
       "title": "Rhode Island FC vs. Indy Eleven",
       "venue_line": "Centreville Bank Stadium • Pawtucket",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Line Dancing, Btches 'n Boots",
+      "venue_line": "Six String Grill and Stage • Foxboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "THU",

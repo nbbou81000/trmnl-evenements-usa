@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-09-28T17:15:43.657Z",
+  "updated_at": "2026-09-29T15:17:42.654Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,26 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Murphy's Law",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Dead & Friends",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -197,6 +177,26 @@
       "day_number": "4",
       "date_iso": "2026-10-04",
       "title": "Jazz Jam",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "FREE SHOW - OktoberFest Celebration w/ Fritz's Polka Band",
+      "venue_line": "Middle Ages Loading Dock • Syracuse",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Open mic hosted by Attamizk & friends",
       "venue_line": "Funk 'n Waffles • Syracuse",
       "price_label": "$0",
       "type_key": "music",

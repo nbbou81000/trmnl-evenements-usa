@@ -1,6 +1,6 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-09-28T17:16:25.855Z",
+  "updated_at": "2026-09-29T15:18:28.934Z",
   "events": [
     {
       "day_label": "TUE",
@@ -173,16 +173,6 @@
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Stagner's Showcase feat. Justin Stagner & Friends",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14–$50",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
@@ -201,6 +191,16 @@
       "price_label": "$22",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Double Feature Comedy Night feat. Dan Alten and Carson Taylor",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$21–$50",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

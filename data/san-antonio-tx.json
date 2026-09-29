@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-09-28T17:16:15.253Z",
+  "updated_at": "2026-09-29T15:18:17.209Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,16 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Gable Price And Friends",
-      "venue_line": "Sam's Burger Joint • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-02",
       "title": "The Fab Four: Tribute to the Beatles' A Hard Day's Night",
       "venue_line": "Tobin Center for the Performing Arts • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Juanes North America Tour 2026",
+      "venue_line": "Aztec Theatre • San Antonio",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,47 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-09-28T17:16:08.700Z",
+  "updated_at": "2026-09-29T15:18:10.159Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "J. D. Pride Youth Football",
-      "venue_line": "U.S. Bank Stadium • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "The Garden",
-      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Foster The People: Good Mourning Sunshine Tour",
-      "venue_line": "Armory • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "This Is A Test",
-      "venue_line": "Dudley Riggs Theatre • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "St. Thomas Tommies Womens Volleyball vs. South Dakota Coyotes Womens Volleyball",
+      "venue_line": "Schoenecker Arena • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Liverpool Legends- The Complete Beatles Experience",
+      "venue_line": "Ames Center • Burnsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Tab Benoit: Soul Of The Swamp Tour w/ Special Guest Ghalia Volt",
+      "venue_line": "Pantages Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Rocky Horror Spooktacular Tour",
+      "venue_line": "State Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

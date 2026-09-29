@@ -1,77 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-09-28T17:16:39.306Z",
+  "updated_at": "2026-09-29T15:18:43.363Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Killswitch Engage w/ Machine Head",
-      "venue_line": "Roseland Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Jack Johnson w/ G. Love",
-      "venue_line": "McMenamins Historic Edgefield Manor • Troutdale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Square Dancing with Caller Bex Bee",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "MAX FRY with ayewannabe",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "She & Him",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Tricky",
-      "venue_line": "Wonder Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "KARAOKE FROM HELL",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$8",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -199,6 +129,76 @@
       "title": "ALICIA WITT",
       "venue_line": "Jack London Revue • Portland",
       "price_label": "$31–$237",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "COMBICHRIST with Ludovico Technique & Dead Animal Assembly Plant",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "JULIEN-K & NITE: THE NEON CHRONICLES II TOUR with Starcourt",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Snarky Puppy (21 and Over)",
+      "venue_line": "Revolution Hall - Portland • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Bella Kay",
+      "venue_line": "Wonder Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Al Di Meola",
+      "venue_line": "Aladdin Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "ADELA",
+      "venue_line": "McMenamins Crystal Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Whiskey Wednesday with The Neon Prairie Dogs",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$16",
       "type_key": "music",
       "type_label": "Music"
     }

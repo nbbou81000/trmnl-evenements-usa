@@ -1,27 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-09-28T17:16:28.555Z",
+  "updated_at": "2026-09-29T15:18:31.858Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Holywatr: Deo Gratias Tour",
-      "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$30–$121",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "28",
-      "date_iso": "2026-09-28",
-      "title": "Frankie Tillo , Fastener, Max Vouleis",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Phillip Phillips",
+      "venue_line": "Knitting Factory Concert House - Boise • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "The Used",
+      "venue_line": "Revolution Concert House & Event Center • Garden City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
