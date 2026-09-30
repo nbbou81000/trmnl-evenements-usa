@@ -1,17 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-09-29T15:17:48.089Z",
+  "updated_at": "2026-09-30T15:31:25.351Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Lehigh Valley Phantoms v Wilkes Barre Scranton Penguins",
-      "venue_line": "PPL Center • Allentown",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -197,6 +187,16 @@
       "day_number": "9",
       "date_iso": "2026-10-09",
       "title": "Spider Rockets Performing On the Alien Ant Farm *Celebrating 25 Years",
+      "venue_line": "Gin Mill • Northampton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Alien Ant Farm",
       "venue_line": "Gin Mill • Northampton",
       "price_label": "Price not available",
       "type_key": "music",

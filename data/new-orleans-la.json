@@ -1,47 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-09-29T15:18:25.431Z",
+  "updated_at": "2026-09-30T15:31:59.600Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Comedy Beast",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$8",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "A Birthday Tribute to John Coltrane with Derek Douget, Ricardo Pascal & Trevarri",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Monsieur Periné - Instrucciones Para Ser Feliz Tour",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "A Birthday Tribute to John Coltrane with Derek Douget, Ricardo Pascal & Trevarri",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -156,7 +116,7 @@
       "day_label": "THU",
       "day_number": "1",
       "date_iso": "2026-10-01",
-      "title": "Pete Murano Band featuring Noah Young, Cam Watson & more",
+      "title": "Pete Murano Band featuring Noah Young, Sam Kuslan, Jermal Watson",
       "venue_line": "Gasa Gasa • New Orleans",
       "price_label": "$13",
       "type_key": "music",
@@ -186,18 +146,58 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
-      "title": "THE NATIONAL FRIED CHICKEN FESTIVAL PRESENTED BY RAISING CANE’S",
-      "venue_line": "UNO Lakefront Arena Festival Grounds • New Orleans",
+      "title": "Bayside",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
       "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
-      "title": "Bayside",
-      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "title": "Terry Fator",
+      "venue_line": "Mahalia Jackson Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Jovin Webb",
+      "venue_line": "New Orleans Jazz Market • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Super Session: Wil Blades, Donald Harrison & Mike Clark",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "My Fair Lady",
+      "venue_line": "Westwego Perf Arts Theatre • Westwego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Of Monsters and Men - The Mouse Parade Tour",
+      "venue_line": "Civic Theatre • New Orleans",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

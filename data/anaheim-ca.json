@@ -1,67 +1,7 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-09-29T15:18:42.438Z",
+  "updated_at": "2026-09-30T15:32:16.064Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Lo Moon",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "vianova",
-      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Chasing Abbey",
-      "venue_line": "Constellation Room • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Sleep: North America 2026",
-      "venue_line": "The Observatory • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "D.R.I. LIVE FLYWAY AT THE FOX",
-      "venue_line": "Flyway Night Club - Pomona  • Pomona",
-      "price_label": "$29–$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -166,6 +106,16 @@
       "day_label": "WED",
       "day_number": "30",
       "date_iso": "2026-09-30",
+      "title": "Echoe Presents - Rolling Loud: The Movie Premier Party",
+      "venue_line": "The Belasco • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "Fruit Bats",
       "venue_line": "The Bellwether • Los Angeles",
       "price_label": "Price not available",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-01",
       "title": "From First To Last",
       "venue_line": "House of Blues Anaheim • Anaheim",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Wednesday 13",
+      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Aaron Lee Tasjan",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Castle Rat: Summon The Beasts Tour 2026",
+      "venue_line": "The Belasco • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "venue_line": "Honda Center • Anaheim",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Brian Fallon",
+      "venue_line": "The Observatory • Santa Ana",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-09-29T15:18:26.940Z",
+  "updated_at": "2026-09-30T15:32:00.950Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Damien Jurado w/ Special Guest St. Yuma",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-17",
       "title": "Kevin Gates",
       "venue_line": "Brandon Amphitheater • Brandon",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Great Lake Swimmers w/ Mary Bragg",
+      "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

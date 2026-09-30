@@ -1,27 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-09-29T15:17:51.758Z",
+  "updated_at": "2026-09-30T15:31:28.622Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Black Flag",
-      "venue_line": "Ember Music Hall • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Mt. Joy 2026: Celebrating 10 Years Of Mt. Joy",
-      "venue_line": "Allianz Amphitheater at Riverfront • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-07",
       "title": "Phish",
       "venue_line": "Allianz Amphitheater at Riverfront • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Altria Theater • Richmond",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "VSU Homecoming Concert Suite 2026",
+      "venue_line": "VSU Multi-Purpose Center • Petersburg",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

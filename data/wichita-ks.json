@@ -1,27 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-09-29T15:18:14.145Z",
+  "updated_at": "2026-09-30T15:31:49.210Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "The Cotillion • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "The Cotillion • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-13",
       "title": "sKitz Kraven",
       "venue_line": "Wave • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ashley McBryde",
+      "venue_line": "The Cotillion • Wichita",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Wichita State Shockers Womens Volleyball vs. Texas San Antonio Roadrunners Womens Volleyball",
+      "venue_line": "Charles Koch Arena • Wichita",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

@@ -1,37 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-09-29T15:18:44.300Z",
+  "updated_at": "2026-09-30T15:32:17.893Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Bluey's Big Play - The Stage Show",
-      "venue_line": "Silva Concert Hall • Eugene",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Lynyrd Skynyrd",
-      "venue_line": "Cuthbert Amphitheater • Eugene",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "AJ Croce",
-      "venue_line": "McDonald Theatre • Eugene",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +171,36 @@
       "price_label": "$43",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Menzingers",
+      "venue_line": "Wow Hall • Eugene",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

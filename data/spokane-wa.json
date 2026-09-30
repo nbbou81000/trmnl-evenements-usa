@@ -1,27 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-09-29T15:18:45.902Z",
+  "updated_at": "2026-09-30T15:32:19.441Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Madeon presents Victory Live",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Holywatr: Deo Gratias Tour",
-      "venue_line": "The District • Spokane",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -199,6 +179,26 @@
       "title": "In Her Own Words & Every Avenue with Felicity",
       "venue_line": "The District • Spokane",
       "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Godsmack",
+      "venue_line": "BECU Live at Northern Quest • Airway Heights",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Godsmack",
+      "venue_line": "BECU Live Outdoor Venue • Airway Heights",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

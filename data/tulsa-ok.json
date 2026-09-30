@@ -1,17 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-09-29T15:18:22.308Z",
+  "updated_at": "2026-09-30T15:31:56.687Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "SHAWN JAMES ???FLEW TOO CLOSE TO THE SUN TOUR\"",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-03",
       "title": "Blake Whiten",
       "venue_line": "Tulsa Expo Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Bobby Lees",
+      "venue_line": "Vanguard - OK • Tulsa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

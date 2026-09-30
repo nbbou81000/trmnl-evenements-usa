@@ -1,17 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-09-29T15:17:52.738Z",
+  "updated_at": "2026-09-30T15:31:29.543Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "FANTASY: A Tribute to Earth, Wind, & Fire",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Virginia Symphony: Amadeus Live",
+      "venue_line": "Harrison Opera House • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

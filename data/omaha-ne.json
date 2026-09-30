@@ -1,17 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-09-29T15:18:12.202Z",
+  "updated_at": "2026-09-30T15:31:47.468Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Omaha Men's Soccer vs. Creighton",
-      "venue_line": "Caniglia Field • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -156,21 +146,31 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Omaha Community Playhouse • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
       "title": "BECK: RIDE LONESOME TOUR",
       "venue_line": "Steelhouse Omaha • Omaha",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Pre-Show Happy Hour: Beck - Not A Concert Ticket*",
+      "venue_line": "Steelhouse Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Come from Away (Touring)",
+      "venue_line": "Omaha Community Playhouse • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SAT",

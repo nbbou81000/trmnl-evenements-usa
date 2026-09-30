@@ -1,6 +1,6 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-09-29T15:17:55.347Z",
+  "updated_at": "2026-09-30T15:31:31.991Z",
   "events": [
     {
       "day_label": "FRI",
@@ -46,21 +46,21 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Sugarland: Ride or Die Tour",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
       "title": "Wake Forest Demon Deacons Football vs. Stanford Cardinal Football",
       "venue_line": "Allegacy Federal Credit Union Stadium • Winston Salem",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Sugarland: Ride or Die Tour",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SUN",

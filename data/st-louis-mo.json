@@ -1,37 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-09-29T15:18:11.207Z",
+  "updated_at": "2026-09-30T15:31:46.593Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "USMNT v Chile Impact Match presented by New York Life",
-      "venue_line": "Energizer Park • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Dan and Phil: Hard Launch World Tour",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Marc Scibilia - No One Knows My Name Tour",
-      "venue_line": "Delmar Hall • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -199,6 +169,36 @@
       "title": "Anthony DeVito",
       "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "NAPA Auto Parts NHRA Midwest Nationals - Saturday",
+      "venue_line": "World Wide Technology Raceway at Gateway • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Al Holliday Trio",
+      "venue_line": "Atomic Lounge • St. Louis",
+      "price_label": "$0–$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "This, That & Hip Hop",
+      "venue_line": "Atomic Garage • St. Louis",
+      "price_label": "$18",
       "type_key": "music",
       "type_label": "Music"
     }

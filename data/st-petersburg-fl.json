@@ -1,17 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-09-29T15:18:01.137Z",
+  "updated_at": "2026-09-30T15:31:37.298Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "starsdontmeananything with Reap What You Sow, Indebted, and Luciidea",
-      "venue_line": "Deviant Libation • Tampa",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Tampa Bay Lightning vs. Washington Capitals",
+      "venue_line": "Benchmark International Arena • Tampa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "city_label": "Boston, MA",
-  "updated_at": "2026-09-29T15:17:40.222Z",
+  "updated_at": "2026-09-30T15:31:18.095Z",
   "events": [
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -13,9 +13,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -23,9 +23,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -33,9 +33,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -43,9 +43,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -53,9 +53,19 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Pennywise",
+      "venue_line": "Citizens House of Blues Boston • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "Wicked (Touring)",
       "venue_line": "Citizens Opera House • Boston",
       "price_label": "Price not available",
@@ -63,144 +73,134 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Logic & G-Eazy: The Endless Summer Tour Part II",
-      "venue_line": "Leader Bank Pavilion • Boston",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "PRIVATE EVENT: Ukrainian",
+      "venue_line": "Middle East - Downstairs • Cambridge",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "W.A.S.P. - 1984 TO HEADLESS",
-      "venue_line": "Citizens House of Blues Boston • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Hot Flash Heat Wave, High, Pinklids",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Tōth, Sean Nicholas Savage",
       "venue_line": "Middle East - Upstairs • Cambridge",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Lady Heroine,  Don't Tell Iris,  Jermaine Kelly, Tiffy",
+      "venue_line": "Sonia • Cambridge",
       "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Gnash",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "GLAIVE - GOD SAVE THE THREE TOUR",
+      "venue_line": "Paradise Rock Club presented by Citizens • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Asha Banks: something inbetween tour",
       "venue_line": "Brighton Music Hall presented by Citizens • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Matty In The Morning",
+      "venue_line": "The Wilbur • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Boston Symphony Orchestra",
+      "venue_line": "Boston Symphony Hall • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Line Dancing, Btches 'n Boots",
+      "venue_line": "Six String Grill and Stage • Foxboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Ringo Starr and His All Starr Band",
       "venue_line": "MGM Music Hall at Fenway • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Boston Bruins vs. New York Rangers",
-      "venue_line": "TD Garden • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Ludovico Einaudi",
-      "venue_line": "Boston Symphony Hall • Boston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Frog",
-      "venue_line": "Crystal Ballroom at Somerville Theatre • Somerville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Roger Daltrey - A Great Night Out",
-      "venue_line": "Chevalier Theatre • Medford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Slayyyter",
-      "venue_line": "Roadrunner-Boston • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "florence road",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Towa Bird w/ Mother Soki",
       "venue_line": "The Sinclair Music Hall • Cambridge",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "The Jungle Giants",
+      "venue_line": "Crystal Ballroom at Somerville Theatre • Somerville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Morrissey",
+      "venue_line": "Lowell Memorial Auditorium • Lowell",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
       "title": "Ninajirachi (18 and Over)",
       "venue_line": "Royale Boston • Boston",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Hipocampo ",
-      "venue_line": "Middle East - Zuzu • Cambridge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Mood",
-      "venue_line": "Middle East - Corner/Bakery • Cambridge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

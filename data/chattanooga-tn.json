@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-09-29T15:18:24.891Z",
+  "updated_at": "2026-09-30T15:31:59.106Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Caamp",
-      "venue_line": "Soldiers and Sailors Memorial Auditorium • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +187,16 @@
       "day_number": "8",
       "date_iso": "2026-10-08",
       "title": "Niko Moon - VIP Upgrades",
+      "venue_line": "The Signal • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Niko Moon",
       "venue_line": "The Signal • Chattanooga",
       "price_label": "Price not available",
       "type_key": "music",

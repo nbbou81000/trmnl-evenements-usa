@@ -1,17 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-09-29T15:18:32.343Z",
+  "updated_at": "2026-09-30T15:32:06.196Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "BABYMETAL WORLD TOUR 2026",
-      "venue_line": "First Financial Credit Union Amphitheater • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-04",
       "title": "Knumears w/ Catalyst",
       "venue_line": "El Rey - NM • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Brit Floyd",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

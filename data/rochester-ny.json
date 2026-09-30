@@ -1,17 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-09-29T15:17:42.193Z",
+  "updated_at": "2026-09-30T15:31:19.932Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Cheekface w/ special guest Apes of the State",
-      "venue_line": "The Montage Music Hall • Rochester",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Stéphane Wrembel: Rochester Concert Series - Dreamers of Dreams",
+      "venue_line": "Lovin' Cup • Rochester",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-09-29T15:17:58.020Z",
+  "updated_at": "2026-09-30T15:31:34.280Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,6 +11,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Windsor Club Add-On: BLACK JACKET SYMPHONY 10/9",
+      "venue_line": "Columbia County Performing Arts Center • Evans",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "FRI",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "24",
-      "date_iso": "2026-11-24",
-      "title": "Jersey Boys",
-      "venue_line": "Columbia County Performing Arts Center • Evans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     }
   ]
 }

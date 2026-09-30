@@ -1,72 +1,12 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-09-29T15:18:08.984Z",
+  "updated_at": "2026-09-30T15:31:44.741Z",
   "events": [
     {
       "day_label": "FRI",
       "day_number": "11",
       "date_iso": "2026-09-11",
       "title": "China Lights Wisconsin 2026 Season Pass",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Bryson Tiller Amped Up Upgrade-Not A Concert Ticket",
-      "venue_line": "American Family Insurance Amphitheater - Summerfest Grounds • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "venue_line": "American Family Insurance Amphitheater - Summerfest Grounds • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Foster The People: Good Mourning Sunshine Tour",
-      "venue_line": "Landmark Credit Union Live • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "China Lights Wisconsin 2026",
       "venue_line": "Boerner Botanical Gardens • Hales Corners",
       "price_label": "Price not available",
       "type_key": "misc",
@@ -201,6 +141,66 @@
       "price_label": "$16",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Taking Back Sunday w/ Thrice",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Chad Daniels",
+      "venue_line": "Milwaukee Improv (Main Room) • Brookfield",
+      "price_label": "$32–$106",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-09-29T15:17:42.654Z",
+  "updated_at": "2026-09-30T15:31:20.357Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,26 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Friends Of The Central Library Author Series: Gary Shteyngart",
-      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "PIG",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -199,6 +179,26 @@
       "title": "Open mic hosted by Attamizk & friends",
       "venue_line": "Funk 'n Waffles • Syracuse",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "DEAD NIGHT w/ Grateful Upstate Toodeloo",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Nevertel",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$29–$142",
       "type_key": "music",
       "type_label": "Music"
     }

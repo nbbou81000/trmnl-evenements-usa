@@ -1,17 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-09-29T15:17:49.698Z",
+  "updated_at": "2026-09-30T15:31:26.763Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Taste of Chaos",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -199,6 +189,16 @@
       "title": "Uncle Acid and The Deadbeats w/ Messa",
       "venue_line": "Palladium-MA • Worcester",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Goodbye June, Danny Worsnop",
+      "venue_line": "Off The Rails Music Venue • Worcester",
+      "price_label": "$27–$79",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,17 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-09-29T15:18:46.356Z",
+  "updated_at": "2026-09-30T15:32:19.981Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "An Evening with \"Soul Trumpeter\" Lin Rountree",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$46–$57",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -116,6 +106,16 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
+      "title": "95th HHAA Great Gun Show - SATURDAY",
+      "venue_line": "Neal S Blaisdell Exhibition Hall • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Cirque du Soleil: Auana",
       "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
       "price_label": "Price not available",
@@ -166,6 +166,16 @@
       "day_label": "SUN",
       "day_number": "4",
       "date_iso": "2026-10-04",
+      "title": "95th HHAA Great Gun Show - SUNDAY",
+      "venue_line": "Neal S Blaisdell Exhibition Hall • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
       "title": "Cirque du Soleil: Auana",
       "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
       "price_label": "Price not available",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "The Zaccai Curtis Trio",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$34–$46",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

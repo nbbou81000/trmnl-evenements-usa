@@ -1,27 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-09-29T15:18:37.962Z",
+  "updated_at": "2026-09-30T15:32:11.784Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Matthew West: Jesus Is King Tour - San Jose, CA",
-      "venue_line": "Church on the Hill • San Jose",
-      "price_label": "$15–$58",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Candlebox",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -199,6 +179,26 @@
       "title": "Sploinky Rave",
       "venue_line": "The Ritz • San Jose",
       "price_label": "$19–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Lost and Found",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Moe's Alley Presents: Diggin Dirt (Night 1)",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,57 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-09-29T15:18:10.159Z",
+  "updated_at": "2026-09-30T15:31:45.672Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Dying Fetus & Sanguisugabogg - 15+",
-      "venue_line": "Uptown Theater Minneapolis • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
-      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Knocked Loose w/ Denzel Curry",
-      "venue_line": "Myth • Maplewood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Bayonne",
-      "venue_line": "7th Street Entry • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "This Is A Test",
-      "venue_line": "Dudley Riggs Theatre • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -136,16 +86,6 @@
       "day_label": "THU",
       "day_number": "1",
       "date_iso": "2026-10-01",
-      "title": "First Round - New York Liberty at Minnesota Lynx Rd 1 Hm Gm 2",
-      "venue_line": "Target Center • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
       "title": "Ripe",
       "venue_line": "Varsity Theater • Minneapolis",
       "price_label": "Price not available",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "MrBallen: Lights out Live",
+      "venue_line": "Orpheum Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "DJ Shadow (18+ Event)",
+      "venue_line": "Palace Theatre-MN • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "U.S. Bank Stadium Tour",
+      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Minnesota Renaissance Festival",
+      "venue_line": "Minnesota Renaissance Festival • Shakopee",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Akaash Singh: Generational Triumph Tour",
+      "venue_line": "Uptown Theater Minneapolis • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "St. Thomas Tommies Womens Hockey vs. Ohio State Buckeyes Womens Ice Hockey",
+      "venue_line": "Lee and Penny Anderson Arena • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

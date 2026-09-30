@@ -1,77 +1,7 @@
 {
   "city_label": "San Francisco, CA",
-  "updated_at": "2026-09-29T15:18:37.495Z",
+  "updated_at": "2026-09-30T15:32:11.325Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Triangle Fire/ Choke/ P.O.S./ Ick",
-      "venue_line": "Neck of the Woods • San Francisco",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Mary, Queen of Scots w/ San Francisco Opera",
-      "venue_line": "War Memorial Opera House • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Joe Klocek & Friends",
-      "venue_line": "Punch Line Comedy Club - San Francisco • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Ethan Regan",
-      "venue_line": "August Hall • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "CupcakKe",
-      "venue_line": "The Regency Ballroom • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Sophie Truax",
-      "venue_line": "The Chapel • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Karaoke Tuesday",
-      "venue_line": "Neck of the Woods • San Francisco",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Failure w/ quannnic",
+      "venue_line": "The Chapel • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Emei, Madelline",
+      "venue_line": "Bimbo's 365 Club • San Francisco",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Author & Punisher/ Guiltless/ Ex Everything",
+      "venue_line": "Neck of the Woods • San Francisco",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Jack Johnson: SURFILMUSIC Tour 2026",
+      "venue_line": "Greek Theatre-U.C. Berkeley • Berkeley",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "An Evening Honoring Steve Earle",
+      "venue_line": "The Masonic • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Clement St Comedy",
+      "venue_line": "Neck of the Woods • San Francisco",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "George Civeris",
+      "venue_line": "Cobb's Comedy Club • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

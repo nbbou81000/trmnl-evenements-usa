@@ -1,17 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-09-29T15:17:53.281Z",
+  "updated_at": "2026-09-30T15:31:30.057Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Starbomb featuring DJ Commander Meouch - Probably The Only Tour Ever",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -181,6 +171,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "UNC Charlotte 49ers Football vs. Memphis Tigers Football",
+      "venue_line": "Jerry Richardson Stadium • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

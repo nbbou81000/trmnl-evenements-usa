@@ -1,27 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-09-29T15:18:41.469Z",
+  "updated_at": "2026-09-30T15:32:15.086Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "D.R.I. LIVE FLYWAY AT THE FOX",
-      "venue_line": "Flyway Night Club - Pomona  • Pomona",
-      "price_label": "$29–$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Julieta Venegas - 21 & Over",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
+      "venue_line": "Glen Helen Amphitheater • San Bernardino",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Ontario Reign vs. Coachella Valley Firebirds",
+      "venue_line": "Toyota Arena-CA • Ontario",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

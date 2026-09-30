@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-09-29T15:17:56.444Z",
+  "updated_at": "2026-09-30T15:31:32.957Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Akeem Ali - The Texture Tour",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -197,6 +187,16 @@
       "day_number": "27",
       "date_iso": "2026-10-27",
       "title": "CupcakKe",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Yung Gravy: The Joyrider Tour",
       "venue_line": "The Senate • Columbia",
       "price_label": "Price not available",
       "type_key": "music",

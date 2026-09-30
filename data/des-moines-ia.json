@@ -1,27 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-09-29T15:18:13.213Z",
+  "updated_at": "2026-09-30T15:31:48.372Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Tell It Like It Is: Iowa Storytellers Project \" Voyages\"",
-      "venue_line": "Hoyt Sherman Place • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Ian McConnell w/ Cherokee Social",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-03",
       "title": "Cheekface w/ Apes of the State",
       "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Ringling Bros B&B: The Greatest Show on Earth",
+      "venue_line": "Casey's Center • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "512: The Selena Experience",
+      "venue_line": "The Ingersoll • Des Moines",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

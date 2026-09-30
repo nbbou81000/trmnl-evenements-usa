@@ -1,17 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-09-29T15:17:43.128Z",
+  "updated_at": "2026-09-30T15:31:20.827Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Thousand Below",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-07",
       "title": "Ringo Starr and His All Starr Band",
       "venue_line": "The Palace Theatre Albany • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Tragedy: All Metal Tribute to the Bee Gees and Beyond",
+      "venue_line": "Empire Underground • Albany",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

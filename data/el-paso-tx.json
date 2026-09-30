@@ -1,27 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-09-29T15:18:18.362Z",
+  "updated_at": "2026-09-30T15:31:53.139Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Boz Scaggs Rhythm Review 2026",
-      "venue_line": "Abraham Chavez Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "UTEP Symphony Orchestra- UTEP Department of Music",
-      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -186,6 +166,16 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
+      "title": "UTEP FB v Nevada",
+      "venue_line": "Sun Bowl Stadium • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "EPSO Presents: Harry Potter and the Prisoner of Azkaban in Concert",
       "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
       "price_label": "Price not available",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Los Lonely Boys: Rockpango Fest 2026 - canceled",
+      "venue_line": "Abraham Chavez Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

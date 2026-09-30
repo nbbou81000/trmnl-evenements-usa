@@ -1,6 +1,6 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-09-29T15:18:33.241Z",
+  "updated_at": "2026-09-30T15:32:07.071Z",
   "events": [
     {
       "day_label": "THU",
@@ -76,16 +76,6 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Arizona Wildcats Football vs. Cincinnati Bearcats Football",
-      "venue_line": "Casino Del Sol Stadium • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
       "title": "Cage Series XI @ Rialto Theatre",
       "venue_line": "Rialto Theatre-Tucson • Tucson",
       "price_label": "Price not available",
@@ -111,6 +101,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Arizona Wildcats Football vs. Cincinnati Bearcats Football",
+      "venue_line": "Casino Del Sol Stadium • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

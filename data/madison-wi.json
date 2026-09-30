@@ -1,17 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-09-29T15:18:09.549Z",
+  "updated_at": "2026-09-30T15:31:45.198Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Modest Mouse",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -126,21 +116,21 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "R&B ONLY LIVE - Madison, WI",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
       "title": "Wisconsin Badgers Football vs. Michigan State Spartans Football",
       "venue_line": "Camp Randall • Madison",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "R&B ONLY LIVE - Madison, WI",
+      "venue_line": "The Sylvee • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -196,6 +186,16 @@
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
+      "title": "The Wiz (Touring)",
+      "venue_line": "Capitol Theater - Overture Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
       "title": "The Wiz (Touring)",
       "venue_line": "Capitol Theater - Overture Center • Madison",
       "price_label": "Price not available",

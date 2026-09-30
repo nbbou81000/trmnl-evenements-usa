@@ -1,6 +1,6 @@
 {
   "city_label": "Santa Fe, NM",
-  "updated_at": "2026-09-29T15:18:32.751Z",
+  "updated_at": "2026-09-30T15:32:06.614Z",
   "events": [
     {
       "day_label": "SUN",
@@ -59,6 +59,16 @@
       "title": "Lyle Lovett",
       "venue_line": "Lensic Performing Arts Center • Santa Fe",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Logan Ryan Band inside The Bridge at Santa Fe Brewing Co.",
+      "venue_line": "The Bridge at Santa Fe Brewing Company • Santa Fe",
+      "price_label": "$34",
       "type_key": "music",
       "type_label": "Music"
     }

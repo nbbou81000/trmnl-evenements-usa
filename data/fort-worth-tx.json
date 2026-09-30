@@ -1,37 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-09-29T15:18:16.146Z",
+  "updated_at": "2026-09-30T15:31:51.189Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Legacy of the Longhorn",
-      "venue_line": "Cowtown Coliseum • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Test Your Mic",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "YSL Records & Young Thug Present: The New Generation Tour",
-      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-02",
       "title": "TCU Horned Frogs Womens Volleyball vs. Colorado Buffaloes Womens Volleyball",
       "venue_line": "Ed and Rae Schollmaier Arena • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "TCU Horned Frogs Womens Soccer vs. Cincinnati Bearcats Womens Soccer",
+      "venue_line": "Garvey-Rosenthal Soccer Stadium • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Joe Fenti",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Stockyards Championship Rodeo",
+      "venue_line": "Cowtown Coliseum • Fort Worth",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

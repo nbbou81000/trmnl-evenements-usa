@@ -1,27 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-09-29T15:18:27.470Z",
+  "updated_at": "2026-09-30T15:32:01.407Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Mumford & Sons - Prizefighter Tour",
-      "venue_line": "Coca-Cola Amphitheater • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "Bham Songwriters Night with SlapOut and Galactic Goth",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -67,6 +47,16 @@
       "day_number": "30",
       "date_iso": "2026-09-30",
       "title": "IguanaHead with Fire Camino, Fear of Noise at The Nick 09/30",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "30",
+      "date_iso": "2026-09-30",
+      "title": "Viva DeConcini at The Nick Wednesday!",
       "venue_line": "The Nick • Birmingham",
       "price_label": "$9",
       "type_key": "music",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "UAB Blazers Football | Official BJCC Ticket + Hotel Packages ",
+      "venue_line": "Protective Stadium • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

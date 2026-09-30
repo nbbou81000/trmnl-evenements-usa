@@ -1,17 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-09-29T15:18:21.835Z",
+  "updated_at": "2026-09-30T15:31:56.209Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "29",
-      "date_iso": "2026-09-29",
-      "title": "ROLLING QUARTZ [MY TURN] 2026 TOUR in Oklahoma City",
-      "venue_line": "89th Street - OKC • Oklahoma City",
-      "price_label": "$36–$246",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Come from Away (Touring)",
+      "venue_line": "Lyric Theatre of Oklahoma • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }
