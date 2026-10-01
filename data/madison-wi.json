@@ -1,17 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-09-30T15:31:45.198Z",
+  "updated_at": "2026-10-01T15:55:07.103Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "KiNG MALA: The Golden Thing Tour",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Bongzilla",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

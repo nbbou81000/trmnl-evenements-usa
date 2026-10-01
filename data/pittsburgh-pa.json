@@ -1,67 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-09-30T15:31:19.013Z",
+  "updated_at": "2026-10-01T15:54:41.472Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Olivia Rodrigo: The Unraveled Tour",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "All Elite Wrestling Presents DYNAMITE",
-      "venue_line": "Petersen Events Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Randy Feltface: Gimmick",
-      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Beach House",
-      "venue_line": "Stage AE • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Bad Nerves   with Special Guests Sunny Daze & The Weathermen and Glass Caps",
-      "venue_line": "The Funhouse @ Mr Smalls • Millvale",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "El Ten Eleven (18 and Over or accompanied by legal guardian)",
-      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Joe Machi",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$5–$81",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Robert Morris University Colonials Football vs Norfolk State Univ",
+      "venue_line": "Joe Walton Stadium • Moon Township",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Joe Machi",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Pittsburgh Penguins vs. Montreal Canadiens (Home Opener)",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Paul Oakenfold + The Crystal Method: Mission Underground Tour",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "CRASHING OUT LIVE",
+      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

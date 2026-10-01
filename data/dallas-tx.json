@@ -1,107 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-09-30T15:31:50.674Z",
+  "updated_at": "2026-10-01T15:55:12.387Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Rodrigo y Gabriela",
-      "venue_line": "House of Blues Dallas  • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Extortionist, Deathtape, Pound of Flesh, Prisoner of War",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Fcukers",
-      "venue_line": "The Echo Lounge & Music Hall • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Grace Enger",
-      "venue_line": "AM/FM Dallas • Dallas",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jane Don't Does America",
-      "venue_line": "Addison Improv • Addison",
-      "price_label": "$44–$371",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Just Nesh",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jane Remover (16 and under with legal guardian)",
-      "venue_line": "The Studio at the Bomb Factory • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "First Round - Golden State Valkyries at Dallas Wings Rd 1 Hm Gm 1",
-      "venue_line": "College Park Center • Arlington",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Wub Wednesday",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Hybrid Minds - Ages 18+",
+      "venue_line": "SILO • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Palace - USA & Canada Tour 2026",
+      "venue_line": "House of Blues Dallas  • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Joe Fenti",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Dallas Symphony Orchestra Presents Rachmaninoff and Time for Three",
+      "venue_line": "Morton Meyerson Symphony Center • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Ian Fidance",
+      "venue_line": "Addison Improv • Addison",
+      "price_label": "$28–$238",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Damon Williams",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Parcels - Loved Tour 2026",
+      "venue_line": "South Side Ballroom • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Apex Fallen, All Is Taken, Spinecell",
+      "venue_line": "Three Links Deep Ellum • Dallas",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Dallas Stars vs. St. Louis Blues",
+      "venue_line": "American Airlines Center • Dallas",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Downtown Dallas Comedy - Featuring Jay Lamont",
+      "venue_line": "Clarence Muse Cafe Theater • Dallas",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

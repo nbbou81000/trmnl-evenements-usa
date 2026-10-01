@@ -1,117 +1,7 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-09-30T15:32:07.526Z",
+  "updated_at": "2026-10-01T15:55:28.190Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Chase Field Stadium Tours",
-      "venue_line": "Chase Field • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Castle Rat w/ Unto Others",
-      "venue_line": "Nile Theater • Mesa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "CRADLE OF FILTH: Majestic In Death II with Special Guests",
-      "venue_line": "The Van Buren • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Les Miserables (Touring)",
-      "venue_line": "Phoenix Theatre - Stephenson Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Parcels - Loved Tour 2026",
-      "venue_line": "Arizona Financial Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "ASU Gammage • Tempe",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Comedy @ Kerr",
-      "venue_line": "ASU Kerr • Scottsdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "VALLEYOKE! HOSTED BY COREY GOMEZ",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Drag Bingo Feat. Barbra Seville",
-      "venue_line": "Thunderbird Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Ryan Castro: Sende - The Last Dance Tour",
-      "venue_line": "Marquee Theatre • Tempe",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +91,116 @@
       "price_label": "$35–$75",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Phantom of the Opera (Touring)",
+      "venue_line": "ASU Gammage • Tempe",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "EDGAR ALEJANDRO",
+      "venue_line": "Crescent Ballroom • Phoenix",
+      "price_label": "$46",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "French Police",
+      "venue_line": "The Van Buren • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Loterã­A Thursdays",
+      "venue_line": "Thunderbird Lounge • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "FIGHTMASTER",
+      "venue_line": "The Rebel Lounge • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "FIGHTMASTER",
+      "venue_line": "The Rebel Lounge • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "LATIN NIGHT WITH DJ RECO",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Chase Field Stadium Tours",
+      "venue_line": "Chase Field • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Phxpride October First Friday Melrose Market",
+      "venue_line": "Thunderbird Lounge • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "DJ MYGODCOMPLEX // HIP HOP / FUNK / SOUL / WORLD / DISCO",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

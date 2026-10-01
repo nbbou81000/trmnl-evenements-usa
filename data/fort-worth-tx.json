@@ -1,67 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-09-30T15:31:51.189Z",
+  "updated_at": "2026-10-01T15:55:12.811Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Legacy of the Longhorn",
-      "venue_line": "Cowtown Coliseum • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "97.1 The Eagle Presents Five Finger Death Punch",
-      "venue_line": "Dickies Arena • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Suites: 97.1 The Eagle Presents Five Finger Death Punch",
-      "venue_line": "Dickies Arena • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Just Nesh",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "First Round - Golden State Valkyries at Dallas Wings Rd 1 Hm Gm 1",
-      "venue_line": "College Park Center • Arlington",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Damon Williams",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "PBR Teams Series: Rattler Days",
+      "venue_line": "Dickies Arena • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Suites: PBR Teams Series: Rattler Days",
+      "venue_line": "Dickies Arena • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Casanova",
+      "venue_line": "Bass Performance Hall • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Phylicia Dshea",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Damon Williams",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

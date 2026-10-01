@@ -1,17 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-09-30T15:31:57.729Z",
+  "updated_at": "2026-10-01T15:55:18.920Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "ZZ Top",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -153,16 +143,6 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "venue_line": "FedExForum • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "PRETTY LIGHTS AFTER PARTY: w/ Maddy O'Neal, Motifv, Since Juleye",
+      "venue_line": "Minglewood Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Mempho Fest",
+      "venue_line": "Radians Amphitheater • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

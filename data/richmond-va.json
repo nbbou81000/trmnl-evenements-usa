@@ -1,17 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-09-30T15:31:28.622Z",
+  "updated_at": "2026-10-01T15:54:50.685Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Buena Vista Orchestra",
-      "venue_line": "The National • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +187,16 @@
       "day_number": "7",
       "date_iso": "2026-10-07",
       "title": "VSU Homecoming Concert Suite 2026",
+      "venue_line": "VSU Multi-Purpose Center • Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "VSU Homecoming Concert 2026",
       "venue_line": "VSU Multi-Purpose Center • Petersburg",
       "price_label": "Price not available",
       "type_key": "music",

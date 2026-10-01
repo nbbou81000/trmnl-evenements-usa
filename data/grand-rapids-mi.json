@@ -1,37 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-09-30T15:31:40.058Z",
+  "updated_at": "2026-10-01T15:55:02.223Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Taking Back Sunday",
-      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Tip Top's Open Mic Hosted by Sound guy Cliff and Rowdy Fingers",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jeru The Damaja + The Fist Coalition + Gwopped Up $peedy + DJ Ill One",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$39",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -126,9 +96,9 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
-      "title": "Jennifer Knapp",
+      "title": "An Evening with Jennifer Knapp",
       "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$29–$80",
+      "price_label": "$29",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +171,36 @@
       "price_label": "$12",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Hot In Herre: 2000's Dance Party",
+      "venue_line": "Intersection - Elevation • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Psychoblab Studios Presents: Drink and Draw",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Lucy Darling: You're Welcome",
+      "venue_line": "DeVos Performance Hall • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

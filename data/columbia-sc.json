@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-09-30T15:31:32.957Z",
+  "updated_at": "2026-10-01T15:54:54.700Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Beths - By Request Tour",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -131,6 +121,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "SC Pride Aftermath - 21+",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "THU",

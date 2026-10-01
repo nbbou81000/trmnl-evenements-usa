@@ -1,47 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-09-30T15:32:02.848Z",
+  "updated_at": "2026-10-01T15:55:23.704Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Crescent Comedy Workshop",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$2",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Crescent Comedy Chaos",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Struggle Jennings",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$33–$68",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Struggle Jennings",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -199,6 +159,46 @@
       "title": "BIG DEAL BURLESQUE Presented by Roxie Le Rouge",
       "venue_line": "Alabama Music Box • Mobile",
       "price_label": "$8–$127",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Double Feature Comedy Night feat. Dan Alten and Carson Taylor",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$21–$50",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Nighttime with Carson Taylor",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$21",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Black and Gold on the Movie Screen",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$2",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Off The Cuff Puppet Improv",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14",
       "type_key": "misc",
       "type_label": "Other"
     }

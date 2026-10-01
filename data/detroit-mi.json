@@ -1,87 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-09-30T15:31:39.618Z",
+  "updated_at": "2026-10-01T15:55:01.697Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Loving Touch Line Skipper - Militarie Gun",
-      "venue_line": "The Loving Touch • Ferndale",
-      "price_label": "$12",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Militarie Gun - 20 Songs for 20 Dollars",
-      "venue_line": "The Loving Touch • Ferndale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Unpopular Opinion Night (21+)",
-      "venue_line": "Saint Andrew's Hall • Detroit",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Kickstand Productions Presents: Haute & Freddy's Big Disgrace Tour",
-      "venue_line": "The Magic Bag • Ferndale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Chelsea Wolfe w/ Jonathan Hulten",
-      "venue_line": "Jack White Theatre at the Masonic Temple - Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Role Model Presents: Chuck On Tour",
-      "venue_line": "Michigan Lottery Amphitheatre at Freedom Hill • Sterling Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "THE CHICKS - TAKING THE LONG WAY",
-      "venue_line": "Fox Theatre Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Chicks - Suite Rental",
-      "venue_line": "Fox Theatre Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Malcolm Todd - Suite Rental",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Malcolm Todd: Do That Again Tour",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "BERT KREISCHER: PERMISSION TO PARTY",
+      "venue_line": "The Colosseum at Caesars Windsor • Windsor",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "BERT KREISCHER: PERMISSION TO PARTY | Caesars Ticket + Hotel Packages",
+      "venue_line": "The Colosseum at Caesars Windsor • Windsor",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Taste Of Chaos",
+      "venue_line": "The Fillmore Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Citizen w/ Anxious",
+      "venue_line": "Majestic Theatre-MI • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "156/Silence, Aviana, Heavensgate, Fromjoy",
+      "venue_line": "TSDMAAC • Detroit",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Detroit Red Wings vs. New York Rangers",
+      "venue_line": "Little Caesars Arena • Detroit",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

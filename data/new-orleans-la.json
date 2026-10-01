@@ -1,67 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-09-30T15:31:59.600Z",
+  "updated_at": "2026-10-01T15:55:20.713Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Sam Kuslan & Lawrence Sieberth",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Delfeayo Marsalis & the Uptown Jazz Orchestra",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Stoned vs. Drunk vs. Sober: A Standup Comedy Competition",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$16",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Cha Wa",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$33–$52",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Damien Jurado with St. Yuma",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Delfeayo Marsalis & the Uptown Jazz Orchestra",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -199,6 +139,66 @@
       "title": "Of Monsters and Men - The Mouse Parade Tour",
       "venue_line": "Civic Theatre • New Orleans",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Mike Goodwin presented by Laugh Life Comedy",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$30",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "River Eckert: Generations of Groove - A Benefit for Tipitina’s Foundation",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$46",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "NOLAxNOLA presents: The Bottoms w/ Shawn Gwin (\"Sage\" from Dr. Mary's Monkey)",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Sub-Division Joy Division Tribute w/ The English Channels Cure Tribute",
+      "venue_line": "Gasa Gasa • New Orleans",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Super Session: Wil Blades, Donald Harrison & Mike Clark",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Erica Falls & Friends Present A Night of Marvin Gaye",
+      "venue_line": "Chickie Wah Wah • New Orleans",
+      "price_label": "$45–$88",
       "type_key": "music",
       "type_label": "Music"
     }

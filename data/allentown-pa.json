@@ -1,17 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-09-30T15:31:25.351Z",
+  "updated_at": "2026-10-01T15:54:47.574Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Pat Metheny",
-      "venue_line": "State Theatre- Easton • Easton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -36,16 +26,6 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
-      "title": "THROWN",
-      "venue_line": "Archer Music Hall • Allentown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
       "title": "Ann Wilson: The Voice of Heart & Tripsitter",
       "venue_line": "The Wind Creek Event Center • Bethlehem",
       "price_label": "Price not available",
@@ -61,6 +41,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Lehigh Mountain Hawks Football vs. Fordham Rams Football",
+      "venue_line": "Goodman Stadium • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Lafayette College Leopards Football vs. Richmond Spiders Football",
+      "venue_line": "Fisher Stadium • Easton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -88,26 +88,6 @@
       "date_iso": "2026-10-03",
       "title": "Lehigh Valley Phantoms v Hartford Wolf Pack",
       "venue_line": "PPL Center • Allentown",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Lehigh Mountain Hawks Football vs. Fordham Rams Football",
-      "venue_line": "Goodman Stadium • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Lafayette College Leopards Football vs. Richmond Spiders Football",
-      "venue_line": "Fisher Stadium • Easton",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "George Birge",
+      "venue_line": "Arrow • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "BKFC Fight Night Bethlehem",
+      "venue_line": "The Wind Creek Event Center • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

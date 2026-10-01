@@ -1,57 +1,7 @@
 {
   "city_label": "Miami, FL",
-  "updated_at": "2026-09-30T15:31:35.450Z",
+  "updated_at": "2026-10-01T15:54:56.894Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Miami FC vs. Sporting Jax",
-      "venue_line": "Pitbull Stadium • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "Ziff Ballet Opera House-Adrienne Arsht PAC • Miami",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Of Monsters and Men - The Mouse Parade Tour",
-      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +151,56 @@
       "price_label": "$29",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Club 90's Presents 2000's Night",
+      "venue_line": "Revolution Live • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "PartyNextDoor",
+      "venue_line": "LIV Nightclub Miami • Miami Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Courtside Cardshow Miami Three Day VIP Pass 10am Entry",
+      "venue_line": "James L Knight Center Riverfront Hall • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Courtside Cardshow Miami",
+      "venue_line": "James L Knight Center Riverfront Hall • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Buena Vista Social Club (Touring)",
+      "venue_line": "Ziff Ballet Opera House-Adrienne Arsht PAC • Miami",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

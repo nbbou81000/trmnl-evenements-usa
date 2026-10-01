@@ -1,47 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-09-30T15:31:46.593Z",
+  "updated_at": "2026-10-01T15:55:08.533Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Mohanad Elshieky",
-      "venue_line": "Helium Comedy Club - St. Louis • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Leonid & Friends",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Voodoo Billy vs. Elton",
-      "venue_line": "Atomic Garage • St. Louis",
-      "price_label": "$17",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Foster The People: Good Mourning Sunshine Tour",
-      "venue_line": "Saint Louis Music Park • Maryland Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -199,6 +159,46 @@
       "title": "This, That & Hip Hop",
       "venue_line": "Atomic Garage • St. Louis",
       "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Anthony DeVito",
+      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Blueface x DDG: Fresh Out of Love Tour",
+      "venue_line": "Pop's Concert Venue • Sauget",
+      "price_label": "$41–$100",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Sebastian Bach with Great White and Quiet Riot",
+      "venue_line": "Family Arena • Saint Charles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+      "venue_line": "Hollywood Casino Amphitheater • Maryland Heights",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

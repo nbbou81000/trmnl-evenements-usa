@@ -1,27 +1,7 @@
 {
   "city_label": "Provo, UT",
-  "updated_at": "2026-09-30T15:32:05.202Z",
+  "updated_at": "2026-10-01T15:55:25.876Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Pride and Prejudice",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Addams Family",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Addams Family",
+      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "BYU Cougars Football vs. Iowa State Cyclones Football",
+      "venue_line": "LaVell Edwards Stadium • Provo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

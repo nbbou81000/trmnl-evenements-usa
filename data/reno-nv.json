@@ -1,17 +1,7 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-09-30T15:32:08.447Z",
+  "updated_at": "2026-10-01T15:55:29.053Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jurassic Park In Concert With The Reno Philharmonic",
-      "venue_line": "Grand Sierra Resort and Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-03",
       "title": "Geoff Tate",
       "venue_line": "Cargo • Reno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Bilmuri - Kinda Hard Tour",
+      "venue_line": "Grand Sierra Resort and Casino • Reno",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

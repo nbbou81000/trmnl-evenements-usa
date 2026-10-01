@@ -1,27 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-09-30T15:32:15.086Z",
+  "updated_at": "2026-10-01T15:55:35.512Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Earl Sweatshirt & MIKE: Home on the Range Tour 2026",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jack Assadourian Jr.",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$37–$62",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-03",
       "title": "Ontario Reign vs. Coachella Valley Firebirds",
       "venue_line": "Toyota Arena-CA • Ontario",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Gina Brillon",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$25–$77",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "America vs. Chivas Legends",
+      "venue_line": "LAKE ELSINORE DIAMOND STADIUM • Lake Elsinore",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

@@ -1,107 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-09-30T15:32:10.781Z",
+  "updated_at": "2026-10-01T15:55:31.182Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Adriana Rios",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Oh, Mary! (Touring)",
-      "venue_line": "San Diego Civic Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Begin Again",
-      "venue_line": "Old Globe Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Chicago Cubs at San Diego Padres: NL Wild Card (Home Game 2)",
-      "venue_line": "PETCO Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jack White - JACK WHITE LIVE 2026",
-      "venue_line": "The Sound • Del Mar",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "JACK WHITE LIVE 2026",
-      "venue_line": "The Sound • Del Mar",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "DeVotchKa - A CELEBRATION OF THE MUSIC OF LITTLE MISS SUNSHINE w/ Pink Breath of Heaven",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$35–$59",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "DeVotchKa",
-      "venue_line": "Belly Up Tavern • Solana Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Aaron Lee Tasjan with Madeleine Kelson (21+ Event)",
-      "venue_line": "Casbah-San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -141,16 +41,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Chicago Cubs at San Diego Padres: NL Wild Card (Home Game 3, If Necessary)",
-      "venue_line": "PETCO Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "THU",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Spyro Gyra",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$56–$92",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Emergency Intercom Live",
+      "venue_line": "Balboa Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Author & Punisher - 21+",
+      "venue_line": "Casbah-San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Phil Collins Story",
+      "venue_line": "The Sound • Del Mar",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Phil Collins Story",
+      "venue_line": "The Sound • Del Mar",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Pseudo Happy Hour",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$13–$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "All Shall Perish - The Price Of Existence: 20-Year Anniversary",
+      "venue_line": "House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Jay Roxxx",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Begin Again",
+      "venue_line": "Old Globe Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Candlebox - Can't Quit You Tour Fall 2026",
+      "venue_line": "The Observatory North Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Annie Lederman",
+      "venue_line": "Comedy Store - La Jolla • La Jolla",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

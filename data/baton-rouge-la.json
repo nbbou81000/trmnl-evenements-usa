@@ -1,27 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-09-30T15:32:00.005Z",
+  "updated_at": "2026-10-01T15:55:21.124Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "LSU Tigers Womens Volleyball vs. Vanderbilt Commodores Womens Volleyball",
-      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Day Made Tour  Ft. Big Red (Alex Dougherty)",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-11",
       "title": "LAUNDRY DAY",
       "venue_line": "Chelsea's Live • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "LAUNDRY DAY Presents: The Larger Than LIFE Tour with Illusion Hills",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Gov't Mule",
+      "venue_line": "L'Auberge Casino & Hotel Baton Rouge  • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

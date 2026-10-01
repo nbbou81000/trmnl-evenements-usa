@@ -1,27 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-09-30T15:31:21.727Z",
+  "updated_at": "2026-10-01T15:54:44.067Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Great Gatsby (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Big E Fair",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +177,26 @@
       "day_number": "4",
       "date_iso": "2026-10-04",
       "title": "Ringo Starr And His All-Starr Band",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Styx",
+      "venue_line": "The Big E • West Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Polyphia Tour MMXXVI  ",
       "venue_line": "Toyota Oakdale Theatre • Wallingford",
       "price_label": "Price not available",
       "type_key": "music",

@@ -1,17 +1,7 @@
 {
   "city_label": "Billings, MT",
-  "updated_at": "2026-09-30T15:32:09.343Z",
+  "updated_at": "2026-10-01T15:55:29.874Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Chicago",
-      "venue_line": "First Interstate Arena • Billings",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Adelitas Way ??? 15th Anniversary of Home School Valedictorian Tour",
+      "venue_line": "The Pub Station • Billings",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

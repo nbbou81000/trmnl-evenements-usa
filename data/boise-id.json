@@ -1,27 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-09-30T15:32:05.696Z",
+  "updated_at": "2026-10-01T15:55:26.304Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Madeon presents Victory Live",
-      "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "RUDY LOVE & THE ENCORE, JÜN ",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -128,7 +108,7 @@
       "date_iso": "2026-10-04",
       "title": "Phillip Phillips - Let's Go Far Tour",
       "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$44–$167",
+      "price_label": "$44",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +179,26 @@
       "title": "Mastodon",
       "venue_line": "Revolution Concert House & Event Center • Garden City",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "CRADLE OF FILTH: Majestic In Death II",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Will Varley, Will Lawrence, Lee Penn Sky",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
     }

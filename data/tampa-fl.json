@@ -1,37 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-09-30T15:31:36.851Z",
+  "updated_at": "2026-10-01T15:54:58.148Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Loathe: A Stranger to You",
-      "venue_line": "Jannus Live • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "USF Latin Jazztet",
-      "venue_line": "USF Barness Recital Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Dinosaur World Live!",
-      "venue_line": "Dinosaur World - Florida • Plant City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -78,7 +48,7 @@
       "date_iso": "2026-10-02",
       "title": "Bleach  30 Year Anniversary w/ special guests Rookie of the Year and Keep Warm in Tampa",
       "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$40–$96",
+      "price_label": "$40",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Gabriel Rutledge",
+      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "New York Yankees at Tampa Bay Rays: ALDS (Home Game 1)",
+      "venue_line": "Tropicana Field • Saint Petersburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Tampa Bay Lightning vs. Washington Capitals",
+      "venue_line": "Benchmark International Arena • Tampa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

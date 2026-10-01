@@ -1,37 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-09-30T15:31:30.057Z",
+  "updated_at": "2026-10-01T15:54:52.042Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Soccer Mommy and Snail Mail",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Austin Meade",
-      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Ryan Beatty - Arms Over Armor North American Tour '26",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -98,7 +68,7 @@
       "date_iso": "2026-10-02",
       "title": "SOLD OUT! I’ve Got A Fire Tour with Pat Barrett - Huntersville, NC",
       "venue_line": "Lake Forest Church - Huntersville Campus • Huntersville",
-      "price_label": "$0",
+      "price_label": "$34",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-03",
       "title": "WEEZER: The Gathering",
       "venue_line": "Spectrum Center • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Dermot Kennedy: The Weight of the Woods Tour",
+      "venue_line": "Skyla Credit Union Amphitheatre • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Lily Rose",
+      "venue_line": "The Underground • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Gable Price and Friends: Too Good Tour",
+      "venue_line": "Neighborhood Theatre Main Room • Charlotte",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

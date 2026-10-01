@@ -1,47 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-09-30T15:31:21.281Z",
+  "updated_at": "2026-10-01T15:54:43.636Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Getaway Driver",
-      "venue_line": "Trinity Repertory Theater Center • Providence",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Getaway Driver",
-      "venue_line": "Trinity Repertory Theater Center • Providence",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Rhode Island FC vs. Indy Eleven",
-      "venue_line": "Centreville Bank Stadium • Pawtucket",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Line Dancing, Btches 'n Boots",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -61,6 +21,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Providence College Friars Hockey vs. Stonehill Skyhawks Mens Hockey",
+      "venue_line": "Schneider Arena • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -91,16 +61,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Providence College Friars Hockey vs. Stonehill Skyhawks Mens Hockey",
-      "venue_line": "Schneider Arena • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -146,6 +106,16 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
+      "title": "Rhode Island Rams Football vs. Brown University Bears Football",
+      "venue_line": "Centreville Bank Stadium • Pawtucket",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "The Getaway Driver",
       "venue_line": "Trinity Repertory Theater Center • Providence",
       "price_label": "Price not available",
@@ -186,21 +156,51 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Rhode Island Rams Football vs. Brown University Bears Football",
-      "venue_line": "Centreville Bank Stadium • Pawtucket",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
       "title": "PROVIDENCE COLLEGE LATE NIGHT MADNESS FT KELLY CLARKSON",
       "venue_line": "Amica Mutual Pavilion • Providence",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Big Pop Punk Party",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Providence College Late Night Madness! ft. Kelly Clarkson",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Summer Flow",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$83",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Getaway Driver",
+      "venue_line": "Trinity Repertory Theater Center • Providence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-09-30T15:31:33.384Z",
+  "updated_at": "2026-10-01T15:54:55.131Z",
   "events": [
     {
       "day_label": "THU",
@@ -21,86 +21,6 @@
       "price_label": "$58–$73",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Atlanta Braves Wild Card Game 2",
-      "venue_line": "Truist Park • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Atlanta Braves Wild Card Game 2 * Premium Seating *",
-      "venue_line": "Truist Park • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Logan Mize",
-      "venue_line": "Eddie's Attic • Decatur",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Logan Mize",
-      "venue_line": "Eddie's Attic • Decatur",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Sunset Social in Delta Club: Kacey Musgraves",
-      "venue_line": "State Farm Arena • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Kacey Musgraves - Middle of Nowhere Tour ",
-      "venue_line": "State Farm Arena • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Amelie Farren/Lilith Max/Rabbitology",
-      "venue_line": "The Loft • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Tours: Truist Park",
-      "venue_line": "Truist Park • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "THU",
@@ -196,11 +116,91 @@
       "day_label": "THU",
       "day_number": "1",
       "date_iso": "2026-10-01",
+      "title": "Atlanta Braves Wild Card Game 3",
+      "venue_line": "Truist Park • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Atlanta Braves Wild Card Game 3 * Premium Seating *",
+      "venue_line": "Truist Park • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
       "title": "Kany Garcia: Puerta Abierta Tour",
       "venue_line": "Coca-Cola Roxy • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The Travelin' McCourys",
+      "venue_line": "Eddie's Attic • Decatur",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "I Spy",
+      "venue_line": "The Goizueta Stage for Youth and Families • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "I Spy",
+      "venue_line": "The Goizueta Stage for Youth and Families • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Tours: Truist Park",
+      "venue_line": "Truist Park • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Green Christmas Chaos Experience",
+      "venue_line": "Selfie Paradise Museum • Douglasville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Green Christmas Chaos Experience",
+      "venue_line": "Selfie Paradise Museum • Douglasville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

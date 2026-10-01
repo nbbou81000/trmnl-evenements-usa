@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-09-30T15:32:12.761Z",
+  "updated_at": "2026-10-01T15:55:33.127Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Psychostick, Galactic Empire",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$32–$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Lukas Nelson & Molly Tuttle",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -86,9 +66,9 @@
       "day_label": "SUN",
       "day_number": "4",
       "date_iso": "2026-10-04",
-      "title": "PeelingFlesh, Snuffed On Sight, Mongrel, Grounds For Assault, Flesh",
+      "title": "PeelingFlesh, Snuffed On Sight, Iron Front, Grounds For Assault",
       "venue_line": "Strummer's • Fresno",
-      "price_label": "$33–$36",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +179,26 @@
       "title": "Fey - Forever 17 Tour",
       "venue_line": "Warnors Theatre • Fresno",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Fresno State Bulldogs Football vs. Boise State Broncos Football",
+      "venue_line": "Valley Children's Stadium • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "THE CURE vs THE SMITHS vs DEPECHE MODE",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$8",
       "type_key": "music",
       "type_label": "Music"
     }

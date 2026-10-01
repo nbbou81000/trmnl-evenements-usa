@@ -1,67 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-09-30T15:31:41.997Z",
+  "updated_at": "2026-10-01T15:55:03.921Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Rock Academy Westwood Final Show 2026",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Open Mic Show & Tell with Adam Flaig",
-      "venue_line": "The Southgate House Revival - The Lounge • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
-      "venue_line": "Taft Theatre • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Bleachers Forever",
-      "venue_line": "The Andrew J Brady Music Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Pynk Beard",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Carole King and James Taylor Story",
-      "venue_line": "Memorial Hall - OH • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +137,66 @@
       "day_number": "3",
       "date_iso": "2026-10-03",
       "title": "Don Lemon & DL Hughley: DL + DL 'Anything Goes'",
+      "venue_line": "Taft Theatre • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Lyfe Jennings",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "ALL Elite Wrestling presents Collision",
+      "venue_line": "Truist Arena • Highland Heights",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Freya Skye - Stars Align Tour",
+      "venue_line": "The Andrew J Brady Music Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Mammoth Music & Arts Fest 2026",
+      "venue_line": "The Southgate House Revival • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Cincinnati Bengals vs. Jacksonville Jaguars",
+      "venue_line": "Paycor Stadium • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Brad Williams: The Tall Tales Tour",
       "venue_line": "Taft Theatre • Cincinnati",
       "price_label": "Price not available",
       "type_key": "arts",

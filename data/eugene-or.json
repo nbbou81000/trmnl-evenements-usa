@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-09-30T15:32:17.893Z",
+  "updated_at": "2026-10-01T15:55:38.104Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Bluey's Big Play - The Stage Show",
-      "venue_line": "Silva Concert Hall • Eugene",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Holywatr: Deo Gratias Tour",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$28–$110",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -191,6 +171,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Silva Concert Hall • Eugene",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "LIVE DEAD & BROTHERS",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$37",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SAT",

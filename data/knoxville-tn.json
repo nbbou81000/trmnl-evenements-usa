@@ -1,17 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-09-30T15:31:58.653Z",
+  "updated_at": "2026-10-01T15:55:19.840Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Sarah Jarosz: 10 Years of 'Undercurrent'",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
+      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

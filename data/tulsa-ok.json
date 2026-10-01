@@ -1,37 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-09-30T15:31:56.687Z",
+  "updated_at": "2026-10-01T15:55:17.975Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "FC Tulsa vs. New Mexico United",
-      "venue_line": "ONEOK Field • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Cameron Whitcomb w/ Nep",
-      "venue_line": "Cain's Ballroom • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Built To Spill w/ Paul Schalda",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -176,7 +146,7 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "The Rocky Horror Picture Show Spooktacular Tour with Patricia Quinn",
+      "title": "The Rocky Horror Picture Show Spooktacular Tour",
       "venue_line": "Chapman Music Hall - TPAC • Tulsa",
       "price_label": "Price not available",
       "type_key": "film",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Max McNown (21 and Over)",
+      "venue_line": "Hard Rock Live Tulsa • Catoosa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Disney On Ice presents Jump In (age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older; Ticket Includes Gate Admission to the Tulsa State Fair)",
+      "venue_line": "Expo Square Pavilion • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Disney On Ice presents Jump In (age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older; Ticket Includes Gate Admission to the Tulsa State Fair)",
+      "venue_line": "Expo Square Pavilion • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

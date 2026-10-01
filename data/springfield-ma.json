@@ -1,27 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-09-30T15:31:27.205Z",
+  "updated_at": "2026-10-01T15:54:49.317Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "The Great Gatsby (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Big E Fair",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Styx",
+      "venue_line": "The Big E • West Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Toth",
+      "venue_line": "The Drake - Amherst • Amherst",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

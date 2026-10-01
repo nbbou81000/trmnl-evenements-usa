@@ -1,27 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-09-30T15:31:47.468Z",
+  "updated_at": "2026-10-01T15:55:09.424Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Omaha Community Playhouse • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "GOODBYE JUNE - Trouble For All Tour",
-      "venue_line": "Barnato • Omaha",
-      "price_label": "$27–$61",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-03",
       "title": "Chris Porter",
       "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Creighton Bluejays Womens Volleyball vs. Marquette Golden Eagles Volleyball",
+      "venue_line": "RYAN CENTER/DJ SOKOL ARENA • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Come from Away (Touring)",
+      "venue_line": "Omaha Community Playhouse • Omaha",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

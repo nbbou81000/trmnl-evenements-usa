@@ -1,6 +1,6 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-09-30T15:31:42.902Z",
+  "updated_at": "2026-10-01T15:55:04.775Z",
   "events": [
     {
       "day_label": "THU",
@@ -66,6 +66,16 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
+      "title": "Kent State Golden Flashes Football vs. Ohio Bobcats Football",
+      "venue_line": "Dix Stadium • Kent",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Brad Williams: The Tall Tales Tour",
       "venue_line": "Northfield Park Racino - Center Stage • Northfield",
       "price_label": "Price not available",
@@ -81,16 +91,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Kent State Golden Flashes Football vs. Ohio Bobcats Football",
-      "venue_line": "Dix Stadium • Kent",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

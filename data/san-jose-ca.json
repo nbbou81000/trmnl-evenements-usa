@@ -1,57 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-09-30T15:32:11.784Z",
+  "updated_at": "2026-10-01T15:55:32.044Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Brujeria, Ethnocide, Mortal, Sodomy",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$29–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Pat Benatar w/ Neil Giraldo",
-      "venue_line": "Mountain Winery • Saratoga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Don McMillan 2.0 *Now Powered By AI",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$43–$114",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Raynes",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Thelma & The Sleaze w/ Micah Schnabel & Vanessa Jean Speckman",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -196,9 +146,59 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
-      "title": "Moe's Alley Presents: Diggin Dirt (Night 1)",
+      "title": "Moe's Alley Presents: Diggin Dirt (Night 1) w/ Rachel Spung & The Soul Service",
       "venue_line": "Moe's Alley • Santa Cruz",
       "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Moe's Alley Presents: Diggin Dirt *Special Two-Night Pass *",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$47",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Earthquake",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$37–$102",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "San Jose Barracuda vs. San Diego Gulls",
+      "venue_line": "Tech CU Arena • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "All Shall Perish, Carnifex, Extermination Dismemberment, Mauled",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$42–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "THE KEHLANI WORLD TOUR: North America",
+      "venue_line": "Shoreline Amphitheatre • Mountain View",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

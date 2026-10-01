@@ -1,27 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-09-30T15:32:19.441Z",
+  "updated_at": "2026-10-01T15:55:39.374Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Black Label Society",
-      "venue_line": "BECU Live at Northern Quest • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Black Label Society",
-      "venue_line": "BECU Live Outdoor Venue • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Halloween X-SPO",
+      "venue_line": "Spokane Convention Center • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Eastern Washington Eagles Football vs. Northern Colorado Bears Football",
+      "venue_line": "Roos Field • Cheney",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

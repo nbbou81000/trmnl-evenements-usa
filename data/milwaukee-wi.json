@@ -1,62 +1,12 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-09-30T15:31:44.741Z",
+  "updated_at": "2026-10-01T15:55:06.664Z",
   "events": [
     {
       "day_label": "FRI",
       "day_number": "11",
       "date_iso": "2026-09-11",
       "title": "China Lights Wisconsin 2026 Season Pass",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Return to Camp Half-Blood with Rick Riordan and Annabelle Oh",
-      "venue_line": "Pabst Theater • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Freya Skye - Stars Align Tour",
-      "venue_line": "Landmark Credit Union Live • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "China Lights Wisconsin 2026",
       "venue_line": "Boerner Botanical Gardens • Hales Corners",
       "price_label": "Price not available",
       "type_key": "misc",
@@ -201,6 +151,56 @@
       "price_label": "$32–$106",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Little Big Town - For The Art Of It Tour",
+      "venue_line": "Miller High Life Theatre • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Bright Eyes w/ Lullaby For The Working Class",
+      "venue_line": "Turner Hall Ballroom • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Little Big Town - For The Art Of It Tour",
+      "venue_line": "Miller High Life Theatre • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Leonid and Friends",
+      "venue_line": "Riverside Theater - WI • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Mt. Joy 2026: Celebrating 10 Years Of Mt. Joy",
+      "venue_line": "Landmark Credit Union Live • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-09-30T15:32:03.778Z",
+  "updated_at": "2026-10-01T15:55:24.566Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Goth Night hosted by Gotica Nouveau",
-      "venue_line": "Vultures • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -116,8 +106,8 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Colorado Springs Switchbacks FC vs. Oakland Roots SC",
-      "venue_line": "Weidner Field • Colorado Springs",
+      "title": "Colorado College Tigers Hockey vs. UMass",
+      "venue_line": "Ed Robson Arena • Colorado Springs",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -126,8 +116,8 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Colorado College Tigers Hockey vs. UMass",
-      "venue_line": "Ed Robson Arena • Colorado Springs",
+      "title": "Colorado Springs Switchbacks FC vs. Oakland Roots SC",
+      "venue_line": "Weidner Field • Colorado Springs",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-07",
       "title": "Goth Night hosted by Gotica Nouveau",
       "venue_line": "Vultures • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Weedeater, Zeke, Royal Thunder",
+      "venue_line": "Black Sheep • Colorado Springs",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

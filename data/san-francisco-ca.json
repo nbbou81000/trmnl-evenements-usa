@@ -1,167 +1,7 @@
 {
   "city_label": "San Francisco, CA",
-  "updated_at": "2026-09-30T15:32:11.325Z",
+  "updated_at": "2026-10-01T15:55:31.607Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Show Me the Body",
-      "venue_line": "August Hall • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jack Johnson: SURFILMUSIC Tour 2026",
-      "venue_line": "Greek Theatre-U.C. Berkeley • Berkeley",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "JPEGMAFIA w/ redveil",
-      "venue_line": "Warfield • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Chat Pile w/ Soul Glo",
-      "venue_line": "The Regency Ballroom • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Eva Evans",
-      "venue_line": "Punch Line Comedy Club - San Francisco • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jerry Wayne Longmire",
-      "venue_line": "Cobb's Comedy Club • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Neck of the Woods SF Open Mic Wednesdays",
-      "venue_line": "Neck of the Woods • San Francisco",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Porch Light",
-      "venue_line": "Rickshaw Stop • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "DOOM GONG + James Wavey",
-      "venue_line": "Brick and Mortar Music Hall • San Francisco",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "tobi lou - Same Old Jeans Tour (SOLD OUT)",
-      "venue_line": "Cafe Du Nord • San Francisco",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Chasing Abbey",
-      "venue_line": "The Independent • San Francisco",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Twin Temple",
-      "venue_line": "The Castro Theatre • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Beth Orton",
-      "venue_line": "Great American Music Hall • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Failure w/ quannnic",
-      "venue_line": "The Chapel • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Emei, Madelline",
-      "venue_line": "Bimbo's 365 Club • San Francisco",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Author & Punisher/ Guiltless/ Ex Everything",
-      "venue_line": "Neck of the Woods • San Francisco",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +37,166 @@
       "day_number": "1",
       "date_iso": "2026-10-01",
       "title": "George Civeris",
+      "venue_line": "Cobb's Comedy Club • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Vincent Ingala",
+      "venue_line": "Yoshi's Oakland • Oakland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Carbon Leaf",
+      "venue_line": "Brick and Mortar Music Hall • San Francisco",
+      "price_label": "$39",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "saint harison presents the ghosted tour (An Evening With) (SOLD OUT)",
+      "venue_line": "Cafe Du Nord • San Francisco",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Mari Froes",
+      "venue_line": "The Independent • San Francisco",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Don West",
+      "venue_line": "August Hall • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Michelle Branch: Everywhere And Back Again Tour",
+      "venue_line": "The Castro Theatre • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Los Thuthanaka",
+      "venue_line": "Great American Music Hall • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Poison Girl Friend",
+      "venue_line": "The Regency Ballroom • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Soda Blonde",
+      "venue_line": "The Chapel • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Mo Mandel",
+      "venue_line": "Punch Line Comedy Club - San Francisco • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Galactic Empire",
+      "venue_line": "Neck of the Woods • San Francisco",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "BashfortheWorld Presents: Un Mundo de Musica",
+      "venue_line": "Crybaby • Oakland",
+      "price_label": "$40–$143",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Fruit Bats",
+      "venue_line": "The UC Theatre • Berkeley",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Combichrist",
+      "venue_line": "Cornerstone - CA • Berkeley",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Hoodslam × SlamTown - DOOMSLAM",
+      "venue_line": "Crybaby • Oakland",
+      "price_label": "$1",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Heather McDonald",
       "venue_line": "Cobb's Comedy Club • San Francisco",
       "price_label": "Price not available",
       "type_key": "arts",

@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-09-30T15:31:52.087Z",
+  "updated_at": "2026-10-01T15:55:13.668Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,16 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Love Flamenco",
-      "venue_line": "Jo Long Theatre • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "THU",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Drag Me to Brunch at Hard Rock Cafe San Antonio!",
+      "venue_line": "Hard Rock Cafe - San Antonio • San Antonio",
+      "price_label": "$18",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

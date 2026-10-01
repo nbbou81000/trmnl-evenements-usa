@@ -1,27 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-09-30T15:31:37.298Z",
+  "updated_at": "2026-10-01T15:54:58.589Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Loathe: A Stranger to You",
-      "venue_line": "Jannus Live • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "USF Latin Jazztet",
-      "venue_line": "USF Barness Recital Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -78,7 +58,7 @@
       "date_iso": "2026-10-02",
       "title": "Bleach  30 Year Anniversary w/ special guests Rookie of the Year and Keep Warm in Tampa",
       "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$40–$96",
+      "price_label": "$40",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -166,7 +146,7 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "TBD at Tampa Bay Rays: ALDS (Home Game 1)",
+      "title": "New York Yankees at Tampa Bay Rays: ALDS (Home Game 1)",
       "venue_line": "Tropicana Field • Saint Petersburg",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Treaty Oak Revival: West Texas Degenerate Tour",
+      "venue_line": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Caamp",
+      "venue_line": "Mahaffey Theater • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

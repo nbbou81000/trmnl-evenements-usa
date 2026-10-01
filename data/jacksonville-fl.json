@@ -1,27 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-09-30T15:31:34.990Z",
+  "updated_at": "2026-10-01T15:54:56.414Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Ritz Theatre - Museum Self-Guided Tour",
-      "venue_line": "Ritz Theatre • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Akeem Ali (18 and Over)",
-      "venue_line": "Decca Live • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -176,16 +156,6 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Spy, Violencia, Spite House, Madrugado, Engine",
-      "venue_line": "Corazon del Barrio • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
       "title": "Tony Roberts",
       "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
       "price_label": "Price not available",
@@ -201,6 +171,36 @@
       "price_label": "$31",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Thundercat: Distracted AF Tour",
+      "venue_line": "FIVE • Jacksonville",
+      "price_label": "$57–$127",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
+      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "That One Mailman",
+      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

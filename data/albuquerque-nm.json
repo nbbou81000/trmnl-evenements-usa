@@ -1,17 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-09-30T15:32:06.196Z",
+  "updated_at": "2026-10-01T15:55:26.753Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Cannons w/ Jesse Jo Stark",
-      "venue_line": "Revel Entertainment Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -86,21 +76,21 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Disney On Ice presents Find Your Hero",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
       "title": "New Mexico Lobos Football vs. UTEP Miners Football",
       "venue_line": "University Stadium • Albuquerque",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Disney On Ice presents Find Your Hero",
+      "venue_line": "Rio Rancho Events Center • Rio Rancho",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SAT",
@@ -197,6 +187,16 @@
       "day_number": "5",
       "date_iso": "2026-10-05",
       "title": "Brit Floyd",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "This Wild Life w/ Nate Bergman",
       "venue_line": "Revel Entertainment Center • Albuquerque",
       "price_label": "Price not available",
       "type_key": "music",

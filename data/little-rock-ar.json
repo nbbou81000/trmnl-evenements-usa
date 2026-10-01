@@ -1,17 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-09-30T15:31:57.142Z",
+  "updated_at": "2026-10-01T15:55:18.399Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Brit Floyd",
-      "venue_line": "First Security Amphitheater • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +187,16 @@
       "day_number": "27",
       "date_iso": "2026-10-27",
       "title": "Lucy Darling: Simply Darling",
+      "venue_line": "Robinson Center • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Beetlejuice (Touring)",
       "venue_line": "Robinson Center • Little Rock",
       "price_label": "Price not available",
       "type_key": "arts",

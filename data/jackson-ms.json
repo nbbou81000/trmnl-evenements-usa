@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-09-30T15:32:00.950Z",
+  "updated_at": "2026-10-01T15:55:22.072Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jersey Boys",
-      "venue_line": "Thalia Mara Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -197,6 +187,16 @@
       "day_number": "20",
       "date_iso": "2026-10-20",
       "title": "Great Lake Swimmers w/ Mary Bragg",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Snarky Puppy",
       "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",

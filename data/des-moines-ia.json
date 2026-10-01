@@ -1,17 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-09-30T15:31:48.372Z",
+  "updated_at": "2026-10-01T15:55:10.320Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Mon Rovia w/ Sydney Rose",
-      "venue_line": "Wooly's • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -116,6 +106,16 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
+      "title": "Drake Bulldogs Football vs. Dayton Flyers Football",
+      "venue_line": "Drake Stadium - Des Moines • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Ringling Bros B&B: The Greatest Show on Earth",
       "venue_line": "Casey's Center • Des Moines",
       "price_label": "Price not available",
@@ -141,16 +141,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Drake Bulldogs Football vs. Dayton Flyers Football",
-      "venue_line": "Drake Stadium - Des Moines • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Ringling Bros B&B: The Greatest Show on Earth",
+      "venue_line": "Casey's Center • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

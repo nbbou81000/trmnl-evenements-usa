@@ -1,27 +1,7 @@
 {
   "city_label": "Raleigh, NC",
-  "updated_at": "2026-09-30T15:31:30.527Z",
+  "updated_at": "2026-10-01T15:54:52.516Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Jose Madero - USA Tour 2026",
-      "venue_line": "The Ritz • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Vidura Bandara Rajapaksa",
-      "venue_line": "Goodnights Comedy Club • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Craig Conant",
+      "venue_line": "Goodnights Comedy Club • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Maddy Smith Presents: Bad Genes Tour",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$27–$82",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

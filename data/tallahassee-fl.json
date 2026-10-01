@@ -1,17 +1,7 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-09-30T15:31:37.821Z",
+  "updated_at": "2026-10-01T15:54:59.015Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
-      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-14",
       "title": "Florida A&M Rattlers vs. Mississippi Valley Delta Devils Football",
       "venue_line": "FAMU Bragg Memorial Stadium • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Florida State Seminoles Mens Basketball vs. Ball State Cardinals Mens Basketball",
+      "venue_line": "Donald L. Tucker Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

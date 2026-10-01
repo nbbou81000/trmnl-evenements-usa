@@ -1,107 +1,7 @@
 {
   "city_label": "Orlando, FL",
-  "updated_at": "2026-09-30T15:31:36.384Z",
+  "updated_at": "2026-10-01T15:54:57.724Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Cirque du Soleil: Drawn to Life",
-      "venue_line": "Walt Disney World • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Hard Swingin' Country Soiree with Decker & Dimitrov",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "WELLS, stardnotmeananything, Toxic Intent, and Hate Me For Life",
-      "venue_line": "Will's Pub • Orlando",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Blue Man Group",
-      "venue_line": "ICON Park • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Ahren Belisle",
-      "venue_line": "Funny Bone Comedy Club - Orlando • Orlando",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Suki Waterhouse: The Loveland Tour",
-      "venue_line": "House of Blues Orlando • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN ORLANDO",
-      "venue_line": "Kia Center • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Hamilton (Touring) - Recommended for ages 10 and Over",
-      "venue_line": "Dr. Phillips Performing Arts Center • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Cirque du Soleil: Drawn to Life",
-      "venue_line": "Walt Disney World • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "30",
-      "date_iso": "2026-09-30",
-      "title": "Nesto's Jazz Trio",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "1",
@@ -201,6 +101,106 @@
       "price_label": "$14",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "Cirque du Soleil: Drawn to Life",
+      "venue_line": "Walt Disney World • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "COUNTRYOKE WITH DJ RYAN",
+      "venue_line": "WILD WEST END • Sanford",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "1",
+      "date_iso": "2026-10-01",
+      "title": "The JK Trio",
+      "venue_line": "Lil' Indies • Orlando",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Blue Man Group",
+      "venue_line": "ICON Park • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Cirque du Soleil: Drawn to Life",
+      "venue_line": "Walt Disney World • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Project Series 02: Omari Jones vs Alan Sanchez",
+      "venue_line": "Caribe Royale Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Akeem Ali (12 and Over)",
+      "venue_line": "The Beacham • Orlando",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Nogu Svelo in Orlando",
+      "venue_line": "Conduit • Winter Park",
+      "price_label": "$79–$172",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "John Crist Live!",
+      "venue_line": "Hard Rock Live Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Ms. Pat",
+      "venue_line": "Funny Bone Comedy Club - Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }
