@@ -1,27 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-01T15:55:26.304Z",
+  "updated_at": "2026-10-02T15:16:38.205Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "PRESIDENT: North American Campaign 2026",
-      "venue_line": "Revolution Concert House & Event Center • Garden City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Amarok, Past The Light , The Raven Index",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Automatic, Donzii",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Cabin Readings & Conversations: John Green With Anthony Doerr",
+      "venue_line": "Morrison Center for the Performing Arts • Boise",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

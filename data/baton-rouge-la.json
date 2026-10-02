@@ -1,37 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-01T15:55:21.124Z",
+  "updated_at": "2026-10-02T15:16:32.787Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Struggle Jennings",
-      "venue_line": "Chelsea's Live • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Struggle Jennings",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Britton Emert",
-      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
-      "price_label": "$28–$157",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -58,7 +28,7 @@
       "date_iso": "2026-10-02",
       "title": "OVOXO NIGHT Presented by Love Yourself & Bandeaux Pat",
       "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$26",
+      "price_label": "$34",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "LSU Tigers Mens Basketball vs. UCF Knights Mens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "LSU Tigers Womens Volleyball vs. South Carolina Gamecocks Womens Volleyball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Baton Rouge Kingfish vs. Monroe Moccasins",
+      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

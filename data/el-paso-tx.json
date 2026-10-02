@@ -1,27 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-01T15:55:14.645Z",
+  "updated_at": "2026-10-02T15:16:25.833Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The UTEP Symphonic and Concert Bands In Concert - UTEP Dept. Of Music",
-      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Chayanne - Bailemos Otra Vez Tour",
-      "venue_line": "Don Haskins Center • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "EPCF Presents - Jewel Box Series: La Vida De Inutil De Pito Perez",
+      "venue_line": "PHILANTHROPY THEATRE • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "In The Time Of The Butterflies-UTEP Theatre & Dance",
+      "venue_line": "June Sadowski Kruszewski Studio Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

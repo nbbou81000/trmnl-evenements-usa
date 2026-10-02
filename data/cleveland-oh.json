@@ -1,127 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-01T15:55:03.486Z",
+  "updated_at": "2026-10-02T15:16:14.327Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Bullseye Vip Tailgate Browns V. Steelers",
-      "venue_line": "Huntington Bank Field • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Iron Crusaiders",
-      "venue_line": "Unhinged Lounge • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Texas Hippie Coalition",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "THURSDAY THURSDAY: GAME NIGHT",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Organ Ism",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "John Waite",
-      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Ole 60 w/ Kolton Moore",
-      "venue_line": "Jacobs Pavilion at Nautica • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Kennedy Ryon, Charity Evonna",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Soraia w/ Burning River",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "El Ten Eleven",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Cleveland Browns vs. Pittsburgh Steelers",
-      "venue_line": "Huntington Bank Field • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Sex Pistols",
-      "venue_line": "Agora Theatre • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -178,7 +58,7 @@
       "date_iso": "2026-10-02",
       "title": "halloweezer",
       "venue_line": "The Winchester • Lakewood",
-      "price_label": "$9",
+      "price_label": "$13",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +79,126 @@
       "title": "Clownvis",
       "venue_line": "The Mercury Music Lounge • Lakewood",
       "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Jason White wsg Bent String (Trio)",
+      "venue_line": "Treelawn Music Hall • Cleveland",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Broadway Rave Dance Party",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$22–$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "ONE NIGHT AT THE CHAMBER",
+      "venue_line": "The Mercury Music Lounge • Lakewood",
+      "price_label": "$10",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Chicago White Sox at Cleveland Guardians: ALDS (Home Game 1)",
+      "venue_line": "Progressive Field • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "King 810 - MOVED TO THE FOUNDRY",
+      "venue_line": "The Mercury Music Lounge • Lakewood",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
+      "venue_line": "House of Blues Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Bert Kreischer",
+      "venue_line": "Rocket Arena • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Karenpalooza Presents Steve Austin",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Brad Williams: The Tall Tales Tour",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "PERSON OF GEAR CONTEST",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Silver Springs - A Fleetwood Mac Experience",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Nevertel, Rivals, Ocean Sleeper",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
     }

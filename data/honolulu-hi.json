@@ -1,37 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-01T15:55:39.775Z",
+  "updated_at": "2026-10-02T15:16:51.913Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Return of Damon Wayans",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$86–$113",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -196,6 +166,36 @@
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Henri Herbert: Boogie & Blues Concert",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$28–$46",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
       "title": "Cirque du Soleil: Auana",
       "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
       "price_label": "Price not available",

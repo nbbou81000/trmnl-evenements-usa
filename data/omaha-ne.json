@@ -1,27 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-01T15:55:09.424Z",
+  "updated_at": "2026-10-02T15:16:20.364Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Omaha Volleyball vs. SDSU",
-      "venue_line": "Baxter Arena • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Omaha Community Playhouse • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "AJ Wilkerson",
+      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "KiNG MALA",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

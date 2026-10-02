@@ -1,17 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-01T15:55:02.633Z",
+  "updated_at": "2026-10-02T15:16:13.298Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Holdup, CYDEWAYS, Dylan Reese",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "$16",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "12 STONES • Stonelore • Days of Disaster • Resurrection Story • Duke Charelle • Memento Mori",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

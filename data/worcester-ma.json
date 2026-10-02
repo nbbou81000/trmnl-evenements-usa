@@ -1,27 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-01T15:54:48.917Z",
+  "updated_at": "2026-10-02T15:15:59.704Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Stayin' Alive: One Night of the Bee Gees",
-      "venue_line": "Hanover Theatre • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Stayin' Alive: One Night of the Bee Gees",
-      "venue_line": "The Hanover Theatre • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Dead Mans Waltz with Space Moose",
+      "venue_line": "Sanctuary Cultural Arts Center • Maynard",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Hot Wheels Monster Trucks™ Live Glow-N-Fire",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

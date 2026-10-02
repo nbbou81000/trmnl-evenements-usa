@@ -1,87 +1,7 @@
 {
   "city_label": "Miami, FL",
-  "updated_at": "2026-10-01T15:54:56.894Z",
+  "updated_at": "2026-10-02T15:16:08.502Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Dadi Freyr",
-      "venue_line": "ZeyZey Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "John Crist Live",
-      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "Ziff Ballet Opera House-Adrienne Arsht PAC • Miami",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Diego Torres",
-      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Celtic Thunder: Celebrate Your Favorite Songs",
-      "venue_line": "Amaturo Theater at Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Courtside Cardshow Miami",
-      "venue_line": "James L Knight Center Riverfront Hall • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Akeem Ali (18 and Over)",
+      "venue_line": "Midline Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Angel Du$t & Agnostic Front in Miami",
+      "venue_line": "Lincoln's Beard • Miami",
+      "price_label": "$40",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+      "venue_line": "Hard Rock Stadium • Miami",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Pippin",
+      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Arts Ballet Theatre of FL: Program I: Classical & Neoclassical Ballets",
+      "venue_line": "Amaturo Theater at Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Kany Garcia: Puerta Abierta Tour",
+      "venue_line": "Kaseya Center • Miami",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Buena Vista Social Club (Touring)",
+      "venue_line": "Ziff Ballet Opera House-Adrienne Arsht PAC • Miami",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Jose Luis Rodriguez",
+      "venue_line": "Charles F. Dodge City Center Pembroke Pines • Pembroke Pines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

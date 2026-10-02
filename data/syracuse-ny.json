@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-01T15:54:42.773Z",
+  "updated_at": "2026-10-02T15:15:53.007Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,26 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Big Brother 28 Finale Watch Party!",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "THREE PIECE MEAL + PEAK",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -78,7 +58,7 @@
       "date_iso": "2026-10-02",
       "title": "SHREK RAVE",
       "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$20",
+      "price_label": "$26",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Caviar and Grits w/s/g Alex Vantassel",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "LINGER ??? The Premier Tribute to The Cranberries",
+      "venue_line": "Westcott Theatre • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

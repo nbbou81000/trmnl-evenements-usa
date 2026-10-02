@@ -1,57 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-01T15:55:18.920Z",
+  "updated_at": "2026-10-02T15:16:30.582Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Avett Brothers w/ Drive By Truckers",
-      "venue_line": "Grind City Amphitheater • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "National Civil Rights Museum 2026 Freedom Award",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Umphrey's McGee",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Three Dog Night",
-      "venue_line": "Graceland Soundstage • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "2026 Mid-South Fair, Oct 1-11",
-      "venue_line": "Landers Center  • Southaven",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -196,6 +146,56 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
+      "title": "Mempho Fest",
+      "venue_line": "Radians Amphitheater • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Motionless In White",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Memphis Tigers Football vs. UAB Blazers Football",
+      "venue_line": "Simmons Bank Liberty Stadium • Memphis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Elevation Worship  | Official Ticket + Hotel Packages",
+      "venue_line": "FedExForum • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Elevation Worship & Steven Furtick - Fall Tour 2026",
+      "venue_line": "FedExForum • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Mempho Fest",
       "venue_line": "Radians Amphitheater • Memphis",
       "price_label": "Price not available",

@@ -1,17 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-01T15:54:44.917Z",
+  "updated_at": "2026-10-02T15:15:55.550Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Michael Franti",
-      "venue_line": "College Street Music Hall • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -199,6 +189,16 @@
       "title": "Almost Queen: A Tribute to QUEEN",
       "venue_line": "The Paramount in concert with Northwell • Huntington",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Almost Queen: A tribute to QUEEN",
+      "venue_line": "The Paramount - Huntington, NY • Huntington",
+      "price_label": "$48",
       "type_key": "music",
       "type_label": "Music"
     }

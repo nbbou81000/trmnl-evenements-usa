@@ -1,37 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-10-01T15:54:58.148Z",
+  "updated_at": "2026-10-02T15:16:09.816Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Suki Waterhouse: The Loveland Tour",
-      "venue_line": "Jannus Live • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Singularity Play",
-      "venue_line": "USF Theatre 2 • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Dinosaur World Live!",
-      "venue_line": "Dinosaur World - Florida • Plant City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Treaty Oak Revival: West Texas Degenerate Tour",
+      "venue_line": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Beths",
+      "venue_line": "The Ritz Ybor • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Mariachi El Bronx",
+      "venue_line": "Jannus Live • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-10-01T15:55:29.053Z",
+  "updated_at": "2026-10-02T15:16:41.021Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Laugh Factory",
-      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Old Crow Medicine Show",
-      "venue_line": "Grand Sierra Resort and Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -156,7 +136,7 @@
       "day_label": "SAT",
       "day_number": "3",
       "date_iso": "2026-10-03",
-      "title": "Geoff Tate’s Operation: Mindcrime - The Final Chapter",
+      "title": "Geoff Tate’s Operation: Mindcrime - The Final Chapter with Tomás McCarthy & James Keegan",
       "venue_line": "Cargo Concert Hall • Reno",
       "price_label": "$47",
       "type_key": "music",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Laugh Factory",
+      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Laugh Factory",
+      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

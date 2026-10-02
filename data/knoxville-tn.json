@@ -1,17 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-01T15:55:19.840Z",
+  "updated_at": "2026-10-02T15:16:31.462Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
-      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Paul Oakenfold + The Crystal Method: Mission Underground Tour",
+      "venue_line": "The 808 • Knoxville",
+      "price_label": "$67",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

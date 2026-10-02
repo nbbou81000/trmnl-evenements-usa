@@ -1,77 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-01T15:55:08.533Z",
+  "updated_at": "2026-10-02T15:16:19.487Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Emily Wallace Duo",
-      "venue_line": "Atomic Lounge • St. Louis",
-      "price_label": "$0–$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Yoga Happy Hour: \"Feel Good Flow\" Downtempo Electronic",
-      "venue_line": "Atomic Lounge • St. Louis",
-      "price_label": "$0–$31",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Barley Revival",
-      "venue_line": "Atomic Garage • St. Louis",
-      "price_label": "$0–$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "AMY GRANT & MAC MCANALLY",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Anthony DeVito",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Clint Black: Back On The Blacktop Tour",
-      "venue_line": "River City Casino & Hotel • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "NAPA Auto Parts NHRA Midwest Nationals - Friday",
-      "venue_line": "World Wide Technology Raceway at Gateway • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-03",
       "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
       "venue_line": "Hollywood Casino Amphitheater • Maryland Heights",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Breakfast In America - A Supertramp Celebration",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Anthony DeVito",
+      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "NAPA Auto Parts NHRA Midwest Nationals - Sunday",
+      "venue_line": "World Wide Technology Raceway at Gateway • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "My Hero Academia in Concert",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "JJ Grey & Mofro — Top of the World Tour",
+      "venue_line": "Atomic Block Party  • St. Louis",
+      "price_label": "$54–$108",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Buzzcocks",
+      "venue_line": "Delmar Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Malcolm Todd: Do That Again Tour",
+      "venue_line": "Saint Louis Music Park • Maryland Heights",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

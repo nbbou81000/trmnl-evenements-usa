@@ -1,31 +1,111 @@
 {
   "city_label": "Long Beach, CA",
-  "updated_at": "2026-10-01T15:55:35.947Z",
+  "updated_at": "2026-10-02T15:16:47.727Z",
   "events": [
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "SoFi Stadium Tours - No Field Access",
-      "venue_line": "SoFi Stadium Tours • Inglewood",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Pink Floyd tribute - Which One’s Pink x Rush tribute; Moodlifters",
+      "venue_line": "Garden Amphitheatre • Garden Grove",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Latin Music Conference SINGLE DAY Ticket",
-      "venue_line": "Luckman Fine Arts Complex • Los Angeles",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Zeds Dead",
+      "venue_line": "Gloria Molina Grand Park • Los Angeles",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Hammerfall, Evergrey, Nox Sinister, Edge of Insanity, Prima Donna Rising",
+      "venue_line": "Whisky A Go Go • West Hollywood",
+      "price_label": "$39",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "The Home Team: THE CRUCIBLE OF LIFE II ",
+      "venue_line": "House of Blues Anaheim • Anaheim",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Johnny Huynh LIVE",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Wind Walkers: The \"I Don't Belong Here\" Tour",
+      "venue_line": "Teragram Ballroom • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Bruno Mars - The Romantic Tour",
+      "venue_line": "SoFi Stadium • Inglewood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Red Jumpsuit Apparatus - 20 Year Anniversary of Don't You Fake It",
+      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Death Lens",
+      "venue_line": "Constellation Room • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Holding Absence & Arm's Length: North American Co-Headliner Tour 2026",
+      "venue_line": "The Regent Theater • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
       "title": "Dogman: The Musical - Sensory Sensitive Performance",
       "venue_line": "Kirk Douglas Theatre • Culver City",
       "price_label": "Price not available",
@@ -33,109 +113,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Outsiders (Touring)",
-      "venue_line": "Hollywood Pantages Theatre • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "From First To Last",
-      "venue_line": "House of Blues Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Loyola Marymount Lions Womens Volleyball vs. St. Marys CA Gaels Womens Volleyball",
-      "venue_line": "Albert Gersten Pavilion • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Alesana, In Parallel With You, Deadbeat Nightlife,  IWPLMFM, Halfway Ghost",
-      "venue_line": "Whisky A Go Go • West Hollywood",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Wednesday 13",
-      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Castle Rat: Summon The Beasts Tour 2026",
-      "venue_line": "The Belasco • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Aaron Lee Tasjan",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Brian Fallon",
-      "venue_line": "The Observatory • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "venue_line": "Honda Center • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Tokyo Tea Room - Feel Forever Tour",
-      "venue_line": "Teragram Ballroom • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
       "title": "Julieta Venegas",
       "venue_line": "The Wiltern • Los Angeles",
       "price_label": "Price not available",
@@ -143,29 +123,39 @@
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "In Her Own Words X Every Avenue: Perfectly Unfamiliar Tour",
-      "venue_line": "Echoplex • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "tobi lou - Same Old Jeans Tour",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "BammBamm & KCRW Present: Jawdropped with Fat, Evil Children",
       "venue_line": "The Echo • Los Angeles",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Matthew West: Jesus Is King Tour - Yorba Linda (Orange County), CA",
+      "venue_line": "Friends Church • Yorba Linda",
+      "price_label": "$15–$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Genia",
+      "venue_line": "The Peppermint Club • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
       "title": "Social Distortion",
       "venue_line": "Hollywood Palladium • Hollywood",
       "price_label": "Price not available",
@@ -173,34 +163,44 @@
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Baby Rose",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Boney James",
       "venue_line": "Blue Note Los Angeles • Los Angeles",
       "price_label": "$19",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Hairball",
-      "venue_line": "Cerritos Center for the Performing Arts • Cerritos",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Matthew West",
+      "venue_line": "Friends Church • Yorba Linda",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "La Mirada Theatre presents: Little Shop of Horrors",
-      "venue_line": "La Mirada Theatre for the Performing Arts • La Mirada",
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "UCLA Bruins Womens Volleyball vs. Michigan State Spartans Womens Volleyball",
+      "venue_line": "Pauley Pavilion-UCLA • Los Angeles",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Hiss Golden Messenger",
+      "venue_line": "Troubadour • West Hollywood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

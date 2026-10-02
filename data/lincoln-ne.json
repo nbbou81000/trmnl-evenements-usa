@@ -1,27 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-01T15:55:09.890Z",
+  "updated_at": "2026-10-02T15:16:20.792Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Wicked Bones / PHUZZ + MORE",
-      "venue_line": "1867 Bar • Lincoln",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "George Birge, The Talbott Brothers",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$22–$121",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "$27–$119",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "GODSMACK - The Rise of Rock World Tour 2026",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Matt Mathews",
+      "venue_line": "Lied Center for Performing Arts • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

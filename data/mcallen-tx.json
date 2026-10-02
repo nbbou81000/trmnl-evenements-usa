@@ -1,6 +1,6 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-01T15:55:16.298Z",
+  "updated_at": "2026-10-02T15:16:27.637Z",
   "events": [
     {
       "day_label": "FRI",
@@ -81,16 +81,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Averly Morillo",
-      "venue_line": "McAllen Performing Arts Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "BERT KREISCHER - PERMISSION TO PARTY",
+      "venue_line": "McAllen Performing Arts Center • McAllen",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

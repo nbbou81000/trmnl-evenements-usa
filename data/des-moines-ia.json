@@ -1,47 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-01T15:55:10.320Z",
+  "updated_at": "2026-10-02T15:16:21.246Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Ringling Bros B&B: The Greatest Show on Earth",
-      "venue_line": "Casey's Center • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Happy Accident (18 and Over)",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Andrew Hoyt and The Three Day Weekend",
-      "venue_line": "The Ingersoll • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Afroman",
-      "venue_line": "Val Air Ballroom • West Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Girl in a Coma",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Bruce Hornsby & The Noisemakers: Indigo Park Tour",
+      "venue_line": "Hoyt Sherman Place • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Opal In Sky w/ Levels - Band",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Rise Against: Ricochet 2026",
+      "venue_line": "Vibrant Music Hall • Waukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

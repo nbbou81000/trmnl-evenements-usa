@@ -1,27 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-01T15:54:50.685Z",
+  "updated_at": "2026-10-02T15:16:01.877Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Wade Forster",
-      "venue_line": "Richmond Music Hall • Richmond",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Dermot Kennedy: The Weight of the Woods Tour",
-      "venue_line": "Allianz Amphitheater at Riverfront • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Andy Thomas",
+      "venue_line": "The Broadberry • Richmond",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "NPHC Step Show",
+      "venue_line": "VSU Multi-Purpose Center • Petersburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-01T15:54:55.567Z",
+  "updated_at": "2026-10-02T15:16:07.148Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Banana Ball Playoffs: Savannah Bananas vs. Party Animals - Game 1",
-      "venue_line": "Grayson Stadium • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -91,16 +81,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Andy Thomas with The Regulars",
-      "venue_line": "District Live • Savannah",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
+      "venue_line": "Savannah International Trade & Convention Center • Savannah",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
+      "venue_line": "Savannah International Trade & Convention Center • Savannah",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

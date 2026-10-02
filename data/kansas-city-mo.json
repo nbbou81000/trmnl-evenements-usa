@@ -1,17 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-01T15:55:07.978Z",
+  "updated_at": "2026-10-02T15:16:19.021Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Built To Spill",
-      "venue_line": "Madrid Theatre • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+      "venue_line": "T-Mobile Center • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

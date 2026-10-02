@@ -1,107 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-01T15:55:03.070Z",
+  "updated_at": "2026-10-02T15:16:13.732Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Happy Hour w/ The Shaw Brothers at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$2",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Nevertel w/ Rivals",
-      "venue_line": "A&R Music Bar • Columbus",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "DISPATCH FAMILY VALUE PACK-CBJ VS. BUFFALO SABRES",
-      "venue_line": "Nationwide Arena • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "OPENING NIGHT - CBJ V. BUFFALO SABRES",
-      "venue_line": "Nationwide Arena • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Sweeney Todd",
-      "venue_line": "Short North Stage - Garden Theater • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Ohio State Buckeyes Women's Volleyball vs. Rutgers Womens Volleyball",
-      "venue_line": "Covelli Center Columbus • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Hot Flash Heat Wave",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Brand New",
-      "venue_line": "KEMBA Live! • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "WINDHAND with Sonja",
-      "venue_line": "Skully's Music Diner • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Dale Watson & His Lone Stars w/ India Ramey - Used Kids Records' 40th Anniversary Bash Concert Series",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -118,7 +18,7 @@
       "date_iso": "2026-10-02",
       "title": "Happy Hour w/ Hawa at Woodlands Tavern",
       "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$2",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +101,106 @@
       "price_label": "$20",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Sweeney Todd",
+      "venue_line": "Short North Stage - Garden Theater • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Revocation",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "DISPATCH FAMILY VALUE PACK-CBJ VS. UTAH MAMMOTH",
+      "venue_line": "Nationwide Arena • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "CBJ V. UTAH MAMMOTH",
+      "venue_line": "Nationwide Arena • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Sweeney Todd",
+      "venue_line": "Short North Stage - Garden Theater • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Bearly Dead - A Tribute to The Grateful Dead - at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Robin Trower w/ Strange Vine",
+      "venue_line": "KEMBA Live! • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Laszewo w/ Arden Jones",
+      "venue_line": "Newport Music Hall • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "BLITZKID w/ Lords of the Highway & The Lycan Bite",
+      "venue_line": "Rumba Cafe • Columbus",
+      "price_label": "$32–$75",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Bloodrave - Ages 18+",
+      "venue_line": "A&R Music Bar • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

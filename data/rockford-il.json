@@ -1,37 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-01T15:55:00.100Z",
+  "updated_at": "2026-10-02T15:16:11.603Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Lucy Darling: Simply Darling",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Lucy Darling Pre-show Talkback starts at 5:30PM",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Club Coronado for Lucy Darling",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Hard Rock & GALLI Presents: Lucha Libre International",
+      "venue_line": "Hard Rock Live Rockford • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Club Coronado for Jeff Dunham",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Jeff Dunham: Inappropriate Contact",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

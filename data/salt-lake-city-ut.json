@@ -1,107 +1,7 @@
 {
   "city_label": "Salt Lake City, UT",
-  "updated_at": "2026-10-01T15:55:25.464Z",
+  "updated_at": "2026-10-02T15:16:37.285Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Evening Elephants w/ The Braymores",
-      "venue_line": "Kilby Court • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Twilight Concert Series 2026 presents The War On Drugs",
-      "venue_line": "Gallivan Center • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Utah Mammoth vs. Chicago Blackhawks",
-      "venue_line": "Delta Center • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Our Town",
-      "venue_line": "Beehive Stage at Hale Centre Theatre Sandy • Sandy",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Empire of the Sun - Ask That God: Afterlife North American Tour",
-      "venue_line": "Utah First Credit Union Amphitheatre • West Valley City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
-      "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Mind Enterprises w/ Fred Fancy",
-      "venue_line": "The Complex - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Cavetown w/ Chloe Moriondo",
-      "venue_line": "The Complex - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "dnbOS: HARD RESET feat. SIMULA (21+ Event)",
-      "venue_line": "Soundwell • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -196,6 +96,106 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
+      "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
+      "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Carin Leon",
+      "venue_line": "Delta Center • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Tuck Everlasting",
+      "venue_line": "The Theater at Mount Jordan • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Breakaway Utah 2026 Official After Party ft. TYNAN (21+ Event)",
+      "venue_line": "Soundwell • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Our Town",
+      "venue_line": "Beehive Stage at Hale Centre Theatre Sandy • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
+      "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Harry Potter and the Cursed Child (Touring)",
+      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Dear Evan Hansen",
+      "venue_line": "CenterPoint Legacy Theatre • Centerville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Our Town",
+      "venue_line": "Beehive Stage at Hale Centre Theatre Sandy • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Breakaway Music Festival",
+      "venue_line": "America First Field • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
       "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
       "price_label": "Price not available",

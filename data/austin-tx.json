@@ -1,87 +1,7 @@
 {
   "city_label": "Austin, TX",
-  "updated_at": "2026-10-01T15:55:14.228Z",
+  "updated_at": "2026-10-02T15:16:25.310Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Official 2026 ACL Nights: Brandon Flowers",
-      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Boz Scaggs",
-      "venue_line": "Bass Concert Hall • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Riley Green: Cowboy As It Gets Tour 2026",
-      "venue_line": "Moody Center ATX • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Official 2026 ACL Nights: Palace",
-      "venue_line": "Emo's Austin • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Trae Crowder",
-      "venue_line": "Cap City Comedy Club • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Daniel Simonsen",
-      "venue_line": "Cap City Comedy Club • Austin",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Dana and Alden w/ Ania Hoo",
-      "venue_line": "Antone's Nightclub • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Official 2026 ACL Nights: Montclair",
-      "venue_line": "Stubb's Indoors • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -127,7 +47,7 @@
       "day_number": "2",
       "date_iso": "2026-10-02",
       "title": "Official 2026 ACL Fest Nights: Bleachers",
-      "venue_line": "Stubb's Waller Creek Amphitheater • Austin",
+      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -176,6 +96,16 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
+      "title": "Bleachers w/ This Is Lorelei",
+      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
       "title": "Gabriel Iglesias: The 1976 Tour",
       "venue_line": "Moody Center ATX • Austin",
       "price_label": "Price not available",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-02",
       "title": "Official 2026 ACL Nights: BUNT.",
       "venue_line": "Emo's Austin • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Official 2026 ACL Fest Nights: Steve Aoki - Ages 18+",
+      "venue_line": "The Concourse Project • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Daniel Simonsen",
+      "venue_line": "Cap City Comedy Club • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Official 2026 ACL Fest Nights: Night Tapes w/ Quentin",
+      "venue_line": "Antone's Nightclub • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Official 2026 ACL Nights: Grocery Bag",
+      "venue_line": "Stubb's Indoors • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Austin City Limits Festival",
+      "venue_line": "Zilker Park • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Austin City Limits Music Festival - Weekend One",
+      "venue_line": "Zilker Park • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Official 2026 ACL Nights: CMAT",
+      "venue_line": "Scoot Inn • Austin",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

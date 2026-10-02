@@ -1,87 +1,7 @@
 {
   "city_label": "Durham, NC",
-  "updated_at": "2026-10-01T15:54:52.953Z",
+  "updated_at": "2026-10-02T15:16:04.340Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Redferrin",
-      "venue_line": "Bowstring Pizza and Brewyard - Raleigh • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Maddy Smith Presents: Bad Genes Tour",
-      "venue_line": "Raleigh Improv • Cary",
-      "price_label": "$27–$82",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Dylan Gossett & Charles Wesley Godwin",
-      "venue_line": "Red Hat Amphitheater • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "Lenovo Center • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Craig Conant",
-      "venue_line": "Goodnights Comedy Club • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "The Lounge at Martin Marietta Center for the Performing Arts",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Serial Killers with Dr. Scott Bonn",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "honestav - The Sweet American Boy Tour",
-      "venue_line": "Lincoln Theatre-NC • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Jaane Pehchane Anjane: Anupam Kher and Swaroop Sampat Live",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Maddy Smith Presents: Bad Genes Tour",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$27–$82",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "2",
+      "date_iso": "2026-10-02",
+      "title": "Craig Conant",
+      "venue_line": "Goodnights Comedy Club • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "North Carolina Tar Heels Football vs. Notre Dame Fighting Irish Football",
+      "venue_line": "Kenan Stadium • Chapel Hill",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "North Carolina State Wolfpack Football vs. Louisville Cardinals Football",
+      "venue_line": "Carter Finley Stadium • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
+      "venue_line": "DPAC • Durham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "North Carolina Central Eagles Football vs. Campbell Fighting Camels Football",
+      "venue_line": "O'Kelly-Riddick Stadium • Durham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Orlando Leyba",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$27–$82",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

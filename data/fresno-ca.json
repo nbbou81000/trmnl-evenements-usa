@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-01T15:55:33.127Z",
+  "updated_at": "2026-10-02T15:16:45.066Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Ali Wong Live",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Show Me The Body, Whispers, Lip Critic, Truck Violence",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$35–$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -199,6 +179,26 @@
       "title": "THE CURE vs THE SMITHS vs DEPECHE MODE",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$8",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "JUANES WORLD TOUR 2026 ",
+      "venue_line": "Warnors Theatre • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Brit Floyd",
+      "venue_line": "William Saroyan Theatre Fresno Convention & Entertainment Center • Fresno",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

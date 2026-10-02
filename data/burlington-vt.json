@@ -1,17 +1,7 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-01T15:54:46.180Z",
+  "updated_at": "2026-10-02T15:15:56.955Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Southern Culture On the Skids",
-      "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -197,6 +187,16 @@
       "day_number": "3",
       "date_iso": "2026-11-03",
       "title": "Clutch",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Fruit Bats",
       "venue_line": "Higher Ground • South Burlington",
       "price_label": "Price not available",
       "type_key": "music",

@@ -1,17 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-01T15:54:45.734Z",
+  "updated_at": "2026-10-02T15:15:56.536Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Pat Metheny",
-      "venue_line": "Nashua Center For the Arts • Nashua",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -197,6 +187,16 @@
       "day_number": "24",
       "date_iso": "2026-10-24",
       "title": "Noah Gundersen",
+      "venue_line": "BNH Stage • Concord",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Carsie Blanton",
       "venue_line": "BNH Stage • Concord",
       "price_label": "Price not available",
       "type_key": "music",

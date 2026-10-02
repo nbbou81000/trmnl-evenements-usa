@@ -1,27 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-01T15:55:11.153Z",
+  "updated_at": "2026-10-02T15:16:22.089Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Holiday Galleria Preview Party",
-      "venue_line": "Expo Hall at Century II • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Holiday Galleria 2026",
-      "venue_line": "Expo Hall at Century II • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-16",
       "title": "Wichita State Shockers Womens Volleyball vs. Texas San Antonio Roadrunners Womens Volleyball",
       "venue_line": "Charles Koch Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Matt Mathews: Not What I Ordered World Tour",
+      "venue_line": "Kansas Star Event Center Arena • Mulvane",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Zach Rushing (18+ Event)",
+      "venue_line": "The Cotillion • Wichita",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

@@ -1,17 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-01T15:55:39.374Z",
+  "updated_at": "2026-10-02T15:16:51.500Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Bluey's Big Play - The Stage Show",
-      "venue_line": "First Interstate Center for the Arts • Spokane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-10",
       "title": "Eastern Washington Eagles Football vs. Northern Colorado Bears Football",
       "venue_line": "Roos Field • Cheney",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Spokane Chiefs vs. Everett Silvertips",
+      "venue_line": "Numerica Veterans Arena • Spokane",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

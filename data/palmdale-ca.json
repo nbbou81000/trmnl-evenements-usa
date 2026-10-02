@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-01T15:55:36.864Z",
+  "updated_at": "2026-10-02T15:16:48.777Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Soul Glo, Nnamdi, Shiiva",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "FREE SHOW: HOUSE OF DECEPTION: A LIVE GAME OF SECRETS, STRATEGY & BETRAYAL",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

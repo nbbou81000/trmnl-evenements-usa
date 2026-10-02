@@ -1,27 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-01T15:55:22.484Z",
+  "updated_at": "2026-10-02T15:16:34.157Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Caamp",
-      "venue_line": "Coca-Cola Amphitheater • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Chayse Porter & His Palace Doors - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -183,6 +163,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Saturday Night Open Deck at The Nick! 9pm Let’s Go",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$7",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "SUN",
       "day_number": "4",
       "date_iso": "2026-10-04",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Birmingham Bandstand (Open Mic) at the Nick",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$5",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

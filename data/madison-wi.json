@@ -1,57 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-01T15:55:07.103Z",
+  "updated_at": "2026-10-02T15:16:18.063Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Mt. Joy: UW Student Event Benefiting Local Mental Health Organizations",
-      "venue_line": "Orpheum Theater • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Wisconsin Badgers Womens Hockey vs. Boston University Terriers Womens Ice Hockey",
-      "venue_line": "LaBahn Arena • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Joe Russo's Almost Dead",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Wisconsin Badgers Womens Volleyball vs. Indiana Hoosiers Womens Volleyball",
-      "venue_line": "UW Field House • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Cheekface W/ Special Guest Apes Of The State",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-08",
       "title": "Bongzilla",
       "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "MuvGruv",
+      "venue_line": "Roxxy • Madison",
+      "price_label": "$7",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Princess Bride: An Inconceivable Evening with Cary Elwes",
+      "venue_line": "Orpheum Theater • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Soccer Mommy x Snail Mail",
+      "venue_line": "The Sylvee • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Wiz (Touring)",
+      "venue_line": "Capitol Theater - Overture Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Sixteen Candles",
+      "venue_line": "Majestic Theatre • Madison",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

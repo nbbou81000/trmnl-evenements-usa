@@ -1,27 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-01T15:55:18.399Z",
+  "updated_at": "2026-10-02T15:16:29.843Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Koe Wetzel: The Night Champion World Tour",
-      "venue_line": "Simmons Bank Arena • North Little Rock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "49 Winchester",
-      "venue_line": "The Hall • Little Rock",
-      "price_label": "$40–$59",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The AlchemyXXII Masquerade Witches Ball",
+      "venue_line": "The Hall • Little Rock",
+      "price_label": "$105–$220",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Simmons Bank Championship: Friday Admission",
+      "venue_line": "Pleasant Valley Country Club • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

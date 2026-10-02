@@ -1,67 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-01T15:55:35.512Z",
+  "updated_at": "2026-10-02T15:16:47.283Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "JPEGMAFIA: the Experimental Rap Tour",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Extreme Dwarfanator Wrestling (21+ Event)",
-      "venue_line": "Rockefellas Bar • Corona",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Amber Autry",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Speaker Series: Cheech Marin",
-      "venue_line": "Lewis Family Playhouse • Rancho Cucamonga",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Wu-Tang Forever: The Final Chapter / \r\nwith special guests Bone Thugs-N-Harmony - 21 & Over",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Amber Autry",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$37",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -136,16 +76,6 @@
       "day_label": "FRI",
       "day_number": "2",
       "date_iso": "2026-10-02",
-      "title": "Bobby Dee Presents: Petey Pablo",
-      "venue_line": "Stage Red • Fontana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
       "title": "Gina Brillon",
       "venue_line": "Ontario Improv • Ontario",
       "price_label": "$25–$77",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Mario Aguilar - \"Diezmadre\"",
+      "venue_line": "Fox Performing Arts Center • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "French Police",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Ron White",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "R&B/FUNK Old School Night of Legends!",
+      "venue_line": "Orion International Academy • Ontario",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Gina Brillon",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$25–$77",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Las Alucines - Tu Nuevo Estilo de Vida US Tour",
+      "venue_line": "Fox Performing Arts Center • Riverside",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Insane Clown Posse",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

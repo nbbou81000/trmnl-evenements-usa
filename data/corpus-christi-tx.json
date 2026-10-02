@@ -1,17 +1,7 @@
 {
   "city_label": "Corpus Christi, TX",
-  "updated_at": "2026-10-01T15:55:15.066Z",
+  "updated_at": "2026-10-02T15:16:26.272Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "1",
-      "date_iso": "2026-10-01",
-      "title": "Gabriel Iglesias: The 1976 Tour",
-      "venue_line": "Hilliard Center Arena • Corpus Christi",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -186,6 +176,16 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
+      "title": "Disney On Ice presents Magic in the Stars",
+      "venue_line": "Hilliard Center Arena • Corpus Christi",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
       "title": "Disney On Ice presents Magic in the Stars",
       "venue_line": "Hilliard Center Arena • Corpus Christi",
       "price_label": "Price not available",
