@@ -1,57 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-02T15:16:34.611Z",
+  "updated_at": "2026-10-03T14:07:16.689Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Jim Parkers Songwriters Series",
-      "venue_line": "Von Braun Center Playhouse • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Zach Williams With Cochren & Co. And Christian Hohn: Revival Nights",
-      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Luenell",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$46–$60",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "NYC to HSV: Manhattan at Mars",
-      "venue_line": "VBC Mars Music Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Luenell",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$46–$60",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +151,56 @@
       "price_label": "$33–$53",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Phish",
+      "venue_line": "Orion Amphitheater • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Phish",
+      "venue_line": "Orion Amphitheater • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Ellen Skrmetti",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$40–$53",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Rodney Carrington",
+      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Phish",
+      "venue_line": "Orion Amphitheater • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

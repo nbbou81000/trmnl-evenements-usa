@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-02T15:16:45.066Z",
+  "updated_at": "2026-10-03T14:07:27.111Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Old Crow Medicine Show: Union Made Tour",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "SOULDIES & COLDIES with DJ Carinyo plus special guests DJs  - Sapo (San Jose), El Guapo (Visalia)",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-11",
       "title": "Brit Floyd",
       "venue_line": "William Saroyan Theatre Fresno Convention & Entertainment Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "This Wild Life, Nate Bergman",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$33–$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Tower of Power w/ War",
+      "venue_line": "Fresno Fairgrounds • Fresno",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

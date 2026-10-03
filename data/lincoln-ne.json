@@ -1,27 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-02T15:16:20.792Z",
+  "updated_at": "2026-10-03T14:07:03.155Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Lincoln Stars vs. Tri-City Storm",
-      "venue_line": "Ice Box • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "KPOP After Dark",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -98,7 +78,7 @@
       "date_iso": "2026-10-07",
       "title": "gnash",
       "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$0",
+      "price_label": "$27",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Silver Ticket Karaoke",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "BINGO LOCO",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$46",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

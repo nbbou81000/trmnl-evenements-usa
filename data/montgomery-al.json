@@ -1,6 +1,6 @@
 {
   "city_label": "Montgomery, AL",
-  "updated_at": "2026-10-02T15:16:35.056Z",
+  "updated_at": "2026-10-03T14:07:17.124Z",
   "events": [
     {
       "day_label": "WED",
@@ -27,6 +27,16 @@
       "day_number": "8",
       "date_iso": "2026-10-08",
       "title": "ADVANCED ADMISSION & RIDE DEALS - ANF 2026",
+      "venue_line": "Alabama National Fair • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "FAIR DAILY ADMISSION - 2026 ANF",
       "venue_line": "Alabama National Fair • Montgomery",
       "price_label": "Price not available",
       "type_key": "misc",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "20",
-      "date_iso": "2026-11-20",
-      "title": "Masterclass Trap Orchestra ft. Boosie",
-      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

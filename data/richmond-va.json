@@ -1,37 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-02T15:16:01.877Z",
+  "updated_at": "2026-10-03T14:06:44.221Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Earlybirds Club (21 and Over)",
-      "venue_line": "The National • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Gary Owen (Ages 12+ are recommended for this performance)",
-      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "I Love R&B Party - Ages 21+",
-      "venue_line": "Ember Music Hall • Richmond",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Altria Theater • Richmond",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Lucero w/ Joelton Mayfield",
+      "venue_line": "The Broadberry • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jamie Lissow",
+      "venue_line": "Funny Bone Comedy Club - Richmond • Richmond",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

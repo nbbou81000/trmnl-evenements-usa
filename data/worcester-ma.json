@@ -1,37 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-02T15:15:59.704Z",
+  "updated_at": "2026-10-03T14:06:42.331Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Rock The Rails Fest",
-      "venue_line": "Off The Rails Outdoors • Worcester",
-      "price_label": "$28–$159",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Holy Cross Crusaders Hockey vs. Maine Black Bears Hockey",
-      "venue_line": "Hart Recreation Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Monty Python Spamalot (Touring) - Recommended 8 and Over",
-      "venue_line": "Hanover Theatre • Worcester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Hot Wheels Start Your Engine VIP",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Hot Wheels Pedal to the Metal VIP",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Woostock",
+      "venue_line": "Off The Rails Outdoors • Worcester",
+      "price_label": "$31–$56",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

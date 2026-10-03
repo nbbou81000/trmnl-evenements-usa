@@ -1,17 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-02T15:16:11.603Z",
+  "updated_at": "2026-10-03T14:06:54.151Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Brantley Gilbert - Real American Tour",
-      "venue_line": "BMO Center • Rockford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -148,7 +138,7 @@
       "date_iso": "2026-10-17",
       "title": "Adam Calhoun , Struggle Jennings, Bubba Sparxxx, Savannah Dexter , Jamwayne, Dusty Leigh , Hard Target, Cymple Man , Shocka Hustlemane, Big Buck Beezy",
       "venue_line": "The Apollo Theatre Ac • Belvidere",
-      "price_label": "$31–$114",
+      "price_label": "$31–$110",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Q98.5 & 96.7 The Eagle Flannel Jam - Country Confidential + Rock",
+      "venue_line": "Hard Rock Live Rockford • Rockford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

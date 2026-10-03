@@ -1,57 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-02T15:16:18.063Z",
+  "updated_at": "2026-10-03T14:07:00.489Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Wisconsin Badgers Womens Hockey vs. Boston University Terriers Womens Ice Hockey",
-      "venue_line": "LaBahn Arena • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Sheebie And The Lovemakers, Varsity Mac, Aergo, Yolk, & Deep Dive",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Madison County",
-      "venue_line": "Roxxy • Madison",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Haute & Freddy's Big Disgrace Tour",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Wisconsin Badgers Hockey vs. Robert Morris Colonials Hockey",
-      "venue_line": "Kohl Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -197,6 +147,56 @@
       "day_number": "9",
       "date_iso": "2026-10-09",
       "title": "Sixteen Candles",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Gully Boys W/ Pollyanna And Lunar Moth",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Wisconsin Badgers Mens Basketball vs. Wisconsin-Parkside Rangers Mens Basketball",
+      "venue_line": "Kohl Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Wiz (Touring)",
+      "venue_line": "Capitol Theater - Overture Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Wiz (Touring)",
+      "venue_line": "Capitol Theater - Overture Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Porch Light: Hush Tour",
       "venue_line": "Majestic Theatre • Madison",
       "price_label": "Price not available",
       "type_key": "music",

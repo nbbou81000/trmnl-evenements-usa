@@ -1,57 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-02T15:16:21.246Z",
+  "updated_at": "2026-10-03T14:07:03.648Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Ringling Bros B&B: The Greatest Show on Earth",
-      "venue_line": "Casey's Center • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "SOLD OUT! Megan Woods: The Truth Tour - Johnston, IA",
-      "venue_line": "NorthPoint Church • Johnston",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Des Moines Buccaneers vs. Omaha Lancers",
-      "venue_line": "MidAmerican Energy Company RecPlex • West Des Moines",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Lauren Alaina: The Stages Tour 2026",
-      "venue_line": "Hoyt Sherman Place • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Clint Black: Back On The Blacktop Tour",
-      "venue_line": "Vibrant Music Hall • Waukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -197,6 +147,56 @@
       "day_number": "7",
       "date_iso": "2026-10-07",
       "title": "Rise Against: Ricochet 2026",
+      "venue_line": "Vibrant Music Hall • Waukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
+      "venue_line": "Hoyt Sherman Place • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Jenna Raine",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Convictions w/ Afterlife",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Zach Top w/ Marty Stuart & His Fabulous Superlatives",
+      "venue_line": "Casey's Center • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Taste Of Chaos",
       "venue_line": "Vibrant Music Hall • Waukee",
       "price_label": "Price not available",
       "type_key": "music",

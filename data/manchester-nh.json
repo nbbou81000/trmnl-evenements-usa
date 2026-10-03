@@ -1,27 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-02T15:15:56.536Z",
+  "updated_at": "2026-10-03T14:06:39.224Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Jodi Picoult",
-      "venue_line": "Capitol Center for the Arts - NH • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Dueling Pianos",
-      "venue_line": "BNH Stage • Concord",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Disco Biscuits",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Lauren Rainbow",
+      "venue_line": "BNH Stage • Concord",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,117 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-02T15:16:14.327Z",
+  "updated_at": "2026-10-03T14:06:56.857Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Cleveland Monsters vs. Grand Rapids Griffins",
-      "venue_line": "Rocket Arena • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Grits & Eggs Podcast: Coming Thru America Tour",
-      "venue_line": "House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "FRAGMENTED REMEMBRANCE VOL. II EP RELEASE SHOW",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Triflin",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Benjamin Tod",
-      "venue_line": "Globe Iron • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "halloweezer",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "People in the Daytime, Mud Whale, Touchdown Jesus",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Clownvis",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Jason White wsg Bent String (Trio)",
-      "venue_line": "Treelawn Music Hall • Cleveland",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Broadway Rave Dance Party",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$22–$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "ONE NIGHT AT THE CHAMBER",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "$10",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -158,7 +48,7 @@
       "date_iso": "2026-10-03",
       "title": "Karenpalooza Presents Steve Austin",
       "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$20",
+      "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +89,116 @@
       "title": "Nevertel, Rivals, Ocean Sleeper",
       "venue_line": "Grog Shop • Cleveland Heights",
       "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Slothrust: The Dystopian Theatre Tour",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Smooth Sailing, featuring Randie Shane",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Gumbo Rewind",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Brad Williams: The Tall Tales Tour",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "BOOZY BRUNCH (YACHT ROCK)",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Halloween Maker's Market",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Cleveland Monsters vs. Grand Rapids Griffins",
+      "venue_line": "Rocket Arena • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Michael Franti Trio - Heartstrings & Dynamite",
+      "venue_line": "House of Blues Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Cortex w/ Adrian Younge",
+      "venue_line": "Agora Theatre • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Bayonne",
+      "venue_line": "Mahall's • Lakewood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "THE SAMMY DELEON AND JACKIE WARREN QUARTET, WITH KIP REED & CHRIS BURGE",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$13",
       "type_key": "music",
       "type_label": "Music"
     }

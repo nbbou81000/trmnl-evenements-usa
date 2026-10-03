@@ -1,27 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-02T15:16:27.637Z",
+  "updated_at": "2026-10-03T14:07:10.078Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Marisela : Eterna Tour 2026",
-      "venue_line": "Payne Arena • Hidalgo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "ODIN DUPEYRON - ¡A VIVIR!",
-      "venue_line": "McAllen Performing Arts Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Gaby Mendoza",
+      "venue_line": "McAllen Performing Arts Center • McAllen",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Journey Former Lead Vocalist Steve Augeri",
+      "venue_line": "Payne Arena • Hidalgo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

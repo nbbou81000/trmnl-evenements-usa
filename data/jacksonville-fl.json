@@ -1,87 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-02T15:16:08.036Z",
+  "updated_at": "2026-10-03T14:06:50.288Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Killers of Kill Tony",
-      "venue_line": "Jacksonville Center for the Performing Arts - Moran Theater • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Mariachi El Bronx",
-      "venue_line": "Ponte Vedra Concert Hall • Ponte Vedra Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Tony Roberts",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Jax Symphony: The 70's & Beyond",
-      "venue_line": "Jacksonville Center for the Performing Arts - Jacoby Hall • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Puttin' on the Ritz Talent Competition",
-      "venue_line": "Ritz Theatre • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Zach Top",
-      "venue_line": "VyStar Veterans Arena • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Tony Roberts",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "THE 9AM BANGER PRESENTS: Dancehall at 9AM - Ages 21+",
-      "venue_line": "Decca Live • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +118,86 @@
       "date_iso": "2026-10-07",
       "title": "That One Mailman",
       "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Toast - The Best of Bread *Moved to Terry Theater*",
+      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Toast - The Best of Bread",
+      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Phish",
+      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Holding Absence & Arm’s Length: North American Co-Headliner Tour 2026",
+      "venue_line": "FIVE • Jacksonville",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Atlanta Rhythm Section w/ Firefall",
+      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "MJ The Illusion",
+      "venue_line": "Jacksonville Center for the Performing Arts - Moran Theater • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Noizu - Ages 18+",
+      "venue_line": "Decca Live • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Behind the Scream: A Live Conversation with David Arquette Following a 30th Anniversary Screening of SCREAM",
+      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

@@ -1,17 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-02T15:16:07.148Z",
+  "updated_at": "2026-10-03T14:06:49.378Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Banana Ball Playoffs: Texas Tailgaters vs. Loco Beach Coconuts - Game 1",
-      "venue_line": "Grayson Stadium • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Savannah Ghost Pirates vs. South Carolina Stingrays",
+      "venue_line": "Enmarket Arena • Savannah",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

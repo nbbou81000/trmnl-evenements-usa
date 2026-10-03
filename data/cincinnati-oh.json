@@ -1,67 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-02T15:16:14.790Z",
+  "updated_at": "2026-10-03T14:06:57.351Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "DEMOLA LIVE!",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Aaron Tippin",
-      "venue_line": "Lori's Roadhouse • West Chester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "John Waite",
-      "venue_line": "Taft Theatre • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "The Brothers Comatose w/Stick & Bindle",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Jesse McCartney (Ages 21 & Over)",
-      "venue_line": "Turfway Park • Florence",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Spooky Fox",
-      "venue_line": "The Southgate House Revival - The Lounge • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -199,6 +139,66 @@
       "title": "Gregory Alan Isakov",
       "venue_line": "MegaCorp Pavilion • Newport",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Vanilla Fudge",
+      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Robin Trower",
+      "venue_line": "The Andrew J Brady Music Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Cece Winans: Vibes Hi-Fidelity Concert Earplugs",
+      "venue_line": "Heritage Bank Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "CeCe Winans-COME WORSHIP! Tour",
+      "venue_line": "Heritage Bank Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Bear Ghost - Tiny Hitman Tour 2026  w/ Sarah and the Safe Word and Spaceman Bob",
+      "venue_line": "Madison Live (734) • Covington ",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Dream Syndicate",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$38",
       "type_key": "music",
       "type_label": "Music"
     }

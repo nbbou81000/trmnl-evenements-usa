@@ -1,57 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-02T15:16:20.364Z",
+  "updated_at": "2026-10-03T14:07:02.721Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Creighton Bluejays Womens Volleyball vs. Depaul Blue Demons Women's Volleyball",
-      "venue_line": "RYAN CENTER/DJ SOKOL ARENA • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Omaha Community Playhouse • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Dynasty Combat Sports: Halloween Havoc",
-      "venue_line": "Liberty First Credit Union Arena • Ralston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
-      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Chance The Rapper | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -199,6 +149,56 @@
       "title": "KiNG MALA",
       "venue_line": "Slowdown • Omaha",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "The Holdup",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Omaha Hockey vs. Manitoba",
+      "venue_line": "Baxter Arena • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Jordan Jensen",
+      "venue_line": "The Admiral-NE • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Come from Away (Touring)",
+      "venue_line": "Omaha Community Playhouse • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "DAVID NAIL - 2026 Down To The Studs Tour",
+      "venue_line": "Barnato • Omaha",
+      "price_label": "$2–$88",
       "type_key": "music",
       "type_label": "Music"
     }

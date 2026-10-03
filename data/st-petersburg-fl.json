@@ -1,127 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-02T15:16:10.282Z",
+  "updated_at": "2026-10-03T14:06:52.671Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "SCREECHING WEASEL w/The Queers and Billy Batts & The Made Men",
-      "venue_line": "Ferg's Pavilion • St. Petersburg",
-      "price_label": "$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "America",
-      "venue_line": "Ruth Eckerd Hall • Clearwater",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Gabriel Rutledge",
-      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Bleach  30 Year Anniversary w/ special guests Rookie of the Year and Keep Warm in Tampa",
-      "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$40",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Tchaikovsky's 1812 Overture",
-      "venue_line": "Mahaffey Theater • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Atsuko Okatsuka: The Big Bowl Tour",
-      "venue_line": "Tampa Bay Perf Arts Ctr Ferguson Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Atsuko Okatsuka",
-      "venue_line": "David A. Straz Center - Ferguson Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "The Singularity Play",
-      "venue_line": "USF Theatre 2 • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Streetlight Manifesto",
-      "venue_line": "Jannus Live • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Los Tigres del Norte: Los Tigres del Mundo",
-      "venue_line": "Benchmark International Arena • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Atsuko Okatsuka",
-      "venue_line": "Tampa Theater • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Gabriel Rutledge",
-      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +81,126 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Joey Cash in Tampa",
+      "venue_line": "Zodiac • Tampa",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Gabriel Rutledge",
+      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Tampa Bay Buccaneers V Green Bay Packers",
+      "venue_line": "Raymond James Stadium • Tampa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Pepsi Tailgate: Tampa Bay Buccaneers Vs. Green Bay Packers",
+      "venue_line": "Raymond James Stadium • Tampa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Crooked Pop Tailgate: Tampa Bay Buccaneers Vs. Green Bay Packers",
+      "venue_line": "Raymond James Stadium • Tampa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Tchaikovsky's 1812 Overture",
+      "venue_line": "Mahaffey Theater • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Singularity Play",
+      "venue_line": "USF Theatre 2 • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Rutenberg Chamber Music Series:  Chang / Sun Duo",
+      "venue_line": "USF Barness Recital Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Ziggy Marley w/ Govt Mule",
+      "venue_line": "The BayCare Sound • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Tampa Bay Sun FC vs. Lexington SC",
+      "venue_line": "Suncoast Credit Union Field • Tampa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Ziggy Marley and Gov't Mule",
+      "venue_line": "The BayCare Sound • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Angel Du$t & Agnostic Front in Bradenton",
+      "venue_line": "Oscura • Bradenton",
+      "price_label": "$40",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

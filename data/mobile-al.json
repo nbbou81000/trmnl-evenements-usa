@@ -1,47 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-02T15:16:35.489Z",
+  "updated_at": "2026-10-03T14:07:17.514Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Zeke Buckhaults & The Crescent Theater Employees Showcase",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14–$62",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Lamont Landers",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "It's A 2000s Party: Mobile",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$33–$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "XXX Comedy Show: A Late-Night Return to 1970s Grindhouse Comedy",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14–$39",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -199,6 +159,46 @@
       "title": "WARD DAVIS (Solo Acoustic)",
       "venue_line": "The Merry Widow • Mobile",
       "price_label": "$34",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Crescent Comedy Workshop",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$2",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Crescent Comedy Chaos",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$9",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Gabriel Rutledge",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$33–$84",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Sister Hazel",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$36–$83",
       "type_key": "music",
       "type_label": "Music"
     }

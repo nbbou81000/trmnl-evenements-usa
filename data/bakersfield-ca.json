@@ -1,17 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-02T15:16:45.536Z",
+  "updated_at": "2026-10-03T14:07:27.517Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "The Number Twelve Looks Like You, Kaonashi, Blind Equation, dontcryformeimalreadydead",
-      "venue_line": "Temblor Brewing Company • Bakersfield",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -158,7 +148,7 @@
       "date_iso": "2026-10-18",
       "title": "Megan Woods: The Truth Tour - Bakersfield, CA",
       "venue_line": "Victory Outreach Bakersfield BOLD • Bakersfield ",
-      "price_label": "$24–$75",
+      "price_label": "$21–$75",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -197,6 +187,16 @@
       "day_number": "24",
       "date_iso": "2026-10-24",
       "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+      "venue_line": "Bakersfield Fox Theater • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Fred Armisen",
       "venue_line": "Bakersfield Fox Theater • Bakersfield",
       "price_label": "Price not available",
       "type_key": "arts",

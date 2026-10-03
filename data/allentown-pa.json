@@ -1,27 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-02T15:15:58.359Z",
+  "updated_at": "2026-10-03T14:06:40.964Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Ann Wilson: The Voice of Heart & Tripsitter",
-      "venue_line": "The Wind Creek Event Center • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "38 Special",
-      "venue_line": "Penn's Peak • Jim Thorpe",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-09",
       "title": "Dokken W/special Guest Lynch Mob",
       "venue_line": "Penn's Peak • Jim Thorpe",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "COLORS Presents: R&B ONLY - 21+",
+      "venue_line": "Archer Music Hall • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Nevertel",
+      "venue_line": "Arrow • Allentown",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

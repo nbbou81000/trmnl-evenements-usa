@@ -1,27 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-02T15:16:15.784Z",
+  "updated_at": "2026-10-03T14:06:58.219Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "West Akron Fadeaway",
-      "venue_line": "John, James and Clara Knight Stage • Akron",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "One of These Nights: A Tribute to the Eagles",
-      "venue_line": "Goodyear Theater • Akron",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Boy Band Brunch",
+      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Akron Zips Football vs. Eastern Michigan Eagles Football",
+      "venue_line": "InfoCision Stadium - Summa Field • Akron",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

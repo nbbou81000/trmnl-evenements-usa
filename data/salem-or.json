@@ -1,17 +1,7 @@
 {
   "city_label": "Salem, OR",
-  "updated_at": "2026-10-02T15:16:49.638Z",
+  "updated_at": "2026-10-03T14:07:31.775Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Oregon Symphony",
-      "venue_line": "Rose Auditorium • Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Straight No Chaser",
+      "venue_line": "Elsinore Theatre • Salem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-02T15:16:48.777Z",
+  "updated_at": "2026-10-03T14:07:30.748Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "D.R.I. LIVE AT TRANSPLANTS IN PALMDALE",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$36–$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -98,7 +88,7 @@
       "date_iso": "2026-10-10",
       "title": "NEKROMANTIX WITH REZUREX LIVE IN CONCERT OCT 10TH IN PALMDALE AT TRANSPLANTS",
       "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$29–$41",
+      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Ghoul, Dry Socket, Triste",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

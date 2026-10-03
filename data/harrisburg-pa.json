@@ -1,27 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-02T15:15:58.806Z",
+  "updated_at": "2026-10-03T14:06:41.405Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "BRAT",
-      "venue_line": "Capital City Music Hall Lower Level • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "CANCELLED - Ariana Grande Night",
-      "venue_line": "Capital City Music Hall • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -197,6 +177,26 @@
       "day_number": "15",
       "date_iso": "2026-10-15",
       "title": "Beats Antique",
+      "venue_line": "XL Live • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Mushroomhead",
+      "venue_line": "Capital City Music Hall • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "All Them Witches",
       "venue_line": "XL Live • Harrisburg",
       "price_label": "Price not available",
       "type_key": "music",

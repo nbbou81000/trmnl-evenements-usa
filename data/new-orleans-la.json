@@ -1,127 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-02T15:16:32.363Z",
+  "updated_at": "2026-10-03T14:07:14.504Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Bayside",
-      "venue_line": "House of Blues New Orleans  • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Terry Fator",
-      "venue_line": "Mahalia Jackson Theater • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Jovin Webb",
-      "venue_line": "New Orleans Jazz Market • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Super Session: Wil Blades, Donald Harrison & Mike Clark",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "My Fair Lady",
-      "venue_line": "Westwego Perf Arts Theatre • Westwego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Of Monsters and Men - The Mouse Parade Tour",
-      "venue_line": "Civic Theatre • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Mike Goodwin presented by Laugh Life Comedy",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$30",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "River Eckert: Generations of Groove - A Benefit for Tipitina’s Foundation",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "NOLAxNOLA presents: The Bottoms w/ Shawn Gwin (\"Sage\" from Dr. Mary's Monkey)",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Sub-Division Joy Division Tribute w/ The English Channels Cure Tribute",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Super Session: Wil Blades, Donald Harrison & Mike Clark",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Erica Falls & Friends Present A Night of Marvin Gaye",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$45–$88",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -199,6 +79,126 @@
       "title": "Flip Fitch, Donny's Demeanor, Theft, and Weird 1000",
       "venue_line": "Gasa Gasa • New Orleans",
       "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "NOLAxNOLA presents: Tand the Band",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$13–$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Dana and Alden",
+      "venue_line": "Chickie Wah Wah • New Orleans",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Maggie Koerner",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$31–$86",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Davisito Navarro’s Birthday Party & Album Release with Special Guest Yissy Garcia",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$13–$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "NOLAxNOLA26 PRESENTS: THE UNNATURALS with BLACK COFFEE",
+      "venue_line": "Santos Bar • New Orleans",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "After-Party with DJ Santero for Davisito's Celebrations",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "My Fair Lady",
+      "venue_line": "Westwego Perf Arts Theatre • Westwego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Nickel-A-Dance presents: A Tribute to Ronell Johnson",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Minx Burlesque ",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$19–$108",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Schooled with Soul Sister: Deep Dive into Parliament-Funkadelic and the Mothership",
+      "venue_line": "Gasa Gasa • New Orleans",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Jose Madero - USA Tour 2026",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Davell Crawford & Co. featuring James Jordan",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     }

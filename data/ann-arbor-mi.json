@@ -1,57 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-02T15:16:13.298Z",
+  "updated_at": "2026-10-03T14:06:55.959Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Michigan Wolverines Hockey vs. Bowling Green Falcons Hockey",
-      "venue_line": "Yost Arena • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Whose Live Anyway?",
-      "venue_line": "Michigan Theater • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Mick Blankenship | Birthday Bash | W/ Tight Like That • Days of Disaster • Coldville • Hamshackle • Nic Stevens",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Kanin Wren, Connor Lyman   ",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Saddle Up Dance Party (Pitbull Night)",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$13–$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +151,56 @@
       "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Justin Nozuka",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Michigan Wolverines Hockey vs. University of Alaska Anchorage Seawolves Hockey",
+      "venue_line": "Yost Arena • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Justin Nozuka",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Michigan Wolverines Mens Soccer vs. Penn State Nittany Lions Mens Soccer",
+      "venue_line": "UM Soccer Stadium • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "USA Hockey National Team Development Program vs. Tri-City Storm",
+      "venue_line": "USA Hockey Arena • Plymouth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

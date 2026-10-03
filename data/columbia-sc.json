@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-02T15:16:06.235Z",
+  "updated_at": "2026-10-03T14:06:48.482Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Blisspop Presents: Can't Feel My Face: 2010s Dance Party",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-29",
       "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
       "venue_line": "Williams-Brice Stadium • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Iron & Wine",
+      "venue_line": "The Senate • Columbia",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

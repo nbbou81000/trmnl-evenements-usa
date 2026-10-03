@@ -1,57 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-02T15:16:30.582Z",
+  "updated_at": "2026-10-03T14:07:12.670Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "It's Raining Queens",
-      "venue_line": "Halloran Centre at the Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Punchis Punchis: Banda Rave Experience - 18+",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Drake White",
-      "venue_line": "Minglewood Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Amy Grant + Mac McAnally",
-      "venue_line": "Graceland Soundstage • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Amy Grant + Mac McAnally",
-      "venue_line": "Soundstage at Graceland • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-11",
       "title": "Mempho Fest",
       "venue_line": "Radians Amphitheater • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Singalong Broadway!",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Ravyn Lenae Presents: Blue Island",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Modest Mouse",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "\"The Hayley Williams Show\"",
+      "venue_line": "BankPlus Amphitheater at Snowden Grove • Southaven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Ryan Bingham and The Texas Gentlemen - Still Gettin' Away With It Tour",
+      "venue_line": "Satellite Music Hall • Memphis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

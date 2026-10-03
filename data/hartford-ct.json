@@ -1,47 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-02T15:15:54.474Z",
+  "updated_at": "2026-10-03T14:06:37.436Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "The Great Gatsby (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "ROAR! Comedy: Nick Alex",
-      "venue_line": "The Armory at MGM Springfield • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Chief Keef Live 2026",
-      "venue_line": "Dome at Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "The Big E Fair",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -186,6 +146,16 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
+      "title": "UConn Huskies Hockey vs. Penn State Nittany Lions Mens Hockey",
+      "venue_line": "Toscano Family Ice Forum • Storrs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
       "title": "Dracula",
       "venue_line": "Hartford Stage • Hartford",
       "price_label": "Price not available",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Central Connecticut St Blue Devils Football vs. American International Yellow Jackets Football",
+      "venue_line": "Arute Field • New Britain",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Hartford Wolfpack vs. Wilkes-Barre Scranton Penguins",
+      "venue_line": "PeoplesBank Arena • Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "UConn Huskies Hockey vs. Colorado College Tigers Hockey",
+      "venue_line": "Toscano Family Ice Forum • Storrs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,107 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-02T15:16:13.732Z",
+  "updated_at": "2026-10-03T14:06:56.407Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Oh Geeez, Not Again / Mudd",
-      "venue_line": "Classics Victorys • Columbus",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Happy Hour w/ Hawa at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Pertinence",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Everything Yes w/ Cosmic Graffiti at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Don Lemon & DL Hughley: DL + DL 'Anything Goes'",
-      "venue_line": "Mershon Auditorium • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Grief Sucks: A One Man Show By KevOnStage",
-      "venue_line": "Speaker Jo Ann Davidson Theatre (formerly Capitol Theatre) • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Zolita",
-      "venue_line": "A&R Music Bar • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Minion Rave",
-      "venue_line": "Skully's Music Diner • Columbus",
-      "price_label": "$19–$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Daft Disko (18 and Over)",
-      "venue_line": "Newport Music Hall • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Yachtopia's Live Band Yacht Rock Party!",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -188,7 +88,7 @@
       "date_iso": "2026-10-03",
       "title": "BLITZKID w/ Lords of the Highway & The Lycan Bite",
       "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$32–$75",
+      "price_label": "$32",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Sweeney Todd",
+      "venue_line": "Short North Stage - Garden Theater • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Kyle Gordon",
+      "venue_line": "Skully's Music Diner • Columbus",
+      "price_label": "$32",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Muna w/ Hemlocke Springs",
+      "venue_line": "KEMBA Live! • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) featuring Frank Carter",
+      "venue_line": "Newport Music Hall • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Hoodoo Soul Band",
+      "venue_line": "Rumba Cafe • Columbus",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Greywind",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "WEEZER: The Gathering",
+      "venue_line": "Nationwide Arena • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Ohio Theatre • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "The Format w/ Get Up Kids",
+      "venue_line": "Newport Music Hall • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Taylor Bickett w/ Lisa Curtis & Doubting Thomas",
+      "venue_line": "Rumba Cafe • Columbus",
+      "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

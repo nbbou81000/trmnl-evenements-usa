@@ -1,111 +1,41 @@
 {
   "city_label": "Washington, DC",
-  "updated_at": "2026-10-02T15:16:00.906Z",
+  "updated_at": "2026-10-03T14:06:43.255Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Buffalo Traffic Jam - Pictures of You Tour",
-      "venue_line": "9:30 CLUB • Washington",
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Pinktober Brunch: Rocking for a Cure",
+      "venue_line": "Hard Rock Cafe-Washington DC • Washington",
+      "price_label": "$55",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Georgetown Hoyas Football vs. Cornell Big Red Football",
+      "venue_line": "Cooper Field • Washington",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Power to the People Festival",
+      "venue_line": "Merriweather Post Pavilion • Columbia",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "The Sage • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
-      "venue_line": "DAR Constitution Hall • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Daley – US Tour",
-      "venue_line": "Howard Theatre • Washington",
-      "price_label": "$45",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Asha Banks: something inbetween tour",
-      "venue_line": "The Atlantis • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "WEEZER: The Gathering",
-      "venue_line": "Capital One Arena • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Kanan Gill: Not This Again ",
-      "venue_line": "Capital One Hall • Tysons",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Fahim Anwar",
-      "venue_line": "Improv Comedy Club- DC • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "The Format",
-      "venue_line": "Lincoln Theatre • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Dirty Dancing",
       "venue_line": "The National Theatre • Washington",
       "price_label": "Price not available",
@@ -113,9 +43,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "The Score (play)",
       "venue_line": "Sidney Harman Hall • Washington",
       "price_label": "Price not available",
@@ -123,39 +53,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Martin Sexton - Live Wide Open Tour 2026",
-      "venue_line": "Birchmere • Alexandria",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Pennywise",
-      "venue_line": "The Fillmore Silver Spring • Silver Spring",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Black Violin - The Be Free Tour",
-      "venue_line": "Warner Theatre • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Merrily We Roll Along (Appropriate for mature teens and up. Children under 6 are not admitted at Signature)",
       "venue_line": "Signature Theatre • Arlington",
       "price_label": "Price not available",
@@ -163,19 +63,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "wave to earth - the pieces tour",
-      "venue_line": "The Anthem • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
       "venue_line": "The Sage • Washington",
       "price_label": "Price not available",
@@ -183,24 +73,134 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Fahim Anwar",
-      "venue_line": "Improv Comedy Club- DC • Washington",
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "GLOW Block Party: Diplo",
+      "venue_line": "Pennsylvania Avenue • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "The Bounty Battle of the Real HU Presented by Events DC ",
+      "venue_line": "Audi Field • Washington",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "The Sage • Washington",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "JOSH JOHNSON'S COMEDY BAND CAMP - Ticketless VIP",
+      "venue_line": "DAR Constitution Hall • Washington",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
       "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
       "venue_line": "DAR Constitution Hall • Washington",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Mindy Gledhill w/ Debra Fotheringham",
+      "venue_line": "Jammin Java • Vienna",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Knocked Loose & Denzel Curry",
+      "venue_line": "The Anthem • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "The Sage • Washington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Avery Cochrane: Weapons Of Iridescence Tour",
+      "venue_line": "The Atlantis • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "United Globe Concert Access-Olivia Rodrigo (EVENT TICKET NOT INCLUDED)",
+      "venue_line": "Capital One Arena • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Olivia Rodrigo: The Unraveled Tour",
+      "venue_line": "Capital One Arena • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Maryland Terrapins Womens Volleyball vs. Nebraska Cornhuskers Womens Volleyball",
+      "venue_line": "Xfinity Center - MD • College Park",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

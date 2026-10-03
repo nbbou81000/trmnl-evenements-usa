@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-02T15:15:53.007Z",
+  "updated_at": "2026-10-03T14:06:36.140Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,56 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Rodrigo Teaser: Michael Lives Forever",
-      "venue_line": "Landmark Theatre • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "FREE SHOW - Ky Mcclinton",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "ZUFFALO w/s/g TBD",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "John Brown's Body w/s/g Sim Redmond Band",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "SHREK RAVE",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Paega* w/s/g Darkside Skinny Dipper's",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jimkata w/ The New Service",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Too Heavy For Emo Night Syracuse",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Syracuse City Ballet Presents Dracula",
+      "venue_line": "The Oncenter Carrier Theater • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Syracuse Crunch vs. Belleville Senators",
+      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

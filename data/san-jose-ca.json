@@ -1,87 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-02T15:16:44.070Z",
+  "updated_at": "2026-10-03T14:07:26.140Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "\"The Hayley Williams Show\"",
-      "venue_line": "Shoreline Amphitheatre • Mountain View",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Stanford Cardinal Womens Volleyball vs. Virginia Tech Hokies Womens Volleyball",
-      "venue_line": "Maples Pavilion • Stanford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Earthquake",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$37–$102",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Get the Led Out",
-      "venue_line": "Mountain Winery • Saratoga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "John Oates",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Sploinky Rave",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$19–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Lost and Found",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Moe's Alley Presents: Diggin Dirt (Night 1) w/ Rachel Spung & The Soul Service",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "2",
@@ -91,16 +11,6 @@
       "price_label": "$47",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Earthquake",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$37–$102",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SAT",
@@ -201,6 +111,96 @@
       "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "3",
+      "date_iso": "2026-10-03",
+      "title": "Earthquake",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$37–$102",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "San Francisco 49ers vs. Denver Broncos",
+      "venue_line": "Levi's® Stadium • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Ricardo Quevedo (En Español)",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$62–$132",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Simone Porter w/ Blake Pouliot",
+      "venue_line": "Bing Concert Hall • Stanford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "San Jose Barracuda vs. San Diego Gulls",
+      "venue_line": "Tech CU Arena • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "THE KEHLANI WORLD TOUR: North America",
+      "venue_line": "Shoreline Amphitheatre • Mountain View",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Hammerfall, Evergrey",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$37–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Soulfly, Nailbomb, Incite",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$263–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Lou Hazel",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

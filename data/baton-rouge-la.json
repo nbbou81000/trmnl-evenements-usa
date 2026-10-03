@@ -1,37 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-02T15:16:32.787Z",
+  "updated_at": "2026-10-03T14:07:14.929Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "2026 Homecoming Greek Show",
-      "venue_line": "F.G. Clark Activity Center - Southern University • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "The Black Jacket Symphony Presents Def Leppard's \"Hysteria\"",
-      "venue_line": "Baton Rouge River Center Theater • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "OVOXO NIGHT Presented by Love Yourself & Bandeaux Pat",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Jo Koy: Koy Meets World Tour",
+      "venue_line": "Baton Rouge River Center Theater • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Wine Lips with Heathers and Blue Widow",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Andrew Conn",
+      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
+      "price_label": "$28–$157",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-02T15:15:52.581Z",
+  "updated_at": "2026-10-03T14:06:35.695Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Rochester Americans vs Toronto Marlies",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Rochester Americans vs. Toronto Marlies",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -197,6 +177,26 @@
       "day_number": "10",
       "date_iso": "2026-10-10",
       "title": "Stéphane Wrembel: Rochester Concert Series - Dreamers of Dreams",
+      "venue_line": "Lovin' Cup • Rochester",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Stephane Wrembel",
+      "venue_line": "Lovin' Cup • Rochester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Stéphane Wrembel: Rochester Concert Series - Django Brunch",
       "venue_line": "Lovin' Cup • Rochester",
       "price_label": "$35",
       "type_key": "music",

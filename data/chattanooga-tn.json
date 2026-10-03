@@ -1,37 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-02T15:16:31.938Z",
+  "updated_at": "2026-10-03T14:07:14.083Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Desi Banks:  Your Favorite Cousin",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Lily Rose w/ Braden Wall",
-      "venue_line": "The Signal - Concert Hall • Chattanooga",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Lily Rose",
-      "venue_line": "The Signal • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -196,11 +166,41 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
-      "title": "Rainbow Rave",
-      "venue_line": "The Signal - Concert Hall • Chattanooga",
-      "price_label": "$34–$92",
+      "title": "Babylon Rave",
+      "venue_line": "The Parlour at The Signal • Chattanooga",
+      "price_label": "$30",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Bobby Stone Film Series: Rear Window",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Bobby Stone Film Series: Rear Window",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Chattanooga Moccasins Football vs. Samford University Bulldogs Football",
+      "venue_line": "Finley Stadium Davenport Field • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

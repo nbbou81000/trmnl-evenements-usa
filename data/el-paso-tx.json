@@ -1,47 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-02T15:16:25.833Z",
+  "updated_at": "2026-10-03T14:07:08.341Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Red Owl Boxing Presents Boxfest 21",
-      "venue_line": "El Paso County Coliseum • El Paso",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "FOOS GONE WILD: The FOOS GONE WILD Tour 2026",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Mariachazo",
-      "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Foos Gone Wild",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The UTEP Jazz Ensembles In Concert - UTEP Department of Music",
+      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "In The Time Of The Butterflies-UTEP Theatre & Dance",
+      "venue_line": "June Sadowski Kruszewski Studio Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "El Paso Rhinos",
+      "venue_line": "Events Center  • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "El Paso Symphony Orchestra: Heaven on Earth ft M. Marrero, Soprano",
+      "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

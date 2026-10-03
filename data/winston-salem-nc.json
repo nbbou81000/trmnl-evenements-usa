@@ -1,17 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-02T15:16:05.277Z",
+  "updated_at": "2026-10-03T14:06:47.430Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Paul Thorn",
-      "venue_line": "The Ramkat • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-21",
       "title": "Mastodon",
       "venue_line": "Piedmont Hall • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Koe Wetzel: The Night Champion World Tour",
+      "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

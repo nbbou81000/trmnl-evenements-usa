@@ -1,17 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-02T15:16:29.843Z",
+  "updated_at": "2026-10-03T14:07:12.188Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Ty Myers: The Legal Tour 2026",
-      "venue_line": "First Security Amphitheater • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -197,6 +187,16 @@
       "day_number": "30",
       "date_iso": "2026-10-30",
       "title": "Simmons Bank Championship: Friday Admission",
+      "venue_line": "Pleasant Valley Country Club • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Simmons Bank Championship: Good Any One Day Admission",
       "venue_line": "Pleasant Valley Country Club • Little Rock",
       "price_label": "Price not available",
       "type_key": "sports",

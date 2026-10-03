@@ -1,37 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-02T15:16:51.500Z",
+  "updated_at": "2026-10-03T14:07:33.676Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Yelawolf & Highly Suspect - The War Within Tour",
-      "venue_line": "BECU Live at Northern Quest • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Yelawolf & Highly Suspect - The War Within Tour",
-      "venue_line": "BECU Live Outdoor Venue • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Phillip Phillips",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "3",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Megan Woods: The Truth Tour - Spokane, WA",
+      "venue_line": "Turning Point Church (Spokane, WA) • Spokane",
+      "price_label": "$24–$75",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Green - Titles Tour 2026",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Echos, Lana Del Rabies",
+      "venue_line": "The District • Spokane",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

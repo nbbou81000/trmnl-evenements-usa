@@ -1,17 +1,7 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-02T15:16:45.985Z",
+  "updated_at": "2026-10-03T14:07:27.956Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "2",
-      "date_iso": "2026-10-02",
-      "title": "Extreme Dwarfanator Wrestling",
-      "venue_line": "Twin Rivers Saloon • Modesto",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -38,7 +28,7 @@
       "date_iso": "2026-10-16",
       "title": "Megan Woods: The Truth Tour - Stockton, CA",
       "venue_line": "First Baptist Church of Stockton (W Alpine) • Stockton",
-      "price_label": "$24–$46",
+      "price_label": "$21–$46",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -196,6 +186,16 @@
       "day_label": "FRI",
       "day_number": "27",
       "date_iso": "2026-11-27",
+      "title": "Stockton Thunder vs. Oceanside HC",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
       "title": "Stockton Thunder vs. Oceanside HC",
       "venue_line": "Adventist Health Arena • Stockton",
       "price_label": "Price not available",
