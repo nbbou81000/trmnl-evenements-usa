@@ -1,27 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-03T14:06:49.378Z",
+  "updated_at": "2026-10-04T14:33:43.220Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Banana Ball Playoffs: Savannah Bananas vs. Party Animal - Game 2",
-      "venue_line": "Grayson Stadium • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Whiskey Myers",
-      "venue_line": "VyStar Pavilion • Port Wentworth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
+      "venue_line": "Savannah International Trade & Convention Center • Savannah",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
+      "venue_line": "Savannah International Trade & Convention Center • Savannah",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

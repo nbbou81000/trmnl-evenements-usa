@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-03T14:06:36.140Z",
+  "updated_at": "2026-10-04T14:33:29.777Z",
   "events": [
     {
       "day_label": "SUN",
@@ -9,46 +9,6 @@
       "title": "The Song & Dance Season Pass - Summer/Fall",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$208",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Strictly Hip - A Tribute to The Tragically Hip",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Keller Williams",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "House Party. A sweaty love-letter to the 2010s rager.",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "An Enchanted Morning With CNY Ballet",
-      "venue_line": "Landmark Theatre • Syracuse",
-      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Syracuse City Ballet Presents Dracula",
+      "venue_line": "The Oncenter Carrier Theater • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "AJJ",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "LEON TROUT w/s/g Level:Memory",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Photo City Presents: Silent Disco",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$10–$18",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

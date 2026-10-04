@@ -1,17 +1,7 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-10-03T14:06:53.126Z",
+  "updated_at": "2026-10-04T14:33:46.695Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Florida State Seminoles Football vs. Virginia Cavaliers Football",
-      "venue_line": "Doak Campbell Stadium • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-17",
       "title": "Florida State Seminoles Mens Basketball vs. Ball State Cardinals Mens Basketball",
       "venue_line": "Donald L. Tucker Center • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Club Seats - FSU MBB vs Ball State",
+      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

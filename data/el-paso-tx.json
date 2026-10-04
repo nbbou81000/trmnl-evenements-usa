@@ -1,17 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-03T14:07:08.341Z",
+  "updated_at": "2026-10-04T14:34:01.531Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
-      "venue_line": "Sun Bowl Stadium • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "In The Time Of The Butterflies-UTEP Theatre & Dance",
+      "venue_line": "June Sadowski Kruszewski Studio Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

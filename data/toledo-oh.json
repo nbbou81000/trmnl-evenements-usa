@@ -1,17 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-03T14:06:57.784Z",
+  "updated_at": "2026-10-04T14:33:51.183Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Bowling Green Falcons Hockey vs. Michigan Wolverines Hockey",
-      "venue_line": "Slater Family Ice Arena • Bowling Green",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Pulse Boxing",
       "venue_line": "Glass City Center • Toledo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Toledo Walleye vs. Fort Wayne Komets",
+      "venue_line": "Huntington Center • Toledo",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

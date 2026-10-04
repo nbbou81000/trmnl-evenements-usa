@@ -1,73 +1,23 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-03T14:07:34.087Z",
+  "updated_at": "2026-10-04T14:34:25.964Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "95th HHAA Great Gun Show - SATURDAY",
-      "venue_line": "Neal S Blaisdell Exhibition Hall • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Hawaii Rainbow Warriors Football vs. San Jose State Spartans Football",
-      "venue_line": "Clarence T. C. Ching Athletics Complex • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "The Return of Damon Wayans",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$86–$113",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Bush - This is an All Ages accompanied by an adult event",
-      "venue_line": "The Republik • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
       "date_iso": "2026-10-04",
       "title": "95th HHAA Great Gun Show - SUNDAY",
       "venue_line": "Neal S Blaisdell Exhibition Hall • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Wiki Wiki One Day Vintage Collectibles & Hawaiiana Show",
+      "venue_line": " Blaisdell Hawaii Suites • Honolulu",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -196,6 +146,56 @@
       "day_label": "THU",
       "day_number": "8",
       "date_iso": "2026-10-08",
+      "title": "Hiromi: The Trio Project",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$46–$57",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Hiromi: The Trio Project",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$46–$57",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Brian Culbertson w/ David Benoit",
+      "venue_line": "Hawaii Theatre • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
       "title": "Hiromi: The Trio Project",
       "venue_line": "Blue Note Hawaii • Honolulu",
       "price_label": "$46–$57",

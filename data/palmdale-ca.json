@@ -1,22 +1,12 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-03T14:07:30.748Z",
+  "updated_at": "2026-10-04T14:34:23.044Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "WEDNESDAY 13 with DEAD ON A SUNDAY and ABOVE SNAKES",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
       "date_iso": "2026-10-04",
-      "title": "FREE SHOW: SISTERS OF THE BLACK MOUNTAIN / ASTRAL JETS / THE BLURRY STARS",
+      "title": "FREE SHOW: ASTRAL JETS / POCKETWATCH INC / THE BLURRY STARS",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$0",
       "type_key": "music",
@@ -199,6 +189,16 @@
       "title": "Ghoul, Dry Socket, Triste",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "FREE SHOW: DESERT DANISH ALBUM RELEASE WITH 8-BIT POTLUCK / JOHN RITCHIE",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

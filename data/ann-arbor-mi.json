@@ -1,37 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-03T14:06:55.959Z",
+  "updated_at": "2026-10-04T14:33:49.426Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "USA Hockey National Team Development Program vs. Boston College Eagles Hockey",
-      "venue_line": "USA Hockey Arena • Plymouth",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "gnash  ",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "BADDIEWEEN: The Ultimate Baddie Halloween Costume Party!",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$13–$32",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-09",
       "title": "USA Hockey National Team Development Program vs. Tri-City Storm",
       "venue_line": "USA Hockey Arena • Plymouth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Anthony Jeselnik: Wrath of Man",
+      "venue_line": "Michigan Theater • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Samara Joy (Age Recommendation 12 and Over)",
+      "venue_line": "Hill Auditorium • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Michigan Wolverines Womens Volleyball vs. Iowa Hawkeyes Womens Volleyball",
+      "venue_line": "Crisler Center • Ann Arbor",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

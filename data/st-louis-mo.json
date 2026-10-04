@@ -1,97 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-03T14:07:01.884Z",
+  "updated_at": "2026-10-04T14:33:55.242Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Al Holliday Trio",
-      "venue_line": "Atomic Lounge • St. Louis",
-      "price_label": "$0–$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "This, That & Hip Hop",
-      "venue_line": "Atomic Garage • St. Louis",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Anthony DeVito",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Blueface x DDG: Fresh Out of Love Tour",
-      "venue_line": "Pop's Concert Venue • Sauget",
-      "price_label": "$41–$100",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Sebastian Bach with Great White and Quiet Riot",
-      "venue_line": "Family Arena • Saint Charles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "venue_line": "Hollywood Casino Amphitheater • Maryland Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Breakfast In America - A Supertramp Celebration",
-      "venue_line": "The Pageant • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Anthony DeVito",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "NAPA Auto Parts NHRA Midwest Nationals - Sunday",
-      "venue_line": "World Wide Technology Raceway at Gateway • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -108,7 +18,7 @@
       "date_iso": "2026-10-04",
       "title": "JJ Grey & Mofro — Top of the World Tour",
       "venue_line": "Atomic Block Party  • St. Louis",
-      "price_label": "$54–$108",
+      "price_label": "$59–$119",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +109,96 @@
       "title": "Cheekface",
       "venue_line": "Off Broadway • Saint Louis",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Cheekface w/ Apes of the State",
+      "venue_line": "Off Broadway • St. Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Voodoo Marshall Tucker Band",
+      "venue_line": "Atomic Garage • St. Louis",
+      "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "St. Louis Blues vs. San Jose Sharks",
+      "venue_line": "Enterprise Center • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Chris Klemens",
+      "venue_line": "Helium Comedy Club - St. Louis • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
+      "venue_line": "The Hawthorn • St. Louis",
+      "price_label": "$55",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Waylon Wyatt - Dustpiles World Tour",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "DJ Mahf",
+      "venue_line": "Atomic Lounge • St. Louis",
+      "price_label": "$0–$31",
       "type_key": "music",
       "type_label": "Music"
     }

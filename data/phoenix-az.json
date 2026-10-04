@@ -1,11 +1,31 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-10-03T14:07:22.073Z",
+  "updated_at": "2026-10-04T14:34:14.680Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "DJ Bueller",
+      "venue_line": "Thunderbird Lounge - AZ • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Summer Breeeze: an Afternoon of Yacht Rock",
+      "venue_line": "Thunderbird Lounge • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
       "title": "The Phantom of the Opera (Touring)",
       "venue_line": "ASU Gammage • Tempe",
       "price_label": "Price not available",
@@ -13,129 +33,29 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "*CANCELLED* CRESCENT BALLROOM 15TH ANNIVERSARY PARTY",
-      "venue_line": "Crescent Ballroom • Phoenix",
-      "price_label": "$13–$26",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "CHANEL BEADS",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "DJ MATTY ROB // FUNK / DISCO / HIP HOP / R&B / ELECTRONIC / HOUSE",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Chanel Beads",
-      "venue_line": "Valley Bar • Phoenix",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Nerd",
+      "venue_line": "Herberger Theater Center • Phoenix",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Les Miserables (Touring)",
-      "venue_line": "Phoenix Theatre - Stephenson Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "US Men's National Soccer vs. Mexico National Football Team",
-      "venue_line": "State Farm Stadium • Glendale",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Arizona State Sun Devils Womens Volleyball vs. Iowa State Cyclones Womens Volleyball",
+      "venue_line": "Desert Financial Arena • Tempe",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "SOLD OUT! Matthew West: Jesus Is King Tour - Phoenix, AZ",
-      "venue_line": "Mountain Park Church • Phoenix",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "ASU Gammage • Tempe",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Sun Devil Football v Baylor",
-      "venue_line": "Mountain America Stadium • Tempe",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
       "title": "Sweet Home Alabama",
       "venue_line": "Showroom at Casino Arizona • Scottsdale",
       "price_label": "Price not available",
@@ -143,64 +63,144 @@
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "JACK WHITE LIVE 2026",
-      "venue_line": "Arizona Financial Theatre • Phoenix",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "JPEGMAFIA: the Experimental Rap Tour",
-      "venue_line": "The Van Buren • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Mariachazo",
-      "venue_line": "Celebrity Theatre • Phoenix",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Monster Market",
+      "venue_line": "Thunderbird Lounge • Phoenix",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Spafford",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Ron White",
+      "venue_line": "Talking Stick Resort • Scottsdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Phantom of the Opera (Touring)",
+      "venue_line": "ASU Gammage • Tempe",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Les Miserables (Touring)",
+      "venue_line": "Phoenix Theatre - Stephenson Theatre • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "SODA BLONDE",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "BRIAN FALLON & THE PAINKILLERS",
+      "venue_line": "Crescent Ballroom • Phoenix",
+      "price_label": "$63",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Soda Blonde",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Wu-Tang Forever: The Final Chamber",
+      "venue_line": "Talking Stick Resort Amphitheatre • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Rod Wave: Don't Look Down Tour",
+      "venue_line": "Mortgage Matchup Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Candlebox - Can't Quit You Tour, Fall 2026",
       "venue_line": "Marquee Theatre • Tempe",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Jeff Dunham  | Official Ticket + Hotel Packages",
-      "venue_line": "Gila River Resorts & Casinos - Wild Horse Pass • Chandler",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Ron White",
+      "venue_line": "Talking Stick Resort • Scottsdale",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Jeff Dunham: Artificial Intelligence",
-      "venue_line": "Gila River Resorts & Casinos - Wild Horse Pass • Chandler",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Guardin",
+      "venue_line": "Nile Theater • Mesa",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

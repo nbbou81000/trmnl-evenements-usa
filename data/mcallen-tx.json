@@ -1,27 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-03T14:07:10.078Z",
+  "updated_at": "2026-10-04T14:34:03.216Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "McAllen Performing Arts Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Chayanne - Bailemos Otra Vez Tour",
-      "venue_line": "Payne Arena • Hidalgo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -197,6 +177,26 @@
       "day_number": "24",
       "date_iso": "2026-10-24",
       "title": "Journey Former Lead Vocalist Steve Augeri",
+      "venue_line": "Payne Arena • Hidalgo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Gary Owen - No Hard Feelings Tour",
+      "venue_line": "McAllen Performing Arts Center • McAllen",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Killer Queen - The Box Theater",
       "venue_line": "Payne Arena • Hidalgo",
       "price_label": "Price not available",
       "type_key": "music",

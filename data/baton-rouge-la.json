@@ -1,37 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-03T14:07:14.929Z",
+  "updated_at": "2026-10-04T14:34:07.887Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Southern University Football",
-      "venue_line": "A.W. Mumford Stadium - Southern University • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "LSU Tigers Football vs. McNeese State Cowboys Football",
-      "venue_line": "LSU Tiger Stadium • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Dear Southern, The Ultimate Homecoming Finale with DRACK MUSE, DJ KIMANI, DJ PLEASURE & DJ ROB",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -86,7 +56,7 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
-      "title": "Gametime w/ Joe Nichols",
+      "title": "Gametime w/ Joe Nichols & special guest McKenzie Claire Knapps",
       "venue_line": "Texas Club • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "music",
@@ -201,6 +171,36 @@
       "price_label": "$28–$157",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "LSU Tigers Football vs. Mississippi State Bulldogs Football",
+      "venue_line": "LSU Tiger Stadium • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "LSU Tigers Womens Volleyball vs. Georgia Bulldogs Womens Volleyball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Dax - The Anger Management Tour",
+      "venue_line": "Texas Club • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

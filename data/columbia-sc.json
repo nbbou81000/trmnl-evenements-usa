@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-03T14:06:48.482Z",
+  "updated_at": "2026-10-04T14:33:42.325Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Univ of South Carolina Gamecocks Football vs. Kentucky Wildcats Football",
-      "venue_line": "Williams-Brice Stadium • Columbia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -199,6 +189,16 @@
       "title": "Iron & Wine",
       "venue_line": "The Senate • Columbia",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "CAIN Live and In Worship Tour with special guest Patrick Mayberry - Lexington, SC",
+      "venue_line": "Mt. Horeb Church • Lexington",
+      "price_label": "$25–$167",
       "type_key": "music",
       "type_label": "Music"
     }

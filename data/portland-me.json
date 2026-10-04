@@ -1,27 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-03T14:06:38.807Z",
+  "updated_at": "2026-10-04T14:33:32.435Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Ringo Starr and His All Starr Band",
-      "venue_line": "Cross Insurance Arena  • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "The New Pornographers - The Former Site Of Tour",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -196,6 +176,26 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
+      "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+      "venue_line": "Cross Insurance Arena  • Portland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "BERTHA: Grateful Drag",
+      "venue_line": "State Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
       "venue_line": "Cross Insurance Arena  • Portland",
       "price_label": "Price not available",

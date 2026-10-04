@@ -1,27 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-03T14:06:41.890Z",
+  "updated_at": "2026-10-04T14:33:35.523Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Wilkes-Barre/Scranton Penguins vs. Springfield Thunderbirds",
-      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Start Making Sense- Talking Heads Tribute",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Mystic Pizza",
+      "venue_line": "Scranton Cultural Center • Scranton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Broadway in Scranton Season Subscription: SATURDAY EVENINGS",
+      "venue_line": "Scranton Cultural Center • Scranton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

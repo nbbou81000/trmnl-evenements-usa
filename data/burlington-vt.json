@@ -1,17 +1,7 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-03T14:06:39.644Z",
+  "updated_at": "2026-10-04T14:33:33.273Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Post Sex Nachos",
-      "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Weatherday",
+      "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

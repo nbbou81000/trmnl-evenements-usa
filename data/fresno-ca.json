@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-03T14:07:27.111Z",
+  "updated_at": "2026-10-04T14:34:19.545Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Foghat",
-      "venue_line": "ApCal Rock N' Ranch • Madera",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "In Her Own Words, Every Avenue, Felicity",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -199,6 +179,26 @@
       "title": "Tower of Power w/ War",
       "venue_line": "Fresno Fairgrounds • Fresno",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Matt Maher",
+      "venue_line": "Fresno Fairgrounds • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "MILITARIE GUN 20 Songs for 20 Dollars plus special guests Softcult, Shady Nasty, Dazy",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

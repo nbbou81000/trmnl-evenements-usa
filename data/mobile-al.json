@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-03T14:07:17.514Z",
+  "updated_at": "2026-10-04T14:34:10.492Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Mike Goodwin (Early Show)",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$32–$82",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Mike Goodwin",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$32–$38",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -199,6 +179,26 @@
       "title": "Sister Hazel",
       "venue_line": "Soul Kitchen • Mobile",
       "price_label": "$36–$83",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Luke Severeid",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$27–$73",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Danny Bedrosian & Secret Army",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$19",
       "type_key": "music",
       "type_label": "Music"
     }

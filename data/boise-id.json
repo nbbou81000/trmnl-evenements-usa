@@ -1,37 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-03T14:07:20.238Z",
+  "updated_at": "2026-10-04T14:34:12.995Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Boise State Football vs. Utah State",
-      "venue_line": "Albertsons Stadium • Boise",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "DYING FETUS & SANGUISUGABOGG",
-      "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Julien- K & NITE: The Neon Chronicles II Tour",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "4",
@@ -199,6 +169,36 @@
       "title": "Too Short Live in Boise!",
       "venue_line": "Knitting Factory - Boise • Boise",
       "price_label": "$78–$179",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Matt Rife: Stay Golden World Tour",
+      "venue_line": "Ford Idaho Center Arena • Nampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "BOISE STATE UNIVERSITY VS UNIVERSITY OF IDAHO MEN'S BASKETBALL",
+      "venue_line": "Idaho Central Arena • Boise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Castle Rat",
+      "venue_line": "Shrine Social Club • Boise",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,6 +1,6 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-03T14:06:47.430Z",
+  "updated_at": "2026-10-04T14:33:41.409Z",
   "events": [
     {
       "day_label": "SAT",
@@ -11,26 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Wake Forest Demon Deacons Football vs. Stanford Cardinal Football",
-      "venue_line": "Allegacy Federal Credit Union Stadium • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Sugarland: Ride or Die Tour",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SUN",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits - Wrestling Night",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "ALL ELITE WRESTLING PRESENTS COLLISION LIVE",
+      "venue_line": "Lawrence Joel Veterans Memorial Coliseum • Winston Salem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

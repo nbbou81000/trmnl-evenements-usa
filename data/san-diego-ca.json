@@ -1,31 +1,11 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-03T14:07:25.228Z",
+  "updated_at": "2026-10-04T14:34:17.695Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "San Diego Toreros Womens Volleyball vs. Denver Pioneers Womens Volleyball",
-      "venue_line": "Jenny Craig Pavilion • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "San Diego Toreros Football vs. Davidson College Wildcats Football",
-      "venue_line": "USD Torero Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
       "title": "Oh, Mary! (Touring)",
       "venue_line": "San Diego Civic Theatre • San Diego",
       "price_label": "Price not available",
@@ -33,9 +13,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
       "title": "Begin Again",
       "venue_line": "Old Globe Theatre • San Diego",
       "price_label": "Price not available",
@@ -43,139 +23,69 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Brian Fallon & The Painkillers",
-      "venue_line": "Casbah-San Diego • San Diego",
-      "price_label": "Price not available",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Mina x Hickies",
+      "venue_line": "Nova SD • San Diego",
+      "price_label": "$30",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "PeelingFlesh",
-      "venue_line": "House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Jessica Kirson",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Menzingers: Everything I Ever Saw North American Tour",
       "venue_line": "The Observatory North Park • San Diego",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Burt Brion",
+      "venue_line": "Humphreys Backstage Live • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Oh, Mary! (Touring)",
+      "venue_line": "San Diego Civic Theatre • San Diego",
+      "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Prince Again",
-      "venue_line": "The Magnolia • El Cajon",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Adam Ray: WHO IS ME Tour",
-      "venue_line": "Balboa Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Anna Graves",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Social Distortion",
-      "venue_line": "Petco Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "\"The Hayley Williams Show\"",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
       "venue_line": "North Island Credit Union Amphitheatre • Chula Vista",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Chat Pile - Who Loves The Sun Tour 2026 w/ Soul Glo & Virga",
-      "venue_line": "Music Box • San Diego",
-      "price_label": "$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Chat Pile w/ Soul Glo",
-      "venue_line": "Music Box - San Diego • San Diego",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "The Red Jumpsuit Apparatus - 20 Year Anniversary of Don't You Fake It",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Air Supply - A Matter of Time Tour",
-      "venue_line": "Humphreys Concerts By the Bay • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "SDSU Aztec Football vs. Texas State Bobcats Football",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Oh, Mary! (Touring)",
-      "venue_line": "San Diego Civic Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
       "title": "Begin Again",
       "venue_line": "Old Globe Theatre • San Diego",
       "price_label": "Price not available",
@@ -183,24 +93,114 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Julieta Venegas: Norteña Tour 2026",
-      "venue_line": "Cal Coast Credit Union Open Air Theatre at SDSU • San Diego",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Jesse Roper (21 and Over)",
+      "venue_line": "Casbah-San Diego • San Diego",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Sammy Rae & The Friends with special guest Melt",
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Michelle Branch: Everywhere And Back Again Tour w/ SASAMI",
       "venue_line": "The Sound • Del Mar",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Jackie Greene, Alex Bergan",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$38–$65",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "4",
+      "date_iso": "2026-10-04",
+      "title": "Snapdragon Stadium Tours",
+      "venue_line": "Snapdragon Stadium • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Chad Gray - 30 Years of Madnesss",
+      "venue_line": "House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Empire of the Sun - Ask That God: Afterlife North American Tour",
+      "venue_line": "Petco Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Dear Maryanne",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "5",
+      "date_iso": "2026-10-05",
+      "title": "Snapdragon Stadium Tours",
+      "venue_line": "Snapdragon Stadium • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Milwaukee Brewers at San Diego Padres: NLDS (Home Game 1)",
+      "venue_line": "PETCO Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Rum Jungle",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Begin Again",
+      "venue_line": "Old Globe Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }
