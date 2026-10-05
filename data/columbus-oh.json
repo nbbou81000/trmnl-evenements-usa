@@ -1,57 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-04T14:33:49.847Z",
+  "updated_at": "2026-10-05T17:43:38.051Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Sweeney Todd",
-      "venue_line": "Short North Stage - Garden Theater • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Kyle Gordon",
-      "venue_line": "Skully's Music Diner • Columbus",
-      "price_label": "$32",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Muna w/ Hemlocke Springs",
-      "venue_line": "KEMBA Live! • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) featuring Frank Carter",
-      "venue_line": "Newport Music Hall • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Hoodoo Soul Band",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -199,6 +149,56 @@
       "title": "Whiskey Daredevils & Hellroys - Happy Hour Concert",
       "venue_line": "Rumba Cafe • Columbus",
       "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Upon Your Dead Body",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Ohio Theatre • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Tab Benoit",
+      "venue_line": "Lincoln Theatre - OH • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Zach John King",
+      "venue_line": "A&R Music Bar • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "CRUEL SUMMER - A Live Band Taylor Swift Tribute",
+      "venue_line": "Skully's Music Diner • Columbus",
+      "price_label": "$32",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,6 +1,6 @@
 {
   "city_label": "Santa Fe, NM",
-  "updated_at": "2026-10-04T14:34:13.827Z",
+  "updated_at": "2026-10-05T17:44:05.633Z",
   "events": [
     {
       "day_label": "SUN",
@@ -69,6 +69,16 @@
       "title": "Logan Ryan Band with Dzaki Sukarno inside The Bridge at Santa Fe Brewing Co.",
       "venue_line": "The Bridge at Santa Fe Brewing Company • Santa Fe",
       "price_label": "$34",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "3",
+      "date_iso": "2026-12-03",
+      "title": "Steve Poltz - 21+",
+      "venue_line": "Tumbleroot • Santa Fe",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

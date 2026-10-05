@@ -1,17 +1,7 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-04T14:33:33.273Z",
+  "updated_at": "2026-10-05T17:43:20.105Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "76th Street",
-      "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Sleep",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-04T14:34:24.305Z",
+  "updated_at": "2026-10-05T17:44:17.747Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Oregon Ducks Volleyball vs. University of Illinois Fighting Illini Women's Volleyball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "FENG E",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$24–$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -197,6 +177,26 @@
       "day_number": "15",
       "date_iso": "2026-10-15",
       "title": "Oregon Ducks Men's Basketball vs. Seattle University Redhawks Men's Basketball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "D.R.I.",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Oregon Ducks Volleyball vs. Indiana University Women's Volleyball",
       "venue_line": "Matthew Knight Arena • Eugene",
       "price_label": "Price not available",
       "type_key": "sports",

@@ -1,17 +1,7 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-04T14:34:20.449Z",
+  "updated_at": "2026-10-05T17:44:13.187Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Friends of the Fox presents: Space Jam",
-      "venue_line": "Bob Hope Theatre • Stockton",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Mariachazo",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

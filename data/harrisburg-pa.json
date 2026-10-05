@@ -1,17 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-04T14:33:35.066Z",
+  "updated_at": "2026-10-05T17:43:22.083Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Hershey Bears vs. Charlotte Checkers - Dark Night Takeover",
-      "venue_line": "GIANT Center • Hershey",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Hershey Bears vs. Providence Bruins - Trick or Treat Night",
+      "venue_line": "GIANT Center • Hershey",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

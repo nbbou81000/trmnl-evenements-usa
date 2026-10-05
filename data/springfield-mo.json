@@ -1,27 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-04T14:33:55.705Z",
+  "updated_at": "2026-10-05T17:43:44.650Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Rocky Horror Picture Show - Original Cast",
-      "venue_line": "Juanita K. Hammons Hall • Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Missouri State Bears Football vs. Delaware Blue Hens Football",
-      "venue_line": "Robert W. Plaster Stadium • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Route 66 - November Symphony",
+      "venue_line": "Juanita K. Hammons Hall • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Matt Mathews",
+      "venue_line": "Juanita K. Hammons Hall • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

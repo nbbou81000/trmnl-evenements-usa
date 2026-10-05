@@ -1,17 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-04T14:33:30.194Z",
+  "updated_at": "2026-10-05T17:43:16.526Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Dinosaur Adventure - Albany, NY 2026",
-      "venue_line": "Altamont Fairgrounds • Altamont",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Rensselaer Polytechnic Engineers Mens Hockey vs. LIU Sharks Mens Ice Hockey",
+      "venue_line": "Houston Field House-Troy • Troy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

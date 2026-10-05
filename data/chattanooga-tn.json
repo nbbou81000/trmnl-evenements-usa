@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-04T14:34:07.035Z",
+  "updated_at": "2026-10-05T17:43:57.875Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Amigo The Devil",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -199,6 +189,16 @@
       "title": "All Them Witches - 21 Shows / 21 Days",
       "venue_line": "The Signal - Concert Hall • Chattanooga",
       "price_label": "$40–$70",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "All Them Witches",
+      "venue_line": "The Signal • Chattanooga",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

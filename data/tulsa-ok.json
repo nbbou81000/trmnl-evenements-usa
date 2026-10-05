@@ -1,47 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-04T14:34:04.862Z",
+  "updated_at": "2026-10-05T17:43:55.283Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Disney On Ice presents Jump In (age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older; Ticket Includes Gate Admission to the Tulsa State Fair)",
-      "venue_line": "Expo Square Pavilion • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Disney On Ice presents Jump In (age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older; Ticket Includes Gate Admission to the Tulsa State Fair)",
-      "venue_line": "Expo Square Pavilion • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Disney On Ice presents Jump In (age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older; Ticket Includes Gate Admission to the Tulsa State Fair)",
-      "venue_line": "Expo Square Pavilion • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Jay Sean",
-      "venue_line": "Tulsa Expo Center • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "CeCe Winans - COME WORSHIP! Tour",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Starbomb w/ Scoochie Boochie",
+      "venue_line": "Cain's Ballroom • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Neal McCoy",
+      "venue_line": "Tulsa Expo Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "United We Dance Rave (18 and Over)",
+      "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

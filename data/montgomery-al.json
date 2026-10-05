@@ -1,6 +1,6 @@
 {
   "city_label": "Montgomery, AL",
-  "updated_at": "2026-10-04T14:34:10.105Z",
+  "updated_at": "2026-10-05T17:44:01.354Z",
   "events": [
     {
       "day_label": "WED",
@@ -133,6 +133,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Southern Soul Takeover",
+      "venue_line": "BB King's Blues Club - Montgomery • Montgomery",
+      "price_label": "$18–$209",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
@@ -186,16 +196,6 @@
       "day_label": "TUE",
       "day_number": "17",
       "date_iso": "2026-11-17",
-      "title": "Montgomery Ballet Presents The Nutcracker",
-      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "18",
-      "date_iso": "2026-11-18",
       "title": "Montgomery Ballet Presents The Nutcracker",
       "venue_line": "Montgomery Performing Arts Centre • Montgomery",
       "price_label": "Price not available",

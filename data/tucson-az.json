@@ -1,37 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-04T14:34:14.267Z",
+  "updated_at": "2026-10-05T17:44:06.262Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Tucson Roadrunners vs. Colorado Eagles",
-      "venue_line": "Tucson Arena • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Arizona Wildcats Womens Volleyball vs. Texas Tech Red Raider Womens Volleyball",
-      "venue_line": "McKale Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Tribal Seeds - Heavy Vibes Tour 2026 @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -191,6 +161,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Tucson Arena • Tucson",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Concierto de Aranjuez : Tucson Symphony Orchestra",
+      "venue_line": "Catalina Foothills High School • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Tucson Arena • Tucson",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SAT",

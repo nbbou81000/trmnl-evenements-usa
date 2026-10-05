@@ -1,17 +1,7 @@
 {
   "city_label": "Anchorage, AK",
-  "updated_at": "2026-10-04T14:34:15.917Z",
+  "updated_at": "2026-10-05T17:44:08.219Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "1776",
-      "venue_line": "Anchorage Community Theatre • Anchorage",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -151,6 +141,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "3",
+      "date_iso": "2026-12-03",
+      "title": "Thursday Night Fights:Boxing",
+      "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

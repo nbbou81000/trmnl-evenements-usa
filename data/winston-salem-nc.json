@@ -1,27 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-04T14:33:41.409Z",
+  "updated_at": "2026-10-05T17:43:28.677Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Big Lick Comic Con",
-      "venue_line": "Greensboro Complex • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "2026 BIG HBCU BATTLE OF THE BANDS, BATTLE FOR THE SOUTH II",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-24",
       "title": "ALL ELITE WRESTLING PRESENTS COLLISION LIVE",
       "venue_line": "Lawrence Joel Veterans Memorial Coliseum • Winston Salem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Rumours ATL: A Fleetwood Mac Tribute",
+      "venue_line": "The Ramkat • Winston Salem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits - Howl-O-Ween",
+      "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

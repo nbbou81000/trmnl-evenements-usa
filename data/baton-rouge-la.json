@@ -1,17 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-04T14:34:07.887Z",
+  "updated_at": "2026-10-05T17:43:58.795Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "LSU Tigers Womens Volleyball vs. Missouri Tigers Womens Volleyball",
-      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -36,7 +26,7 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
-      "title": "Creed Fisher w/ KC Johns",
+      "title": "Creed Fisher w/ KC Johns, Chris Pulver & Steve Haney",
       "venue_line": "Texas Club • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "music",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "LSU Tigers Womens Basketball vs. UNT Dallas Trailblazers Womens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

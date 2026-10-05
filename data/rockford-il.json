@@ -1,27 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-04T14:33:47.587Z",
+  "updated_at": "2026-10-05T17:43:35.506Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Club Coronado For Jim Henson's Labyrinth: In Concert 40th Anniversary",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Sugarland: Ride or Die Tour",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Elías Medina",
+      "venue_line": "Hard Rock Live Rockford • Rockford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-04T14:34:05.740Z",
+  "updated_at": "2026-10-05T17:43:56.428Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Back To The 90s: A Soulful Murder Mystery Experience",
-      "venue_line": "Halloran Centre at the Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "John Crist Live!",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Back To The 90s: A Soulful Murder Mystery Experience",
-      "venue_line": "Halloran Centre at the Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Grief Sucks: A One Man Show By KevOnStage",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "23rd Annual Memphis Tri-State Blues Festival",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Mojo Brookzz Outta Pocket Tour",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

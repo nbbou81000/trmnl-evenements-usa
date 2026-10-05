@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-04T14:33:29.355Z",
+  "updated_at": "2026-10-05T17:43:15.401Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "BOOP! THE MUSICAL",
-      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "BOOP! THE MUSICAL",
-      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -197,6 +177,26 @@
       "day_number": "14",
       "date_iso": "2026-10-14",
       "title": "Cantrip",
+      "venue_line": "Lovin' Cup • Rochester",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "100 Demons",
+      "venue_line": "The Montage Music Hall • Rochester",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Music of Weather Report",
       "venue_line": "Lovin' Cup • Rochester",
       "price_label": "$30",
       "type_key": "music",

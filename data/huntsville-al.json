@@ -1,17 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-04T14:34:09.660Z",
+  "updated_at": "2026-10-05T17:44:00.725Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Dylan Carlino",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$23",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-13",
       "title": "Dax - The Anger Management Tour",
       "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "The Doobie Brothers: Walk This Road Tour",
+      "venue_line": "Orion Amphitheater • Huntsville",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

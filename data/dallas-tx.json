@@ -1,117 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-10-04T14:33:59.179Z",
+  "updated_at": "2026-10-05T17:43:48.737Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Dallas Symphony Orchestra Presents Rachmaninoff and Time for Three",
-      "venue_line": "Morton Meyerson Symphony Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Flip Phone: Rocky Horror Drag Brunch",
-      "venue_line": "Addison Improv • Addison",
-      "price_label": "$25–$223",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "JORIS VOORN - Ages 18+",
-      "venue_line": "SILO • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "ZZ Top",
-      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Boz Scaggs",
-      "venue_line": "Majestic Theatre Dallas • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Paris Paloma: The Fatal Flaw Tour",
-      "venue_line": "House of Blues Dallas  • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Cash Money & No Limit Tour",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Comedy Allstars",
-      "venue_line": "Punch Line Irving • Irving",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Damon Williams",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Dave Lawson Presents: Houston vs Dallas",
-      "venue_line": "Addison Improv • Addison",
-      "price_label": "$25–$223",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "DJ SNEAK305",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -201,6 +91,116 @@
       "price_label": "$56–$445",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Joe Bryson, Bohemian Pirates Trio, Griffin Holtby",
+      "venue_line": "Three Links Deep Ellum • Dallas",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "My Hero Academia in Concert",
+      "venue_line": "Majestic Theatre Dallas • Dallas",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "We Funny Wednesdays",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Two D*kes and a Mic: Soaking Wet Tour",
+      "venue_line": "Addison Improv • Addison",
+      "price_label": "$38–$421",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Wizop: Live At the Improv",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Jack White (This is a Phone Free Show - 16 and Under with Parent or Legal Guardian)",
+      "venue_line": "The Bomb Factory • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Jack Blocker",
+      "venue_line": "Three Links Deep Ellum • Dallas",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Joe Jordan - The Heart Sessions Tour",
+      "venue_line": "The Cambridge Room at House Of Blues • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Dallas Cowboys vs. Tampa Bay Buccaneers",
+      "venue_line": "AT&T Stadium • Arlington",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Dark and Darker: A Dark Comedy Show",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Holmes",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

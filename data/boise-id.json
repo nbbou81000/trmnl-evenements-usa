@@ -1,47 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-04T14:34:12.995Z",
+  "updated_at": "2026-10-05T17:44:04.726Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Take Me Home: The Music Of John Denver Starring Jim Curry",
-      "venue_line": "Morrison Center for the Performing Arts • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Phillip Phillips - Let's Go Far Tour",
-      "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$44",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Bumpin Uglies w/ Artikal Sound System",
-      "venue_line": "Treefort Music Hall • Boise",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Phillip Phillips",
-      "venue_line": "Knitting Factory Concert House - Boise • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-10",
       "title": "Castle Rat",
       "venue_line": "Shrine Social Club • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Yelawolf & Highly Suspect - The War Within Tour",
+      "venue_line": "Revolution Concert House & Event Center • Garden City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Jon Pardi w/ Alexandra Kay",
+      "venue_line": "Ford Idaho Center Arena • Nampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The 39 Steps",
+      "venue_line": "Boise Little Theater • Boise",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Iron and Wine w/ Ken Pomeroy",
+      "venue_line": "Treefort Music Hall • Boise",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

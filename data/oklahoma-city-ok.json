@@ -1,17 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-04T14:34:04.448Z",
+  "updated_at": "2026-10-05T17:43:54.804Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Lyric Theatre of Oklahoma • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -197,6 +187,16 @@
       "day_number": "10",
       "date_iso": "2026-10-10",
       "title": "HOT WHEELS START YOUR ENGINE VIP (Event Ticket Required) 4:45PM",
+      "venue_line": "Paycom Center • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "HOT WHEELS PEDAL TO THE METAL VIP (Event ticket required) 4:45PM",
       "venue_line": "Paycom Center • Oklahoma City",
       "price_label": "Price not available",
       "type_key": "misc",

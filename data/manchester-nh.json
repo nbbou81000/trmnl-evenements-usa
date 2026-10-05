@@ -1,37 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-04T14:33:32.829Z",
+  "updated_at": "2026-10-05T17:43:19.623Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Golden: A K-Pop Kids Party",
-      "venue_line": "Capitol Center for the Arts - NH • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Golden: A K-Pop Kids Party",
-      "venue_line": "BNH Stage • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Chazz Palminteri: A Bronx Tale",
-      "venue_line": "Nashua Center For the Arts • Nashua",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -197,6 +167,36 @@
       "day_number": "29",
       "date_iso": "2026-10-29",
       "title": "Lauren Rainbow",
+      "venue_line": "BNH Stage • Concord",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Vampire Circus",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Brass Against",
+      "venue_line": "BNH Stage • Concord",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "NightOUT",
       "venue_line": "BNH Stage • Concord",
       "price_label": "Price not available",
       "type_key": "misc",

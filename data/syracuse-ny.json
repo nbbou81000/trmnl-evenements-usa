@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-04T14:33:29.777Z",
+  "updated_at": "2026-10-05T17:43:16.046Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,36 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Jazz Jam",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "FREE SHOW - OktoberFest Celebration w/ Fritz's Polka Band",
-      "venue_line": "Middle Ages Loading Dock • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Open mic hosted by Attamizk & friends",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "MON",
@@ -201,6 +171,36 @@
       "price_label": "$10–$18",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Jazz Jam",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Tauren Wells - Air1 Worship Now Tour",
+      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "BERT KREISCHER: PERMISSION TO PARTY",
+      "venue_line": "Landmark Theatre • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

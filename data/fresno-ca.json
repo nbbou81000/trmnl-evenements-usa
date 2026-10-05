@@ -1,17 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-04T14:34:19.545Z",
+  "updated_at": "2026-10-05T17:44:12.235Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "PeelingFlesh, Snuffed On Sight, Iron Front, Grounds For Assault",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -199,6 +189,16 @@
       "title": "MILITARIE GUN 20 Songs for 20 Dollars plus special guests Softcult, Shady Nasty, Dazy",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Iration",
+      "venue_line": "Fresno Fairgrounds • Fresno",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

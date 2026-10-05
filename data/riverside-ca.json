@@ -1,47 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-04T14:34:21.801Z",
+  "updated_at": "2026-10-05T17:44:14.670Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Las Alucines - Tu Nuevo Estilo de Vida US Tour",
-      "venue_line": "Fox Performing Arts Center • Riverside",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Insane Clown Posse",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Jesus Trejo",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$31–$83",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Lynyrd Skynyrd - 21 & Over",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -58,7 +18,7 @@
       "date_iso": "2026-10-07",
       "title": "La Mole (En Español)",
       "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$62–$72",
+      "price_label": "$62",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -108,7 +68,7 @@
       "date_iso": "2026-10-08",
       "title": "Rocky Dale Davis",
       "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$31–$49",
+      "price_label": "$31",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -148,7 +108,7 @@
       "date_iso": "2026-10-09",
       "title": "Kountry Wayne",
       "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$37–$56",
+      "price_label": "$37",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-10",
       "title": "Staind: Break The Cycle 25th Anniversary Tour",
       "venue_line": "Toyota Arena • Ontario",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "EZ Band",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Kountry Wayne",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$37",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Oingo Boingo Former Members",
+      "venue_line": "Stage Red • Fontana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Marco Antonio Solis - Tour Gratitud 2026",
+      "venue_line": "Yaamava' Resort & Casino at San Manuel • Highland",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

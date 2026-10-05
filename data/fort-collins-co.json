@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-04T14:34:11.739Z",
+  "updated_at": "2026-10-05T17:44:03.213Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Colorado State University Rams Womens Soccer vs. Utah State Aggies Womens Soccer",
-      "venue_line": "CSU Soccer Field • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Colorado State University Rams Football vs. San Diego State Aztecs Football",
+      "venue_line": "Canvas Stadium • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

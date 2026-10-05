@@ -1,17 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-04T14:33:52.065Z",
+  "updated_at": "2026-10-05T17:43:40.525Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Neil DeGrasse Tyson",
-      "venue_line": "Winsupply Theatre • Dayton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Sesame Street Live! Elmos Got The Moves",
       "venue_line": "Hobart Arena • Troy",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Deck the Diamond",
+      "venue_line": "Day Air Ballpark • Dayton",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

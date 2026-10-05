@@ -1,27 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-04T14:33:41.873Z",
+  "updated_at": "2026-10-05T17:43:29.199Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome ",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "He Is Legend - Time Travel Tour",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Black Jacket Symphony Presents Def Leppard's 'Hysteria'",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

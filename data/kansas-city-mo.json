@@ -1,57 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-04T14:33:54.811Z",
+  "updated_at": "2026-10-05T17:43:43.691Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
-      "venue_line": "T-Mobile Center • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Bayway",
-      "venue_line": "The Rino • North Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Taking Back Sunday",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "BECK: RIDE LONESOME TOUR presented by 90.9 The Bridge",
-      "venue_line": "Uptown Theater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "venue_line": "Morton Amphitheater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Sporting Kansas City vs. Portland Timbers",
+      "venue_line": "Children's Mercy Park • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
+      "venue_line": "Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "80s Legends Tribute",
+      "venue_line": "VooDoo at Harrah's Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "80s Legends Tribute | Official Caesars Ticket + Hotel Packages",
+      "venue_line": "VooDoo at Harrah's Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Whales",
+      "venue_line": "Aura KC • Kansas City",
+      "price_label": "$19–$31",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

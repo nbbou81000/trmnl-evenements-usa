@@ -1,17 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-04T14:33:32.435Z",
+  "updated_at": "2026-10-05T17:43:19.128Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Alien Ant Farm w/ Scarhaven",
-      "venue_line": "Oxbow Blending & Bottling • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Lucas Zelnick",
+      "venue_line": "State Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

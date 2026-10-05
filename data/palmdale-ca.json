@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-04T14:34:23.044Z",
+  "updated_at": "2026-10-05T17:44:16.230Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "FREE SHOW: ASTRAL JETS / POCKETWATCH INC / THE BLURRY STARS",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -199,6 +189,16 @@
       "title": "FREE SHOW: DESERT DANISH ALBUM RELEASE WITH 8-BIT POTLUCK / JOHN RITCHIE",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "FRIZZI 2 FULCI - A TRIBUTE TO THE CINEMA OF LUCIO FULCI",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$34",
       "type_key": "music",
       "type_label": "Music"
     }

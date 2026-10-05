@@ -1,107 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-04T14:34:25.138Z",
+  "updated_at": "2026-10-05T17:44:18.722Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "School of Rock West Seattle Presents: Strokes vs Hives (all ages)",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Seahawks Viewing Party ",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$2",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Seattle Seahawks vs. Los Angeles Chargers",
-      "venue_line": "Lumen Field • Seattle",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "School of Rock West Seattle Presents: Sounds of Seattle (all ages)",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Chris Sneed",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$20–$32",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Sons of Legion- Soul to SØL World Tour 2026",
-      "venue_line": "Emerald Queen Casino • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "112 & Ginuwine",
-      "venue_line": "Muckleshoot Casino Events Center • Auburn",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Cavetown w/ Chloe Moriondo",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "LEAP: ENTROPY WORLD TOUR",
-      "venue_line": "Baba Yaga • Seattle",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Emei",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Castle Rat w/ Unto Others",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Dave Chappelle",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$179",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Clock-Out Lounge Presents: Acid Mothers Temple w/ Magick Potion, IRO IRO",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Taking Back Sunday w/ Thrice",
+      "venue_line": "Dune Peninsula • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Dave Chappelle",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$179",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Green (21+)",
+      "venue_line": "Airport Tavern • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Clock-Out Lounge Presents: TUSH!",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$25–$58",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "jigitz w/ Killen",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Dave Chappelle",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$179",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

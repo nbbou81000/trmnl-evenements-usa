@@ -1,47 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-04T14:33:40.824Z",
+  "updated_at": "2026-10-05T17:43:28.201Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "3",
-      "date_iso": "2026-10-03",
-      "title": "Big Lick Comic Con",
-      "venue_line": "Greensboro Complex • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "2026 BIG HBCU BATTLE OF THE BANDS, BATTLE FOR THE SOUTH II",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Premium Lounge- Black Violin: The Be Free Tour",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Black Violin: The Be Free Tour",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Prelude Dining- The Great Gatsby",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The Great Gatsby (Touring)",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The Great Gatsby (Touring)",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Prelude Dining- The Great Gatsby",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

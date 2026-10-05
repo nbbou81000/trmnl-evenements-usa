@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-04T14:34:08.808Z",
+  "updated_at": "2026-10-05T17:43:59.766Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
-      "venue_line": "Brandon Amphitheater • Brandon",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-24",
       "title": "Mississippi Symphony Orchestra: Fearless Fusion",
       "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Elmo's Got the Moves",
+      "venue_line": "City Hall Live • Brandon",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

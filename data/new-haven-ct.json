@@ -1,27 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-04T14:33:31.517Z",
+  "updated_at": "2026-10-05T17:43:18.087Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Sacred Heart Pioneers Hockey vs. Carleton Ravens Mens Hockey",
-      "venue_line": "Martire Family Arena • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Ringo Starr And His All-Starr Band",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Michael Carbonaro: Wonderboy",
+      "venue_line": "Shubert Theatre - CT • New Haven",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Yale Bulldogs Hockey vs. Maryville Fighting Scouts Mens Hockey",
+      "venue_line": "Ingalls Rink • New Haven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

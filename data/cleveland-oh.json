@@ -1,107 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-04T14:33:50.276Z",
+  "updated_at": "2026-10-05T17:43:38.529Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "BOOZY BRUNCH (YACHT ROCK)",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Halloween Maker's Market",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Cleveland Monsters vs. Grand Rapids Griffins",
-      "venue_line": "Rocket Arena • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Michael Franti Trio - Heartstrings & Dynamite",
-      "venue_line": "House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Cortex w/ Adrian Younge",
-      "venue_line": "Agora Theatre • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Bayonne",
-      "venue_line": "Mahall's • Lakewood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "THE SAMMY DELEON AND JACKIE WARREN QUARTET, WITH KIP REED & CHRIS BURGE",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Drumplay (XCSB New Studio Benefit)",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Robin Trower",
-      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Upon Your Dead Body w/ When The Sun Sets",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Lyrical Rhythms",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$7",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Cardinal Bloom",
+      "venue_line": "Beachland Tavern • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "The Mercury Jam",
+      "venue_line": "The Mercury Music Lounge • Lakewood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Secret Society Comedy Presents: One More Joke",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "FREE PLAY WEDNESDAYS",
+      "venue_line": "The Mercury Music Lounge • Lakewood",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "The Haunt",
+      "venue_line": "The Cambridge Room at House of Blues Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Unpopular Opinions Night (21 & Over Only)",
+      "venue_line": "House of Blues Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Iron Lung, Yambag, Hex, Smile",
+      "venue_line": "Unhinged Lounge • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Coffee Shop Bingo!",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "We Are Wednesdays w/ Da Land Brass Band",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

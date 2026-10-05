@@ -1,117 +1,7 @@
 {
   "city_label": "Fort Lauderdale, FL",
-  "updated_at": "2026-10-04T14:33:44.969Z",
+  "updated_at": "2026-10-05T17:43:32.550Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Courtside Cardshow Miami",
-      "venue_line": "James L Knight Center Riverfront Hall • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Clifford the Big Red Dog: The Musical",
-      "venue_line": "Wells Hall at The Parker • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "Ziff Ballet Opera House-Adrienne Arsht PAC • Miami",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Pippin",
-      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Arts Ballet Theatre of FL: Program I: Classical & Neoclassical Ballets",
-      "venue_line": "Aventura Arts & Cultural Center • Aventura",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Mariachi El Bronx",
-      "venue_line": "Revolution Live • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "Ziff Ballet Opera House-Adrienne Arsht PAC • Miami",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Caamp",
-      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Don Omar \"The Last King World Tour\"",
-      "venue_line": "Kaseya Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Infinity Song World Tour II Continues...",
+      "venue_line": "Revolution Live • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "R&B Forever Tour: Bell Biv Devoe, TGT: Tyrese, Ginuwine, Tank, Silk",
+      "venue_line": "Kaseya Center • Miami",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Place To Be prior to Fortune Feimster",
+      "venue_line": "The Place To Be at The Parker • Fort Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Haller Club prior to Fortune Feimster",
+      "venue_line": "The Haller Club at The Parker • Fort Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
+      "venue_line": "Wells Hall at The Parker • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Sex Mex in Miami",
+      "venue_line": "Churchill's Pub •  Miami",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Miami Heat vs. New Orleans Pelicans",
+      "venue_line": "Kaseya Center • Miami",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Billy Currington",
+      "venue_line": "Hard Rock Live • Hollywood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

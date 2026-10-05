@@ -1,47 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-04T14:33:50.741Z",
+  "updated_at": "2026-10-05T17:43:39.019Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Mammoth Music & Arts Fest 2026",
-      "venue_line": "The Southgate House Revival • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Cincinnati Bengals vs. Jacksonville Jaguars",
-      "venue_line": "Paycor Stadium • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Brad Williams: The Tall Tales Tour",
-      "venue_line": "Taft Theatre • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Lisa Walker + Elizabeth Nelson",
-      "venue_line": "The Columbia • Cincinatti",
-      "price_label": "$40",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-09",
       "title": "40 Fingers",
       "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Parmalee",
+      "venue_line": "Lori's Roadhouse • West Chester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Tab Benoit w/ Ghalia Volt",
+      "venue_line": "Taft Theatre • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Mike Epps",
+      "venue_line": "Hard Rock Cincinnati Ballroom • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Bucket w/ special guest Ricky Nye",
+      "venue_line": "The Southgate House Revival - The Lounge • Newport",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,17 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-04T14:34:09.233Z",
+  "updated_at": "2026-10-05T17:44:00.264Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Alabama Ballet Presents American Portraits",
-      "venue_line": "BJCC Theatre • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -61,6 +51,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Songwriters Night at The Nick with Kenan Blair + TwoDetained",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "TUE",

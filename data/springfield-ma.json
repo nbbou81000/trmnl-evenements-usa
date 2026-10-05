@@ -1,67 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-04T14:33:36.488Z",
+  "updated_at": "2026-10-05T17:43:23.538Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "The Great Gatsby (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Hartford Athletic vs. Louisville City FC",
-      "venue_line": "Trinity Health Stadium • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "The Great Gatsby (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Randy Travis",
-      "venue_line": "Academy of Music Theatre - MA • Northampton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Styx",
-      "venue_line": "The Big E • West Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Toth",
-      "venue_line": "The Drake - Amherst • Amherst",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Dogwood Tales",
+      "venue_line": "The Drake - Amherst • Amherst",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Hartford Wolfpack vs. Lehigh Valley Phantoms",
+      "venue_line": "PeoplesBank Arena • Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Hartford Athletic vs. Charleston Battery",
+      "venue_line": "Trinity Health Stadium • Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Springfield Thunderbirds vs. Lehigh Valley Phantoms",
+      "venue_line": "MassMutual Center • Springfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,97 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-04T14:33:54.348Z",
+  "updated_at": "2026-10-05T17:43:43.187Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Minnesota Vikings vs. Miami Dolphins",
-      "venue_line": "U.S. Bank Stadium • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Minnesota Gophers Womens Volleyball vs. Wisconsin Badgers Womens Volleyball",
-      "venue_line": "Maturi Pavilion-MN • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Boy Harsher",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "The Holdup - The BUYING TIME Tour",
-      "venue_line": "Green Room • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "SOLD OUT! Megan Woods: The Truth Tour - Arden Hills, MN",
-      "venue_line": "North Heights Lutheran Church • Arden Hills",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Doja Cat - Spotlight Pre-show Upsell",
-      "venue_line": "Target Center • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Doja Cat - Tour Ma Vie World Tour",
-      "venue_line": "Target Center • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Journey",
-      "venue_line": "Grand Casino Arena • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "They Might Be Giants",
-      "venue_line": "Fitzgerald Theater • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -198,6 +108,96 @@
       "date_iso": "2026-10-07",
       "title": "GLAIVE - GOD SAVE THE THREE TOUR",
       "venue_line": "Varsity Theater • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Leonid & Friends",
+      "venue_line": "Pantages Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "BECK: RIDE LONESOME TOUR",
+      "venue_line": "Orpheum Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Pinhead Gunpowder (18 and Over with Valid Government ID)",
+      "venue_line": "First Avenue • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "U.S. Bank Stadium Tour",
+      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "THROWN",
+      "venue_line": "Varsity Theater • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "JPEGMAFIA: the Experimental Rap Tour",
+      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Star Wars: Return Of The Jedi w/ Minnesota Orchestra",
+      "venue_line": "Orchestra Hall-MN • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Buddy Guy 90",
+      "venue_line": "State Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Zoso The Ultimate Led Zeppelin Experience",
+      "venue_line": "Fitzgerald Theater • Saint Paul",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

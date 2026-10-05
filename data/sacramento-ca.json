@@ -1,77 +1,7 @@
 {
   "city_label": "Sacramento, CA",
-  "updated_at": "2026-10-04T14:34:19.059Z",
+  "updated_at": "2026-10-05T17:44:11.758Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Aftershock Festival",
-      "venue_line": "Discovery Park • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Aftershock",
-      "venue_line": "Discovery Park • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Golden: A K-Pop Kids Party",
-      "venue_line": "Goldfield Trading Post - Roseville • Roseville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Bruce Bruce",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "venue_line": "Golden 1 Center • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Get the Led Out",
-      "venue_line": "Quarry Park Amphitheater • Rocklin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "4",
-      "date_iso": "2026-10-04",
-      "title": "Killing Time w/ Holly James & Johnny Taylor, Jr. - in the Callback Bar",
-      "venue_line": "Punch Line Sacramento Callback Bar • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "5",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Shining",
+      "venue_line": "Crest Theater • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Twin Temple",
+      "venue_line": "Ace of Spades • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Ari Matti",
+      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Johnny Taylor's Storytelling Grad Show - in the Callback Bar",
+      "venue_line": "Punch Line Sacramento Callback Bar • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Beauty School Dropout",
+      "venue_line": "Goldfield Trading Post - Roseville • Roseville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Rod Wave: Don't Look Down Tour",
+      "venue_line": "Golden 1 Center • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Jonathan Van Ness: Hot & Healed Comedy Tour 2026 (18+)",
+      "venue_line": "Channel 24 • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }
