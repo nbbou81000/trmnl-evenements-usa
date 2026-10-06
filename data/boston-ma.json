@@ -1,103 +1,13 @@
 {
   "city_label": "Boston, MA",
-  "updated_at": "2026-10-05T17:43:13.384Z",
+  "updated_at": "2026-10-06T15:38:21.365Z",
   "events": [
     {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Julia Wolf: Deep End World Tour",
-      "venue_line": "Citizens House of Blues Boston • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "The Royston Club, Clifford",
-      "venue_line": "Middle East - Upstairs • Cambridge",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Boston Bruins vs. Ottawa Senators",
-      "venue_line": "TD Garden • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "The Rest is Politics U.S. - The Battle for America: Midterms Tour 2026",
-      "venue_line": "The Wilbur • Boston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Chelsea Wolfe: THE DARK World Tour",
-      "venue_line": "Boch Center Shubert Theatre • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Avery Cochrane w/ Alexa Cappelli",
-      "venue_line": "The Sinclair Music Hall • Cambridge",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Buffalo Traffic Jam",
-      "venue_line": "Roadrunner-Boston • Boston",
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Open Mic Night - Hosted By Kamryn",
+      "venue_line": "Off The Rails Boston • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -198,6 +108,96 @@
       "date_iso": "2026-10-06",
       "title": "Yohay Sponder: Genesis",
       "venue_line": "The Wilbur • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Half-Baked Stories About My Dead Mom\r\nwith Ira Glass and Etgar Keret - (All audience members regardless of age must have a ticket.)",
+      "venue_line": "Emerson Colonial Theatre • Boston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Everything Everything (18 and Over)",
+      "venue_line": "Royale Boston • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Foster The People: Good Mourning Sunshine Tour",
+      "venue_line": "MGM Music Hall at Fenway • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Slift",
+      "venue_line": "The Sinclair Music Hall • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Zach Morgan Presents: Hard Travelin'",
+      "venue_line": "Middle East - Zuzu • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "6",
+      "date_iso": "2026-10-06",
+      "title": "Mood",
+      "venue_line": "Middle East - Corner/Bakery • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Oso Oso",
+      "venue_line": "Brighton Music Hall presented by Citizens • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Wicked (Touring)",
+      "venue_line": "Citizens Opera House • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Monty Python's Spamalot",
+      "venue_line": "Boch Center Wang Theatre • Boston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

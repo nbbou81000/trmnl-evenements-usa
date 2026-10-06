@@ -1,22 +1,12 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-05T17:44:04.726Z",
+  "updated_at": "2026-10-06T15:39:07.459Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "The Used",
-      "venue_line": "Revolution Concert House & Event Center • Garden City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
       "date_iso": "2026-10-06",
-      "title": "Sons of Legion -Soul to SØL World Tour 2026 ",
+      "title": "Sons of Legion -Soul to SØL World Tour 2026",
       "venue_line": "Revolution Concert House & Event Center • Garden City",
       "price_label": "Price not available",
       "type_key": "music",
@@ -128,7 +118,7 @@
       "date_iso": "2026-10-09",
       "title": "Too Short Live in Boise!",
       "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$78–$179",
+      "price_label": "$41–$179",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +189,16 @@
       "title": "Iron and Wine w/ Ken Pomeroy",
       "venue_line": "Treefort Music Hall • Boise",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Gimme Gimme Disco",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "$33",
       "type_key": "music",
       "type_label": "Music"
     }

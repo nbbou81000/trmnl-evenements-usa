@@ -1,77 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-05T17:43:38.529Z",
+  "updated_at": "2026-10-06T15:38:44.388Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Chicago White Sox at Cleveland Guardians: ALDS (Home Game 2)",
-      "venue_line": "Progressive Field • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Taste of Chaos w/ Hollywood Undead",
-      "venue_line": "Agora Theatre • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "MUSIC TRIVI-AOKE",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "LOCALS ONLY W/ Black Jackets + Missy + Julia Sky",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$6",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Windhand, Sonja, Slow Wake",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Taylor Bickett",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Waterloo Jazz Jam",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -199,6 +129,76 @@
       "title": "We Are Wednesdays w/ Da Land Brass Band",
       "venue_line": "B Side Lounge • Cleveland Heights",
       "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Derf Backderf: The Dissidents Book Launch",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "The Who's Tommy (Touring)",
+      "venue_line": "Connor Palace - Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "The Will Aldrich Trio",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Interpol w/ DIIV",
+      "venue_line": "Agora Theatre • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Dream Syndicate",
+      "venue_line": "Beachland Tavern • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "SHIT SHOW KARAOKE",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Exitwounds, Nailed Shut MA, POOCH, CTE, Goodfornothing",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$22",
       "type_key": "music",
       "type_label": "Music"
     }

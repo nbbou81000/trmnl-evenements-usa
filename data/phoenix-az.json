@@ -1,67 +1,7 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-10-05T17:44:06.781Z",
+  "updated_at": "2026-10-06T15:39:09.282Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Breaking Benjamin",
-      "venue_line": "Talking Stick Resort Amphitheatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Beyond Type: A Cabaret",
-      "venue_line": "ASU Kerr • Scottsdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Spy",
-      "venue_line": "Nile Theater • Mesa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Julieta Venegas: Norteña US Tour 2026",
-      "venue_line": "The Van Buren • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "overtonight",
-      "venue_line": "The Rebel Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "overtonight",
-      "venue_line": "The Rebel Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -199,6 +139,66 @@
       "title": "ADELA",
       "venue_line": "The Crescent Ballroom • Phoenix",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Chase Field Stadium Tours",
+      "venue_line": "Chase Field • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "BLIND WINE TASTING",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Les Miserables (Touring)",
+      "venue_line": "Phoenix Theatre - Stephenson Theatre • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Exhorder w/ No/Mas",
+      "venue_line": "Nile Theater • Mesa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "DAMIEN JURADO",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     }

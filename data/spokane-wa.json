@@ -1,17 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-05T17:44:19.227Z",
+  "updated_at": "2026-10-06T15:39:20.112Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Carbon Leaf",
-      "venue_line": "The District • Spokane",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -199,6 +189,16 @@
       "title": "Luke Bryan: Word On The Street Tour",
       "venue_line": "BECU Live Outdoor Venue • Airway Heights",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Mia Asano, DEADGRACE",
+      "venue_line": "The District • Spokane",
+      "price_label": "$33–$100",
       "type_key": "music",
       "type_label": "Music"
     }

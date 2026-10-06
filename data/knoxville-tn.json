@@ -1,17 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-05T17:43:57.414Z",
+  "updated_at": "2026-10-06T15:39:00.844Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Black Violin: The Be Free Tour",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -28,7 +18,7 @@
       "date_iso": "2026-10-06",
       "title": "The Brook & The Bluff: Werewolf Tour",
       "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "$26–$34",
+      "price_label": "$39",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -118,7 +108,7 @@
       "date_iso": "2026-10-08",
       "title": "Paul Oakenfold + The Crystal Method: Mission Underground Tour",
       "venue_line": "The 808 • Knoxville",
-      "price_label": "$67",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Amy Grant + Mac McAnally",
+      "venue_line": "Tennessee Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

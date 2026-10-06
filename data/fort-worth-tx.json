@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-10-05T17:43:49.321Z",
+  "updated_at": "2026-10-06T15:38:53.567Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
-      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -197,6 +187,16 @@
       "day_number": "8",
       "date_iso": "2026-10-08",
       "title": "Dark and Darker: A Dark Comedy Show",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Holmes",
       "venue_line": "Punch Line Irving • Irving",
       "price_label": "Price not available",
       "type_key": "arts",

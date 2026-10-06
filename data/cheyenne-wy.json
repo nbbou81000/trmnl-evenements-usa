@@ -1,6 +1,6 @@
 {
   "city_label": "Cheyenne, WY",
-  "updated_at": "2026-10-05T17:44:09.131Z",
+  "updated_at": "2026-10-06T15:39:11.407Z",
   "events": [
     {
       "day_label": "WED",
@@ -91,6 +91,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "4",
+      "date_iso": "2026-12-04",
+      "title": "World Ballet Company: The Nutcracker with a Live Orchestra (Ages 2 and Over)",
+      "venue_line": "Cheyenne Civic Center • Cheyenne",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

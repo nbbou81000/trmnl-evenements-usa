@@ -1,57 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-05T17:44:00.264Z",
+  "updated_at": "2026-10-06T15:39:03.596Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "A Special Evening with Ariel Lawhon Celebrating 'The Pirate Queen'",
-      "venue_line": "The Lyric Theatre • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Birmingham Bandstand (Open Mic) at the Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$5",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Dermot Kennedy: The Weight of the Woods Tour",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "ELEVATE Upgrade: Dermot Kennedy - NOT A CONCERT TICKET",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The A-List Upgrade: Dermot Kennedy - NOT A CONCERT TICKET",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -199,6 +149,56 @@
       "title": "Furnace Fest Kick-Off Show With Danger House, Raven Hill, Lower Still at The Nick October 9th",
       "venue_line": "The Nick • Birmingham",
       "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Candlebox - Can't Quit You Tour, Fall 2026",
+      "venue_line": "Iron City • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Birmingham Comedy Festival",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Birmingham Comedy Festival | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Vampire Rave - Ages 18+",
+      "venue_line": "Saturn - Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Mr Please + Steady Rotation at The Nick October 10th Doors 9pm",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$12",
       "type_key": "music",
       "type_label": "Music"
     }

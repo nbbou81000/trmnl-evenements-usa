@@ -1,27 +1,7 @@
 {
   "city_label": "Houston, TX",
-  "updated_at": "2026-10-05T17:43:49.812Z",
+  "updated_at": "2026-10-06T15:38:54.031Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "AZ Chike",
-      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Kacey Musgraves",
-      "venue_line": "Toyota Center - TX • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-07",
       "title": "Dark and Darker: A Dark Comedy Show",
       "venue_line": "Punch Line Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Holmes",
+      "venue_line": "Punch Line Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Richie OâFarrill - En Espaã±Ol",
+      "venue_line": "Houston Improv • Houston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

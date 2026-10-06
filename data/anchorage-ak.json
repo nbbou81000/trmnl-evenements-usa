@@ -1,6 +1,6 @@
 {
   "city_label": "Anchorage, AK",
-  "updated_at": "2026-10-05T17:44:08.219Z",
+  "updated_at": "2026-10-06T15:39:10.626Z",
   "events": [
     {
       "day_label": "THU",
@@ -148,6 +148,16 @@
       "date_iso": "2026-12-03",
       "title": "Thursday Night Fights:Boxing",
       "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "4",
+      "date_iso": "2026-12-04",
+      "title": "University of Alaska Anchorage Seawolves Hockey vs. Alaska-Fairbanks Nanooks Hockey",
+      "venue_line": "Avis Alaska Sports Complex • Anchorage",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

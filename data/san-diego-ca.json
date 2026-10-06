@@ -1,47 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-05T17:44:10.112Z",
+  "updated_at": "2026-10-06T15:39:12.313Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Chad Gray - 30 Years of Madnesss",
-      "venue_line": "House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Empire of the Sun - Ask That God: Afterlife North American Tour",
-      "venue_line": "Petco Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Dear Maryanne",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-07",
       "title": "Last Dinosaurs",
       "venue_line": "The Observatory North Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "RaiNao",
+      "venue_line": "SOMA - Sidestage • San Diego",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Seun Kuti & Egypt 80, Dogo du Togo & The Alagaa Beat Band, DJ Flying Disc",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$44–$75",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Seun Kuti",
+      "venue_line": "Belly Up Tavern • Solana Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "L7 (21 and Over)",
+      "venue_line": "Casbah-San Diego • San Diego",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

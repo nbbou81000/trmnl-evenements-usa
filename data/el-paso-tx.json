@@ -1,17 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-05T17:43:51.532Z",
+  "updated_at": "2026-10-06T15:38:55.338Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Josh Conway w/ Homeshake",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "El Paso Locomotive FC vs. Sacramento Republic FC",
+      "venue_line": "Southwest University Park • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,47 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-10-05T17:43:36.555Z",
+  "updated_at": "2026-10-06T15:38:42.680Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Bright Eyes",
-      "venue_line": "Majestic Theatre-MI • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Detroit Pistons v Phoenix Suns (Preseason)",
-      "venue_line": "Little Caesars Arena • Detroit",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Dan and Phil",
-      "venue_line": "Fisher Theatre - Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Brand New - Suite Rental",
-      "venue_line": "Fox Theatre Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +161,46 @@
       "price_label": "$12",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Kickstand Productions Presents Joon",
+      "venue_line": "The Loving Touch • Ferndale",
+      "price_label": "$26–$77",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Michael Franti",
+      "venue_line": "District 142 • Wyandotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "MICHAEL FRANTI TRIO wsg Wheeland Brothers (acoustic)",
+      "venue_line": "District 142 • Wyandotte",
+      "price_label": "$44–$70",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "INOHA, Capital Soiree, Pretoria",
+      "venue_line": "TSDMAAC • Detroit",
+      "price_label": "$12–$35",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

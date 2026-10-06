@@ -1,27 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-05T17:43:17.013Z",
+  "updated_at": "2026-10-06T15:38:24.535Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Soccer Mommy w/ Snail Mail",
-      "venue_line": "Strand Theatre-RI • Providence",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "Viqueen, Eclectic Electric, Loss Becomes & Uga Buga",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Dropdead, Midnight Creeps, & THERE",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$22–$45",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Michael Blaustein",
+      "venue_line": "The VETS • Providence",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

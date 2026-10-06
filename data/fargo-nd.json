@@ -1,6 +1,6 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-05T17:43:47.743Z",
+  "updated_at": "2026-10-06T15:38:52.259Z",
   "events": [
     {
       "day_label": "SAT",
@@ -193,14 +193,14 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "14",
-      "date_iso": "2026-11-14",
-      "title": "Fargo Force vs Sioux City Musketeers",
-      "venue_line": "Scheels Arena • Fargo",
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "The Moth",
+      "venue_line": "Fargo Theatre • Fargo",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

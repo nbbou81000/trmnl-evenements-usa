@@ -1,17 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-05T17:43:44.208Z",
+  "updated_at": "2026-10-06T15:38:49.241Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "5",
-      "date_iso": "2026-10-05",
-      "title": "WWE Monday Night RAW",
-      "venue_line": "Enterprise Center • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "6",
@@ -79,16 +69,6 @@
       "title": "Cheekface w/ Apes of the State",
       "venue_line": "Off Broadway • St. Louis",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Voodoo Marshall Tucker Band",
-      "venue_line": "Atomic Garage • St. Louis",
-      "price_label": "$15",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-09",
       "title": "Little Big Town - For The Art Of It Tour",
       "venue_line": "Stifel Theatre • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Soda Blonde",
+      "venue_line": "Off Broadway • Saint Louis",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Soda Blonde",
+      "venue_line": "Off Broadway • St. Louis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

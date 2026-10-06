@@ -1,6 +1,6 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-05T17:44:12.235Z",
+  "updated_at": "2026-10-06T15:39:14.067Z",
   "events": [
     {
       "day_label": "TUE",
@@ -69,6 +69,16 @@
       "title": "DEAR YOU: EMO NIGHT (Late show)",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$8",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Emo Nite (21 and Over)",
+      "venue_line": "Strummers • Fresno",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -189,16 +199,6 @@
       "title": "MILITARIE GUN 20 Songs for 20 Dollars plus special guests Softcult, Shady Nasty, Dazy",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Iration",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }
