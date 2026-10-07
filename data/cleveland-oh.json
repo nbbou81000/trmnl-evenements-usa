@@ -1,77 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-06T15:38:44.388Z",
+  "updated_at": "2026-10-07T16:00:48.027Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Gorillaz - The Mountain Tour",
-      "venue_line": "Rocket Arena • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Gorillaz - The Mountain Tour",
-      "venue_line": "Rocket Arena • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Who's Tommy (Touring)",
-      "venue_line": "Connor Palace - Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Lyrical Rhythms",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Cardinal Bloom",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Mercury Jam",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Secret Society Comedy Presents: One More Joke",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -199,6 +129,76 @@
       "title": "Exitwounds, Nailed Shut MA, POOCH, CTE, Goodfornothing",
       "venue_line": "The Foundry • Cleveland",
       "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth",
+      "venue_line": "Wolstein Center at CSU • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Cleveland Cavaliers vs. Boston Celtics",
+      "venue_line": "Rocket Arena • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "TIPSY TRIVIA (WILL FERRELL MOVIES)",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "B SIDE GROOVES",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Who's Tommy (Touring)",
+      "venue_line": "Connor Palace - Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Skyrie",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Sunn 0]]]",
+      "venue_line": "Globe Iron • Cleveland",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

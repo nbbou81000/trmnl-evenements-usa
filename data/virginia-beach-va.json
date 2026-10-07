@@ -1,6 +1,6 @@
 {
   "city_label": "Virginia Beach, VA",
-  "updated_at": "2026-10-06T15:38:32.812Z",
+  "updated_at": "2026-10-07T16:00:31.598Z",
   "events": [
     {
       "day_label": "WED",
@@ -78,6 +78,16 @@
       "date_iso": "2026-10-09",
       "title": "Jon B. (18 and Over)",
       "venue_line": "The Norva • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Gladys Knight",
+      "venue_line": "Rivers Casino Portsmouth Event Center • Portsmouth",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -188,16 +198,6 @@
       "date_iso": "2026-10-11",
       "title": "Polyphia Tour MMXXVI  ",
       "venue_line": "The Dome by Rutter Mills • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "AFI",
-      "venue_line": "The Norva • Norfolk",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

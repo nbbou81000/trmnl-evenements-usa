@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-06T15:38:22.761Z",
+  "updated_at": "2026-10-07T16:00:16.198Z",
   "events": [
     {
       "day_label": "FRI",
@@ -8,66 +8,6 @@
       "date_iso": "2026-10-02",
       "title": "UB Distinguished Speakers Series Subscription",
       "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Billy Joel Legacy: A Tribute Experience",
-      "venue_line": "The Avalon Theatre At Niagara Fallsview Casino Resort • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Buffalo Sabres Single Game Suite Rental-Minnesota Wild",
-      "venue_line": "KeyBank Center • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Buffalo Sabres v Minnesota Wild",
-      "venue_line": "KeyBank Center • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Goodbye June (18+ Event)",
-      "venue_line": "Buffalo Iron Works • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Michael Franti",
-      "venue_line": "Electric City • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Tue. 10/6/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Bat Boy the Musical",
+      "venue_line": "Shea's Smith Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Musicians from Slee Sinfonietta - Music by György Kurtág & Betsy Jolas",
+      "venue_line": "University at Buffalo - Baird Recital Hall • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Northern Pikes, ODDS and The Pursuit of Happiness",
+      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Sadies (18+ Event)",
+      "venue_line": "Buffalo Iron Works • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Fri. 10/9/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Anthony Rodia: Insanely Funny Tour",
+      "venue_line": "Seneca Niagara Resort & Casino Bears Den • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,107 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-06T15:39:17.971Z",
+  "updated_at": "2026-10-07T16:01:32.479Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Two-Step Tuesday with Western Edition and Lessons from Robbie",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "John Mark Comer: Into the Quiet Experience",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "venue_line": "Moda Center • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "HAMMERFALL with Evergrey",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Castle Rat",
-      "venue_line": "Roseland Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Green",
-      "venue_line": "McMenamins Crystal Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Lolo",
-      "venue_line": "Holocene • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Jane Remover - Live Exhibit",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "DOMi & JD BECK",
-      "venue_line": "Wonder Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Phillip Phillips w/ Elias Hix",
-      "venue_line": "Aladdin Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue_line": "Jack London Revue • Portland",
+      "price_label": "$26–$206",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Movements",
+      "venue_line": "McMenamins Crystal Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Menzingers w/ Hot Water Music",
+      "venue_line": "Revolution Hall - Portland • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Sons of Legion -Soul to SØL World Tour 2026 ",
+      "venue_line": "Roseland Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Oregon Symphony presents Holst's the Planets",
+      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Sons of Legion",
+      "venue_line": "Roseland Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Boy Named Sue: A Tribute to Johnny Cash with Cuchulain Kelly",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "KiNG MALA",
+      "venue_line": "Hawthorne Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Pendulum - Ages 21+",
+      "venue_line": "45 East • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Portland Winterhawks vs Wenatchee Wild",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-06T15:38:43.962Z",
+  "updated_at": "2026-10-07T16:00:47.565Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Greywind",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "WEEZER: The Gathering",
-      "venue_line": "Nationwide Arena • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Death Becomes Her (Touring)",
-      "venue_line": "Ohio Theatre • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Format w/ Get Up Kids",
-      "venue_line": "Newport Music Hall • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Taylor Bickett w/ Lisa Curtis & Doubting Thomas",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Freya Skye",
-      "venue_line": "KEMBA Live! • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -199,6 +139,66 @@
       "title": "CRUEL SUMMER - A Live Band Taylor Swift Tribute",
       "venue_line": "Skully's Music Diner • Columbus",
       "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Brenn!",
+      "venue_line": "Newport Music Hall • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "DENNETT - Back to the Roadhouse Tour 2026 - PITTSBURGH, PA",
+      "venue_line": "Forum Columbus • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Ohio State Buckeyes Women's Hockey vs. University of Wisconsin Badgers Womens Hockey",
+      "venue_line": "Ohio State University Ice Rink • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "DISPATCH FAMILY VALUE PACK-CBJ VS. PITTSBURGH PENGUINS",
+      "venue_line": "Nationwide Arena • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "CBJ V. PITTSBURGH PENGUINS",
+      "venue_line": "Nationwide Arena • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "DAMAG3, FILM AND GENDER, CONNOR CRISTI",
+      "venue_line": "Classics Victorys • Columbus",
+      "price_label": "$19",
       "type_key": "music",
       "type_label": "Music"
     }

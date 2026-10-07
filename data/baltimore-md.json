@@ -1,57 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-06T15:38:31.867Z",
+  "updated_at": "2026-10-07T16:00:29.964Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Lynch Mob",
-      "venue_line": "Rams Head On Stage • Annapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Brunch Block: Who Needs A Plate?",
-      "venue_line": "Morgan State University • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Homecoming Bundle",
-      "venue_line": "Morgan State University • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -196,6 +146,56 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Plies",
+      "venue_line": "Nevermore Hall • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Lewis Black",
+      "venue_line": "Hippodrome at France-Merrick Performing Arts Center • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "beabadoobee: The Powerlines Tour",
+      "venue_line": "Merriweather Post Pavilion • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Maryland Renaissance Festival",
+      "venue_line": "Maryland Renaissance Festival • Annapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
       "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
       "price_label": "Price not available",

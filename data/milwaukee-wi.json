@@ -1,82 +1,12 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-10-06T15:38:47.330Z",
+  "updated_at": "2026-10-07T16:00:52.649Z",
   "events": [
     {
       "day_label": "FRI",
       "day_number": "11",
       "date_iso": "2026-09-11",
       "title": "China Lights Wisconsin 2026 Season Pass",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Chris Housman",
-      "venue_line": "Shank Hall • Milwaukee",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Two Cents Tuesday",
-      "venue_line": "Milwaukee Improv (The Lab) • Brookfield",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Dan and Phil",
-      "venue_line": "Pabst Theater • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "BECK: RIDE LONESOME TOUR",
-      "venue_line": "Landmark Credit Union Live • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "China Lights Wisconsin 2026",
       "venue_line": "Boerner Botanical Gardens • Hales Corners",
       "price_label": "Price not available",
       "type_key": "misc",
@@ -116,6 +46,16 @@
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
+      "title": "Rhett Miller",
+      "venue_line": "Shank Hall • Milwaukee",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
       "title": "THROWN w/ Norma Jean",
       "venue_line": "The Rave-Eagles Club • Milwaukee",
       "price_label": "Price not available",
@@ -129,16 +69,6 @@
       "title": "UB40",
       "venue_line": "Pabst Theater • Milwaukee",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Rhett Miller",
-      "venue_line": "Shank Hall • Milwaukee",
-      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-08",
       "title": "54 Ultra",
       "venue_line": "Vivarium • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Wayne Hancock",
+      "venue_line": "Shank Hall • Milwaukee",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jurassic Quest | Wisconsin State Fair Park | Milwaukee, WI 2026",
+      "venue_line": "Exposition Center at Wisconsin State Fair Park • West Allis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jurassic Quest | Wisconsin State Fair Park | Milwaukee, WI 2026",
+      "venue_line": "Exposition Center at Wisconsin State Fair Park • West Allis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "San Diego Padres at Milwaukee Brewers: NLDS (Home Game 3, If Necessary)",
+      "venue_line": "American Family Field • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

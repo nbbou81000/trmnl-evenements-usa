@@ -1,37 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-10-06T15:38:53.567Z",
+  "updated_at": "2026-10-07T16:01:01.373Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Test Your Mic",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Music of John Denver",
-      "venue_line": "Casa Manana • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Miranda Lambert - Ages 18+",
-      "venue_line": "Billy Bob's • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Phil Collins Story",
+      "venue_line": "Texas Trust CU Theatre • Grand Prairie",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Sonic Live in Concert",
+      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "TCU Horned Frogs Womens Volleyball vs. Arizona Wildcats Womens Volleyball",
+      "venue_line": "Ed and Rae Schollmaier Arena • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

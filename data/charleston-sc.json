@@ -1,27 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-06T15:38:36.020Z",
+  "updated_at": "2026-10-07T16:00:37.466Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Mrs. Doubtfire (Touring)",
-      "venue_line": "North Charleston Performing Arts Center • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Joey Cash",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -196,6 +176,26 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "BALTHVS: MANIFEST TOUR 2026",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Mrs. Doubtfire (Touring)",
       "venue_line": "North Charleston Performing Arts Center • North Charleston",
       "price_label": "Price not available",

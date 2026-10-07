@@ -1,27 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-06T15:39:20.112Z",
+  "updated_at": "2026-10-07T16:01:35.138Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Slightly Stoopid w/ The Elovaters",
-      "venue_line": "Gesa Credit Union Pavilion • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Judah & the Lion",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -128,7 +108,7 @@
       "date_iso": "2026-10-10",
       "title": "Megan Woods: The Truth Tour - Spokane, WA",
       "venue_line": "Turning Point Church (Spokane, WA) • Spokane",
-      "price_label": "$24–$75",
+      "price_label": "$24–$46",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +179,26 @@
       "title": "Mia Asano, DEADGRACE",
       "venue_line": "The District • Spokane",
       "price_label": "$33–$100",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Paula Cole THIS FIRE: 30",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Nep, Erin Parkes",
+      "venue_line": "The District • Spokane",
+      "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
     }

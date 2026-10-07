@@ -1,27 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-06T15:39:13.209Z",
+  "updated_at": "2026-10-07T16:01:26.707Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Mia Asano, DEADGRACE",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$31–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Moe's Alley Presents: The Animeros w/ Flaco el Jandro y Los Perros Callejeros",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -156,6 +136,16 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
+      "title": "San Jose State Spartans Football vs. Wyoming Cowboys Football",
+      "venue_line": "CEFCU Stadium • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
       "title": "Bingo Loco",
       "venue_line": "San Jose Improv • San Jose",
       "price_label": "$37–$108",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Price Is Right Live - On Stage",
+      "venue_line": "San Jose Civic • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

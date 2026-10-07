@@ -1,27 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-06T15:38:24.077Z",
+  "updated_at": "2026-10-07T16:00:17.760Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Snail Mail w/ Soccer Mommy",
-      "venue_line": "Hart Theatre at The Egg • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "76th Street",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -126,7 +106,7 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
-      "title": "Broadway Rave",
+      "title": "Broadway Rave: MasqueRave Edition",
       "venue_line": "Empire Underground • Albany",
       "price_label": "Price not available",
       "type_key": "music",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Union College Garnet Chargers Hockey vs. Providence College Friars Hockey",
+      "venue_line": "M&T Bank Center • Schenectady",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Concert Crave Presents: I Love R&B",
+      "venue_line": "Empire Live • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

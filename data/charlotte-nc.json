@@ -1,47 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-06T15:38:33.737Z",
+  "updated_at": "2026-10-07T16:00:33.436Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Charlotte Hornets v Brooklyn Nets (Preseason)",
-      "venue_line": "Spectrum Center • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Willow Avalon",
-      "venue_line": "Amos Southend • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Rebecca Black - Exhibitionism on Tour",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Kyle Gordon",
-      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Rising Appalachia",
+      "venue_line": "Neighborhood Theatre Main Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Edith Marquez - Eterna E Inolvidable",
+      "venue_line": "Ovens Auditorium • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
+      "venue_line": "Truliant Amphitheater • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Restricted - Ages 18+",
+      "venue_line": "Blackbox Theater - Charlotte • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-06T15:38:41.775Z",
+  "updated_at": "2026-10-07T16:00:44.987Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Thorn",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -106,7 +96,7 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Adam Calhoun , Struggle Jennings, Bubba Sparxxx, Savannah Dexter , Jamwayne, Dusty Leigh , Hard Target, Cymple Man , Shocka Hustlemane, Big Buck Beezy",
+      "title": "Adam Calhoun , Struggle Jennings, Bubba Sparxxx, Savannah Dexter , Dusty Leigh , Hard Target, Cymple Man , J Michael Phillips, Shocka Hustlemane, Big Buck Beezy",
       "venue_line": "The Apollo Theatre Ac • Belvidere",
       "price_label": "$31–$110",
       "type_key": "music",
@@ -199,6 +189,16 @@
       "title": "Elías Medina",
       "venue_line": "Hard Rock Live Rockford • Rockford",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "With A Vengeance, So Called Saints , Pikes Peak ",
+      "venue_line": "The Apollo Theatre Ac • Belvidere",
+      "price_label": "$15–$69",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,17 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-06T15:38:55.338Z",
+  "updated_at": "2026-10-07T16:01:04.184Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "UTEP Choirs In Concert: Music Without Borders - UTEP Dept. of Music",
-      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-17",
       "title": "El Paso Locomotive FC vs. Sacramento Republic FC",
       "venue_line": "Southwest University Park • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "El Paso Rhinos",
+      "venue_line": "Events Center  • El Paso",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

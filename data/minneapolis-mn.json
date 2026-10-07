@@ -1,87 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-06T15:38:48.313Z",
+  "updated_at": "2026-10-07T16:00:53.764Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "gnash: the garden tour",
-      "venue_line": "Amsterdam Bar & Hall • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
-      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Our Lady Peace: 30th Anniversary Tour w/ Special Guests The Verve Pipe",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Pertinence",
-      "venue_line": "Green Room • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "USMNT v Canada presented by American Airlines",
-      "venue_line": "Allianz Field • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Jim Henson's Labyrinth: In Concert",
-      "venue_line": "Fitzgerald Theater • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
-      "venue_line": "Armory • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Sunn 0]]]",
-      "venue_line": "Palace Theatre-MN • St. Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Grief Sucks: A One Man Show By KevOnStage - 16+",
+      "venue_line": "Uptown Theater Minneapolis • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Bebe Stockwell w/ Khatumu",
+      "venue_line": "7th Street Entry • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Return of the Jedi in Concert",
+      "venue_line": "Orchestra Hall-MN • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "St. Thomas Tommies Mens Hockey vs. Air Force Academy Falcons Hockey",
+      "venue_line": "Lee and Penny Anderson Arena • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "CAIN Live and In Worship Tour with special guest Kristian Stanfill",
+      "venue_line": "Grace Church • Eden Prairie",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Algorithm is Gonna Get You",
+      "venue_line": "Dudley Riggs Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Clue (Touring)",
+      "venue_line": "Orpheum Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Malcolm Todd: Do That Again Tour",
+      "venue_line": "Armory • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

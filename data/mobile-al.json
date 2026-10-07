@@ -1,17 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-06T15:39:04.899Z",
+  "updated_at": "2026-10-07T16:01:16.320Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "An Evening with Shadowgrass (NIGHT ONE)",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$29–$44",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +191,16 @@
       "price_label": "$33–$84",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Crawling (A Tribute To Early Linkin Park) &  Nirvanna (Tribute To Nirvana)",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

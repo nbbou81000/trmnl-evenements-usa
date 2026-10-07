@@ -1,6 +1,6 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-06T15:39:02.274Z",
+  "updated_at": "2026-10-07T16:01:12.636Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,16 +11,6 @@
       "price_label": "$34",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Southern Momma",
-      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
-      "price_label": "$33–$209",
-      "type_key": "misc",
-      "type_label": "Other"
     },
     {
       "day_label": "FRI",
@@ -171,6 +161,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Baton Rouge Latin Nights Halloween",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SUN",

@@ -1,37 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-06T15:38:48.756Z",
+  "updated_at": "2026-10-07T16:00:54.342Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Doja Cat - Tour Ma Vie World Tour",
-      "venue_line": "T-Mobile Center • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Stephen Day Presents: The Self Titled Tour",
-      "venue_line": "recordBar • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Parcels",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -96,16 +66,6 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
-      "title": "Chris Stapleton's All-American Road Show",
-      "venue_line": "Morton Amphitheater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
       "title": "Cheekface",
       "venue_line": "recordBar • Kansas City",
       "price_label": "Price not available",
@@ -128,16 +88,6 @@
       "date_iso": "2026-10-10",
       "title": "The Ace Frehley Band",
       "venue_line": "Grinders KC • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Chris Stapleton's All-American Road Show",
-      "venue_line": "Morton Amphitheater • Kansas City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -199,6 +149,56 @@
       "title": "Whales",
       "venue_line": "Aura KC • Kansas City",
       "price_label": "$19–$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The Billy Joel Legacy",
+      "venue_line": "Yardley Hall Carlsen Center - KS • Overland Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Leonid & Friends",
+      "venue_line": "Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "ML Buch",
+      "venue_line": "recordBar • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Taste of Chaos w/ Hollywood Undead",
+      "venue_line": "The Midland Theatre - MO • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "The Wildwoods",
+      "venue_line": "recordBar • Kansas City",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

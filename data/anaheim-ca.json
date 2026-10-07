@@ -1,77 +1,7 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-10-06T15:39:17.085Z",
+  "updated_at": "2026-10-07T16:01:31.630Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Dodgers Watch Party (Game 3 of NLDS) Time: TBD",
-      "venue_line": "The Regent Theater • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Chad Gray: 30 Years of Madnesss",
-      "venue_line": "The Observatory • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Anna Graves",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Mexico vs. Chile",
-      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Championship Wrestling",
-      "venue_line": "Irvine Improv • Irvine",
-      "price_label": "$20–$83",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Comedy Juice Featuring: Mary Lynn Rajskub, Nick Guerra, Jay Washington & Jonny Loquasto!",
-      "venue_line": "Brea Improv • Brea",
-      "price_label": "$31–$83",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -186,11 +116,21 @@
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
-      "title": " Chinedu Unaka ",
+      "title": "Mon Rovîa - Bloodline Tour",
+      "venue_line": "The Bellwether • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Lance Woods",
       "venue_line": "Brea Improv • Brea",
       "price_label": "$31–$83",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "WED",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-07",
       "title": "Hokus Pokus Live!",
       "venue_line": "Orpheum Theatre • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Rusowsky",
+      "venue_line": "The Novo by Microsoft • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "RaiNao",
+      "venue_line": "Constellation Room • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "oskar med k",
+      "venue_line": "The Observatory • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Felipe Esparza Presents: Live Taping of Saul Trujillo with special guests Martin Rizo and Felipe Esparza (Show 1)",
+      "venue_line": "The Stand Up Comedy Club • Bellflower",
+      "price_label": "$31–$212",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Ambré",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "La Mirada Theatre presents: Little Shop of Horrors",
+      "venue_line": "La Mirada Theatre for the Performing Arts • La Mirada",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

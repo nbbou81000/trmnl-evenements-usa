@@ -1,47 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-06T15:38:22.280Z",
+  "updated_at": "2026-10-07T16:00:15.731Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
-      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Jeff Goldblum",
-      "venue_line": "Heinz Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Interpol w/ DIIV",
-      "venue_line": "Stage AE • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -188,7 +148,7 @@
       "date_iso": "2026-10-08",
       "title": "Mo Lowda & The Humble w/ special guest Surf Hat",
       "venue_line": "Mr Smalls Theatre • Millvale",
-      "price_label": "$0",
+      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +159,46 @@
       "title": "Matt Mathews: Not What I Ordered World Tour",
       "venue_line": "Citizens Live at The Wylie • Pittsburgh",
       "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Mr. Smalls Horror Film Festival",
+      "venue_line": "Mr. Smalls Theatre • Millvale",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Dan + Shay: The Young Tour",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "AJJ",
+      "venue_line": "Spirit Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Chad Daniels",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$31–$102",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     }

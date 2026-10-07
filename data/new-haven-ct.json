@@ -1,17 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-06T15:38:25.449Z",
+  "updated_at": "2026-10-07T16:00:19.537Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Post University Eagles Womens Ice Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Foghat",
+      "venue_line": "Toad's Place • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

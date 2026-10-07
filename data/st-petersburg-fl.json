@@ -1,44 +1,14 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-06T15:38:40.464Z",
+  "updated_at": "2026-10-07T16:00:43.461Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Sex Mex \"The Stockpile Tour\" in Tampa",
-      "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "USF Concert &  Symphonic Bands",
-      "venue_line": "Peter and Cynthia Zinober Concert Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
       "title": "Black Flag",
       "venue_line": "The Brass Mug • Tampa",
-      "price_label": "$31–$46",
+      "price_label": "$36–$56",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Tim Dillon",
+      "venue_line": "Side Splitters Comedy Club • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Ty Myers",
+      "venue_line": "The BayCare Sound • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Buena Vista Social Club (Touring)",
+      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-06T15:38:54.502Z",
+  "updated_at": "2026-10-07T16:01:02.816Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,36 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Holding Absence w/ Arm's Length",
-      "venue_line": "Paper Tiger • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Bayside",
-      "venue_line": "Vibes Event Center • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Satx Open Mic",
-      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "WED",
@@ -119,8 +89,8 @@
       "title": "San Antonio Spurs vs. Atlanta Hawks Post-Game Free Throws",
       "venue_line": "Frost Bank Center • San Antonio",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "THU",
@@ -129,8 +99,8 @@
       "title": "San Antonio Spurs vs. Atlanta Hawks Frost Club Level Access",
       "venue_line": "Frost Bank Center • San Antonio",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "THU",
@@ -139,8 +109,8 @@
       "title": "San Antonio Spurs vs. Atlanta Hawks Courtside Experience",
       "venue_line": "Frost Bank Center • San Antonio",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "THU",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "COLORS Presents: R&B ONLY - 18+ w/ID",
+      "venue_line": "Aztec Theatre • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Randy Rogers",
+      "venue_line": "John T Floore Country Store • Helotes",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Bragolin w/ Carrellee",
+      "venue_line": "Paper Tiger • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

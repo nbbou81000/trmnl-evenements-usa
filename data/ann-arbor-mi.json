@@ -1,24 +1,14 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-06T15:38:43.544Z",
+  "updated_at": "2026-10-07T16:00:47.114Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Congress The Band- SOLD OUT, Collin., Left Bench",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
       "title": "Too Hot For Leather, Kazha",
       "venue_line": "The Token Lounge • Westland",
-      "price_label": "$19",
+      "price_label": "$12",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -86,7 +76,7 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
-      "title": "Justin Nozuka",
+      "title": "Justin Nozuka, Al Bettis",
       "venue_line": "Blind Pig • Ann Arbor",
       "price_label": "$35",
       "type_key": "music",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Stephen Day",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

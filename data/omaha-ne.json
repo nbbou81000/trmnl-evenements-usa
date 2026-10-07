@@ -1,17 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-06T15:38:50.091Z",
+  "updated_at": "2026-10-07T16:00:55.860Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Holdup",
-      "venue_line": "Slowdown • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Creighton Bluejays Womens Volleyball vs. Xavier Womens Volleyball",
+      "venue_line": "RYAN CENTER/DJ SOKOL ARENA • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

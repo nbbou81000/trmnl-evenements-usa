@@ -1,37 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-06T15:39:08.852Z",
+  "updated_at": "2026-10-07T16:01:21.881Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Spite @ 191 Toole",
-      "venue_line": "191 Toole • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Brit Floyd: The Moon The Wall and Beyond",
-      "venue_line": "Linda Ronstadt Music Hall • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Wallflowers @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-10",
       "title": "Battle Mimes @ 191 Toole",
       "venue_line": "191 Toole • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Loathe: A Stranger to You",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Burnout Paradise",
+      "venue_line": "Centennial Hall • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Concierto de Aranjuez : Tucson Symphony Orchestra",
+      "venue_line": "Catalina Foothills High School • Tucson",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

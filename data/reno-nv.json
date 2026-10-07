@@ -1,6 +1,6 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-10-06T15:39:10.237Z",
+  "updated_at": "2026-10-07T16:01:23.387Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,36 +11,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Every Avenue, In Her Own Words, Felicity, Too Close for Comfort, Tarni",
-      "venue_line": "Club Underground • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Madeon presents Victory Live with MGNA Crrrta",
-      "venue_line": "Cargo Concert Hall • Reno",
-      "price_label": "$41–$44",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Madeon (18 and Over with Valid ID)",
-      "venue_line": "Cargo • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Northern Nevada Night Skies 2026 featuring Enemies of Freedom Tour Sta",
+      "venue_line": "Bartley Ranch - Hawkins Amphitheater • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Micro Mania Midget Wrestling ",
+      "venue_line": "Battleborn Harley Davidson • Carson City",
+      "price_label": "$33–$54",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Laugh Factory",
+      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

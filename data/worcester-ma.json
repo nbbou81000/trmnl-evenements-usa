@@ -1,27 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-06T15:38:30.530Z",
+  "updated_at": "2026-10-07T16:00:28.455Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Alien Ant Farm w/ Scarhaven",
-      "venue_line": "Off The Rails Music Venue • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Alien Ant Farm, Scarhaven",
-      "venue_line": "Off The Rails Music Venue • Worcester",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Trapt",
+      "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "PeelingFlesh w/ Gridiron",
+      "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

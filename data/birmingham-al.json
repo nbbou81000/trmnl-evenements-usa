@@ -1,27 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-06T15:39:03.596Z",
+  "updated_at": "2026-10-07T16:01:14.186Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Songwriters Night at The Nick with Kenan Blair + TwoDetained",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Why???d They Do That?!- Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -199,6 +179,26 @@
       "title": "Mr Please + Steady Rotation at The Nick October 10th Doors 9pm",
       "venue_line": "The Nick • Birmingham",
       "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Certainly So",
+      "venue_line": "Lakeview Marina Music Park • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Brigitte Calls Me Baby",
+      "venue_line": "Saturn Birmingham • Birmingham",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

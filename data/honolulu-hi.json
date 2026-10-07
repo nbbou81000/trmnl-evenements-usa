@@ -1,17 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-06T15:39:20.518Z",
+  "updated_at": "2026-10-07T16:01:35.655Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Johnny Pemberton",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$28–$41",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +191,16 @@
       "price_label": "$46–$57",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

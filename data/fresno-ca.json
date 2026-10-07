@@ -1,17 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-06T15:39:14.067Z",
+  "updated_at": "2026-10-07T16:01:27.707Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -199,6 +189,16 @@
       "title": "MILITARIE GUN 20 Songs for 20 Dollars plus special guests Softcult, Shady Nasty, Dazy",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Iration",
+      "venue_line": "Fresno Fairgrounds • Fresno",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

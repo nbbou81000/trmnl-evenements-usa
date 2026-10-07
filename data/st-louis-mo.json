@@ -1,37 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-06T15:38:49.241Z",
+  "updated_at": "2026-10-07T16:00:54.822Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Rise Against: Ricochet 2026",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Open Mic Night",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Johnny Blue Skies & The Dark Clouds - Mutiny For The Masses",
-      "venue_line": "Enterprise Center • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-09",
       "title": "Soda Blonde",
       "venue_line": "Off Broadway • St. Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "TAUK with House of Tucci",
+      "venue_line": "Atomic Garage • St. Louis",
+      "price_label": "$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jordan Jensen",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "It's A 2000's Party",
+      "venue_line": "Delmar Hall • Saint Louis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

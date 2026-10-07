@@ -1,27 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-06T15:39:07.998Z",
+  "updated_at": "2026-10-07T16:01:20.438Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "This Wild Life w/ Nate Bergman",
-      "venue_line": "Revel Entertainment Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Becky G",
-      "venue_line": "Sandia Resort & Casino • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "EsDeeKid - Council House Rat Tour",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Beauty And The Beast (Touring)",
+      "venue_line": "Popejoy Hall • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

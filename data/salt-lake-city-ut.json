@@ -1,117 +1,7 @@
 {
   "city_label": "Salt Lake City, UT",
-  "updated_at": "2026-10-06T15:39:06.612Z",
+  "updated_at": "2026-10-07T16:01:18.353Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Taking Back Sunday",
-      "venue_line": "The Union • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "KiNG MALA",
-      "venue_line": "Metro Music Hall - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Love Spells",
-      "venue_line": "Kilby Court • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Utah Jazz vs. Denver Nuggets",
-      "venue_line": "Delta Center • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Mastodon",
-      "venue_line": "The Complex • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Mastodon",
-      "venue_line": "The Complex - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Our Town",
-      "venue_line": "Beehive Stage at Hale Centre Theatre Sandy • Sandy",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
-      "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Lakeview",
-      "venue_line": "Soundwell • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Emei",
-      "venue_line": "The Complex - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Sleeping With Sirens: An Ending In Itself Tour",
+      "venue_line": "The Union • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Arch Enemy w/ The Black Dahlia Murder",
+      "venue_line": "The Complex - UT • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Judah & the Lion",
+      "venue_line": "The Depot • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Harry Potter and the Cursed Child (Touring)",
+      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Utah Utes Womens Volleyball vs. West Virginia Mountaineers Womens Volleyball",
+      "venue_line": "Huntsman Center • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Dwight Yoakam",
+      "venue_line": "Sandy Amphitheater • Sandy",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Our Town",
+      "venue_line": "Beehive Stage at Hale Centre Theatre Sandy • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Robert Plant",
+      "venue_line": "Abravanel Hall • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Garth Brooks",
+      "venue_line": "Delta Center • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
+      "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Holywatr: Deo Gratias Tour",
+      "venue_line": "Soundwell • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,87 +1,7 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-10-06T15:38:21.819Z",
+  "updated_at": "2026-10-07T16:00:15.172Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Girl from the North Country",
-      "venue_line": "Arden Theatre Company • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Faux Real, Babe America, Bryce Xavier ",
-      "venue_line": "Nikki Lopez Philly • Philadelphia",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Addams Family (Touring)",
-      "venue_line": "Walnut Street Theatre • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
-      "venue_line": "Walnut Street Theatre • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Moth Storyslam: Magic",
-      "venue_line": "Punch Line Philly • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Shaboozey - Outlaws Never Die Tour",
-      "venue_line": "Skyline Stage at Highmark Mann • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "White Denim - Ages 21+",
-      "venue_line": "Ardmore Music Hall • Ardmore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Medium Build Presents The King of Having Fun on Tour",
-      "venue_line": "Theatre of Living Arts • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Gladys Knight- All Ages (under 16 with adult)",
+      "venue_line": "Keswick Theatre • Glenside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "THE CHICKS - TAKING THE LONG WAY",
+      "venue_line": "The Met Presented by Highmark • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Addams Family (Touring)",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Girl from the North Country",
+      "venue_line": "Arden Theatre Company • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Dream Eaters, Mary Shelley",
+      "venue_line": "Nikki Lopez Philly • Philadelphia",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Philadelphia Ballet w/ Stars and Stripes Forever",
+      "venue_line": "Academy of Music - PA • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Addams Family (Touring)",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

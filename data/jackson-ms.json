@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-06T15:39:03.173Z",
+  "updated_at": "2026-10-07T16:01:13.735Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "JJ Grey & Mofro - Top of The World Tour",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-25",
       "title": "Elmo's Got the Moves",
       "venue_line": "City Hall Live • Brandon",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Matt Rife: Stay Golden World Tour",
+      "venue_line": "Brandon Amphitheater • Brandon",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

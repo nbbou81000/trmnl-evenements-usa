@@ -1,27 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-06T15:38:45.629Z",
+  "updated_at": "2026-10-07T16:00:49.882Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Akron Zips Mens Soccer vs. Syracuse University Mens Soccer",
-      "venue_line": "FirstEnergy Stadium - Cub Cadet Field • Akron",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "WQMX Bosom Buddies with Chase Matthew, McCoy Moore & Taylor Austin Dye",
-      "venue_line": "Goodyear Theater • Akron",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Into the Mystic w/ Nitebridge feat Colin Dussualt",
+      "venue_line": "John, James and Clara Knight Stage • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Lucero W/ Joelton Mayfield",
+      "venue_line": "Musica • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

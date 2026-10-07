@@ -1,77 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-06T15:39:01.841Z",
+  "updated_at": "2026-10-07T16:01:12.008Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "LP - All Is Not Lost Tour",
-      "venue_line": "House of Blues New Orleans  • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Comedy Beast",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$8",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Kelly Love Jones",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Mike Campbell & The Dirty Knobs",
-      "venue_line": "The Joy Theater • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Akeem Ali (18 and Over)",
-      "venue_line": "Republic New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Chris Smither",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Kelly Love Jones",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +131,76 @@
       "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Delvin & the Shades w/ Nikaness",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "UNSANE OCCUPATIONAL HAZARD TOUR: with SUPLECS & NEST",
+      "venue_line": "Santos Bar • New Orleans",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "THE NATIONAL FRIED CHICKEN FESTIVAL PRESENTED BY RAISING CANE’S",
+      "venue_line": "UNO Lakefront Arena Festival Grounds • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Insight with Chris Van Vliet",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$41–$82",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jazz Generations Initiative New Orleans presents: A Tribute to Abdullah Ibrahim",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "My Fair Lady",
+      "venue_line": "Westwego Perf Arts Theatre • Westwego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Roast Battle League New Orleans presented by Big Easy Whiskey",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$19",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

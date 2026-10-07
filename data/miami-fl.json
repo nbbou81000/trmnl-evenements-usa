@@ -1,67 +1,7 @@
 {
   "city_label": "Miami, FL",
-  "updated_at": "2026-10-06T15:38:38.751Z",
+  "updated_at": "2026-10-07T16:00:40.938Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Backstage & Burgers",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "MIAMI HEAT RED, WHITE & PINK GAME",
-      "venue_line": "Kaseya Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "HE IS LEGEND in Miami",
-      "venue_line": "Churchill's Pub •  Miami",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Colombia vs Peru",
-      "venue_line": "Nu Stadium • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-09",
       "title": "TRAP Karaoke",
       "venue_line": "Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Trap Karaoke: Miami Beach",
+      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Trap Karaoke",
+      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Breast Cancer's A Drag - Beauty, Bravery & Bold Entertainment",
+      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Ben Bankas",
+      "venue_line": "Miami Improv • Doral",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Aziz Ansari: Hypothetical Tour",
+      "venue_line": "Hard Rock Live • Hollywood",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Camilo - USA 2026 Tour",
+      "venue_line": "Kaseya Center • Miami",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

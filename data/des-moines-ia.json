@@ -1,17 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-06T15:38:50.982Z",
+  "updated_at": "2026-10-07T16:00:57.810Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Opal In Sky w/ Levels - Band",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -86,16 +76,6 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
-      "title": "The Music of Bobby Darin and Paul Anka",
-      "venue_line": "The Ingersoll • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
       "title": "Red Leather",
       "venue_line": "xBk Live • Des Moines",
       "price_label": "Price not available",
@@ -111,16 +91,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "The Music of Bobby Darin and Paul Anka",
-      "venue_line": "The Ingersoll • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "gymclassheroes. & Lupe Fiasco - Back To Basics Tour",
+      "venue_line": "Vibrant Music Hall • Waukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Our House - A Tribute to Crosby, Stills, Nash & Young",
+      "venue_line": "The Ingersoll • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Becky Robinson: The Beasts In Me Tour",
+      "venue_line": "Hoyt Sherman Place • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

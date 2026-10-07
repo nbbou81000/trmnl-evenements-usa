@@ -1,27 +1,7 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-06T15:38:27.773Z",
+  "updated_at": "2026-10-07T16:00:24.290Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Christone Ingram",
-      "venue_line": "Strand Center for the Arts • Plattsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Ann Wilson",
-      "venue_line": "Flynn Center for the Performing Arts • Burlington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Sleep",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Tropidelic",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

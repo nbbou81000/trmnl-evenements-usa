@@ -1,57 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-06T15:38:43.115Z",
+  "updated_at": "2026-10-07T16:00:46.595Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "TASTE OF CHAOS",
-      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "THROWN",
-      "venue_line": "The Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "THROWN",
-      "venue_line": "Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Amélie Farren + Lilith Max + Rabbitology - The Three Wishes Tour",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Tip Top Tuesday Comedy",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "John C. Reilly is Mister Romantic",
+      "venue_line": "Fountain Street Church • Grand Rapids",
+      "price_label": "$56–$78",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Jessica Kirson - Ages 18+",
+      "venue_line": "Intersection • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Grand Rapids Griffins vs. Chicago Wolves",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Psychoblab Studios Presents: Drink and Draw",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Mariachazo",
+      "venue_line": "DeVos Performance Hall • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

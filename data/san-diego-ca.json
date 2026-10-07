@@ -1,117 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-06T15:39:12.313Z",
+  "updated_at": "2026-10-07T16:01:25.785Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Milwaukee Brewers at San Diego Padres: NLDS (Home Game 1)",
-      "venue_line": "PETCO Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Rum Jungle",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Begin Again",
-      "venue_line": "Old Globe Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Alastair Greene",
-      "venue_line": "Humphreys Backstage Live • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Plini - An Unnameable Desire North American Tour w/ Night Verses & Portraits",
-      "venue_line": "Music Box • San Diego",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "L7 (21 and Over)",
-      "venue_line": "Casbah-San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Cameron Whitcomb – Kingdom of Fear Tour",
-      "venue_line": "SOMA - Mainstage • San Diego",
-      "price_label": "$48",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Cameron Whitcomb",
-      "venue_line": "Soma • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Rickie Lee Jones",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$59–$98",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Rickie Lee Jones",
-      "venue_line": "Belly Up Tavern • Solana Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -146,7 +36,7 @@
       "day_label": "WED",
       "day_number": "7",
       "date_iso": "2026-10-07",
-      "title": "Milwaukee Brewers at San Diego Padres: NLDS (Home Game 2, If Necessary)",
+      "title": "Milwaukee Brewers at San Diego Padres: NLDS (Home Game 2)",
       "venue_line": "PETCO Park • San Diego",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -199,6 +89,116 @@
       "title": "L7 (21 and Over)",
       "venue_line": "Casbah-San Diego • San Diego",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "7",
+      "date_iso": "2026-10-07",
+      "title": "Snapdragon Stadium Tours",
+      "venue_line": "Snapdragon Stadium • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Tinlicker North America 2026",
+      "venue_line": "House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Cortisa Star - For All The Dolls Tour",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Begin Again",
+      "venue_line": "Old Globe Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Blonde Redhead",
+      "venue_line": "The Observatory North Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "San Diego Toreros Womens Volleyball vs. Loyola Marymount Lions Womens Volleyball",
+      "venue_line": "Jenny Craig Pavilion • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Rumours of Fleetwood Mac",
+      "venue_line": "Humphreys Concerts By the Bay • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Melt",
+      "venue_line": "Epstein Family Amphitheater • La Jolla",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Arin Ray - The ‘Limbo’ Tour w/ Baby J",
+      "venue_line": "Music Box • San Diego",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Enter Shikari",
+      "venue_line": "Music Box - San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "SCHOOLBOY Q - 10 Years of Blank Face LP",
+      "venue_line": "SOMA - Mainstage • San Diego",
+      "price_label": "$60",
       "type_key": "music",
       "type_label": "Music"
     }

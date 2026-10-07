@@ -1,37 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-06T15:38:50.525Z",
+  "updated_at": "2026-10-07T16:00:57.161Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "49 Winchester, Landon Smith",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$34–$69",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "49 Winchester",
-      "venue_line": "Bourbon Theatre-NE • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Chris Stapleton's All-American Road Show",
-      "venue_line": "Pinnacle Bank Arena • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -96,8 +66,8 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
-      "title": "Nebraska Cornhuskers Womens Volleyball vs. Wisconsin Badgers Womens Volleyball",
-      "venue_line": "Bob Devaney Sports Center • Lincoln",
+      "title": "Nebraska Cornhuskers Football vs. Indiana Hoosiers Football",
+      "venue_line": "Nebraska Memorial Stadium • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -106,8 +76,8 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
-      "title": "Nebraska Cornhuskers Football vs. Indiana Hoosiers Football",
-      "venue_line": "Nebraska Memorial Stadium • Lincoln",
+      "title": "Nebraska Cornhuskers Womens Volleyball vs. Wisconsin Badgers Womens Volleyball",
+      "venue_line": "Bob Devaney Sports Center • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Mr. and Miss Fire & Brimstone 2026",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$22–$64",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Nebraska Cornhuskers Womens Soccer vs. Illinois Fighting Illini Womens Soccer",
+      "venue_line": "Barbara Hibner Soccer Stadium • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Danielle Nicole",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$39",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-06T15:39:07.459Z",
+  "updated_at": "2026-10-07T16:01:19.522Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Sons of Legion -Soul to SØL World Tour 2026",
-      "venue_line": "Revolution Concert House & Event Center • Garden City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Carbon Leaf",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Ethan Regan w/ harf.",
-      "venue_line": "Treefort Music Hall • Boise",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -201,6 +171,36 @@
       "price_label": "$33",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Shovels & Rope, Nolan Taylor",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The 39 Steps",
+      "venue_line": "Boise Little Theater • Boise",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "IDAHO STEELHEADS VS TAHOE KNIGHT MONSTERS EXHIBITION GAME",
+      "venue_line": "Idaho Central Arena • Boise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

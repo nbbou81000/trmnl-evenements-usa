@@ -1,27 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-06T15:39:00.844Z",
+  "updated_at": "2026-10-07T16:01:11.017Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "Shinyribs",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "6",
-      "date_iso": "2026-10-06",
-      "title": "The Brook & The Bluff: Werewolf Tour",
-      "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "$39",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "7",
@@ -196,11 +176,31 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
+      "title": "Club:808",
+      "venue_line": "The 808 • Knoxville",
+      "price_label": "$5",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Amy Grant + Mac McAnally",
       "venue_line": "Tennessee Theatre • Knoxville",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
+      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }
