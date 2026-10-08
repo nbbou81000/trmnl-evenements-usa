@@ -1,37 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-07T16:00:44.987Z",
+  "updated_at": "2026-10-08T16:03:05.217Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "The Thorn",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Club Coronado for Sammy Kershaw",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Sammy Kershaw",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -96,7 +66,7 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Adam Calhoun , Struggle Jennings, Bubba Sparxxx, Savannah Dexter , Dusty Leigh , Hard Target, Cymple Man , J Michael Phillips, Shocka Hustlemane, Big Buck Beezy",
+      "title": "Adam Calhoun , Struggle Jennings, Savannah Dexter , Dusty Leigh , Hard Target, Cymple Man , J Michael Phillips, Shocka Hustlemane, Big Buck Beezy",
       "venue_line": "The Apollo Theatre Ac • Belvidere",
       "price_label": "$31–$110",
       "type_key": "music",
@@ -201,6 +171,36 @@
       "price_label": "$15–$69",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Rockford Symphony Orchestra: The Music Of John Williams",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Mushroomhead, Fear Factory, NINE TREASURES ",
+      "venue_line": "The Apollo Theatre Ac • Belvidere",
+      "price_label": "$20–$68",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Rockford IceHogs vs. Manitoba Moose",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

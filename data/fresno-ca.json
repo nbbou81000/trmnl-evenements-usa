@@ -1,17 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-07T16:01:27.707Z",
+  "updated_at": "2026-10-08T16:03:38.087Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Kansas w/ Mickey Thomas",
-      "venue_line": "Paul Paul Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -197,6 +187,16 @@
       "day_number": "14",
       "date_iso": "2026-10-14",
       "title": "Iration",
+      "venue_line": "Fresno Fairgrounds • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Bush",
       "venue_line": "Fresno Fairgrounds • Fresno",
       "price_label": "Price not available",
       "type_key": "music",

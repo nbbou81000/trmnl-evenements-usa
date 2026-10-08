@@ -1,27 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-07T16:00:40.279Z",
+  "updated_at": "2026-10-08T16:03:01.376Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
-      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "That One Mailman",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-11",
       "title": "Sub Urban",
       "venue_line": "Jack Rabbits • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "All Them Witches w/ Emma Ruth Rundle",
+      "venue_line": "Ponte Vedra Concert Hall • Ponte Vedra Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Bethel Music",
+      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

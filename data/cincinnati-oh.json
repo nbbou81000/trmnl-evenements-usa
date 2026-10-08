@@ -1,57 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-07T16:00:48.737Z",
+  "updated_at": "2026-10-08T16:03:08.323Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "CareSource Invitational",
-      "venue_line": "Lindner Family Tennis Center • Mason",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Open Mic Show & Tell with Adam Flaig",
-      "venue_line": "The Southgate House Revival - The Lounge • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Gregory Alan Isakov",
-      "venue_line": "MegaCorp Pavilion • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Vanilla Fudge",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Robin Trower",
-      "venue_line": "The Andrew J Brady Music Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -199,6 +149,56 @@
       "title": "SGHR and JBM Presents Robbie Fulks",
       "venue_line": "The Southgate House Revival - Revival Room • Newport",
       "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "JBM Promotions & tSGHR present Robbie Fulks",
+      "venue_line": "The Southgate House Revival - Revival Room • Newport",
+      "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Karyn White: The Evolution Tour",
+      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Beach Boys",
+      "venue_line": "PNC PAVILION • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Parker Barrow",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Sploinky Rave: Cincinnati (18+)",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

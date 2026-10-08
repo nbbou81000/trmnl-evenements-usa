@@ -1,6 +1,6 @@
 {
   "city_label": "Anchorage, AK",
-  "updated_at": "2026-10-07T16:01:23.823Z",
+  "updated_at": "2026-10-08T16:03:34.555Z",
   "events": [
     {
       "day_label": "THU",
@@ -111,6 +111,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "APOA presents, Ricochet",
+      "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "THU",

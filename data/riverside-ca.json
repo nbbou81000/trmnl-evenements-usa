@@ -1,27 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-07T16:01:30.257Z",
+  "updated_at": "2026-10-08T16:03:40.296Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "La Mole (En Español)",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$62",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Chayanne - Bailemos Otra Vez Tour",
-      "venue_line": "Toyota Arena • Ontario",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Kountry Wayne",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$37",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Hocus Pocus Drag Brunch",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$31–$49",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

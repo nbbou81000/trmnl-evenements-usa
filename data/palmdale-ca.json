@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-07T16:01:32.042Z",
+  "updated_at": "2026-10-08T16:03:41.607Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Soulfly, Nailbomb, Incite",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -199,6 +189,16 @@
       "title": "ZEKE / IDOL LORD / NUKE 'EM HIGH / LORDS OF DUST",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "DJ QUIK SUGA FREE LIL ROB MC MAGIC (WESTCOAST LEGENDS)",
+      "venue_line": "AV EVENT CENTER  • Lancaster",
+      "price_label": "$57–$520",
       "type_key": "music",
       "type_label": "Music"
     }

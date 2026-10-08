@@ -1,67 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-07T16:01:12.008Z",
+  "updated_at": "2026-10-08T16:03:25.586Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Brad Walker with Oscar Rossignoli",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Noga Erez",
-      "venue_line": "House of Blues New Orleans  • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Delfeayo Marsalis & the Uptown Jazz Orchestra: A Tribute to the Dirty Old Man",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "S.G. Goodman",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$33–$52",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Vincent Neil Emerson, Hayden Redwine",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Delfeayo Marsalis & the Uptown Jazz Orchestra: A Tribute to the Dirty Old Man",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -166,7 +106,7 @@
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
-      "title": "Insight with Chris Van Vliet",
+      "title": "Insight With Chris Van Vliet: Special Guest WWE Superstar Raquel Rodriguez",
       "venue_line": "Howlin' Wolf • New Orleans",
       "price_label": "$41–$82",
       "type_key": "sports",
@@ -201,6 +141,66 @@
       "price_label": "$19",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "One Vision of Queen",
+      "venue_line": "Jefferson Perf Arts Center • Metairie",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "2000's Rave",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Roux La La presents: Draggin' Ass",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$25",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Layla Musselwhite (Post Crescent City Blues and BBQ)",
+      "venue_line": "Chickie Wah Wah • New Orleans",
+      "price_label": "$27–$39",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Malevitus // Blood Lovey // Atomic Broad",
+      "venue_line": "NO DICE • New Orleans",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Keller & The Keels",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$37",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-07T16:00:46.595Z",
+  "updated_at": "2026-10-08T16:03:06.497Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Tip Top's Open Mic Hosted by Sound guy Cliff and Rowdy Fingers",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Mark Lavengood and friends + The Travelures (album release)",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-11",
       "title": "Mariachazo",
       "venue_line": "DeVos Performance Hall • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Deerhoof + Clawfoot",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Scene Queen: METALICIOUS",
+      "venue_line": "The Intersection • Grand Rapids",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

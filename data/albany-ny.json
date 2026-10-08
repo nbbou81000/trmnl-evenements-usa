@@ -1,17 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-07T16:00:17.760Z",
+  "updated_at": "2026-10-08T16:02:47.283Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Ringo Starr and His All Starr Band",
-      "venue_line": "The Palace Theatre Albany • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -197,6 +187,16 @@
       "day_number": "16",
       "date_iso": "2026-10-16",
       "title": "Concert Crave Presents: I Love R&B",
+      "venue_line": "Empire Live • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "PeelingFlesh",
       "venue_line": "Empire Live • Albany",
       "price_label": "Price not available",
       "type_key": "music",

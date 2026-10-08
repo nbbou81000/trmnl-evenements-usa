@@ -1,17 +1,7 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-07T16:00:24.290Z",
+  "updated_at": "2026-10-08T16:02:50.548Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Briscoe",
-      "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -197,6 +187,16 @@
       "day_number": "12",
       "date_iso": "2026-11-12",
       "title": "Tropidelic",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Carbon Leaf",
       "venue_line": "Higher Ground • South Burlington",
       "price_label": "Price not available",
       "type_key": "music",

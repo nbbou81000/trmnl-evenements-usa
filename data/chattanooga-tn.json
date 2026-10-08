@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-07T16:01:11.490Z",
+  "updated_at": "2026-10-08T16:03:25.156Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Scott Bradlee's Postmodern Jukebox:  The Future is Vintage World Tour",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -198,9 +188,19 @@
       "date_iso": "2026-10-14",
       "title": "Cannons: The Everything Glows Tour",
       "venue_line": "The Signal - Concert Hall • Chattanooga",
-      "price_label": "$46–$276",
+      "price_label": "$46–$62",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Bobby Stone Film Series: North by Northwest",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

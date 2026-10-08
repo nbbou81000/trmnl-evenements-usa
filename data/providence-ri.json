@@ -1,17 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-07T16:00:18.505Z",
+  "updated_at": "2026-10-08T16:02:47.701Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Line Dancing, Btches 'n Boots",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -38,7 +28,7 @@
       "date_iso": "2026-10-08",
       "title": "Tony V with Stacy Kendro",
       "venue_line": "Agoro's • Somerset",
-      "price_label": "$31–$44",
+      "price_label": "$0",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -181,6 +171,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "frameless.,Hot Start, & Kyodie",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",

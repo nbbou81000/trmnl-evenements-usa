@@ -1,27 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-07T16:01:14.899Z",
+  "updated_at": "2026-10-08T16:03:27.958Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Five Finger Death Punch",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Work It Out Wednesday Open Mic",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ralph Barbosa",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$46–$66",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Zainab Johnson",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$5–$27",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,97 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-10-07T16:00:46.060Z",
+  "updated_at": "2026-10-08T16:03:06.055Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Oakland University Men's Soccer vs. University of Wisconsin Green Bay - Men's Soccer",
-      "venue_line": "Oakland Soccer Field • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Kowloon Walled City, Great Falls, Pillar of Light",
-      "venue_line": "TSDMAAC • Detroit",
-      "price_label": "$12–$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Too Hot For Leather, Kazha",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Sawyer Hill - Everybody's Home, Nobody's Happy World Tour",
-      "venue_line": "Saint Andrew's Hall • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Gorillaz - The Mountain Tour",
-      "venue_line": "Little Caesars Arena • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "The Loving Touch Line Skipper - Joon",
-      "venue_line": "The Loving Touch • Ferndale",
-      "price_label": "$12",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Kickstand Productions Presents Joon",
-      "venue_line": "The Loving Touch • Ferndale",
-      "price_label": "$26–$77",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Michael Franti",
-      "venue_line": "District 142 • Wyandotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "MICHAEL FRANTI TRIO wsg Wheeland Brothers (acoustic)",
-      "venue_line": "District 142 • Wyandotte",
-      "price_label": "$44–$70",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -198,6 +108,96 @@
       "date_iso": "2026-10-08",
       "title": "Vidura Bandara Rajapaksa: The Paradise Gothic Tour",
       "venue_line": "Saint Andrew's Hall • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Undertale Symphony - Suite Rental",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "Undertale - The Determination Symphony World Tour",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The American Ride - Toby Keith Tribute",
+      "venue_line": "Andiamo Celebrity Showroom • Warren",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "8",
+      "date_iso": "2026-10-08",
+      "title": "The Lovely Game Show",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$16",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Upon Your Dead Body, When The Sun Sets, Rematch, Saving Throw",
+      "venue_line": "TSDMAAC • Detroit",
+      "price_label": "$12–$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "12 STONES • Stonelore • Days of Disaster • Resurrection Story • Duke Charelle • Memento Mori",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Rhythm Corps",
+      "venue_line": "Saint Andrew's Hall • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Thorn - Suite Rental",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "The Thorn",
+      "venue_line": "Fox Theatre Detroit • Detroit",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

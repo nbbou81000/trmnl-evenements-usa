@@ -1,27 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-10-07T16:01:17.330Z",
+  "updated_at": "2026-10-08T16:03:29.712Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Weedeater, Zeke, Royal Thunder, Hashtronaut",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Goth Night hosted by Gotica Nouveau",
-      "venue_line": "Vultures • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-14",
       "title": "Exhorder, No/Mas, Phantom, Intoxicated",
       "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Air Force Academy Falcons Hockey vs. Lindenwood Lions Mens Hockey",
+      "venue_line": "Cadet Ice Arena • USAF Academy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Kansas",
+      "venue_line": "Pikes Peak Center • Colorado Springs",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

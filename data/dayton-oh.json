@@ -1,17 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-07T16:00:50.335Z",
+  "updated_at": "2026-10-08T16:03:09.780Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "The Notebook (Touring)",
-      "venue_line": "Winsupply Theatre • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -146,11 +136,31 @@
       "day_label": "FRI",
       "day_number": "6",
       "date_iso": "2026-11-06",
+      "title": "Wright State Raiders Women's Basketball",
+      "venue_line": "Wright State University Nutter Center • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
       "title": "Lauren Alaina",
       "venue_line": "APAC - Arbogast Performing Arts Center • Troy",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Wright State Raiders Mens Basketball vs. Florida Atlantic University Owls Men's Basketball",
+      "venue_line": "Wright State University Nutter Center • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "14",
-      "date_iso": "2026-11-14",
-      "title": "Dayton Flyers Football v. Davidson",
-      "venue_line": "Welcome Stadium • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     }
   ]
 }

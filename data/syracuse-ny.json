@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-07T16:00:17.139Z",
+  "updated_at": "2026-10-08T16:02:46.877Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,16 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Boots at the Brewery | Line Dancing",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$13–$25",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "THU",
@@ -199,6 +189,16 @@
       "title": "Open mic hosted by Attamizk & friends",
       "venue_line": "Funk 'n Waffles • Syracuse",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The Disco Biscuits",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$46",
       "type_key": "music",
       "type_label": "Music"
     }

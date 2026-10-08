@@ -1,6 +1,6 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-07T16:01:17.846Z",
+  "updated_at": "2026-10-08T16:03:30.131Z",
   "events": [
     {
       "day_label": "THU",
@@ -21,16 +21,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Jon Pardi w/ Alexandra Kay",
-      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-24",
       "title": "Colorado State University Rams Football vs. San Diego State Aztecs Football",
       "venue_line": "Canvas Stadium • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Colorado Eagles vs. Bakersfield Condors",
+      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

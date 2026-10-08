@@ -1,37 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-07T16:01:14.186Z",
+  "updated_at": "2026-10-08T16:03:27.548Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Lilly Hart - The Upstairs at Avondale",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Unsane (18 and Over)",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Friendly Spectres, Galatic Goth, Hoop Stick at The Nick Wednesday 10/7",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -98,16 +68,6 @@
       "date_iso": "2026-10-09",
       "title": "Emo Nite (18+)",
       "venue_line": "Iron City • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Allgood at All Good",
-      "venue_line": "All Good Beverage Co • Birmingham",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-11",
       "title": "Brigitte Calls Me Baby",
       "venue_line": "Saturn Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Daniel Tosh Official BJCC Ticket+ Hotel Packages",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Daniel Tosh: My First Farewell Tour",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Elevation Worship  | Official Ticket + Hotel Packages",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Elevation Worship & Steven Furtick - Fall Tour 2026",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

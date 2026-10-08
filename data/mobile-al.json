@@ -1,37 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-07T16:01:16.320Z",
+  "updated_at": "2026-10-08T16:03:28.844Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Crescent Comedy Workshop",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Crescent Comedy Chaos",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "An Evening with Shadowgrass (NIGHT TWO)",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -41,16 +11,6 @@
       "price_label": "$9",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Slow Degrade  ",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -199,6 +159,46 @@
       "title": "Crawling (A Tribute To Early Linkin Park) &  Nirvanna (Tribute To Nirvana)",
       "venue_line": "Soul Kitchen • Mobile",
       "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Jo Koy: Koy Meets World Tour",
+      "venue_line": "Saenger Theatre Mobile • Mobile",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "HALLOWEEN BASH – Pop Punk Emo Night Mobile by PunkNites",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Black and Gold on the Movie Screen",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$2",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "🎶 SONG4SONG MUSIC — LAST SONG COMPETITION 🎶  ",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$18",
       "type_key": "music",
       "type_label": "Music"
     }

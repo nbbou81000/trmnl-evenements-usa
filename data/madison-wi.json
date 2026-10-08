@@ -1,17 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-07T16:00:53.226Z",
+  "updated_at": "2026-10-08T16:03:11.624Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "The Wiz (Touring)",
-      "venue_line": "Capitol Theater - Overture Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-11",
       "title": "Earl Sweatshirt & MIKE: Home on the Range Tour 2026",
       "venue_line": "The Sylvee • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The Smashing Pumpkins: The Rats In A Cage Tour",
+      "venue_line": "Kohl Center • Madison",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

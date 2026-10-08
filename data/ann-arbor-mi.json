@@ -1,47 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-07T16:00:47.114Z",
+  "updated_at": "2026-10-08T16:03:06.932Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Too Hot For Leather, Kazha",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Congress The Band- SOLD OUT , Dylan Cotrone, Square Change",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Congress the band",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Line Dance Lessons at Diamondback Music Hall",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$13–$21",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "\"The Ritz - Reunion Show",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "FREE EVENT: White Lies Party!",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$0–$26",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Michigan Wolverines Mens Basketball vs. Eastern Michigan Eagles Mens Basketball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "JCW Presents: Lunacy Live",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$0–$24",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

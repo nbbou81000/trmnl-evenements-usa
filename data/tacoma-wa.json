@@ -1,47 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-07T16:01:34.578Z",
+  "updated_at": "2026-10-08T16:03:43.986Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Movements w/ Balance & Composure",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Castle Rat w/ Unto Others",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Dave Chappelle",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$0",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "Clock-Out Lounge Presents: Acid Mothers Temple w/ Magick Potion, IRO IRO",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
@@ -76,9 +36,9 @@
       "day_label": "THU",
       "day_number": "8",
       "date_iso": "2026-10-08",
-      "title": "Clock-Out Lounge Presents: TUSH!",
+      "title": "*SOLD OUT* Clock-Out Lounge Presents: TUSH!",
       "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$25–$58",
+      "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-09",
       "title": "Telescreens",
       "venue_line": "Baba Yaga • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Hierophant Booking Presents: Shiner w/ Fotocrime, Nox Novacula",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jessica Audiffred (18 and Over)",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Kym Whitley",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$29–$41",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Seattle Mariners Ballpark Tour",
+      "venue_line": "T-Mobile Park • Seattle",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

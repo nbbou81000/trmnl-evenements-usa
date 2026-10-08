@@ -1,24 +1,14 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-07T16:00:57.161Z",
+  "updated_at": "2026-10-08T16:03:14.292Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "7",
-      "date_iso": "2026-10-07",
-      "title": "gnash",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "8",
       "date_iso": "2026-10-08",
       "title": "Wednesday 13 - Shocktober Blood Tour 2026",
       "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$34–$52",
+      "price_label": "$39–$52",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -63,6 +53,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "DaBaby - Ages 18+",
+      "venue_line": "Royal Grove • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
@@ -91,6 +91,26 @@
       "price_label": "$27–$119",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "2000s Party - Ages 18+",
+      "venue_line": "Royal Grove • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Chencho Corleone - Ages 18+",
+      "venue_line": "Royal Grove • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "TUE",
@@ -176,29 +196,9 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Mr. and Miss Fire & Brimstone 2026",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$22–$64",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Nebraska Cornhuskers Womens Soccer vs. Illinois Fighting Illini Womens Soccer",
-      "venue_line": "Barbara Hibner Soccer Stadium • Lincoln",
+      "title": "Boogie T w/ SubDocta",
+      "venue_line": "Royal Grove • Lincoln",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Danielle Nicole",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$39",
       "type_key": "music",
       "type_label": "Music"
     }
