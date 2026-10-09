@@ -1,97 +1,7 @@
 {
   "city_label": "Fort Lauderdale, FL",
-  "updated_at": "2026-10-08T16:03:02.370Z",
+  "updated_at": "2026-10-09T15:44:48.587Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Place To Be prior to Fortune Feimster",
-      "venue_line": "The Place To Be at The Parker • Fort Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Haller Club prior to Fortune Feimster",
-      "venue_line": "The Haller Club at The Parker • Fort Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
-      "venue_line": "Wells Hall at The Parker • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Sex Mex in Miami",
-      "venue_line": "Churchill's Pub •  Miami",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Miami Heat vs. New Orleans Pelicans",
-      "venue_line": "Kaseya Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Billy Currington",
-      "venue_line": "Hard Rock Live • Hollywood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "ROA",
-      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "El Perro del Hortelano",
+      "venue_line": "Aventura Arts & Cultural Center • Aventura",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Black Country, New Road w/ Lily Seabird",
+      "venue_line": "Miami Beach Bandshell • Miami Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Camilo - USA 2026 Tour",
+      "venue_line": "Kaseya Center • Miami",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Bop To The Top",
+      "venue_line": "Revolution Live • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "WORSHIP - Ages 18+",
+      "venue_line": "Factory Town • Miami",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Ben Bankas",
+      "venue_line": "Miami Improv • Doral",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Alesso",
+      "venue_line": "LIV Nightclub Miami • Miami Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Slow Burn Theatre Co: Come From Away",
+      "venue_line": "Amaturo Theater at Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Florida Panthers vs. Minnesota Wild",
+      "venue_line": "Amerant Bank Arena • Sunrise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-08T16:03:43.986Z",
+  "updated_at": "2026-10-09T15:45:29.623Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Taking Back Sunday w/ Thrice",
-      "venue_line": "Dune Peninsula • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Dave Chappelle",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$179",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Green (21+)",
-      "venue_line": "Airport Tavern • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "*SOLD OUT* Clock-Out Lounge Presents: TUSH!",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "jigitz w/ Killen",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Dave Chappelle",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$0",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-09",
       "title": "Seattle Mariners Ballpark Tour",
       "venue_line": "T-Mobile Park • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Kym Whitley",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$29–$41",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "venue_line": "Tacoma Dome • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Luke Bryan: Word On The Street Tour",
+      "venue_line": "White River Amphitheatre • Auburn",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Kai Wachi",
+      "venue_line": "WAMU Theater • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "WAMU Theater Amplified Access: Kai Wachi (Not an Event Ticket)",
+      "venue_line": "WAMU Theater • Seattle",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

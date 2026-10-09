@@ -1,64 +1,14 @@
 {
   "city_label": "Montgomery, AL",
-  "updated_at": "2026-10-08T16:03:28.386Z",
+  "updated_at": "2026-10-09T15:45:14.014Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "EARLY BIRD SPECIALS - 2026 ALABAMA NATIONAL FAIR",
-      "venue_line": "Alabama National Fair • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "ADVANCED ADMISSION & RIDE DEALS - ANF 2026",
-      "venue_line": "Alabama National Fair • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "FAIR DAILY ADMISSION - 2026 ANF",
-      "venue_line": "Alabama National Fair • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "WAKA FAIR ADMISSION & RIDES DEAL - 32-HOUR SALE",
-      "venue_line": "Alabama National Fair • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "36 HOUR - $36.00 ADMISSION & RIDE DEAL",
-      "venue_line": "Alabama National Fair • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
       "title": "FACE OFF - DJ WRIGHT VZ YUNG VOKALZ",
       "venue_line": "BB King's Blues Club - Montgomery • Montgomery",
-      "price_label": "$39–$209",
+      "price_label": "$39–$188",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Masterclass Trap Orchestra ft. Boosie",
+      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Alabama State Hornets Football vs. Prairie View A & M Panthers Football",
+      "venue_line": "ASU Stadium - AL • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Robert Earl Keen: Then And Now Tour",
+      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "25",
+      "date_iso": "2026-11-25",
+      "title": "The Temptations with Special Guest Ruban Studdard",
+      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "26",
+      "date_iso": "2026-11-26",
+      "title": "Alabama State Hornets Football vs. Tuskegee Golden Tigers Football",
+      "venue_line": "ASU Stadium - AL • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

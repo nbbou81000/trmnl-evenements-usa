@@ -1,27 +1,7 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-08T16:02:50.548Z",
+  "updated_at": "2026-10-09T15:44:37.207Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "David Sedaris",
-      "venue_line": "Spruce Peak Performing Arts Center • Stowe",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Benjamin Tod",
-      "venue_line": "Higher Ground • South Burlington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Greg Freeman",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

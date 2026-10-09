@@ -1,97 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-08T16:03:25.586Z",
+  "updated_at": "2026-10-09T15:45:11.391Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Amyl and the Sniffers",
-      "venue_line": "The Fillmore New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Oscar Rossignoli Quartet",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Comedy Gumbeaux",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$13–$67",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "New Orleans Bounce Awards 2026",
-      "venue_line": "New Orleans Jazz Market • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Joshua Ray Walker",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$27–$45",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Sophie Hunter  STEREOSCOPE The Tour",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Oscar Rossignoli Quartet",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Delvin & the Shades w/ Nikaness",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "UNSANE OCCUPATIONAL HAZARD TOUR: with SUPLECS & NEST",
-      "venue_line": "Santos Bar • New Orleans",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +111,96 @@
       "price_label": "$37",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Jazz Generations Initiative New Orleans presents: A Tribute to Abdullah Ibrahim",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "WWE Money In The Bank",
+      "venue_line": "Smoothie King Center • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Zoë de Priester",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Paul Oakenfold + The Crystal Method - Mission Underground Tour",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "\"The Hayley Williams Show\"",
+      "venue_line": "Champions Square • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "My Hero Academia in Concert",
+      "venue_line": "Mahalia Jackson Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Norman Brown",
+      "venue_line": "New Orleans Jazz Market • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Astral Project",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$47",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "My Fair Lady",
+      "venue_line": "Westwego Perf Arts Theatre • Westwego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

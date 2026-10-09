@@ -1,17 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-08T16:03:15.575Z",
+  "updated_at": "2026-10-09T15:45:01.591Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Pecos and The Rooftops",
-      "venue_line": "The Cotillion • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -197,6 +187,16 @@
       "day_number": "23",
       "date_iso": "2026-10-23",
       "title": "Wichita Thunder vs. Tulsa Oilers - Hockey",
+      "venue_line": "INTRUST Bank Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Wichita Thunder vs. Tulsa Oilers",
       "venue_line": "INTRUST Bank Arena • Wichita",
       "price_label": "Price not available",
       "type_key": "sports",

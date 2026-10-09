@@ -1,37 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-08T16:02:59.663Z",
+  "updated_at": "2026-10-09T15:44:45.978Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Song Of The Saints Tour with Phil Wickham",
-      "venue_line": "Colonial Life Arena • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Phil Wickham | Official Ticket + Hotel Packages",
-      "venue_line": "Colonial Life Arena • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "JJ Grey & Mofro",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -111,6 +81,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "South Carolina Gamecocks Womens Basketball vs. Benedict Tigers Womens Basketball",
+      "venue_line": "Colonial Life Arena • Columbia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -199,6 +179,26 @@
       "title": "CAIN Live and In Worship Tour with special guest Patrick Mayberry - Lexington, SC",
       "venue_line": "Mt. Horeb Church • Lexington",
       "price_label": "$25–$167",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Halloween Silent Scream: Vinyl to Viral Midnight MasqueRAVE",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Prof",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

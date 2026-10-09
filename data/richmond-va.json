@@ -1,37 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-08T16:02:55.444Z",
+  "updated_at": "2026-10-09T15:44:41.870Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "NPHC Step Show",
-      "venue_line": "VSU Multi-Purpose Center • Petersburg",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Mamma Mia! (Touring)",
-      "venue_line": "Altria Theater • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Lucero w/ Joelton Mayfield",
-      "venue_line": "The Broadberry • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-11",
       "title": "Show Me The Body w/ Lip Critic",
       "venue_line": "The Broadberry • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Machine Girl",
+      "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Sunn 0]]]",
+      "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "The Phil Collins Story",
+      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

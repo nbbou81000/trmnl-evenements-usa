@@ -1,6 +1,6 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-10-08T16:03:34.154Z",
+  "updated_at": "2026-10-09T15:45:19.615Z",
   "events": [
     {
       "day_label": "FRI",
@@ -13,16 +13,6 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Laugh Factory",
-      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
       "day_label": "FRI",
       "day_number": "9",
       "date_iso": "2026-10-09",
@@ -31,16 +21,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Beauty School Dropout, Olive Vox",
-      "venue_line": "The Alpine • Reno",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -49,6 +29,16 @@
       "title": "Bonnie Raitt: Live 2026 with Special Guest Jon Cleary",
       "venue_line": "Grand Sierra Resort and Casino • Reno",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "9",
+      "date_iso": "2026-10-09",
+      "title": "Beauty School Dropout, Olive Vox",
+      "venue_line": "The Alpine • Reno",
+      "price_label": "$31",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "PROJECTflow #28",
+      "venue_line": "The Alpine • Reno",
+      "price_label": "$13–$24",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

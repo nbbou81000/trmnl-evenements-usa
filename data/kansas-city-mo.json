@@ -1,27 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-08T16:03:12.516Z",
+  "updated_at": "2026-10-09T15:44:58.480Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Jordan Jensen",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Soda Blonde",
-      "venue_line": "recordBar • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -199,6 +179,26 @@
       "title": "CAIN Live and In Worship Tour with special guest Joe L Barnes - Kansas City, MO",
       "venue_line": "Sheffield Family Life Center • Kansas City ",
       "price_label": "$20–$167",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Chris Stapleton's All-American Road Show",
+      "venue_line": "Morton Amphitheater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Dogstar - All in Now Tour",
+      "venue_line": "The Truman - Kansas City • Kansas City",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

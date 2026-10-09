@@ -1,27 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-08T16:03:01.376Z",
+  "updated_at": "2026-10-09T15:44:47.712Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Toast - The Best of Bread *Moved to Terry Theater*",
-      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Toast - The Best of Bread",
-      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -98,7 +78,7 @@
       "date_iso": "2026-10-10",
       "title": "Tides-how to survive a fall release show IN STORE AT BRUISER RECORDS",
       "venue_line": "Bruiser Records • Jacksonville",
-      "price_label": "$14–$37",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +179,26 @@
       "title": "Bethel Music",
       "venue_line": "Florida Theatre Jacksonville • Jacksonville",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Florida Forum Speaker Series - Venus Williams",
+      "venue_line": "Jacksonville Center for the Performing Arts - Moran Theater • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Candlebox – Can’t Quit You Tour, Fall 2026",
+      "venue_line": "FIVE • Jacksonville",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

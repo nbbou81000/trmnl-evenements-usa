@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-08T16:02:45.983Z",
+  "updated_at": "2026-10-09T15:44:32.652Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,86 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "43North 2026 Finals",
-      "venue_line": "Shea's Buffalo Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Buffalo Sabres Single Game Suite Rental-Dallas Stars",
-      "venue_line": "KeyBank Center • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Buffalo Sabres v Dallas Stars",
-      "venue_line": "KeyBank Center • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Bat Boy the Musical",
-      "venue_line": "Shea's Smith Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Mobile Shakespeare Lab presents Macbeth",
-      "venue_line": "University at Buffalo - Katharine Cornell Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Residents",
-      "venue_line": "Electric City • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Thurs. 10/8/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "TWISTED SISTER Featuring Sebastian Bach on Lead Vocals",
-      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -188,6 +108,86 @@
       "date_iso": "2026-10-09",
       "title": "Connor Wood",
       "venue_line": "Helium Comedy Club - Buffalo • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Anthony Rodia: Insanely Funny Tour",
+      "venue_line": "Seneca Niagara Resort & Casino Bears Den • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Buffalo Sabres Single Game Suite Rental-Utah Mammoth",
+      "venue_line": "KeyBank Center • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Buffalo Sabres v Utah Mammoth",
+      "venue_line": "KeyBank Center • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+      "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Hins Cheung Presented by Mango Productions and Hugeman Group",
+      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Bat Boy the Musical",
+      "venue_line": "Shea's Smith Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Halloween Silent Disco (21+ Event)",
+      "venue_line": "Buffalo Iron Works • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Sat. 10/10/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

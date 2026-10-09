@@ -1,67 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-08T16:03:37.206Z",
+  "updated_at": "2026-10-09T15:45:22.836Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Mumford & Sons - Prizefighter Tour",
-      "venue_line": "Shoreline Amphitheatre • Mountain View",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "La Mole (En Español)",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$62–$132",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Living Tombstone",
-      "venue_line": "San Jose Civic • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Analog Dog",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-10",
       "title": "San Jose Sharks vs. Edmonton Oilers",
       "venue_line": "SAP Center at San Jose • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Phantom of the Opera (Touring)",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$25–$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$25–$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "San Jose Barracuda vs. Tucson Roadrunners",
+      "venue_line": "Tech CU Arena • San Jose",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

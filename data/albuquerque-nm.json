@@ -1,17 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-08T16:03:31.816Z",
+  "updated_at": "2026-10-09T15:45:17.450Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Pouya w/ Kxllswxtch",
-      "venue_line": "Revel Entertainment Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -187,6 +177,16 @@
       "day_number": "14",
       "date_iso": "2026-10-14",
       "title": "Red Jumpsuit Apparatus",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "EsDeeKid - Council House Rat Tour",
       "venue_line": "Revel Entertainment Center • Albuquerque",
       "price_label": "Price not available",
       "type_key": "music",

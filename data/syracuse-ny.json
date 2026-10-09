@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-08T16:02:46.877Z",
+  "updated_at": "2026-10-09T15:44:33.555Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,36 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Airplane! Live",
-      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "KARAOKE NIGHT",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Caviar and Grits w/s/g Alex Vantassel",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -199,6 +169,36 @@
       "title": "The Disco Biscuits",
       "venue_line": "Middle Ages Music Hall • Syracuse",
       "price_label": "$46",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "DEAD NIGHT w/ Lady in Red",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Boots at the Brewery | Line Dancing",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Agnostic Front",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$32",
       "type_key": "music",
       "type_label": "Music"
     }

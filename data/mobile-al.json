@@ -1,6 +1,6 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-08T16:03:28.844Z",
+  "updated_at": "2026-10-09T15:45:14.420Z",
   "events": [
     {
       "day_label": "FRI",
@@ -18,7 +18,7 @@
       "date_iso": "2026-10-09",
       "title": "BIG DEAL BURLESQUE Presented by Roxie Le Rouge",
       "venue_line": "Alabama Music Box • Mobile",
-      "price_label": "$8–$127",
+      "price_label": "$19–$127",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -41,16 +41,6 @@
       "price_label": "$21",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Black and Gold on the Movie Screen",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$2",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SUN",
@@ -186,21 +176,31 @@
       "day_label": "SUN",
       "day_number": "18",
       "date_iso": "2026-10-18",
-      "title": "Black and Gold on the Movie Screen",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$2",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
       "title": "🎶 SONG4SONG MUSIC — LAST SONG COMPETITION 🎶  ",
       "venue_line": "Soul Kitchen • Mobile",
       "price_label": "$18",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "GREAT LAKE SWIMMERS",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Sonic Live In Concert",
+      "venue_line": "Saenger Theatre Mobile • Mobile",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

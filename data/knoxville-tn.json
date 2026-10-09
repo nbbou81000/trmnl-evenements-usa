@@ -1,67 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-08T16:03:24.734Z",
+  "updated_at": "2026-10-09T15:45:10.486Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Concertmaster Series: Mythic Proportions",
-      "venue_line": "Knoxville Museum of Art • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Zac Brown Band: Love & Fear Tour",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "October 8, 2026 - Loft & TriStar Club Premium Seating",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Kenny Wayne Shepherd",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
-      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Paul Oakenfold + The Crystal Method: Mission Underground Tour",
-      "venue_line": "The 808 • Knoxville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -118,7 +58,7 @@
       "date_iso": "2026-10-09",
       "title": "Blake Whiten, Slater Nalley ",
       "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "$28",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "DAX - The Anger Management Tour",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "$27–$137",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Dax (18 and Over)",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
+      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Knoxville Jazz Orchestra: Miles @ 100 with Marquis Hill",
+      "venue_line": "Bijou Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
+      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Waylon Wyatt - Dustpiles World Tour",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "$26–$33",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

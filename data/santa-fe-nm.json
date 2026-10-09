@@ -1,17 +1,7 @@
 {
   "city_label": "Santa Fe, NM",
-  "updated_at": "2026-10-08T16:03:32.234Z",
+  "updated_at": "2026-10-09T15:45:17.855Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Jeremy Dutcher",
-      "venue_line": "Lensic Performing Arts Center • Santa Fe",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -128,6 +118,16 @@
       "date_iso": "2026-12-03",
       "title": "Steve Poltz - 21+",
       "venue_line": "Tumbleroot • Santa Fe",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "7",
+      "date_iso": "2026-12-07",
+      "title": "Aoife O'Donovan & Chris Thile: \"Wassail! A Holiday Celebration\"",
+      "venue_line": "Lensic Performing Arts Center • Santa Fe",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,17 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-08T16:03:21.042Z",
+  "updated_at": "2026-10-09T15:45:06.923Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Flatland Cavalry",
-      "venue_line": "Payne Arena • Hidalgo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -51,16 +41,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Las Damitas Histeria",
-      "venue_line": "McAllen Performing Arts Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "FRI",
@@ -196,6 +176,26 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
+      "title": "Disney On Ice: Magic in the Stars",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Music of the Greats - Valley Symphony Orchestra",
+      "venue_line": "McAllen Performing Arts Center • McAllen",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
       "title": "Disney On Ice: Magic in the Stars",
       "venue_line": "Bert Ogden Arena • Edinburg",
       "price_label": "Price not available",

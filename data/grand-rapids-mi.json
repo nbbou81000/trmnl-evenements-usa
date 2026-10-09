@@ -1,57 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-08T16:03:06.497Z",
+  "updated_at": "2026-10-09T15:44:52.647Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Acrisure Lounge: Bring Me The Horizon - NOT AN EVENT TICKET",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Bring Me The Horizon - POST HUMAN: NeX GEn-THE THIRD ASCENSION PROGRAM",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Black Widows wsg The Moonrays",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Matt Braunger - Ages 18+",
-      "venue_line": "Intersection - Elevation • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Corey B",
-      "venue_line": "The Wealthy Theatre • Grand Rapids",
-      "price_label": "$39",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -199,6 +149,56 @@
       "title": "Scene Queen: METALICIOUS",
       "venue_line": "The Intersection • Grand Rapids",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Deerhoof",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Scene Queen: METALICIOUS",
+      "venue_line": "Intersection • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Sweet Pill + Heart To Gold + Spaced",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Julia Wolf",
+      "venue_line": "Intersection - Elevation • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "He Is Legend + In Angles + Excide + He Who Dwells",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$33",
       "type_key": "music",
       "type_label": "Music"
     }

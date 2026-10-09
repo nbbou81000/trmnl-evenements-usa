@@ -1,17 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-08T16:03:38.087Z",
+  "updated_at": "2026-10-09T15:45:23.795Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Gabriel Iglesias",
-      "venue_line": "Paul Paul Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -199,6 +189,16 @@
       "title": "Bush",
       "venue_line": "Fresno Fairgrounds • Fresno",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Echos, Lana Del Rabies",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$21–$24",
       "type_key": "music",
       "type_label": "Music"
     }

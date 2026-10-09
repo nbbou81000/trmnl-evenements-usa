@@ -1,57 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-08T16:03:44.828Z",
+  "updated_at": "2026-10-09T15:45:30.500Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Hiromi: The Trio Project",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$46–$57",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Matt Fraser",
-      "venue_line": "Hawaii Theatre • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Hiromi: The Trio Project",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$46–$57",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +151,56 @@
       "price_label": "$41–$51",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Jake Shimabukuro With Shawn Conley",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$51–$63",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Jake Shimabukuro With Shawn Conley",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$51–$63",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Jake Shimabukuro Solo",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$51–$63",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

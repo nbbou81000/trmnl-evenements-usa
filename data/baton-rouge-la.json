@@ -1,6 +1,6 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-08T16:03:26.018Z",
+  "updated_at": "2026-10-09T15:45:11.861Z",
   "events": [
     {
       "day_label": "FRI",
@@ -19,16 +19,6 @@
       "title": "THE CALIFORNIA HONEYDROPS - SWEET LIKE THAT TOUR 2026",
       "venue_line": "Chelsea’s Live • Baton Rouge",
       "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Gametime w/ Joe Nichols & special guest McKenzie Claire Knapps",
-      "venue_line": "Texas Club • Baton Rouge",
-      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Nanny - Maw (Comedy Show)",
+      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
+      "price_label": "$28–$157",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

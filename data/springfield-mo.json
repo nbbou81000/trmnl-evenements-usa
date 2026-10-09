@@ -1,17 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-08T16:03:13.402Z",
+  "updated_at": "2026-10-09T15:44:59.369Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Demon Hunter",
-      "venue_line": "Regency - MO • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-20",
       "title": "Matt Mathews",
       "venue_line": "Juanita K. Hammons Hall • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Matt Mathews: Not What I Ordered World Tour",
+      "venue_line": "Juanita K. Hammons Halls for the Performing Arts • Springfield",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

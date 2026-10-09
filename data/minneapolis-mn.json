@@ -1,67 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-08T16:03:12.057Z",
+  "updated_at": "2026-10-09T15:44:58.048Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "THROWN",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "JPEGMAFIA: the Experimental Rap Tour",
-      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Star Wars: Return Of The Jedi w/ Minnesota Orchestra",
-      "venue_line": "Orchestra Hall-MN • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Buddy Guy 90",
-      "venue_line": "State Theatre • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Zoso The Ultimate Led Zeppelin Experience",
-      "venue_line": "Fitzgerald Theater • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "U.S. Bank Stadium Tour",
-      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Clue (Touring)",
+      "venue_line": "Orpheum Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "St. Thomas Tommies Mens Hockey vs. Air Force Academy Falcons Hockey",
+      "venue_line": "Lee and Penny Anderson Arena • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Taste of Chaos w/ Hollywood Undead",
+      "venue_line": "Myth • Maplewood",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Snail Mail w/ Soccer Mommy",
+      "venue_line": "Palace Theatre-MN • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Return of the Jedi in Concert",
+      "venue_line": "Orchestra Hall-MN • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "EMEI - Night at the Opera Tour",
+      "venue_line": "Varsity Theater • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

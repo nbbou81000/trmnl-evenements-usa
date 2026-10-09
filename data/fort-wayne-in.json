@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-10-08T16:03:10.681Z",
+  "updated_at": "2026-10-09T15:44:56.686Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Becky Robinson",
-      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Jurassic Quest | Allen County War Memorial Coliseum | Fort Wayne, IN 2026",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

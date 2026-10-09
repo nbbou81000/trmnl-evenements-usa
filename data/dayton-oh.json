@@ -1,17 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-08T16:03:09.780Z",
+  "updated_at": "2026-10-09T15:44:55.787Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Notebook (Touring)",
-      "venue_line": "Winsupply Theatre • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Dayton Flyers Football v. Davidson",
+      "venue_line": "Welcome Stadium • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

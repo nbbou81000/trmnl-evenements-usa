@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-08T16:03:06.932Z",
+  "updated_at": "2026-10-09T15:44:53.097Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Mediocre Love Machine, sabyrteeth, Mind Riot",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "The Lovely Game Show",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$16",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +181,26 @@
       "price_label": "$0–$24",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$3",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,57 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-08T16:03:40.296Z",
+  "updated_at": "2026-10-09T15:45:26.071Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Twin Shadow",
-      "venue_line": "Farm House Collective • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Killer Queen - A Tribute to Queen",
-      "venue_line": "Fox Performing Arts Center • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Fey - Forever 17 Tour",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Rocky Dale Davis",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Last Dinosaurs",
-      "venue_line": "The Fox Theater-Pomona • Pomona",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -199,6 +149,56 @@
       "title": "Hocus Pocus Drag Brunch",
       "venue_line": "Ontario Improv • Ontario",
       "price_label": "$31–$49",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Kountry Wayne",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$37–$56",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Dead Kennedys with Special Guests",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "The Rush Tribute Project",
+      "venue_line": "Fox Performing Arts Center • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Victrola Record Club - Vinyl Nights",
+      "venue_line": "Stage Red • Fontana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Open Mic at the Ontario Improv",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$9",
       "type_key": "misc",
       "type_label": "Other"
     }

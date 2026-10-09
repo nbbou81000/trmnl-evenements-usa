@@ -1,17 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-08T16:03:27.958Z",
+  "updated_at": "2026-10-09T15:45:13.583Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Libbie Higgins",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$27",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -116,16 +106,6 @@
       "day_label": "SUN",
       "day_number": "11",
       "date_iso": "2026-10-11",
-      "title": "Rodney Carrington",
-      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
       "title": "Phish",
       "venue_line": "Orion Amphitheater • Huntsville",
       "price_label": "Price not available",
@@ -191,6 +171,26 @@
       "price_label": "$46–$66",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Zainab Johnson",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$5–$27",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Honor Thy Era Welcome Back Bulldog Party",
+      "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",

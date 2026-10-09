@@ -1,37 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-08T16:02:46.446Z",
+  "updated_at": "2026-10-09T15:44:33.125Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "BOOP! THE MUSICAL",
-      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Stephane Wrembel",
-      "venue_line": "Lovin' Cup • Rochester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Stéphane Wrembel: Rochester Concert Series - Terre des Hommes",
-      "venue_line": "Lovin' Cup • Rochester",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
+      "venue_line": "Kodak Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Andrew Dice Clay",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "RIT Tigers Men's Hockey vs. Rensselaer Polytechnic Engineers Mens Hockey",
+      "venue_line": "Gene Polisseni Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

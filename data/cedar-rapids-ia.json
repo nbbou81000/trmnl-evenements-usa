@@ -1,17 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-08T16:03:15.163Z",
+  "updated_at": "2026-10-09T15:45:01.176Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "8",
-      "date_iso": "2026-10-08",
-      "title": "Ole 60",
-      "venue_line": "McGrath Amphitheatre • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "9",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-25",
       "title": "Cedar Valley Fall Classic - Wrestling",
       "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Iowa Hawkeyes Football vs. Wisconsin Badgers Football",
+      "venue_line": "Kinnick Stadium • Iowa City",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
