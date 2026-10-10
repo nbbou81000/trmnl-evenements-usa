@@ -1,27 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-09T15:44:38.948Z",
+  "updated_at": "2026-10-10T14:58:02.990Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Nurse Blake",
-      "venue_line": "Appell Center for the Performing Arts • York",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Steely Dead - A Sonic Fusion of The Grateful Dead and Steely Dan   ",
-      "venue_line": "XL Live • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Cinderella by The United European Ballet Company",
+      "venue_line": "Hershey Theatre • Hershey",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Spite",
+      "venue_line": "Capital City Music Hall • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

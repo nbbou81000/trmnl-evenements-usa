@@ -1,91 +1,31 @@
 {
   "city_label": "Long Beach, CA",
-  "updated_at": "2026-10-09T15:45:26.565Z",
+  "updated_at": "2026-10-10T14:58:53.704Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "SoFi Stadium Tours - No Field Access",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "SoFi Stadium Tours",
       "venue_line": "SoFi Stadium Tours • Inglewood",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "90's Rockshow, Just A Girl, 89Vision at Garden Amp",
-      "venue_line": "Garden Amphitheatre • Garden Grove",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Royston Club",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
+      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Neighbourhood: THE WOURLD TOUR",
-      "venue_line": "Kia Forum • Inglewood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "LA MAFIA - EPIC TOUR 46",
-      "venue_line": "House of Blues Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "This Wild Life",
-      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
-      "venue_line": "Constellation Room • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Deer Tick",
-      "venue_line": "Teragram Ballroom • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Dogman: The Musical",
       "venue_line": "Kirk Douglas Theatre • Culver City",
       "price_label": "Price not available",
@@ -93,69 +33,19 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Tinlicker North America 2026",
-      "venue_line": "The Wiltern • Los Angeles",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
+      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Keznamdi",
-      "venue_line": "The Peppermint Club • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "SHABAKA",
-      "venue_line": "Blue Note Los Angeles • Los Angeles",
-      "price_label": "$19–$61",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Julien-K, Nite, Vanta After Dark, DRUGFORJOY, Karma Hitlist, Astrodice",
-      "venue_line": "Whisky A Go Go • West Hollywood",
-      "price_label": "$28–$621",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "for KING & COUNTRY",
-      "venue_line": "Greek Theatre • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Bends",
-      "venue_line": "Troubadour • West Hollywood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Beauty And The Beast (Touring)",
       "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
       "price_label": "Price not available",
@@ -163,44 +53,154 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "SOMBR - You Are The Reason Tour",
-      "venue_line": "Honda Center • Anaheim",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Outsiders (Touring)",
+      "venue_line": "Hollywood Pantages Theatre • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
+      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Funny & Pink: Comedy Show & Breast Cancer Awareness Award Ceremony",
+      "venue_line": "The Stand Up Comedy Club • Bellflower",
+      "price_label": "$25–$171",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Dogman: The Musical",
+      "venue_line": "Kirk Douglas Theatre • Culver City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "La Mole ft. Victor Ramirez",
+      "venue_line": "Hollywood Improv (The Main Room)  • Hollywood",
+      "price_label": "$50",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Xzibit w/ Full Band",
+      "venue_line": "Garden Amphitheatre • Garden Grove",
+      "price_label": "$31–$47",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "To The Grave + Crown Magnetar - The Sawed Off Suffering Tour",
+      "venue_line": "Echoplex • Los Angeles",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Emo Kids ",
-      "venue_line": "La Santa • Santa Ana",
-      "price_label": "$19–$70",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Mastodon",
+      "venue_line": "Hollywood Palladium • Hollywood",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jeff Arcuri",
-      "venue_line": "Brea Improv • Brea",
-      "price_label": "$56",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Max Amini Live in Hollywood!",
+      "venue_line": "Dolby Theatre • Hollywood",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Dying Fetus w/ Sanguisugabogg",
+      "venue_line": "The Novo by Microsoft • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Rachel Bochner: The \"Sorry If It's Selfish\" Tour",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "PEARL JAM + NIRVANA + ALICE IN CHAINS + SOUNDGARDEN TRIBUTES  (Vitalogy + Nirvanish + Memory Layne + Spoonmen) ... MOUNT GRUNGEMORE CONCERT!",
+      "venue_line": "Gaslamp Long Beach • Long Beach",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Phil Medina Live",
+      "venue_line": "The Stand Up Comedy Club • Bellflower",
+      "price_label": "$19–$129",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Tonight at the Improv ft. Trevor Wallace, Jay Pharoah, Charles Fleischer, Erica Rhodes, Brian Monarch, Alex T and Very Special Guests",
-      "venue_line": "Hollywood Improv (The Main Room)  • Hollywood",
-      "price_label": "$29",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "SOMBR - You Are The Reason Tour",
+      "venue_line": "Kia Forum • Inglewood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Phillip Phillips",
+      "venue_line": "House of Blues Anaheim • Anaheim",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

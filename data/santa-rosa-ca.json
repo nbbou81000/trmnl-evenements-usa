@@ -1,17 +1,7 @@
 {
   "city_label": "Santa Rosa, CA",
-  "updated_at": "2026-10-09T15:45:25.623Z",
+  "updated_at": "2026-10-10T14:58:52.650Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Toad the Wet Sprocket w/ Glen Phillips",
-      "venue_line": "HopMonk Tavern - Novato • Novato",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Teresa Cheung",
+      "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

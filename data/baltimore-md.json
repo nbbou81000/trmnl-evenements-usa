@@ -1,67 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-09T15:44:41.305Z",
+  "updated_at": "2026-10-10T14:58:05.401Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Derrick Stroup",
-      "venue_line": "The Lyric - Baltimore • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Uncle Acid & The Deadbeats - North America 26",
-      "venue_line": "Nevermore Hall • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Modest Mouse w/ Caroline Rose",
-      "venue_line": "Pier Six Pavilion • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Top of the Morning",
-      "venue_line": "M&T Bank Exchange • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Maryland Renaissance Festival",
-      "venue_line": "Maryland Renaissance Festival • Annapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Igorrr",
+      "venue_line": "Baltimore Soundstage • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Mio Make-up Session Fall 2026",
+      "venue_line": "Morgan State University • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

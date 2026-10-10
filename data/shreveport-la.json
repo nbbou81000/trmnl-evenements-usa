@@ -1,57 +1,7 @@
 {
   "city_label": "Shreveport, LA",
-  "updated_at": "2026-10-09T15:45:12.309Z",
+  "updated_at": "2026-10-10T14:58:38.578Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jurassic Quest | Shreveport Convention Center | Shreveport, LA 2026",
-      "venue_line": "Shreveport Convention Center • Shreveport",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jurassic Quest | Shreveport Convention Center | Shreveport, LA 2026",
-      "venue_line": "Shreveport Convention Center • Shreveport",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rick Springfield | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "Riverdome at Horseshoe Casino & Hotel - Bossier City • Bossier City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rick Springfield",
-      "venue_line": "Riverdome at Horseshoe Casino & Hotel - Bossier City • Bossier City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Jurassic Quest | Shreveport Convention Center | Shreveport, LA 2026",
-      "venue_line": "Shreveport Convention Center • Shreveport",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Easton Corbin",
+      "venue_line": "Margaritaville Resort Casino • Bossier City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Shreveport Sera Black Rodeo",
+      "venue_line": "Brookshire Grocery Arena • Bossier City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "KC & the Sunshine Band | Official Caesars Ticket + Hotel Packages",
+      "venue_line": "Riverdome at Horseshoe Casino & Hotel - Bossier City • Bossier City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "KC & The Sunshine Band - Get Lifted World Tour 2026",
+      "venue_line": "Riverdome at Horseshoe Casino & Hotel - Bossier City • Bossier City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "MOJO BROOKZZ: OUTTA POCKET TOUR",
+      "venue_line": "Shreveport Municipal Memorial Auditorium • Shreveport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

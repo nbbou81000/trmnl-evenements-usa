@@ -1,107 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-09T15:44:32.210Z",
+  "updated_at": "2026-10-10T14:57:55.324Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Mr. Smalls Horror Film Festival",
-      "venue_line": "Mr. Smalls Theatre • Millvale",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Dan + Shay: The Young Tour",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "AJJ",
-      "venue_line": "Spirit Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Chad Daniels",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$31–$102",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "CHELSEA HANDLER: THE HIGH AND MIGHTY TOUR",
-      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Johnny Blue Skies",
-      "venue_line": "Petersen Events Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Ripe (18 and Over)",
-      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Marc Maron: Yammering into the Void Tour",
-      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Drauve",
-      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Chad Daniels",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$18–$102",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -186,21 +86,121 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
-      "title": "Kidd G (18+ Event)",
-      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
       "title": "Chad Daniels",
       "venue_line": "Pittsburgh Improv • Pittsburgh",
       "price_label": "$31–$102",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Pittsburgh Steelers v Colts: 1933 Club Pass (NOT A GAME TICKET)",
+      "venue_line": "Acrisure Stadium • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Pittsburgh Steelers vs. Indianapolis Colts",
+      "venue_line": "Acrisure Stadium • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
+      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Ian McConnell w/ Cherokee Social",
+      "venue_line": "Club Cafe • Pittsburgh",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Skillet: Comatose 20 Years, Still Screaming Tour",
+      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "PPG Paints Arena Tours",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "PPG Paints Arena Tours",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Penn And Teller",
+      "venue_line": "Heinz Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "The Thorn",
+      "venue_line": "Petersen Events Center • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Cab Ellis",
+      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Bruce Hornsby & The Noisemakers: Indigo Park Tour",
+      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

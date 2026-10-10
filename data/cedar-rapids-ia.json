@@ -1,37 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-09T15:45:01.176Z",
+  "updated_at": "2026-10-10T14:58:26.734Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Cedar Rapids Roughriders vs. Madison Capitols",
-      "venue_line": "IMON Ice • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "That Arena Rock Show",
-      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Shrek Rave",
-      "venue_line": "Gabe's • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -41,6 +11,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Snarky Puppy",
+      "venue_line": "Hancher Auditorium • Iowa City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Heads In Motion - Talking Heads Tribute",
+      "venue_line": "The Englert Theatre • Iowa City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Noah Gundersen w/ Runner",
+      "venue_line": "Gabe's • Iowa City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

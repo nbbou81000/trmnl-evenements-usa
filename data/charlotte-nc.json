@@ -1,97 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-09T15:44:43.209Z",
+  "updated_at": "2026-10-10T14:58:07.379Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Ecosave 200 NASCAR Craftsman Truck Series Race",
-      "venue_line": "Charlotte Motor Speedway • Concord",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Diva Royale Drag Queen Show (18+ Event)",
-      "venue_line": "The Scorpio • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Phoebe Bridgers: The Lost Tour",
-      "venue_line": "Spectrum Center • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Niko Moon: Back To My Roots Tour",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "HOUSE OF HEAVY (18+)",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rising Appalachia",
-      "venue_line": "Neighborhood Theatre Main Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
-      "venue_line": "Truliant Amphitheater • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Restricted - Ages 18+",
-      "venue_line": "Blackbox Theater - Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Lauren Alaina (18 and Over)",
-      "venue_line": "Coyote Joes • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +108,96 @@
       "date_iso": "2026-10-10",
       "title": "Brian Simpson",
       "venue_line": "Middle C Jazz • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Devault (18+ Event)",
+      "venue_line": "Blackbox Theater - Charlotte • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Diva Royale Drag Queen Show (18+ Event)",
+      "venue_line": "The Scorpio • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "MARVIN - The Marvin Gaye Musical",
+      "venue_line": "Ovens Auditorium • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Bank of America 400 NASCAR Cup Series",
+      "venue_line": "Charlotte Motor Speedway • Concord",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Brian Simpson",
+      "venue_line": "Middle C Jazz • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Charlotte Hornets v Milwaukee Bucks (Preseason)",
+      "venue_line": "Spectrum Center • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The 502s: Just A Little Run *SOLD OUT*",
+      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
+      "venue_line": "Bojangles Coliseum • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Kenny Wayne Shepherd",
+      "venue_line": "Knight Theater • Charlotte",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

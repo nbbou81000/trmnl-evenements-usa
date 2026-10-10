@@ -1,87 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-09T15:45:13.160Z",
+  "updated_at": "2026-10-10T14:58:39.500Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The STARS Tour featuring Anne Wilson",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The STARS Tour | Official BJCC Ticket + Hotel Packages",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Sam Grisman Project",
-      "venue_line": "Lakeview Marina Music Park • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jonas Brothers | Official BJCC Ticket + Hotel Packages",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Emo Nite (18+)",
-      "venue_line": "Iron City • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Kyle Kimbrell - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Furnace Fest Kick-Off Show With Danger House, Raven Hill, Lower Still at The Nick October 9th",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -199,6 +119,86 @@
       "title": "Brigitte Calls Me Baby",
       "venue_line": "Saturn - Birmingham • Birmingham",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Birmingham Bandstand (Open Mic) at the Nick",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$5",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Joey Cash - Ages 18+",
+      "venue_line": "Saturn - Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Ballin in Boutwell - Alabama A&M vs. Samford",
+      "venue_line": "Boutwell Auditorium • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Black Country, New Road",
+      "venue_line": "Saturn Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "JOURNEY - Final Frontier Tour (An Evening With)",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "JOURNEY - Final Frontier Tour | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
+      "venue_line": "Coca-Cola Amphitheater • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Magic City Blues Society Presents Mark Hummel CD Release Tour Road Dog, w/ Anson Funderburgh & Rick Harris at The Nick Doors 7pm",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$12",
       "type_key": "music",
       "type_label": "Music"
     }

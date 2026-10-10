@@ -1,87 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-09T15:44:59.833Z",
+  "updated_at": "2026-10-10T14:58:25.341Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Creighton Bluejays Womens Volleyball vs. Butler University Bulldogs Volleyball",
-      "venue_line": "RYAN CENTER/DJ SOKOL ARENA • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Omaha Volleyball vs. St. Thomas",
-      "venue_line": "Baxter Arena • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rise Against - Ricochet 2026",
-      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rise Against | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Omaha Community Playhouse • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Beths",
-      "venue_line": "Slowdown • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Earl Sweatshirt w/ MIKE",
-      "venue_line": "The Admiral-NE • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
-      "venue_line": "The Astro Theater • La Vista",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Geordie Greep",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "COMEDY NIGHT with Gary Curtis & Friends",
+      "venue_line": "Barnato • Omaha",
+      "price_label": "$16–$27",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "MOVEMENTS - HAPPIER NOW USA TOUR",
+      "venue_line": "Steelhouse Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Sonic - Live in Concert",
+      "venue_line": "Orpheum Theater - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Omaha Women's Soccer vs. South Dakota",
+      "venue_line": "Caniglia Field • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "In Her Own Words w/ Every Avenue",
+      "venue_line": "The Waiting Room - NE • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "SALIVA + DROWNING POOL",
+      "venue_line": "Barnato • Omaha",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Omaha Men's Soccer vs. Oral Roberts",
+      "venue_line": "Caniglia Field • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,101 +1,21 @@
 {
   "city_label": "Nashville, TN",
-  "updated_at": "2026-10-09T15:45:10.013Z",
+  "updated_at": "2026-10-10T14:58:36.182Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "WMOT Finally Friday featuring Levi Foster, Hiroya Tsukamoto & Jennie Hayes (of Brother & The Hayes)",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "BACKSTAGE NASHVILLE! DAYTIME HIT SONGWRITERS SHOW featuring Mike Reid ,  Aaron Raitiere ,  James LeBlanc & Mae Estes +  Elliott Prather",
       "venue_line": "3rd and Lindsley • Nashville",
-      "price_label": "$0",
+      "price_label": "$32–$47",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "In The Row with Lacy Green, Adam Wright & Thomm Jutz",
-      "venue_line": "The Bluebird Cafe • Nashville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Weezer BetMGM Dinner Reservation",
-      "venue_line": "Bridgestone Arena • Nashville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "WEEZER: The Gathering",
-      "venue_line": "Bridgestone Arena • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Improvement Movement - Your Perfect Real LIVE '26 w/ The Point",
-      "venue_line": "The Basement • Nashville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Vanderbilt Commodores Womens Volleyball vs. Auburn Tigers Womens Volleyball",
-      "venue_line": "Vanderbilt Memorial Gym • Nashville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Chico Bean",
-      "venue_line": "Zanies Comedy Showplace • Nashville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Studio Tenn Presents: The Addams Family",
-      "venue_line": "Turner Theater • Franklin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Grand Ole Opry",
-      "venue_line": "Grand Ole Opry House • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "John Proctor is the Villain",
       "venue_line": "TN Performing Arts Center Andrew Johnson Theater • Nashville",
       "price_label": "Price not available",
@@ -103,9 +23,139 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Studio Tenn Presents: The Addams Family",
+      "venue_line": "Turner Theater • Franklin",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Vanderbilt Commodores Football vs. Ole Miss Rebels Football",
+      "venue_line": "FirstBank Stadium • Nashville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Ole Red's Line Dancing Lessons",
+      "venue_line": "Ole Red - Nashville • Nashville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Ole Red's Line Dancing Lessons",
+      "venue_line": "Ole Red - Nashville • Nashville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "In The Round with Dana Perdue, Jeff Middleton & Stephony Smith",
+      "venue_line": "The Bluebird Cafe • Nashville",
+      "price_label": "$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Kathleen Madigan",
+      "venue_line": "Ryman Auditorium • Nashville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Stop. Drop. Rewind w/ Hayloft",
+      "venue_line": "The Basement • Nashville",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Grand Ole Opry: OPRY 100",
+      "venue_line": "Grand Ole Opry House • Nashville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Studio Tenn Presents: The Addams Family",
+      "venue_line": "Turner Theater • Franklin",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Phoebe Bridgers: The Lost Tour",
+      "venue_line": "Bridgestone Arena • Nashville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Phoebe Bridgers BetMGM Dinner Reservation",
+      "venue_line": "Bridgestone Arena • Nashville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "John Proctor is the Villain",
+      "venue_line": "TN Performing Arts Center Andrew Johnson Theater • Nashville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Tosca",
+      "venue_line": "TN Performing Arts Center Andrew Jackson Hall • Nashville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Shiners (18+ Event)",
       "venue_line": "Woolworth Theatre • Nashville",
       "price_label": "Price not available",
@@ -113,92 +163,42 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Deana Carter",
-      "venue_line": "Ryman Auditorium • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Public Image Ltd -This Is Not The Last Tour",
-      "venue_line": "Brooklyn Bowl Nashville • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "A Nashville Tribute and Birthday Celebration of John Lennon featuring Afton Wolfe ,  Jonny Strykes ,  Brian Wright ,  Chad Styble ,  Matthew Szlachetka ,  Daniel Seymour ,  Justin Amaral ,  Aron Tyler King ,  Irakli Gabriel ,  Molly Martin ,  Courtney Santana ,  ZG Smith ,  Nikki Barber ,  Brandy Zdan ,  Maisy Owen ,  Kevin Daniel ,  Amanda Raye ,  Suzie Chism &  Seth Fox",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Jack Pearson",
       "venue_line": "3rd and Lindsley • Nashville",
-      "price_label": "$25–$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Elizabeth Nichols",
-      "venue_line": "Exit In • Nashville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Kylie Cantrall Presents: The Valley Girl Problems Tour",
-      "venue_line": "The Pinnacle - TN • Nashville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "JACK WHITE LIVE 2026",
-      "venue_line": "The Truth • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Elizabeth Nichols",
-      "venue_line": "Exit/In • Nashville",
       "price_label": "$27",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Ace: A Celebration of the Life & Music of Bobby Weir",
-      "venue_line": "The Basement East • Nashville",
-      "price_label": "$13–$91",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Brenn!",
+      "venue_line": "Exit In • Nashville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Toxhards",
+      "venue_line": "Cannery Hall • Nashville",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Riley Lauren / Raneem Imam / Jombi / Chandler Booth",
-      "venue_line": "The East Room • Nashville",
-      "price_label": "$19",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "JACK WHITE LIVE 2026",
+      "venue_line": "The Truth • Nashville",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

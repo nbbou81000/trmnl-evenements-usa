@@ -1,33 +1,13 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-09T15:44:36.763Z",
+  "updated_at": "2026-10-10T14:58:00.106Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jim Henson's Fraggle Rock: Back to the Rock Live",
-      "venue_line": "Capitol Center for the Arts - NH • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Concert: A Tribute To ABBA",
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Michael Jackson the History Show",
       "venue_line": "Nashua Center For the Arts • Nashua",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Latino Urban Fest",
-      "venue_line": "Centro Night Club • Lawrence",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-01",
       "title": "Ana Castela Boston | After Party | November 1st",
       "venue_line": "Centro Night Club • Lawrence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Combat Zone 94",
+      "venue_line": "SNHU Arena • Manchester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "YellowHouse Blues Band",
+      "venue_line": "BNH Stage • Concord",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

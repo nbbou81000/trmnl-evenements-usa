@@ -1,27 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-09T15:44:40.377Z",
+  "updated_at": "2026-10-10T14:58:04.392Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "UMass Minutemen Hockey vs. Rochester Institute of Technology Mens Hockey",
-      "venue_line": "Mullins Center • Amherst",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-16",
       "title": "Springfield Thunderbirds vs. Lehigh Valley Phantoms",
       "venue_line": "MassMutual Center • Springfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "UMass Minutemen Hockey vs. Northeastern Huskies Hockey",
+      "venue_line": "Mullins Center • Amherst",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

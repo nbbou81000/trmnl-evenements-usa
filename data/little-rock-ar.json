@@ -1,27 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-09T15:45:09.092Z",
+  "updated_at": "2026-10-10T14:58:35.250Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Drew Baldridge (14+ Event)",
-      "venue_line": "Stickyz Rock n Roll Chicken Shack • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "After Party Extended Tour w/ Kng Ego, Jo Tyler, JOYBVND, and Kid Ziggy",
-      "venue_line": "The Hall • Little Rock",
-      "price_label": "$33–$64",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -38,7 +18,7 @@
       "date_iso": "2026-10-13",
       "title": "Rico Nasty",
       "venue_line": "The Hall • Little Rock",
-      "price_label": "$42–$68",
+      "price_label": "$32–$68",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-30",
       "title": "Simmons Bank Championship: Good Any One Day Admission",
       "venue_line": "Pleasant Valley Country Club • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Beetlejuice (Touring)",
+      "venue_line": "Robinson Center • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Central Arkansas Bears Football vs. North Alabama Lions Football",
+      "venue_line": "Estes Stadium • Conway",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

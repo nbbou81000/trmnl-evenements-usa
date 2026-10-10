@@ -1,77 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-09T15:45:10.486Z",
+  "updated_at": "2026-10-10T14:58:36.633Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Tennessee Volunteers Volleyball vs. Ole Miss Rebels Volleyball",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
-      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Knoxville Ice Bears Exhibition Game ",
-      "venue_line": "Knoxville Civic Coliseum • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Sister Hazel",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "ICON: Michael Jackson, Prince, Whitney Houston and more",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Blake Whiten, Slater Nalley ",
-      "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Blake Whiten w/ Slater Nalley",
-      "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -199,6 +129,76 @@
       "title": "Waylon Wyatt - Dustpiles World Tour",
       "venue_line": "The Mill & Mine • Knoxville",
       "price_label": "$26–$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Waylon Wyatt",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Zach Williams, Cochren & Co., Christian Hohn: Revival Nights",
+      "venue_line": "Knoxville Civic Auditorium • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Tennessee Volunteers Mens Basketball vs. Xavier Musketeers Men's Basketball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Masterworks: Tchaikovsky's 5th Symphony",
+      "venue_line": "Tennessee Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
+      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Tennessee Volunteers Baseball vs. Lipscomb Baseball",
+      "venue_line": "Covenant Health Park • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Goodbye June, Danny Worsnop",
+      "venue_line": "The 808 • Knoxville",
+      "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
     }

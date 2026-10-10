@@ -1,6 +1,6 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-09T15:44:59.369Z",
+  "updated_at": "2026-10-10T14:58:24.876Z",
   "events": [
     {
       "day_label": "SAT",
@@ -13,11 +13,41 @@
       "type_label": "Music"
     },
     {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "King Iso",
+      "venue_line": "Regency - MO • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "SUN",
       "day_number": "11",
       "date_iso": "2026-10-11",
       "title": "Temptations w/ Four Tops",
       "venue_line": "Juanita K. Hammons Hall • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "sKitz Kraven",
+      "venue_line": "Regency - MO • Springfield",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "EyeHateGod",
+      "venue_line": "Regency - MO • Springfield",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -43,6 +73,16 @@
       "type_label": "Arts & Theater"
     },
     {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Buku",
+      "venue_line": "Regency - MO • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "SUN",
       "day_number": "18",
       "date_iso": "2026-10-18",
@@ -61,6 +101,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Dark Divine",
+      "venue_line": "Regency - MO • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -113,6 +163,16 @@
       "type_label": "Arts & Theater"
     },
     {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Austin Meade",
+      "venue_line": "Regency - MO • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
@@ -138,66 +198,6 @@
       "date_iso": "2026-10-29",
       "title": "Beetlejuice (Touring)",
       "venue_line": "Juanita K. Hammons Hall • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Straight No Chaser",
-      "venue_line": "Juanita K. Hammons Hall • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "7",
-      "date_iso": "2026-11-07",
-      "title": "MercyMe",
-      "venue_line": "Great Southern Bank Arena • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "14",
-      "date_iso": "2026-11-14",
-      "title": "Missouri State Bears Football vs. New Mexico State Aggies Football",
-      "venue_line": "Robert W. Plaster Stadium • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "14",
-      "date_iso": "2026-11-14",
-      "title": "Route 66 - November Symphony",
-      "venue_line": "Juanita K. Hammons Hall • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "20",
-      "date_iso": "2026-11-20",
-      "title": "Matt Mathews",
-      "venue_line": "Juanita K. Hammons Hall • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "20",
-      "date_iso": "2026-11-20",
-      "title": "Matt Mathews: Not What I Ordered World Tour",
-      "venue_line": "Juanita K. Hammons Halls for the Performing Arts • Springfield",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

@@ -1,37 +1,7 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-09T15:44:47.282Z",
+  "updated_at": "2026-10-10T14:58:11.915Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Windsor Club Add-On: BLACK JACKET SYMPHONY 10/9",
-      "venue_line": "Columbia County Performing Arts Center • Evans",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Black Jacket Symphony Presents Def Leppard's 'Hysteria'",
-      "venue_line": "Columbia County Performing Arts Center • Evans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Ultimate Funk & Soul Experience",
-      "venue_line": "Bell Auditorium • Augusta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -198,6 +168,16 @@
       "date_iso": "2026-11-24",
       "title": "Jersey Boys",
       "venue_line": "Columbia County Performing Arts Center • Evans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "4",
+      "date_iso": "2026-12-04",
+      "title": "Martin Lawrence: Y'all Still Know What It Is! Tour",
+      "venue_line": "Bell Auditorium • Augusta",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

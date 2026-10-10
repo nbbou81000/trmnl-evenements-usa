@@ -1,37 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-09T15:44:41.870Z",
+  "updated_at": "2026-10-10T14:58:05.864Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jamie Lissow",
-      "venue_line": "Funny Bone Comedy Club - Richmond • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Mamma Mia! (Touring)",
-      "venue_line": "Altria Theater • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jay Baxter",
-      "venue_line": "Uptown Alley Richmond • Midlothian",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-14",
       "title": "The Phil Collins Story",
       "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Boombox w/ Future Joy",
+      "venue_line": "The Broadberry • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Trampled By Turtles w/ The Last Revel",
+      "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Wannabe: The Spice Girls Tribute Band - Ages 21+",
+      "venue_line": "Uptown Alley Richmond • Midlothian",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

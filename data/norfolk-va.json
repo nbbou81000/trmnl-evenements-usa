@@ -1,87 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-10-09T15:44:42.759Z",
+  "updated_at": "2026-10-10T14:58:06.845Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "RnB Block Party",
-      "venue_line": "Scope Plaza • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "MOJO BROOKZZ: OUTTA POCKET TOUR",
-      "venue_line": "Harrison Opera House • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jon B. (18 and Over)",
-      "venue_line": "The Norva • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Gladys Knight",
-      "venue_line": "Rivers Casino Portsmouth Event Center • Portsmouth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Virginia Musical Theatre- Disney's Frozen",
-      "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Amish Outlaws",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Cirque Kalabante",
-      "venue_line": "Ferguson Center for the Arts Concert Hall • Newport News",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "MOJO BROOKZZ: OUTTA POCKET TOUR",
-      "venue_line": "Harrison Opera House • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -197,6 +117,86 @@
       "day_number": "13",
       "date_iso": "2026-10-13",
       "title": "AFI",
+      "venue_line": "The Norva • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "Harrison Opera House • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Superheaven",
+      "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "Harrison Opera House • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Trombone Shorty & Orleans Avenue",
+      "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Addams Family - 7pm - Classic Movie Nights!",
+      "venue_line": "American Theatre • Hampton",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "Harrison Opera House • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Old Dominion Monarchs Football vs. Georgia Southern Eagles Football",
+      "venue_line": "Kornblau Field at S.B. Ballard Stadium • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "All Them Witches w/ Emma Ruth Rundle",
       "venue_line": "The Norva • Norfolk",
       "price_label": "Price not available",
       "type_key": "music",

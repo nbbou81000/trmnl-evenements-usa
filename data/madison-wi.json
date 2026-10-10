@@ -1,67 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-09T15:44:57.611Z",
+  "updated_at": "2026-10-10T14:58:22.820Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "MuvGruv",
-      "venue_line": "Roxxy • Madison",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Princess Bride: An Inconceivable Evening with Cary Elwes",
-      "venue_line": "Orpheum Theater • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Soccer Mommy x Snail Mail",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Wiz (Touring)",
-      "venue_line": "Capitol Theater - Overture Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Sixteen Candles",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Gully Boys W/ Pollyanna And Lunar Moth",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -199,6 +139,66 @@
       "title": "Paris Paloma: The Fatal Flaw Tour",
       "venue_line": "The Sylvee • Madison",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Albert Cummings - 21+",
+      "venue_line": "The Bur Oak • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Carbon Leaf",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Duane Betts & Palmetto Motel",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Magenta Wave",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Lenny Pearce - Toddler Rave World Tour",
+      "venue_line": "The Sylvee • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "The Ramble",
+      "venue_line": "Roxxy • Madison",
+      "price_label": "$7",
       "type_key": "music",
       "type_label": "Music"
     }

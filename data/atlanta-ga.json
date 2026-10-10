@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-10-09T15:44:46.382Z",
+  "updated_at": "2026-10-10T14:58:10.918Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,9 +23,19 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "I Spy",
+      "venue_line": "The Goizueta Stage for Youth and Families • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -33,19 +43,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "The Christmas Carnival at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -53,9 +53,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -63,9 +63,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -73,19 +73,19 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Mexodus",
+      "venue_line": "Alliance Theatre - Coca-Cola Stage • Atlanta",
       "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Tours: Truist Park",
       "venue_line": "Truist Park • Atlanta",
       "price_label": "Price not available",
@@ -93,9 +93,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "The Christmas Carnival at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -103,9 +103,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -113,9 +113,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -123,19 +123,29 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Marvin Gaye Skyline Lounge",
+      "venue_line": "Cobb Energy Performing Arts Centre • Atlanta",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "MARVIN - The Marvin Gaye Musical",
+      "venue_line": "Cobb Energy Performing Arts Centre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "The Christmas Carnival at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -143,9 +153,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -153,9 +163,19 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Georgia Tech Yellow Jackets Football vs. Duke Blue Devils Football",
+      "venue_line": "Bobby Dodd Stadium • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -163,9 +183,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
@@ -173,30 +193,10 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "The Christmas Carnival at Selfie Paradise Museum",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Holiday Portraits: Capture the Magic at Selfie Paradise Museum",
       "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
       "type_key": "misc",

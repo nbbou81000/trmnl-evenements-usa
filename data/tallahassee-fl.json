@@ -1,17 +1,7 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-10-09T15:44:50.459Z",
+  "updated_at": "2026-10-10T14:58:15.491Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley\t\t\t\t",
-      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "The Revivalists",
+      "venue_line": "Adderley Amphitheater at Cascades Park • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

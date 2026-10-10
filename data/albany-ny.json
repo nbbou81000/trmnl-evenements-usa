@@ -1,67 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-09T15:44:33.994Z",
+  "updated_at": "2026-10-10T14:57:57.169Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Revivalists",
-      "venue_line": "Frog Alley Brewing Co. • Schenectady",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rensselaer Polytechnic Engineers Mens Hockey vs. Ohio State Buckeyes Mens Ice Hockey",
-      "venue_line": "Houston Field House-Troy • Troy",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Wheel of Fortune",
-      "venue_line": "The Palace Theatre Albany • Albany",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Music Man",
-      "venue_line": "Proctor's Theatre • Schenectady",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "House of Heavy",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Kristin Key",
-      "venue_line": "Funny Bone Comedy Club - Albany • Albany",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-17",
       "title": "Genitorturers - Live + Lewd Tour",
       "venue_line": "Empire Underground • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Rensselaer Polytechnic Engineers Mens Hockey vs. LIU Sharks Mens Ice Hockey",
+      "venue_line": "Houston Field House-Troy • Troy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Phil Collins Story",
+      "venue_line": "The Palace Theatre Albany • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Siena Saints Mens Basketball vs. Syracuse University Men's Basketball",
+      "venue_line": "MVP Arena • Albany",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Band Memo",
+      "venue_line": "Empire Underground • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Collective Soul",
+      "venue_line": "The Palace Theatre Albany • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Trombone Shorty & Orleans Avenue",
+      "venue_line": "Troy Savings Bank Music Hall • Troy",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

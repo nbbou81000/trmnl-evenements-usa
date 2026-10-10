@@ -1,17 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-09T15:45:11.861Z",
+  "updated_at": "2026-10-10T14:58:38.102Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Spite, Stick to Your Guns, No Cure and Vomit Forth",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -199,6 +189,16 @@
       "title": "Nanny - Maw (Comedy Show)",
       "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
       "price_label": "$28–$157",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "JUICY Halloween :: A 2000’s Night of Nostalgia",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$21",
       "type_key": "misc",
       "type_label": "Other"
     }

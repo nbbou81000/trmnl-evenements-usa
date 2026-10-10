@@ -1,137 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-10-09T15:44:56.249Z",
+  "updated_at": "2026-10-10T14:58:21.384Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jessica Kirson",
-      "venue_line": "Shelton Auditorium at Butler Arts Center • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Bayside w/ Driveways",
-      "venue_line": "HI-FI Indy and HI-FI Annex • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Koe Wetzel: The Night Champion World Tour",
-      "venue_line": "Fishers Event Center • Fishers",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Clint Black & Midland - Live In Concert: A Frontline Benefit Concert",
-      "venue_line": "Everwise Amphitheater at White River State Park • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Disney Presents The Lion King (Touring)",
-      "venue_line": "Old National Centre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "WNBA Playoffs Round 3 Home Game 1: TBD at Fever",
-      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "WNBA Playoffs Round 2 Home Game 1: TBD at Fever",
-      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Butler Theatre Presents: The House Of Bernarda Alba",
-      "venue_line": "Lilly Hall Studio Theatre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Taylor Bickett",
-      "venue_line": "Turntable • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Taylor Bickett",
-      "venue_line": "Turntable • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Craig Robinson",
-      "venue_line": "Helium Comedy Club - Indianapolis • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "PARKING PASS TBD @ Fever Rd 3 Hm Gm 1",
-      "venue_line": "Virginia Avenue Parking Garage • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "PARKING PASS TBD @ Fever Rd 2 Hm Gm 1",
-      "venue_line": "Virginia Avenue Parking Garage • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +68,136 @@
       "date_iso": "2026-10-10",
       "title": "Craig Robinson",
       "venue_line": "Helium Comedy Club - Indianapolis • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Don Lemon & DL Hughley: DL + DL 'Anything Goes'",
+      "venue_line": "Clowes Memorial Hall • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Disney Presents The Lion King (Touring)",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Grief Sucks: A One Man Show By KevOnStage",
+      "venue_line": "Shelton Auditorium at Butler Arts Center • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Butler Theatre Presents: The House Of Bernarda Alba",
+      "venue_line": "Lilly Hall Studio Theatre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Bear Ghost w/ Sarah and the Safe Word",
+      "venue_line": "HI-FI Indy and HI-FI Annex • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Squirrel Flower w/ Dari Bay",
+      "venue_line": "Turntable • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Emo Night Tour - Ages 21+",
+      "venue_line": "Vogue Theatre - IN • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Craig Robinson",
+      "venue_line": "Helium Comedy Club - Indianapolis • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Disney Presents The Lion King (Touring)",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Butler Theatre Presents: The House Of Bernarda Alba",
+      "venue_line": "Lilly Hall Studio Theatre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "R&B Ain't Dead - Ages 21+",
+      "venue_line": "Vogue Theatre - IN • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Ghostbusters In Concert",
+      "venue_line": "Clowes Memorial Hall • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Disney Presents The Lion King (Touring)",
+      "venue_line": "Old National Centre • Indianapolis",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

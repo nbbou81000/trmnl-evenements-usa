@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-09T15:44:45.978Z",
+  "updated_at": "2026-10-10T14:58:10.470Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rewind: 2000s Rave",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "University of South Carolina Gamecocks Mens Basketball vs. Stetson Hatters Mens Basketball",
+      "venue_line": "Colonial Life Arena • Columbia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

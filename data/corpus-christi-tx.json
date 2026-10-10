@@ -1,17 +1,7 @@
 {
   "city_label": "Corpus Christi, TX",
-  "updated_at": "2026-10-09T15:45:05.628Z",
+  "updated_at": "2026-10-10T14:58:31.592Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "BRAD PAISLEY LIVE",
-      "venue_line": "Hilliard Center Arena • Corpus Christi",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Ryan Bingham w/ The Texas Gentlemen",
+      "venue_line": "Concrete Street Amphitheater • Corpus Christi",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

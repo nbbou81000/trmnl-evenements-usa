@@ -1,37 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-09T15:45:10.937Z",
+  "updated_at": "2026-10-10T14:58:37.202Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Doobie Brothers: Walk This Road Tour",
-      "venue_line": "Soldiers and Sailors Memorial Auditorium • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "An Evening With Celtic Thunder 2026: Celebrate Your Favorite Songs",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Babylon Rave",
-      "venue_line": "The Parlour at The Signal • Chattanooga",
-      "price_label": "$30",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Billy Strings",
+      "venue_line": "Tivoli Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Billy Strings",
+      "venue_line": "Tivoli Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Crowder LIVE! - Hixson, TN",
+      "venue_line": "Abba's House • Hixson",
+      "price_label": "$25–$45",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

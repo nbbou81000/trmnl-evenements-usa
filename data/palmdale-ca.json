@@ -1,37 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-09T15:45:27.430Z",
+  "updated_at": "2026-10-10T14:58:54.733Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "FREE SHOW: DOOMBOYZ / WARM UNCLE / BRONCO FORTE",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Gabriel Iglesias",
-      "venue_line": "Palmdale Amphitheater • Palmdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "FREE SHOW: INDIE DJ NIGHT WITH DJ BOOTLEG",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -199,6 +169,36 @@
       "title": "90'S VS 2000'S NIGHT WITH DJ BOOTLEG",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "FREE SHOW: THE SCHISMS / LOST TAPES / NARCOTICA / URGENT CARE",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "FREE SHOW: CASTLE / THE CIMMERIAN / BONESAW",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "DEFT PUNKS (DAFT PUNK TRIBUTE) / ODD HOURS (THE CURE, NIN, DEPECHE MODE TRIBUTE) / BROKEN RISE AS AMERICAN IDIOTS (GREEN DAY TRIBUTE)",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$13",
       "type_key": "music",
       "type_label": "Music"
     }

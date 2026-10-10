@@ -1,77 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-09T15:45:26.071Z",
+  "updated_at": "2026-10-10T14:58:53.116Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "DYING FETUS & SANGUISUGABOGG",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Rocky Horror Picture Show Spooktacular Tour with Nell Campbell",
-      "venue_line": "Fox Performing Arts Center • Riverside",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Kountry Wayne",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$37",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Mike Jones",
-      "venue_line": "Stage Red • Fontana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Righteous Brothers - 21+",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Living Tombstone",
-      "venue_line": "The Fox Theater-Pomona • Pomona",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Kountry Wayne",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$37–$56",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +131,76 @@
       "price_label": "$9",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Mark Paul: The Daddy Ball Tour",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$31–$62",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Banda MS de Sergio Lizarraga (21+ Event)",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Dustin Nickerson",
+      "venue_line": "Corona Improv • Corona",
+      "price_label": "$31",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Daniela Mora",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$31–$49",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Nelly (21 and Over)",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Faultline Festival with Bush",
+      "venue_line": "Morongo Field • Rancho Cucamonga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Noche De Exitos #2",
+      "venue_line": "Fox Performing Arts Center • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-09T15:45:15.718Z",
+  "updated_at": "2026-10-10T14:58:42.362Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Colorado Eagles vs. Abbotsford Canucks",
-      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -196,6 +186,16 @@
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
+      "title": "Colorado Eagles vs. Charlotte Checkers",
+      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
       "title": "Colorado Eagles vs. Charlotte Checkers",
       "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
       "price_label": "Price not available",

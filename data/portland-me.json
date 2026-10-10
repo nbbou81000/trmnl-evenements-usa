@@ -1,17 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-09T15:44:36.354Z",
+  "updated_at": "2026-10-10T14:57:59.640Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Midnight: Time Machines",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -197,6 +187,16 @@
       "day_number": "20",
       "date_iso": "2026-10-20",
       "title": "Cannons: The Everything Glows Tour",
+      "venue_line": "State Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Bruce Cockburn with special guest Livingston Taylor",
       "venue_line": "State Theatre • Portland",
       "price_label": "Price not available",
       "type_key": "music",

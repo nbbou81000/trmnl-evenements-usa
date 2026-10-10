@@ -1,57 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-09T15:45:30.500Z",
+  "updated_at": "2026-10-10T14:58:57.871Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Hiromi: The Trio Project",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$46–$57",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Brian Culbertson w/ David Benoit",
-      "venue_line": "Hawaii Theatre • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Hiromi: The Trio Project",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$46–$57",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Jake Shimabukuro Solo",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$51–$63",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Motet Plays Jamiroquai",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$41–$57",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Motet Plays Jamiroquai",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$41–$57",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,81 +1,51 @@
 {
   "city_label": "Boston, MA",
-  "updated_at": "2026-10-09T15:44:31.209Z",
+  "updated_at": "2026-10-10T14:57:54.306Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Owen Daniel & Friends",
-      "venue_line": "Middle East - Corner/Bakery • Cambridge",
-      "price_label": "Price not available",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Slack Magic, Dust Jacket, Bebe & Oona, Callan.",
+      "venue_line": "Middle East - Upstairs • Cambridge",
+      "price_label": "$23",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Knox",
-      "venue_line": "Paradise Rock Club presented by Citizens • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Teddy Swims: The UGLY Tour",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Boston Bruins vs. Philadelphia Flyers",
       "venue_line": "TD Garden • Boston",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Wicked (Touring)",
+      "venue_line": "Citizens Opera House • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Monty Python's Spamalot",
+      "venue_line": "Boch Center Wang Theatre • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
       "title": "Swan Lake - Symphony of Lights",
       "venue_line": "Emerson Colonial Theatre • Boston",
       "price_label": "Price not available",
@@ -83,124 +53,154 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Mind Enterprises (18 and Over)",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Levitate Flannel Jam (18 and Over)",
+      "venue_line": "Levitate Backyard • Marshfield",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "UMass Lowell River Hawks Hockey vs. St. Lawrence Saints Hockey",
+      "venue_line": "Tsongas Center • Lowell",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Taha Ghazipour",
+      "venue_line": "Middle East - Corner/Bakery • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Bentley Falcons Hockey vs. Northeastern Huskies Hockey",
+      "venue_line": "Bentley Arena • Waltham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Daði Freyr - Too Much, Not Enough",
+      "venue_line": "Big Night Live • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "The Launch Of The V Family Foundation",
+      "venue_line": "Memoire • Everett",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Andrew McMahon",
+      "venue_line": "City Winery - Boston • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Michael Blaustein: The Taste Me Tour",
+      "venue_line": "The Wilbur • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Michael Blaustein VIP M&G Add-on",
+      "venue_line": "The Wilbur • Boston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Medium Build w/ Ken Yates",
       "venue_line": "Royale Boston • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "CupcakKe",
-      "venue_line": "Citizens House of Blues Boston • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "RAV - THE EXOPOCALYPSE TOUR",
-      "venue_line": "Middle East - Upstairs • Cambridge",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Level 1 Productions",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Boston Burning Man Decompression Presents: A Clockwork Circus",
       "venue_line": "Sonia • Cambridge",
-      "price_label": "$26",
+      "price_label": "$33",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "MOVED TO MIDDLE EAST UPSTAIRS ​ALL TICKETS HONORED",
-      "venue_line": "Warehouse XI • Somerville ",
-      "price_label": "$0",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "PATRICK LAMB",
+      "venue_line": "Scullers Jazz Club • Boston",
+      "price_label": "$37–$54",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Clap Your Hands Say Yeah",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Boston University Men's Hockey vs. Brown Men's Hockey",
+      "venue_line": "Agganis Arena • Boston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "JOSH THOMAS: JIGGLE, JIGGLE",
       "venue_line": "Arts at the Armory • Somerville",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "MYANNA and FRIENDS",
-      "venue_line": "Scullers Jazz Club • Boston",
-      "price_label": "$37–$60",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Alison Brown",
-      "venue_line": "Regattabar • Cambridge",
-      "price_label": "$36–$48",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Destination: Superdrag [Friday, October 9th]",
+      "day_label": "SAT",
+      "day_number": "10",
+      "date_iso": "2026-10-10",
+      "title": "Destination: Superdrag [Saturday, October 10th]",
       "venue_line": "Brighton Music Hall presented by Citizens • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Oteil Burbridge with LaMP - Wish Benefit Tour",
-      "venue_line": "Somerville Theatre • Somerville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Boston College Eagles Hockey vs. University of Alaska Anchorage Seawolves Hockey",
-      "venue_line": "Conte Forum • Chestnut Hill",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Bentley Falcons Hockey vs. Vermont Catamounts Hockey",
-      "venue_line": "Bentley Arena • Waltham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     }
   ]
 }

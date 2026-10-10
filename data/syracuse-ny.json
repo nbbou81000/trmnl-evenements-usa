@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-09T15:44:33.555Z",
+  "updated_at": "2026-10-10T14:57:56.729Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,46 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "LINGER ??? The Premier Tribute to The Cranberries",
-      "venue_line": "Westcott Theatre • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Paega* w/s/g Darkside Skinny Dipper's",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Jimkata w/ The New Service",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Too Heavy For Emo Night Syracuse",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -199,6 +159,46 @@
       "title": "Agnostic Front",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Austin Meade",
+      "venue_line": "The Lost Horizon • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "NOSHOWS + BELLE BLUE",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Wednesday 13",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$34",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "RIGOMETRICS w/s/g Kale",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
       "type_key": "music",
       "type_label": "Music"
     }

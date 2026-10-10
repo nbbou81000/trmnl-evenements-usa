@@ -1,27 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-09T15:44:39.915Z",
+  "updated_at": "2026-10-10T14:58:03.925Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Knocked Loose w/ Denzel Curry",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Dead Mans Waltz with Space Moose",
-      "venue_line": "Sanctuary Cultural Arts Center • Maynard",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-17",
       "title": "Worcester Railers vs. Maine Mariners - Opening Night",
       "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Dillinger Escape Plan w/ Many Eyes",
+      "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Holy Cross Crusaders Hockey vs. Army Black Knights Hockey",
+      "venue_line": "Hart Recreation Center • Worcester",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

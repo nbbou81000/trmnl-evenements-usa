@@ -1,17 +1,7 @@
 {
   "city_label": "Laredo, TX",
-  "updated_at": "2026-10-09T15:45:07.367Z",
+  "updated_at": "2026-10-10T14:58:33.325Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Yandel - SINFÓNICO",
-      "venue_line": "Sames Auto Arena • Laredo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -101,6 +91,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "2",
+      "date_iso": "2026-12-02",
+      "title": "All Elite Wrestling",
+      "venue_line": "Sames Auto Arena • Laredo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

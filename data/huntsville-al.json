@@ -1,37 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-09T15:45:13.583Z",
+  "updated_at": "2026-10-10T14:58:39.924Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Huntsville Havoc vs. Pensacola Ice Flyers",
-      "venue_line": "Von Braun Center Propst Arena • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "The Rick Burgess Show Presents \"the Are You Ready Live Tour\"",
-      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Mike Goodwin: Open Mike Tour",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$33–$53",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -56,31 +26,11 @@
       "day_label": "SAT",
       "day_number": "10",
       "date_iso": "2026-10-10",
-      "title": "Phish - 2 Day Pass",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
       "title": "Mike Goodwin: Open Mike Tour",
       "venue_line": "Huntsville Levity Live • Huntsville",
       "price_label": "$33–$53",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Phish",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -106,6 +56,16 @@
       "day_label": "SUN",
       "day_number": "11",
       "date_iso": "2026-10-11",
+      "title": "Phish - 2 Day Pass",
+      "venue_line": "Orion Amphitheater • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Phish",
       "venue_line": "Orion Amphitheater • Huntsville",
       "price_label": "Price not available",
@@ -116,6 +76,16 @@
       "day_label": "SUN",
       "day_number": "11",
       "date_iso": "2026-10-11",
+      "title": "Phish",
+      "venue_line": "Orion Amphitheater • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
       "title": "Phish",
       "venue_line": "Orion Amphitheater • Huntsville",
       "price_label": "Price not available",
@@ -201,6 +171,36 @@
       "price_label": "$5–$27",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Alabama A&M Bulldogs Football vs. Grambling State Tigers Football",
+      "venue_line": "Louis Crews Stadium • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Zainab Johnson",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$5–$27",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Billy Joel Legacy - A Tribute Experience",
+      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

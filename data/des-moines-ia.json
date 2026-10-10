@@ -1,37 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-09T15:45:00.741Z",
+  "updated_at": "2026-10-10T14:58:26.290Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Taste Of Chaos",
-      "venue_line": "Vibrant Music Hall • Waukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Leonid & Friends",
-      "venue_line": "Hoyt Sherman Place • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "9",
-      "date_iso": "2026-10-09",
-      "title": "Red Leather",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "10",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Drake Bulldogs Football vs. Marist Red Foxes Football",
+      "venue_line": "Drake Stadium - Des Moines • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
+      "venue_line": "Hoyt Sherman Place • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Stanley Simmons",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }
