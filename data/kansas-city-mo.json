@@ -1,77 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-10T14:58:23.827Z",
+  "updated_at": "2026-10-11T15:16:19.026Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "The Ace Frehley Band",
-      "venue_line": "Grinders KC • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Shamrock FC Mixed Martial Arts",
-      "venue_line": "Ameristar Casino and Hotel • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Sporting Kansas City vs. Portland Timbers",
-      "venue_line": "Children's Mercy Park • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
-      "venue_line": "Uptown Theater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "80s Legends Tribute",
-      "venue_line": "VooDoo at Harrah's Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "80s Legends Tribute | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "VooDoo at Harrah's Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Whales",
-      "venue_line": "Aura KC • Kansas City",
-      "price_label": "$19–$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -197,6 +127,76 @@
       "day_number": "16",
       "date_iso": "2026-10-16",
       "title": "Demola",
+      "venue_line": "The Truman - Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Michael Franti",
+      "venue_line": "Warehouse On Broadway • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Matt Mathews: Not What I Ordered World Tour",
+      "venue_line": "Ameristar Casino and Hotel • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Kansas City Mavericks vs Rapid City Rush",
+      "venue_line": "Cable Dahmer Arena • Independence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Disney Worlds Collide Concert Tour",
+      "venue_line": "T-Mobile Center • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "BADDIES & BOSSES LIVE IN CONCERT-KANSAS CITY",
+      "venue_line": "Municipal Auditorium • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Sporting Kansas City vs. Real Salt Lake",
+      "venue_line": "Children's Mercy Park • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Bright Eyes w/ Lullaby For The Working Class",
       "venue_line": "The Truman - Kansas City • Kansas City",
       "price_label": "Price not available",
       "type_key": "music",

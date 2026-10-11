@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-10T14:57:56.729Z",
+  "updated_at": "2026-10-11T15:15:55.961Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,66 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Syracuse City Ballet Presents Dracula",
-      "venue_line": "The Oncenter Carrier Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Syracuse Crunch vs. Belleville Senators",
-      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Syracuse City Ballet Presents Dracula",
-      "venue_line": "The Oncenter Carrier Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "AJJ",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "LEON TROUT w/s/g Level:Memory",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Photo City Presents: Silent Disco",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$10–$18",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SUN",
@@ -199,6 +139,66 @@
       "title": "RIGOMETRICS w/s/g Kale",
       "venue_line": "Funk 'n Waffles • Syracuse",
       "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Haggis X-1 w/s/g Brian Thomas Trio",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Tab Benoit",
+      "venue_line": "Center for the Arts of Homer • Homer",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Syracuse Crunch vs. Rochester Americans",
+      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Syracuse Orange Football vs. Louisville Cardinals",
+      "venue_line": "JMA Wireless Dome  • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "THE ROLLIN' RUST w/s/g Rev Ezra",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Dangerous Type",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$7",
       "type_key": "music",
       "type_label": "Music"
     }

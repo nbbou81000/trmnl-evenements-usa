@@ -1,77 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-10T14:58:43.706Z",
+  "updated_at": "2026-10-11T15:16:36.093Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "BOISE STATE UNIVERSITY VS UNIVERSITY OF IDAHO MEN'S BASKETBALL",
-      "venue_line": "Idaho Central Arena • Boise",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Castle Rat",
-      "venue_line": "Shrine Social Club • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Yelawolf & Highly Suspect - The War Within Tour",
-      "venue_line": "Revolution Concert House & Event Center • Garden City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "The 39 Steps",
-      "venue_line": "Boise Little Theater • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Iron and Wine w/ Ken Pomeroy",
-      "venue_line": "Treefort Music Hall • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Gimme Gimme Disco",
-      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Shovels & Rope, Nolan Taylor",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Paige Fish - The Midnight Crisis Tour",
+      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
+      "price_label": "$122",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Paige Fish",
+      "venue_line": "Knitting Factory Concert House - Boise • Boise",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Logan Ryan Band",
+      "venue_line": "Revolution Concert House & Event Center • Garden City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Ashley Cooke: The Baby Blues Tour",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "THE WELL + PINK FUZZ  with Roller Dome",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "CHELSEA HANDLER: THE HIGH AND MIGHTY TOUR",
+      "venue_line": "Morrison Center for the Performing Arts • Boise",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "BOISE STATE UNIVERSITY VS UNIVERSITY OF WASHINGTON MEN'S BASKETBALL",
+      "venue_line": "Idaho Central Arena • Boise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

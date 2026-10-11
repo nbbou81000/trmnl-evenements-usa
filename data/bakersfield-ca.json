@@ -1,37 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-10T14:58:51.252Z",
+  "updated_at": "2026-10-11T15:16:42.539Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Disney On Ice Presents Find Your Hero",
-      "venue_line": "Dignity Health Arena • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Disney On Ice Presents Find Your Hero",
-      "venue_line": "Dignity Health Arena • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Disney On Ice Presents Find Your Hero",
-      "venue_line": "Dignity Health Arena • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Reza - The Illusionist",
+      "venue_line": "Bakersfield Fox Theater • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
+      "venue_line": "Dignity Health Arena • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
+      "venue_line": "Dignity Health Arena • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

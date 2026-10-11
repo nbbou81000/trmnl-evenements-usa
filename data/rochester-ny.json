@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-10T14:57:56.278Z",
+  "updated_at": "2026-10-11T15:15:55.567Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "BOOP! THE MUSICAL",
-      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Stéphane Wrembel: Rochester Concert Series - Dreamers of Dreams",
-      "venue_line": "Lovin' Cup • Rochester",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -201,6 +181,26 @@
       "price_label": "$12–$14",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "House Party: A sweaty love-letter to the 2010s rager.",
+      "venue_line": "The Montage Music Hall • Rochester",
+      "price_label": "$17–$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Rochester Americans vs Hershey Bears",
+      "venue_line": "Blue Cross Arena • Rochester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

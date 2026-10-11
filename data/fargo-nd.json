@@ -1,17 +1,7 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-10T14:58:27.731Z",
+  "updated_at": "2026-10-11T15:16:22.314Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Fargo Force vs Sioux Falls Stampede",
-      "venue_line": "Scheels Arena • Fargo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Fargo Force vs Sioux City Musketeers",
+      "venue_line": "Scheels Arena • Fargo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

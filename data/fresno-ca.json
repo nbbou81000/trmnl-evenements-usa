@@ -1,67 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-10T14:58:50.737Z",
+  "updated_at": "2026-10-11T15:16:42.153Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Boise State Broncos Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Boise State Broncos Womens Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "BigXThaPlug",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Fey - Forever 17 Tour",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Fresno State Bulldogs Football vs. Boise State Broncos Football",
-      "venue_line": "Valley Children's Stadium • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "THE CURE vs THE SMITHS vs DEPECHE MODE",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$8",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Y2K PARTY! Early 2000s Bangers All Night",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$8",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "bodie, Hopeful.",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$26–$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Los Tigres del Norte",
+      "venue_line": "Fresno Fairgrounds • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Megan Woods: The Truth Tour - Fresno, CA",
+      "venue_line": "The Wilson Theatre (Cornerstone Church Assemblies of God) • Fresno",
+      "price_label": "$21–$75",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Souls of Mischief, Palmtree, MC Frend",
+      "venue_line": "Fulton 55 • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Womens Volleyball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

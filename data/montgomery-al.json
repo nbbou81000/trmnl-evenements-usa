@@ -1,27 +1,7 @@
 {
   "city_label": "Montgomery, AL",
-  "updated_at": "2026-10-10T14:58:40.370Z",
+  "updated_at": "2026-10-11T15:16:33.284Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Alabama State Hornets Football vs. Florida A&M Rattlers Football",
-      "venue_line": "ASU Stadium - AL • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Daniel Tosh: My First Farewell Tour",
-      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -197,6 +177,26 @@
       "day_number": "4",
       "date_iso": "2026-12-04",
       "title": "A.J. Croce Presents CROCE PLAYS CROCE",
+      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "6",
+      "date_iso": "2026-12-06",
+      "title": "Brian Free & Assurance and Jeff & Sherri Easter",
+      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "8",
+      "date_iso": "2026-12-08",
+      "title": "Motown Christmas",
       "venue_line": "Montgomery Performing Arts Centre • Montgomery",
       "price_label": "Price not available",
       "type_key": "music",

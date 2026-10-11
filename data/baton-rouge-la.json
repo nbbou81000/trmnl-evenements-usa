@@ -1,27 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-10T14:58:38.102Z",
+  "updated_at": "2026-10-11T15:16:31.221Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "THE CALIFORNIA HONEYDROPS - SWEET LIKE THAT TOUR 2026",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "YWCA Women's Empowerment Summit",
-      "venue_line": "F.G. Clark Activity Center - Southern University • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -201,6 +181,26 @@
       "price_label": "$21",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Clue Live On Stage!",
+      "venue_line": "Baton Rouge River Center Theater • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Where Y’Acht presents :: You Should be Dancin’ a Tribute to ABBA & The BeeGees",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,57 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-10T14:58:31.096Z",
+  "updated_at": "2026-10-11T15:16:25.223Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "UTEP FB v Nevada",
-      "venue_line": "Sun Bowl Stadium • El Paso",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "EPSO Presents: Harry Potter and the Prisoner of Azkaban in Concert",
-      "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "El Paso Locomotive FC vs. Orange County SC",
-      "venue_line": "Southwest University Park • El Paso",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Los Lonely Boys: Rockpango Fest 2026 - canceled",
-      "venue_line": "Abraham Chavez Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Intocable Cultura Tour 2026",
-      "venue_line": "El Paso County Coliseum • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-17",
       "title": "Broadway Rave - The Musical Theatre Dance Party (18 and Over)",
       "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Be Like Blippi Tour - Photo Experience Only",
+      "venue_line": "Abraham Chavez Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Blippi - Be Like Blippi",
+      "venue_line": "Abraham Chavez Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "In The Time Of The Butterflies-UTEP Theatre & Dance",
+      "venue_line": "June Sadowski Kruszewski Studio Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Theresa Caputo Live! The Experience",
+      "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Yandel - SINFÓNICO",
+      "venue_line": "Don Haskins Center • El Paso",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

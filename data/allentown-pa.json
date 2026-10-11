@@ -1,47 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-10T14:58:02.515Z",
+  "updated_at": "2026-10-11T15:16:00.566Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Nevertel",
-      "venue_line": "Arrow • Allentown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Whiskey Myers",
-      "venue_line": "The Wind Creek Event Center • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Lehigh Valley Phantoms v Cleveland Monsters",
-      "venue_line": "PPL Center • Allentown",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Hugo The Ultimate Journey Tribute",
-      "venue_line": "Penn's Peak • Jim Thorpe",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -197,6 +157,46 @@
       "day_number": "23",
       "date_iso": "2026-10-23",
       "title": "Rehash",
+      "venue_line": "Arrow • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Cinderella w/ United European Ballet Company",
+      "venue_line": "State Theatre- Easton • Easton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Price Is Right Live - On Stage",
+      "venue_line": "The Wind Creek Event Center • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Man In Black: Tribute To Johnny Cash",
+      "venue_line": "Penn's Peak • Jim Thorpe",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Millington",
       "venue_line": "Arrow • Allentown",
       "price_label": "Price not available",
       "type_key": "music",

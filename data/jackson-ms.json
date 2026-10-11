@@ -1,37 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-10T14:58:39.030Z",
+  "updated_at": "2026-10-11T15:16:32.096Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Mississippi Symphony Orchestra: American Celebration",
-      "venue_line": "Thalia Mara Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Mississippi State Fair Tri-state Rodeo",
-      "venue_line": "Kirk Fordice Equine Center • Jackson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Keller & The Keels",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -197,6 +167,36 @@
       "day_number": "29",
       "date_iso": "2026-10-29",
       "title": "Dorothy Moore: A Fifty Year Celebration of Misty Blue",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "It's A 2000's Halloween Party: Jackson",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Nether Hour",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Cuffing Season & Sarah Mootz w/ Special Guest The Whispering Trees",
       "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",

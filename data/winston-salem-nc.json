@@ -1,27 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-10T14:58:09.465Z",
+  "updated_at": "2026-10-11T15:16:06.523Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Carolina's One Big Dog Show",
-      "venue_line": "Greensboro Complex • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Zac Brown Band: Love & Fear Tour",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -197,6 +177,26 @@
       "day_number": "1",
       "date_iso": "2026-11-01",
       "title": "Greensboro Gargoyles vs Norfolk Admirals - Sunday Funday",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The Livest Homecoming Concert 2026",
+      "venue_line": "Lawrence Joel Veterans Memorial Coliseum • Winston Salem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Greensboro Gargoyles vs Maine Mariners - School Day",
       "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",

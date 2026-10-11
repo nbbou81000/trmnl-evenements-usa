@@ -1,27 +1,7 @@
 {
   "city_label": "Corpus Christi, TX",
-  "updated_at": "2026-10-10T14:58:31.592Z",
+  "updated_at": "2026-10-11T15:16:25.630Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "John Mulaney: Mister Whatever",
-      "venue_line": "Selena Auditorium • Corpus Christi",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Corpus Christi IceRays vs. El Paso Rhinos",
-      "venue_line": "Hilliard Center Arena • Corpus Christi",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Elmo's Got The Moves - Photo Experience",
+      "venue_line": "Selena Auditorium • Corpus Christi",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Elmo's Got the Moves",
+      "venue_line": "Selena Auditorium • Corpus Christi",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

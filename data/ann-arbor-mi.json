@@ -1,67 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-10T14:58:18.175Z",
+  "updated_at": "2026-10-11T15:16:14.090Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "USA Hockey National Team Development Program vs. Tri-City Storm",
-      "venue_line": "USA Hockey Arena • Plymouth",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Michigan Wolverines Hockey vs. University of Alaska Anchorage Seawolves Hockey",
-      "venue_line": "Yost Arena • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Michigan Wolverines Womens Volleyball vs. Oregon Ducks Womens Volleyball",
-      "venue_line": "Crisler Center • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Stephen Day",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "\"The Ritz - Reunion Show",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "FREE EVENT: White Lies Party!",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$0–$26",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-16",
       "title": "USA Hockey National Team Development Program vs. Dubuque Fighting Saints",
       "venue_line": "USA Hockey Arena • Plymouth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Coco Montoya, Jim McCarty",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$24–$148",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Michigan Wolverines Mens Basketball vs. Oregon State Beavers Mens Basketball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Beth Stelling: Let Me Get Loose   ",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$30",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "BOOTS & 808s: The Country x EDM Experience",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$13–$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Eastern Michigan Eagles Football vs. Toledo Rockets Football",
+      "venue_line": "Rynearson Stadium • Ypsilanti",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Michigan Wolverines Football vs. Penn State Nittany Lions Football",
+      "venue_line": "Michigan Stadium • Ann Arbor",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

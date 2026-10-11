@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-10T14:58:42.362Z",
+  "updated_at": "2026-10-11T15:16:34.881Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Colorado State University Rams Womens Volleyball vs. Oregon State Beavers Womens Volleyball",
-      "venue_line": "Moby Arena • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Colorado Eagles vs. Abbotsford Canucks",
-      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Melvin Seals w/ JGB",
+      "venue_line": "Aggie Theater • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Chaparelle w/ Shovelin Stone",
+      "venue_line": "Aggie Theater • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

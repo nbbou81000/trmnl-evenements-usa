@@ -1,37 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-10T14:58:32.877Z",
+  "updated_at": "2026-10-11T15:16:26.796Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Monster Jam",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Monster Jam",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Tatiana & Los Chicharrines - Tativerso Chicharrin",
-      "venue_line": "Payne Arena • Hidalgo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -196,6 +166,36 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
+      "title": "Disney On Ice: Magic in the Stars",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Disney On Ice: Magic in the Stars",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Disney On Ice: Magic in the Stars",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Disney On Ice: Magic in the Stars",
       "venue_line": "Bert Ogden Arena • Edinburg",
       "price_label": "Price not available",

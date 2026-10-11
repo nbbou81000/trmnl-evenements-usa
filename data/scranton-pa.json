@@ -1,27 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-10T14:58:03.448Z",
+  "updated_at": "2026-10-11T15:16:01.408Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Matt Mathews:  Not What I Ordered World Tour",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Matt Mathews: Not What I Ordered World Tour",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "The Phil Collins Story",
+      "venue_line": "F.M. Kirby Center • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Fetty Wap",
+      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

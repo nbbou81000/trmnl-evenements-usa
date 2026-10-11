@@ -1,6 +1,6 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-10T14:58:00.778Z",
+  "updated_at": "2026-10-11T15:15:59.304Z",
   "events": [
     {
       "day_label": "THU",
@@ -161,6 +161,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "9",
+      "date_iso": "2026-12-09",
+      "title": "Bouncing Souls",
+      "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

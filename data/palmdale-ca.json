@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-10T14:58:54.733Z",
+  "updated_at": "2026-10-11T15:16:45.385Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "NEKROMANTIX WITH REZUREX LIVE IN CONCERT OCT 10TH IN PALMDALE AT TRANSPLANTS",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -199,6 +189,16 @@
       "title": "DEFT PUNKS (DAFT PUNK TRIBUTE) / ODD HOURS (THE CURE, NIN, DEPECHE MODE TRIBUTE) / BROKEN RISE AS AMERICAN IDIOTS (GREEN DAY TRIBUTE)",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Halloween Trunk Or Trade market (Vendor link )",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$67–$314",
       "type_key": "music",
       "type_label": "Music"
     }

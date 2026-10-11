@@ -1,17 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-10T14:58:11.439Z",
+  "updated_at": "2026-10-11T15:16:08.177Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "South Carolina Ballet's Dracula: Ballet With A Bite!",
-      "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
+      "venue_line": "Savannah International Trade & Convention Center • Savannah",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

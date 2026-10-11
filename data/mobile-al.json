@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-10T14:58:40.799Z",
+  "updated_at": "2026-10-11T15:16:33.663Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "CANCELED: Double Feature Comedy Night feat. Dan Alten and Carson Taylor",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$21–$50",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "CANCELED: Nighttime with Carson Taylor",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -199,6 +179,26 @@
       "title": "Crescent Comedy Chaos",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$9",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Stagner's Showcase feat. Justin Stagner & Friends",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14–$50",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Laughs For Vets: Veterans Doing Comedy For Veterans",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$27–$84",
       "type_key": "misc",
       "type_label": "Other"
     }

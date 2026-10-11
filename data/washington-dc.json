@@ -1,21 +1,21 @@
 {
   "city_label": "Washington, DC",
-  "updated_at": "2026-10-10T14:58:04.941Z",
+  "updated_at": "2026-10-11T15:16:02.701Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Georgetown Hoyas Football vs. Bucknell Bison Football",
-      "venue_line": "Cooper Field • Washington",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Washington Commanders vs. New York Giants",
+      "venue_line": "Northwest Stadium • Landover",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Maybe Happy Ending",
       "venue_line": "The National Theatre • Washington",
       "price_label": "Price not available",
@@ -23,9 +23,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "The Score (play)",
       "venue_line": "Sidney Harman Hall • Washington",
       "price_label": "Price not available",
@@ -33,9 +33,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Merrily We Roll Along (Appropriate for mature teens and up. Children under 6 are not admitted at Signature)",
       "venue_line": "Signature Theatre • Arlington",
       "price_label": "Price not available",
@@ -43,19 +43,19 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "U.S. Women's National Team v Spain presented by Purina",
-      "venue_line": "Audi Field • Washington",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Poetry In Motion",
+      "venue_line": "Capital One Hall • Tysons",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Disney On Ice presents Spotlight Magic!",
       "venue_line": "EagleBank Arena • Fairfax",
       "price_label": "Price not available",
@@ -63,9 +63,19 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The VCO Presents: Masterworks in Motion",
+      "venue_line": "The Vault at Capital One Hall • Tysons",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
       "venue_line": "The Sage • Washington",
       "price_label": "Price not available",
@@ -73,29 +83,19 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "The Sage • Washington",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Washington Capitals vs. Seattle Kraken",
+      "venue_line": "Capital One Arena • Washington",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "MO LOWDA & THE HUMBLE - Tailing the Ghost Tour",
-      "venue_line": "9:30 CLUB • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
       "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
       "price_label": "Price not available",
@@ -103,9 +103,19 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Tokyo Tea Room - Feel Forever Tour",
+      "venue_line": "The Atlantis • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Disney On Ice presents Spotlight Magic!",
       "venue_line": "EagleBank Arena • Fairfax",
       "price_label": "Price not available",
@@ -113,9 +123,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Rafi Bastos",
       "venue_line": "Improv Comedy Club- DC • Washington",
       "price_label": "Price not available",
@@ -123,9 +133,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
       "venue_line": "The Sage • Washington",
       "price_label": "Price not available",
@@ -133,74 +143,64 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Tom Papa: Grateful Bread Tour",
-      "venue_line": "Warner Theatre • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Alex Falcone",
-      "venue_line": "DC Comedy Loft and Bier Baron Tavern • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Olivia O'Brien Presents: The PIXIE Tour",
-      "venue_line": "The Atlantis • Washington",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Ellis Paul w/ Shanna in a Dress",
+      "venue_line": "Jammin Java • Vienna",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Wizards v Pistons (Preseason Game)",
-      "venue_line": "Capital One Arena • Washington",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Wizards VIP Packages: 10/10/2026 (Preseason)",
-      "venue_line": "Capital One Arena • Washington",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Bayonne",
-      "venue_line": "Union Stage • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Maybe Happy Ending",
       "venue_line": "The National Theatre • Washington",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Dan and Phil: Hard Launch World Tour",
+      "venue_line": "DAR Constitution Hall • Washington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The Score (play)",
+      "venue_line": "Sidney Harman Hall • Washington",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Merrily We Roll Along (Appropriate for mature teens and up. Children under 6 are not admitted at Signature)",
+      "venue_line": "Signature Theatre • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "An Intimate Evening with Tamar Braxton & Friends",
+      "venue_line": "Howard Theatre • Washington",
+      "price_label": "$118",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

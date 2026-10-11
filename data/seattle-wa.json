@@ -1,21 +1,11 @@
 {
   "city_label": "Seattle, WA",
-  "updated_at": "2026-10-10T14:58:56.510Z",
+  "updated_at": "2026-10-11T15:16:46.997Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Smoke On the Mountain",
-      "venue_line": "Taproot Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Water for Elephants (Touring)",
       "venue_line": "Paramount Theatre • Seattle",
       "price_label": "Price not available",
@@ -23,49 +13,139 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Conscience",
-      "venue_line": "Taproot Theatre • Seattle",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Seattle Seahawks vs. San Francisco 49ers",
+      "venue_line": "Lumen Field • Seattle",
       "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Gaurav Kapoor",
-      "venue_line": "Moore Theatre • Seattle",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Tacoma Opera Presents: Die Walküre",
+      "venue_line": "Pantages Theater • Tacoma",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Lumen Field Stadium Tours",
-      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Jeff Goldblum & the Mildred Snitzer Orchestra with the Seattle Symphony",
+      "venue_line": "Taper Auditorium • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "*SOLD OUT* Clock-Out Lounge Presents: Sunday Funday- all ages drag and bingo!",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Dearheart, The Requisite, Glass Cannons",
+      "venue_line": "Chop Suey • Seattle",
+      "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Water for Elephants (Touring)",
+      "venue_line": "Paramount Theatre • Seattle",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Scary Stories: A Night of Tales Told in the Dark",
+      "venue_line": "Smoke & Cedar at Muckleshoot Casino Resort • Auburn",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "FINAL NOTICE: Emanuel Brown, Saynave, 2kMANSON & DJ Toña",
-      "venue_line": "Chop Suey • Seattle",
-      "price_label": "$19",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Jeff Goldblum",
+      "venue_line": "Benaroya Hall • Seattle",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Seattle",
+      "venue_line": "El Corazon • Seattle",
+      "price_label": "$59–$277",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Wolves of Glendale (21+ Event)",
+      "venue_line": "Nectar Lounge • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "The Blair Witch Project: Film Screening and Q&A",
+      "venue_line": "The 5th Avenue Theatre • Seattle",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Boy Harsher w/ True Blue",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Eslabon Armado - Amor Nocturno",
+      "venue_line": "Moore Theatre • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "KISHI BASHI: Sonderlust 10th Anniversary Tour w/ Geographer",
       "venue_line": "The Crocodile • Seattle",
       "price_label": "$49",
@@ -73,109 +153,9 @@
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Kai Wachi",
-      "venue_line": "WAMU Theater • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "WAMU Theater Amplified Access: Kai Wachi (Not an Event Ticket)",
-      "venue_line": "WAMU Theater • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "The Menzingers: Everything I Ever Saw North American Tour",
-      "venue_line": "Neptune Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Washington Huskies Mens Soccer vs. Northwestern Wildcats Mens Soccer",
-      "venue_line": "Husky Soccer Stadium • Seattle",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Smoke On the Mountain",
-      "venue_line": "Taproot Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "RUSH: Fifty Something",
-      "venue_line": "Climate Pledge Arena • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Conscience",
-      "venue_line": "Taproot Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Santiago Cruz",
-      "venue_line": "Ballard Homestead • Seattle",
-      "price_label": "$60",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "The Dresden Dolls: Yes, Virginia (Tailor's Version)",
-      "venue_line": "The 5th Avenue Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Water for Elephants (Touring)",
-      "venue_line": "Paramount Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Sammy Rae and The Friends w/ Melt",
       "venue_line": "Showbox SODO • Seattle",
       "price_label": "Price not available",
@@ -183,24 +163,44 @@
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "SATIN JACKETS with Manatee Commune and Justin Hartinger (21+ Event)",
-      "venue_line": "Nectar Lounge • Seattle",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Hiss Golden Messenger: I'm People Tour w/ Sam Amidon (NIGHT TWO)",
+      "venue_line": "Tractor • Seattle",
+      "price_label": "$38",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Tractor Presents: Anna Graves w/ Kate Dinsmore AT The Sunset",
+      "venue_line": "Tractor • Seattle",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Flammable",
+      "venue_line": "Chop Suey • Seattle",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "SOLD OUT! Hiss Golden Messenger: I'm People Tour w/ Sam Amidon (NIGHT ONE)",
-      "venue_line": "Tractor • Seattle",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

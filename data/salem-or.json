@@ -1,17 +1,7 @@
 {
   "city_label": "Salem, OR",
-  "updated_at": "2026-10-10T14:58:55.610Z",
+  "updated_at": "2026-10-11T15:16:46.187Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "The Blair Witch Project - Film Screening and Q&A",
-      "venue_line": "Elsinore Theatre • Salem",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Straight No Chaser",
+      "venue_line": "Elsinore Theatre • Salem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "WED",

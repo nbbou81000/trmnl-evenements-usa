@@ -1,21 +1,11 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-10-10T14:58:54.293Z",
+  "updated_at": "2026-10-11T15:16:44.997Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Ultimate Fan Experience",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Santa Anita Oktoberfest",
       "venue_line": "Santa Anita Park • Arcadia",
       "price_label": "Price not available",
@@ -23,9 +13,19 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Beauty And The Beast (Touring)",
+      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Live Racing at Santa Anita Park",
       "venue_line": "Santa Anita Park • Arcadia",
       "price_label": "Price not available",
@@ -33,9 +33,79 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "La Mirada Theatre presents: Little Shop of Horrors",
+      "venue_line": "La Mirada Theatre for the Performing Arts • La Mirada",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Come from Away (Touring)",
+      "venue_line": "A Noise Within • Pasadena",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Reggae Sunday (Early Show): Einstein Brown",
+      "venue_line": "Ivan'z House at Mozambique • Laguna Beach",
+      "price_label": "$7–$212",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Tomorrows Bad Seeds, Reefas, Nice & Swell, Capital Dub, Resent The World at Garden Amp",
+      "venue_line": "Garden Amphitheatre • Garden Grove",
+      "price_label": "$17",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Tokyo Kanpai Boys (This Show is Performed in English)",
+      "venue_line": "Brea Improv • Brea",
+      "price_label": "$43–$132",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Rocky Dale Davis",
+      "venue_line": "Irvine Improv • Irvine",
+      "price_label": "$31–$102",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "La Mirada Theatre presents: Little Shop of Horrors",
+      "venue_line": "La Mirada Theatre for the Performing Arts • La Mirada",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
       "title": "Beauty And The Beast (Touring)",
       "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
       "price_label": "Price not available",
@@ -43,164 +113,94 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Funny & Pink: Comedy Show & Breast Cancer Awareness Award Ceremony",
-      "venue_line": "The Stand Up Comedy Club • Bellflower",
-      "price_label": "$25–$171",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Xzibit w/ Full Band",
-      "venue_line": "Garden Amphitheatre • Garden Grove",
-      "price_label": "$31–$47",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Rachel Bochner: The \"Sorry If It's Selfish\" Tour",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Dälek",
       "venue_line": "The Moroccan Lounge • Los Angeles",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Dying Fetus w/ Sanguisugabogg",
-      "venue_line": "The Novo by Microsoft • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Phillip Phillips",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Hokus Pokus Live!",
       "venue_line": "House of Blues Anaheim • Anaheim",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Knowing Forever (18+)",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "El Ten Eleven",
       "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Jeff Arcuri",
-      "venue_line": "Brea Improv • Brea",
-      "price_label": "$56",
-      "type_key": "misc",
-      "type_label": "Other"
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Al Jardine of The Beach Boys with the Pet Sounds Band",
+      "venue_line": "Cerritos Center for the Performing Arts • Cerritos",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Deer Tick",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Diles Que No Me Maten",
       "venue_line": "Constellation Room • Santa Ana",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Phil Medina Live",
-      "venue_line": "The Stand Up Comedy Club • Bellflower",
-      "price_label": "$19–$129",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "josh conway: the plum tour",
+      "venue_line": "The Observatory • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "Reggae Sunday: Upstream",
+      "venue_line": "Ivan'z House at Mozambique • Laguna Beach",
+      "price_label": "$15–$315",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "JO1",
+      "venue_line": "The Novo by Microsoft • Los Angeles",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "PEARL JAM + NIRVANA + ALICE IN CHAINS + SOUNDGARDEN TRIBUTES  (Vitalogy + Nirvanish + Memory Layne + Spoonmen) ... MOUNT GRUNGEMORE CONCERT!",
-      "venue_line": "Gaslamp Long Beach • Long Beach",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Amir K",
-      "venue_line": "Irvine Improv • Irvine",
-      "price_label": "$37",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Enter Shikari: North America 2026",
+      "day_label": "SUN",
+      "day_number": "11",
+      "date_iso": "2026-10-11",
+      "title": "WILLOW",
       "venue_line": "Pacific Electric • Los Angeles",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "THE ROCKY HORROR PICTURE SHOW ORIGINAL CAST SPOOKTACULAR TOUR",
-      "venue_line": "DigAlert Grove of Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Classical: Gershwin, Copland, and Visions of Humanity & Unity",
-      "venue_line": "Terrace Theater - Long Beach Convention and Entertainment Center • Long Beach",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Come from Away (Touring)",
-      "venue_line": "A Noise Within • Pasadena",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     }
   ]
 }

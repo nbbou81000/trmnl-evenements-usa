@@ -1,67 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-10T14:58:19.547Z",
+  "updated_at": "2026-10-11T15:16:15.332Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "SGHR and JBM Presents Robbie Fulks",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "JBM Promotions & tSGHR present Robbie Fulks",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Karyn White: The Evolution Tour",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "The Beach Boys",
-      "venue_line": "PNC PAVILION • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Parker Barrow",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Sploinky Rave: Cincinnati (18+)",
-      "venue_line": "Bogart's • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -199,6 +139,66 @@
       "title": "Supersuckers, The Rumours",
       "venue_line": "The Southgate House Revival - Revival Room • Newport",
       "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Open Mic Show & Tell with Adam Flaig",
+      "venue_line": "The Southgate House Revival - The Lounge • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "FC Cincinnati vs. New England Revolution",
+      "venue_line": "TQL Stadium • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "JOHN SCOFIELD: ELECTROSPECTIVE",
+      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Ghostbusters In Concert",
+      "venue_line": "Taft Theatre • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Noah Smith's Crooner Circus",
+      "venue_line": "The Southgate House Revival - Revival Room • Newport",
+      "price_label": "$17–$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Crooner Family 3 Month Package",
+      "venue_line": "The Southgate House Revival - Revival Room • Newport",
+      "price_label": "$104",
       "type_key": "music",
       "type_label": "Music"
     }

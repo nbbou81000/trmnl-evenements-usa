@@ -1,37 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-10T14:58:02.990Z",
+  "updated_at": "2026-10-11T15:16:00.982Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Rhododendron",
-      "venue_line": "Capital City Music Hall Lower Level • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Hershey Bears vs. Texas Stars - Country Night",
-      "venue_line": "GIANT Center • Hershey",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "10",
-      "date_iso": "2026-10-10",
-      "title": "Whiskey Glasses Nashville - Morgan Wallen Tribute",
-      "venue_line": "XL Live • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "11",
@@ -197,6 +167,36 @@
       "day_number": "18",
       "date_iso": "2026-10-18",
       "title": "Spite",
+      "venue_line": "Capital City Music Hall • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Old Crow Medicine Show",
+      "venue_line": "Appell Center for the Performing Arts • York",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Here Come the Mummies",
+      "venue_line": "XL Live • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Rewind: 2000s Halloween Rave",
       "venue_line": "Capital City Music Hall • Harrisburg",
       "price_label": "Price not available",
       "type_key": "music",
