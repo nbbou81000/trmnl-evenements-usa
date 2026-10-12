@@ -1,47 +1,7 @@
 {
   "city_label": "Raleigh, NC",
-  "updated_at": "2026-10-11T15:16:05.271Z",
+  "updated_at": "2026-10-12T18:29:25.876Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Two Dykes and a Mic: Soaking Wet Tour",
-      "venue_line": "Raleigh Improv • Cary",
-      "price_label": "$33–$108",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "North Carolina State Wolfpack Womens Volleyball vs. Boston College Eagles Womens Volleyball",
-      "venue_line": "Reynolds Coliseum • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "beabadoobee: The Powerlines Tour",
-      "venue_line": "Lenovo Center • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Adrián Uribe: 50 y Pico Tour",
-      "venue_line": "DPAC • Durham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "North Carolina Symphony - Rhapsody In Blue",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "North Carolina State University Wolfpack Baseball vs. North Carolina Tar Heels Baseball",
+      "venue_line": "Durham Bulls Athletic Park • Durham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Avery Anna - Blood Runs Thicker Tour",
+      "venue_line": "The Ritz • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Rene Vaca",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$33–$108",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Santa Rosa, CA",
-  "updated_at": "2026-10-11T15:16:43.787Z",
+  "updated_at": "2026-10-12T18:30:08.825Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Country Line Dance",
-      "venue_line": "HopMonk Tavern - Novato • Novato",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jackie Greene",
-      "venue_line": "HopMonk Tavern - Novato • Novato",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-06",
       "title": "Grant Lee Phillips (21+)",
       "venue_line": "HopMonk Tavern - Novato • Novato",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Leonid & Friends",
+      "venue_line": "Luther Burbank Center • Santa Rosa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Leonid & Friends",
+      "venue_line": "Luther Burbank Center for the Arts • Santa Rosa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

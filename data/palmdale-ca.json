@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-11T15:16:45.385Z",
+  "updated_at": "2026-10-12T18:30:10.742Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "FREE SHOW: PSYCHOTIC REACTION / DIZZ BREW / LESS THAN PERFECT / TALVEZ",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +191,16 @@
       "price_label": "$67–$314",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Trunk Or Treat",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

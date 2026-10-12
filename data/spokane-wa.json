@@ -1,57 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-11T15:16:47.791Z",
+  "updated_at": "2026-10-12T18:30:13.595Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Halloween X-SPO",
-      "venue_line": "Spokane Convention Center • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Disney Worlds Collide Concert Tour",
-      "venue_line": "Numerica Veterans Arena • Spokane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Luke Bryan: Word On The Street Tour",
-      "venue_line": "BECU Live at Northern Quest • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Luke Bryan: Word On The Street Tour",
-      "venue_line": "BECU Live Outdoor Venue • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Mia Asano, DEADGRACE",
-      "venue_line": "The District • Spokane",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -181,6 +131,56 @@
       "price_label": "$35",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Monster Jam",
+      "venue_line": "Numerica Veterans Arena • Spokane",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "& Juliet (Touring)",
+      "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Eastern Washington Eagles Football vs. Montana State Bobcats Football",
+      "venue_line": "Roos Field • Cheney",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Jazz Room 6PM Show (10/17)",
+      "venue_line": "The District • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Spokane Velocity FC vs. Chattanooga Red Wolves SC",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

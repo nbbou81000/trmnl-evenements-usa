@@ -1,57 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-11T15:16:37.287Z",
+  "updated_at": "2026-10-12T18:30:01.595Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Disney On Ice presents Jump In!",
-      "venue_line": "Tucson Arena • Tucson",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Arizona Wildcats Womens Soccer vs. Iowa State Cyclones Womens Soccer",
-      "venue_line": "Murphey Field at Mulcahy Stadium • Tucson",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Concierto de Aranjuez : Tucson Symphony Orchestra",
-      "venue_line": "Catalina Foothills High School • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Disney On Ice presents Jump In!",
-      "venue_line": "Tucson Arena • Tucson",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jonathan Van Ness: Hot & Healed Comedy Tour 2026 @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-17",
       "title": "Fresh Tracks By The Tracks @ 191 Toole",
       "venue_line": "191 Toole • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Hannibal Buress @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Boots in the Park",
+      "venue_line": "Rillito Park • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Fandangos and Malambos : Tucson Symphony Orchestra",
+      "venue_line": "Tucson Symphony Center • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Carl Sagan: We Are Made Of Star Stuff",
+      "venue_line": "Marroney Theatre • Tucson",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Iration @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

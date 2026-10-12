@@ -1,77 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-11T15:16:32.508Z",
+  "updated_at": "2026-10-12T18:29:55.955Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Certainly So",
-      "venue_line": "Lakeview Marina Music Park • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Brigitte Calls Me Baby",
-      "venue_line": "Saturn Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Daniel Tosh Official BJCC Ticket+ Hotel Packages",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Daniel Tosh: My First Farewell Tour",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Elevation Worship  | Official Ticket + Hotel Packages",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Elevation Worship & Steven Furtick - Fall Tour 2026",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Brigitte Calls Me Baby",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Anthony Nelson, Guntram, Slap Out",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ballin in Boutwell - Alabama vs. UAH (Women's)",
+      "venue_line": "Boutwell Auditorium • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "UAB Blazers Football | Official BJCC Ticket + Hotel Packages ",
+      "venue_line": "Protective Stadium • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "UAB Blazers Football vs. East Carolina Pirates College Football",
+      "venue_line": "Protective Stadium • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The STARS Tour featuring Anne Wilson",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Maggie Rose",
+      "venue_line": "Lakeview Marina Music Park • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Bela Fleck: My Bluegrass Heart",
+      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

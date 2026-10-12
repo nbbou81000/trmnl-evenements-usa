@@ -1,76 +1,16 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-11T15:16:13.683Z",
+  "updated_at": "2026-10-12T18:29:34.960Z",
   "events": [
     {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Grand Rapids Griffins vs. Chicago Wolves",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Psychoblab Studios Presents: Drink and Draw",
+      "day_label": "MON",
+      "day_number": "12",
+      "date_iso": "2026-10-12",
+      "title": "Metal Mondays",
       "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
       "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Mariachazo",
-      "venue_line": "DeVos Performance Hall • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Deerhoof + Clawfoot",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Scene Queen: METALICIOUS",
-      "venue_line": "The Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Deerhoof",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Scene Queen: METALICIOUS",
-      "venue_line": "Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "MON",
@@ -153,6 +93,26 @@
       "type_label": "Music"
     },
     {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Tip Top Tuesday Comedy",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Tip Top's Open Mic Hosted by Sound guy Cliff and Rowdy Fingers",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
       "day_label": "WED",
       "day_number": "14",
       "date_iso": "2026-10-14",
@@ -171,6 +131,16 @@
       "price_label": "$27",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Emo Night",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "THU",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Wheeler Walker Jr.",
+      "venue_line": "Intersection • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Ryan Bingham and The Texas Gentlemen - Still Gettin' Away With It Tour",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "The Notebook (Touring)",
+      "venue_line": "DeVos Performance Hall • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

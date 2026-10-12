@@ -1,47 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-11T15:16:02.242Z",
+  "updated_at": "2026-10-12T18:29:22.403Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hartford Wolfpack vs. Laval Rocket",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Springfield Thunderbirds vs. Charlotte Checkers",
-      "venue_line": "MassMutual Center • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Apple Hill String Quartet",
-      "venue_line": "The Drake - Amherst • Amherst",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Mount Eerie",
+      "venue_line": "Academy of Music Theatre - MA • Northampton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Tab Benoit w/ Ghalia Volt",
+      "venue_line": "Academy of Music Theatre - MA • Northampton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "UConn Huskies Womens Basketball vs. Texas Longhorns Womens Basketball",
+      "venue_line": "PeoplesBank Arena • Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

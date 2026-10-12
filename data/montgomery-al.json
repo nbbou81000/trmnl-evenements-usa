@@ -1,7 +1,17 @@
 {
   "city_label": "Montgomery, AL",
-  "updated_at": "2026-10-11T15:16:33.284Z",
+  "updated_at": "2026-10-12T18:29:56.836Z",
   "events": [
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "2026 TASTE OF THE FAIR",
+      "venue_line": "Alabama National Fair • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -187,16 +197,6 @@
       "day_number": "6",
       "date_iso": "2026-12-06",
       "title": "Brian Free & Assurance and Jeff & Sherri Easter",
-      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "8",
-      "date_iso": "2026-12-08",
-      "title": "Motown Christmas",
       "venue_line": "Montgomery Performing Arts Centre • Montgomery",
       "price_label": "Price not available",
       "type_key": "music",

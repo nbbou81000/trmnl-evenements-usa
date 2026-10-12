@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-11T15:16:14.090Z",
+  "updated_at": "2026-10-12T18:29:35.380Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Michigan Wolverines Mens Basketball vs. Eastern Michigan Eagles Mens Basketball",
-      "venue_line": "Crisler Center • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "JCW Presents: Lunacy Live",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$0–$24",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Raputa - J Geils Tribute, Detroit Speed Wagon - REO Speed Wagon Tribute",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$12–$100",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Broadway Rave",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

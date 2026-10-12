@@ -1,27 +1,7 @@
 {
   "city_label": "Shreveport, LA",
-  "updated_at": "2026-10-11T15:16:31.645Z",
+  "updated_at": "2026-10-12T18:29:55.070Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jurassic Quest | Shreveport Convention Center | Shreveport, LA 2026",
-      "venue_line": "Shreveport Convention Center • Shreveport",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jurassic Quest | Shreveport Convention Center | Shreveport, LA 2026",
-      "venue_line": "Shreveport Convention Center • Shreveport",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -181,6 +161,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "10",
+      "date_iso": "2026-12-10",
+      "title": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+      "venue_line": "Brookshire Grocery Arena • Bossier City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-11T15:15:55.567Z",
+  "updated_at": "2026-10-12T18:29:14.970Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Stephane Wrembel",
-      "venue_line": "Lovin' Cup • Rochester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Stéphane Wrembel: Rochester Concert Series - Django Brunch",
-      "venue_line": "Lovin' Cup • Rochester",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Rochester Americans vs. Hershey Bears",
+      "venue_line": "Blue Cross Arena • Rochester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Magic Hunks",
+      "venue_line": "Anthology - Rochester • Rochester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

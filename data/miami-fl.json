@@ -1,117 +1,7 @@
 {
   "city_label": "Miami, FL",
-  "updated_at": "2026-10-11T15:16:09.441Z",
+  "updated_at": "2026-10-12T18:29:30.437Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Luxury & Suites: Miami Dolphins v Cincinnati Bengals",
-      "venue_line": "Hard Rock Stadium • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Miami Dolphins v Cincinnati Bengals",
-      "venue_line": "Hard Rock Stadium • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "El Perro del Hortelano",
-      "venue_line": "Aventura Arts & Cultural Center • Aventura",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "CABRINI",
-      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Slow Burn Theatre Co: Come From Away",
-      "venue_line": "Amaturo Theater at Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Bethel Music 2026 Tour",
-      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Black Violin",
-      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Arcángel - La 8va Maravilla World Tour",
-      "venue_line": "Kaseya Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Quavo",
-      "venue_line": "LIV Nightclub Miami • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Inter Miami CF vs New York City FC",
+      "venue_line": "Nu Stadium • Miami",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Buena Vista Social Club (Touring)",
+      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Freya Skye - Stars Align Tour",
+      "venue_line": "Hard Rock Live • Hollywood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Don Soffer Aventura High School: Rome & Julie",
+      "venue_line": "Aventura Arts & Cultural Center • Aventura",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Toadies: The Charmer Tour",
+      "venue_line": "Revolution Live • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Buena Vista Social Club (Touring)",
+      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Slow Burn Theatre Co: Come From Away",
+      "venue_line": "Amaturo Theater at Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Def Leppard",
+      "venue_line": "Hard Rock Live • Hollywood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

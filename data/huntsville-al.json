@@ -1,47 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-11T15:16:32.891Z",
+  "updated_at": "2026-10-12T18:29:56.414Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Ellen Skrmetti",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$40–$53",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Phish - 2 Day Pass",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Phish",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Phish",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +161,46 @@
       "price_label": "$40–$60",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Stand Up for Jamey: Autism Benefit Show",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$27",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Huntsville Havoc Vs. Pensacola Ice Flyers",
+      "venue_line": "Von Braun Center Propst Arena • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Pat McGann",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$27",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
+      "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

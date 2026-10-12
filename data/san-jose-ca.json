@@ -1,147 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-11T15:16:41.327Z",
+  "updated_at": "2026-10-12T18:30:06.075Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thomas and Percy's Halloween Party(TM)",
-      "venue_line": "Roaring Camp Railroads • Felton",
-      "price_label": "$25–$29",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thomas and Percy's Halloween Party(TM)",
-      "venue_line": "Roaring Camp Railroads • Felton",
-      "price_label": "$27–$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thomas and Percy's Halloween Party(TM)",
-      "venue_line": "Roaring Camp Railroads • Felton",
-      "price_label": "$27–$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thomas and Percy's Halloween Party(TM)",
-      "venue_line": "Roaring Camp Railroads • Felton",
-      "price_label": "$27–$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thomas and Percy's Halloween Party(TM)",
-      "venue_line": "Roaring Camp Railroads • Felton",
-      "price_label": "$27–$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "AC Myles & Band: Stratocaster Masters",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Kronos Quartet",
-      "venue_line": "Bing Concert Hall • Stanford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thomas and Percy's Halloween Party(TM)",
-      "venue_line": "Roaring Camp Railroads • Felton",
-      "price_label": "$25–$29",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thomas and Percy's Halloween Party(TM)",
-      "venue_line": "Roaring Camp Railroads • Felton",
-      "price_label": "$25–$29",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Chingo Bling",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$31–$102",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Phantom of the Opera - Open Caption Performance",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Bruno Mars - The Romantic Tour",
-      "venue_line": "Levi's® Stadium • Santa Clara",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Air Supply",
-      "venue_line": "Mountain Winery • Saratoga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +61,146 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "San Jose Barracuda vs. Calgary Wranglers",
+      "venue_line": "Tech CU Arena • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Open Mic at the San Jose Improv",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$5",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "The Phantom of the Opera (Touring)",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Juanes North America Tour 2026",
+      "venue_line": "San Jose Civic • San Jose",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Jay Buchanan",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Moe's Alley Presents: Alborosie & Shengen Clan w/ Rise Up + Selecta 7",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Santa Clara Broncos Womens Volleyball vs. Pacific Tigers Womens Volleyball",
+      "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Phantom of the Opera (Touring)",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "RUSH: Fifty Something",
+      "venue_line": "SAP Center at San Jose • San Jose",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "RANDY FELTFACE: GIMMICK!",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$31–$102",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Andre Cruz & The Black Diamond Rhythm Band w/ Trianna Feruza & The Heavy Hitters",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "San Jose Barracuda vs. Calgary Wranglers",
+      "venue_line": "Tech CU Arena • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Stanford Cardinal Womens Volleyball vs. Wake Forest Demon Deacons Womens Volleyball",
+      "venue_line": "Maples Pavilion • Stanford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Are You Garbage Podcast: Army of Garbage Tour",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$37–$108",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

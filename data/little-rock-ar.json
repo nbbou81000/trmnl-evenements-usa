@@ -1,17 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-11T15:16:28.761Z",
+  "updated_at": "2026-10-12T18:29:51.915Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Chiodos",
-      "venue_line": "The Hall • Little Rock",
-      "price_label": "$53–$75",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Beetlejuice (Touring)",
+      "venue_line": "Robinson Center • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,47 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-11T15:15:57.210Z",
+  "updated_at": "2026-10-12T18:29:16.815Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hartford Wolfpack vs. Laval Rocket",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Springfield Thunderbirds vs. Charlotte Checkers",
-      "venue_line": "MassMutual Center • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Dave East",
-      "venue_line": "Webster Underground • Hartford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-17",
       "title": "Cheyenne Jackson",
       "venue_line": "Bushnell/ Belding Theater • Hartford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "ROAR! Comedy: Matty Chymbor",
+      "venue_line": "The Armory at MGM Springfield • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Y2k Take Over: Bow Wow & Pretty Ricky",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Little Big Town - For The Art Of It Tour",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

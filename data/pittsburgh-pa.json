@@ -1,47 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-11T15:15:54.755Z",
+  "updated_at": "2026-10-12T18:29:14.012Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Pittsburgh Steelers v Colts: 1933 Club Pass (NOT A GAME TICKET)",
-      "venue_line": "Acrisure Stadium • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Pittsburgh Steelers vs. Indianapolis Colts",
-      "venue_line": "Acrisure Stadium • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
-      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Ian McConnell w/ Cherokee Social",
-      "venue_line": "Club Cafe • Pittsburgh",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -199,6 +159,46 @@
       "title": "RH Pioneers + Jacob Perez w/ Cody Piper",
       "venue_line": "Club Cafe • Pittsburgh",
       "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "412 Football Classic Penn Hills vs. Moon Area",
+      "venue_line": "F.N.B. Stadium • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Pittsburgh Panthers Womens Volleyball vs. Florida State Seminoles Womens Volleyball",
+      "venue_line": "Victory Heights Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour with Colton Bowlin",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

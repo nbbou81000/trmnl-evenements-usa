@@ -1,77 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-11T15:16:11.144Z",
+  "updated_at": "2026-10-12T18:29:32.262Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "TNA Bound for Glory - Tampa",
-      "venue_line": "Yuengling Center • Tampa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Buena Vista Social Club (Touring)",
-      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "A Tribute to Demon Hunters",
-      "venue_line": "Ruth Eckerd Hall • Clearwater",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Kyle Gordon in Tampa",
-      "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Excel Music: Fall Recital 2026",
-      "venue_line": "USF Barness Recital Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "Benchmark International Arena • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -86,7 +16,7 @@
       "day_label": "MON",
       "day_number": "12",
       "date_iso": "2026-10-12",
-      "title": "TBD at Tampa Bay Rays: ALCS (Home Game 1)",
+      "title": "Cleveland Guardians at Tampa Bay Rays: ALCS (Home Game 1)",
       "venue_line": "Tropicana Field • Saint Petersburg",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -126,7 +56,7 @@
       "day_label": "TUE",
       "day_number": "13",
       "date_iso": "2026-10-13",
-      "title": "TBD at Tampa Bay Rays: ALCS (Home Game 2)",
+      "title": "Cleveland Guardians at Tampa Bay Rays: ALCS (Home Game 2)",
       "venue_line": "Tropicana Field • Saint Petersburg",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Cavetown - Running With Scissors Tour",
+      "venue_line": "Jannus Live • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Earthquake",
+      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Dan + Shay: The Young Tour",
+      "venue_line": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Bassem Youssef: The Belly of the Beast Tour",
+      "venue_line": "Tampa Theatre • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Earthquake",
+      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Tampa Bay Lightning vs. Vancouver Canucks",
+      "venue_line": "Benchmark International Arena • Tampa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Toadies: The Charmer Tour",
+      "venue_line": "Jannus Live • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

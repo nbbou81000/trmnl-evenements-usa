@@ -1,6 +1,6 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-10-11T15:16:11.547Z",
+  "updated_at": "2026-10-12T18:29:32.764Z",
   "events": [
     {
       "day_label": "THU",
@@ -8,6 +8,16 @@
       "date_iso": "2026-10-22",
       "title": "2026 FAMU Homecoming Concert",
       "venue_line": "FAMU Al Lawson Jr. Multipurpose Center • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "2026 Rattler Strike Band Festival",
+      "venue_line": "FAMU Bragg Memorial Stadium • Tallahassee",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "19",
-      "date_iso": "2026-11-19",
-      "title": "The Revivalists",
-      "venue_line": "Adderley Amphitheater at Cascades Park • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

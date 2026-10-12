@@ -1,17 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-11T15:16:19.863Z",
+  "updated_at": "2026-10-12T18:29:41.698Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Temptations w/ Four Tops",
-      "venue_line": "Juanita K. Hammons Hall • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "MercyMe",
       "venue_line": "Great Southern Bank Arena • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Fear Factory",
+      "venue_line": "Regency - MO • Springfield",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

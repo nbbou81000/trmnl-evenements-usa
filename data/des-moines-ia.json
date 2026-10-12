@@ -1,17 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-11T15:16:21.055Z",
+  "updated_at": "2026-10-12T18:29:43.188Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Cradle of Filth w/ Moonspell",
-      "venue_line": "Val Air Ballroom • West Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Thomas Rhett: The Soundtrack to Life Tour",
+      "venue_line": "Casey's Center • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "THU",

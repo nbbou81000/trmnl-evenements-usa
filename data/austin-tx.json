@@ -1,57 +1,7 @@
 {
   "city_label": "Austin, TX",
-  "updated_at": "2026-10-11T15:16:24.824Z",
+  "updated_at": "2026-10-12T18:29:47.581Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Gospel Brunch: The Levites",
-      "venue_line": "Stubb's Indoors • Austin",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Austin City Limits Festival",
-      "venue_line": "Zilker Park • Austin",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Austin City Limits Music Festival - Weekend Two",
-      "venue_line": "Zilker Park • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Mariachi El Bronx",
-      "venue_line": "Come and Take It Live • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Nate Jackson",
-      "venue_line": "Cap City Comedy Club • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-14",
       "title": "Peter Case",
       "venue_line": "04 Center • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Gus Heagerty",
+      "venue_line": "Cap City Comedy Club • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Expedited Entry & Social Club - Ziggy Marley and Gov't Mule (4-6PM) ",
+      "venue_line": "Moody Amphitheater • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "DYING FETUS & SANGUISUGABOGG",
+      "venue_line": "Emo's Austin • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Bright Eyes",
+      "venue_line": "Stubb's Waller Creek Amphitheater • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Premium Seating - Ziggy Marley and Gov't Mule",
+      "venue_line": "Moody Amphitheater • Austin",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

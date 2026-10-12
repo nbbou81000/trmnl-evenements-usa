@@ -1,67 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-11T15:16:19.474Z",
+  "updated_at": "2026-10-12T18:29:41.229Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Second Sunday Presents: The Homecoming",
-      "venue_line": "Atomic Pavilion • St. Louis",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Mr. & Miss Cosmopolitan",
-      "venue_line": "The Hawthorn • St. Louis",
-      "price_label": "$72",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "St. Louis City SC vs. Los Angeles Galaxy",
-      "venue_line": "Energizer Park • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Grief Sucks: A One Man Show By KevOnStage",
-      "venue_line": "The Pageant • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Robin Trower",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Bear Ghost",
-      "venue_line": "Old Rock House • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Glass Tides",
+      "venue_line": "Atomic Lounge • St. Louis",
+      "price_label": "$0–$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "St. Louis County Library Foundation Presents D.L. Hughley",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Crowder",
+      "venue_line": "Faith Church - St. Louis • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "SOLD OUT! Crowder LIVE! - Sunset Hills, MO",
+      "venue_line": "Faith Church - St. Louis • Sunset Hills",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Fabulous Fox Theatre - St. Louis • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "DECEIVED by Johnna Wright and Patty Jamieson, Directed by Sharon Hunter",
+      "venue_line": "The Gaslight Theater • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

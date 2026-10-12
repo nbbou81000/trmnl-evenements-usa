@@ -1,87 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-11T15:16:47.399Z",
+  "updated_at": "2026-10-12T18:30:13.172Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Seahawks Viewing Party ",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$2",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Seattle Seahawks vs. San Francisco 49ers",
-      "venue_line": "Lumen Field • Seattle",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Tacoma Opera Presents: Die Walküre",
-      "venue_line": "Pantages Theater • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "*SOLD OUT* Clock-Out Lounge Presents: Sunday Funday- all ages drag and bingo!",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Scary Stories: A Night of Tales Told in the Dark",
-      "venue_line": "Smoke & Cedar at Muckleshoot Casino Resort • Auburn",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Kym Whitley",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$29–$41",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Sammy Rae and The Friends w/ Melt",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Boy Harsher w/ True Blue",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Emmett Montgomery and Brett Hamil Present: Joketellers Union",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$15",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "BLÜ EYES- Two People at Once Tour",
+      "venue_line": "Baba Yaga • Seattle",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Rick Glassman",
+      "venue_line": "Tacoma Comedy Club • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "You Look Like - Roast Battle",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$20–$32",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ruby Mimosa Presents: BurlesKaraoke",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$27–$161",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Palace",
+      "venue_line": "Showbox SODO • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Tacoma Holiday Festival",
+      "venue_line": "Tacoma Dome • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

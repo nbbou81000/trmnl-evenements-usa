@@ -1,112 +1,12 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-10-11T15:16:17.778Z",
+  "updated_at": "2026-10-12T18:29:39.374Z",
   "events": [
     {
       "day_label": "FRI",
       "day_number": "11",
       "date_iso": "2026-09-11",
       "title": "China Lights Wisconsin 2026 Season Pass",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jurassic Quest | Wisconsin State Fair Park | Milwaukee, WI 2026",
-      "venue_line": "Exposition Center at Wisconsin State Fair Park • West Allis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jurassic Quest | Wisconsin State Fair Park | Milwaukee, WI 2026",
-      "venue_line": "Exposition Center at Wisconsin State Fair Park • West Allis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Jurassic Quest | Wisconsin State Fair Park | Milwaukee, WI 2026",
-      "venue_line": "Exposition Center at Wisconsin State Fair Park • West Allis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Arnez J",
-      "venue_line": "Milwaukee Improv (Main Room) • Brookfield",
-      "price_label": "$39–$112",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Los Angeles Dodgers at Milwaukee Brewers: NLCS (Home Game 1)",
-      "venue_line": "American Family Field • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Samara Joy",
-      "venue_line": "Pabst Theater • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Holywatr w/ Mercury",
-      "venue_line": "The Rave-Eagles Club • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "China Lights Wisconsin 2026",
       "venue_line": "Boerner Botanical Gardens • Hales Corners",
       "price_label": "Price not available",
       "type_key": "misc",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Milwaukee Bucks vs. Chicago Bulls",
+      "venue_line": "Fiserv Forum • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Jazz At Lincoln Center Orchestra",
+      "venue_line": "Wilson Theater at Vogel Hall • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Stanley Simmons",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "HEY, NOTHING ??? THE HOUND TOUR",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Chris Porter",
+      "venue_line": "Milwaukee Improv (Main Room) • Brookfield",
+      "price_label": "$5–$83",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Jazz At Lincoln Center Orchestra",
+      "venue_line": "Wilson Theater at Vogel Hall • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

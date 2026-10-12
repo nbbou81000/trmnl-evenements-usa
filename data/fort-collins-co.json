@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-11T15:16:34.881Z",
+  "updated_at": "2026-10-12T18:29:58.796Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Beths",
-      "venue_line": "Washington's • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -21,16 +11,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Dermot Kennedy: The Weight of the Woods Tour",
-      "venue_line": "Mishawaka Amphitheatre • Bellvue",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Colorado State University Rams Womens Soccer vs. Washington State Cougars Womens Soccer",
+      "venue_line": "CSU Soccer Field • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Colorado State University Rams Mens Basketball vs. Montana State Billings Mens Basketball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

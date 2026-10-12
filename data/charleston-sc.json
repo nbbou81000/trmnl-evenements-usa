@@ -1,57 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-11T15:16:06.938Z",
+  "updated_at": "2026-10-12T18:29:27.761Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Mrs. Doubtfire (Touring)",
-      "venue_line": "North Charleston Performing Arts Center • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Mrs. Doubtfire (Touring)",
-      "venue_line": "North Charleston Performing Arts Center • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Thundercat: Distracted AF Tour",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Oct (On Company Time) w/ Lewky",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Joshua Ray Walker \"Ain't Dead Yet Tour\" - Ages 21+",
-      "venue_line": "Charleston Pour House • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "North Charleston POPS! Rocket Man: The Music of Elton John",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Drew Sidora - CANCELLED",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "House Party - 18+",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Living Tombstone - The Multiplayer Tour",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Paul Bielatowicz's Nosferatu Undead",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

@@ -1,47 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-11T15:16:31.221Z",
+  "updated_at": "2026-10-12T18:29:54.601Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "YWCA Women's Empowerment Summit",
-      "venue_line": "Baton Rouge River Center Theater • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "LAUNDRY DAY",
-      "venue_line": "Chelsea's Live • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "LAUNDRY DAY Presents: The Larger Than LIFE Tour with Illusion Hills",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Gov't Mule",
-      "venue_line": "L'Auberge Casino & Hotel Baton Rouge  • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -199,6 +159,46 @@
       "title": "Where Y’Acht presents :: You Should be Dancin’ a Tribute to ABBA & The BeeGees",
       "venue_line": "Chelsea’s Live • Baton Rouge",
       "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Baton Rouge Kingfish vs. Mid-South Monarchs",
+      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "LSU Tigers Womens Basketball vs. Loyola Ramblers Womens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
+      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Emo Night Halloween",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$16",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,27 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-11T15:16:16.554Z",
+  "updated_at": "2026-10-12T18:29:37.995Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Notebook (Touring)",
-      "venue_line": "Winsupply Theatre • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Notebook (Touring)",
-      "venue_line": "Winsupply Theatre • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Dayton Philharmonic Orchestra presents Barber???s Cello Concerto",
+      "venue_line": "Winsupply Theatre • Dayton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "24",
+      "date_iso": "2026-11-24",
+      "title": "Clue (Touring)",
+      "venue_line": "Winsupply Theatre • Dayton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-11T15:16:19.026Z",
+  "updated_at": "2026-10-12T18:29:40.781Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Billy Joel Legacy",
-      "venue_line": "Yardley Hall Carlsen Center - KS • Overland Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Leonid & Friends",
-      "venue_line": "Uptown Theater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Anime Rave",
+      "venue_line": "Warehouse On Broadway • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Matt Mathews: Not What I Ordered World Tour",
+      "venue_line": "Ameristar Casino and Hotel • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

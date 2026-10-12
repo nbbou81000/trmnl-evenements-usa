@@ -1,27 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-11T15:16:42.539Z",
+  "updated_at": "2026-10-12T18:30:07.374Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Disney On Ice Presents Find Your Hero",
-      "venue_line": "Dignity Health Arena • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Disney On Ice Presents Find Your Hero",
-      "venue_line": "Dignity Health Arena • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -98,7 +78,7 @@
       "date_iso": "2026-10-19",
       "title": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour - Sacramento, CA",
       "venue_line": "Trinity Life Center • Sacramento",
-      "price_label": "$30–$122",
+      "price_label": "$20–$122",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Bluey's Big Play - The Stage Show",
+      "venue_line": "Dignity Health Theater • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Bakersfield Condors vs. Abbotsford Canucks",
+      "venue_line": "Dignity Health Arena • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

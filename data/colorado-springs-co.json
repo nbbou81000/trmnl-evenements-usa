@@ -1,47 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-10-11T15:16:34.487Z",
+  "updated_at": "2026-10-12T18:29:58.326Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "John Crist",
-      "venue_line": "Pikes Peak Center • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "The Beths",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hans Williams, Cece Coakley",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hans Williams w/ Cece Coakley",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -199,6 +159,46 @@
       "title": "Chris Cagle",
       "venue_line": "Whiskey Rose • Colorado Springs",
       "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Mia Asano",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Mia Asano, Deadgrace",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Sixtiesmania",
+      "venue_line": "Pikes Peak Center • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Goth Night hosted by Gotica Nouveau",
+      "venue_line": "Vultures • Colorado Springs",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

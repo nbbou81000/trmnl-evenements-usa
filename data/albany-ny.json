@@ -1,27 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-11T15:15:56.397Z",
+  "updated_at": "2026-10-12T18:29:15.887Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Best Of The Eagles",
-      "venue_line": "Proctors Theatre • Schenectady",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Best Of The Eagles",
-      "venue_line": "Proctor's Theatre • Schenectady",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Deveria",
+      "venue_line": "Empire Underground • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Whose Live Anyway?",
+      "venue_line": "Troy Savings Music Hall • Troy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

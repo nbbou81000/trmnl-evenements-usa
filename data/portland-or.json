@@ -1,117 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-11T15:16:45.789Z",
+  "updated_at": "2026-10-12T18:30:11.247Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Guys & Dolls",
-      "venue_line": "Winningstad Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Oregon Symphony presents Holst's the Planets",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Swan Lake",
-      "venue_line": "Keller Auditorium • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Militarie Gun w/ Softcult",
-      "venue_line": "Hawthorne Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "THE STUPID GIRLS followed by Sinferno Cabaret",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Casual Eddie with Special Guest Dominic Robison",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hot Flash Heat Wave (21 and Over)",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Mico",
-      "venue_line": "Wonder Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Toad the Wet Sprocket - Rings: The Acoustic Tour",
-      "venue_line": "Aladdin Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "CHURCH OF HIVE",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$6",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "SINFERNO CABARET",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$14–$314",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -199,6 +89,116 @@
       "title": "Cameron Whitcomb - Kingdom of Fear Tour",
       "venue_line": "McMenamins Crystal Ballroom • Portland",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Cameron Whitcomb - Kingdom of Fear Tour",
+      "venue_line": "McMenamins Crystal Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Jenna Raine",
+      "venue_line": "Holocene • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Kelsey Lu",
+      "venue_line": "Wonder Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$14–$20",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "ZACCAI CURTIS - CUBOP LIVES",
+      "venue_line": "Jack London Revue • Portland",
+      "price_label": "$31–$237",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "glaive w/ Tiffany Day",
+      "venue_line": "Wonder Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Whiskey Wednesday with Special Guests",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Crystal Ballroom Tours",
+      "venue_line": "McMenamins Crystal Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue_line": "Jack London Revue • Portland",
+      "price_label": "$26–$206",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Friends in Low Places Presents: Line Dance Pre-Party",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$14",
       "type_key": "music",
       "type_label": "Music"
     }

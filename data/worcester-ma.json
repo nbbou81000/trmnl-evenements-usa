@@ -1,47 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-11T15:16:01.827Z",
+  "updated_at": "2026-10-12T18:29:21.963Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hot Wheels Monster Trucks™ Live Glow-N-Fire",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hot Wheels Start Your Engine VIP",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hot Wheels Pedal to the Metal VIP",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Bluebird Improv",
-      "venue_line": "Off The Rails Music Venue • Worcester",
-      "price_label": "$32–$62",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Periphery w/ Ne Obliviscaris",
+      "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Holy Cross Crusaders Hockey vs. Sacred Heart Pioneers Hockey",
+      "venue_line": "Hart Recreation Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

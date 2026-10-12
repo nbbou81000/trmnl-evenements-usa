@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-11T15:16:46.586Z",
+  "updated_at": "2026-10-12T18:30:12.237Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "& Juliet (Touring)",
-      "venue_line": "Silva Concert Hall • Eugene",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "& Juliet (Touring)",
-      "venue_line": "Silva Concert Hall • Eugene",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Paul Cauthen w/ Leon Majcen",
+      "venue_line": "McDonald Theatre • Eugene",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Slow Pulp",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-11T15:16:26.796Z",
+  "updated_at": "2026-10-12T18:29:49.761Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Monster Jam",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Black Flag - The Box Theater",
+      "venue_line": "Payne Arena • Hidalgo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

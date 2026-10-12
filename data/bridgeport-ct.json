@@ -1,57 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-11T15:15:58.083Z",
+  "updated_at": "2026-10-12T18:29:17.752Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Dear Evan Hansen",
-      "venue_line": "John W Engeman Theater • Northport",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Once Upon a One More Time",
-      "venue_line": "Smithtown Center for the Performing Arts • Smithttown",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Cabaret",
-      "venue_line": "Theatre Three - NY • Port Jefferson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Artemas",
-      "venue_line": "Toad's Place • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Artemas",
-      "venue_line": "Toads Place - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-16",
       "title": "Jared Freid: The Table For One Tour",
       "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Cabaret",
+      "venue_line": "Theatre Three - NY • Port Jefferson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Anthony Rodia, INSANELY FUNNY TOUR",
+      "venue_line": "Palace Theatre Stamford • Stamford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Sacred Heart Pioneers Football vs. Hampton University Pirates Football",
+      "venue_line": "Sikorsky Credit Union Field • Fairfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

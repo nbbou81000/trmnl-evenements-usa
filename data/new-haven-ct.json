@@ -1,27 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-11T15:15:57.674Z",
+  "updated_at": "2026-10-12T18:29:17.286Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Artemas",
-      "venue_line": "Toad's Place • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Artemas",
-      "venue_line": "Toads Place - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Quinnipiac Bobcats Mens Ice Hockey vs. Army Black Knights Hockey",
+      "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Punchis Punchis (18 and Over)",
+      "venue_line": "Toads Place - CT • New Haven",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

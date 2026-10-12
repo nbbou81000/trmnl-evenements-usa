@@ -1,27 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-11T15:16:00.566Z",
+  "updated_at": "2026-10-12T18:29:20.545Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Lehigh Valley Phantoms v Cleveland Monsters",
-      "venue_line": "PPL Center • Allentown",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Holding Absence & Arm's Length: North American Co-Headliner Tour 2026",
-      "venue_line": "Archer Music Hall • Allentown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "CRADLE OF FILTH: Majestic In Death II w/ Blackbraid & Black Satellite",
+      "venue_line": "Archer Music Hall • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Lehigh Valley Phantoms v Syracuse Crunch",
+      "venue_line": "PPL Center • Allentown",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-11T15:16:36.504Z",
+  "updated_at": "2026-10-12T18:30:00.783Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Arsenic and Old Lace",
-      "venue_line": "Albuquerque Little Theatre • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
-      "venue_line": "First Financial Credit Union Amphitheater • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Punch Brothers",
-      "venue_line": "Kimo Theatre • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Arsenic and Old Lace",
+      "venue_line": "Albuquerque Little Theatre • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Level Up (18 and Over)",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Emo Night Brooklyn - 21+",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

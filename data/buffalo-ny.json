@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-11T15:15:55.164Z",
+  "updated_at": "2026-10-12T18:29:14.497Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,56 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Bat Boy the Musical",
-      "venue_line": "Shea's Smith Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Steve Reich@90: Cordancia with Guest Quince Ensemble",
-      "venue_line": "University at Buffalo - Slee Hall - Lippes Concert Hall • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Sun. 10/11/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Buffalo Sabres Single Game Suite Rental-Florida Panthers",
-      "venue_line": "KeyBank Center • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Buffalo Sabres v Florida Panthers",
-      "venue_line": "KeyBank Center • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "MON",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-15",
       "title": "Ricky Nelson Remembered Starring Matthew and Gunnar Nelson",
       "venue_line": "The Avalon Theatre At Niagara Fallsview Casino Resort • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Failure (Ages 12 and Over, Minors under 16 must be accompanied by a parent - Government Issued ID Required)",
+      "venue_line": "Town Ballroom • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Bat Boy the Musical",
+      "venue_line": "Shea's Smith Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Ghostbusters In Concert",
+      "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Pavlo and Band in concert!",
+      "venue_line": "Asbury Hall at Babeville • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "The Warped Band (18+ Event)",
+      "venue_line": "Buffalo Iron Works • Buffalo",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

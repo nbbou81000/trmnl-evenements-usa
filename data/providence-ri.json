@@ -1,47 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-11T15:15:56.803Z",
+  "updated_at": "2026-10-12T18:29:16.364Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "New England Patriots v Las Vegas Raiders",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Providence Bruins vs. Wilkes Barre Scranton Penguins",
-      "venue_line": "Amica Mutual Pavilion • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Dropdead, Midnight Creeps, & THERE",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$22–$45",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Michael Blaustein",
-      "venue_line": "The VETS • Providence",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Evan Honer",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$135",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jimmy Kenny & the Pirate Beach Band",
+      "venue_line": "Six String Grill and Stage • Foxborough",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jimmy Kenny and the Pirate Beach Band Â the Ultimate Party Tribute T",
+      "venue_line": "Six String Grill and Stage • Foxboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Providence College Friars Mens Basketball vs. Georgia Tech Yellow Jackets Mens Basketball",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

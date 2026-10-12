@@ -1,57 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-11T15:16:15.332Z",
+  "updated_at": "2026-10-12T18:29:36.634Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Cincinnati Bearcats Women's Volleyball vs. Iowa State Cyclones Volleyball",
-      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Road To Emissions Tour w/Rwake + Deadbird, Grief Counseling",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Here Come the Mummies",
-      "venue_line": "Bogart's • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Alabama Live In Concert",
-      "venue_line": "Truist Arena • Highland Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Duane Betts & Palmetto Motel",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -199,6 +149,56 @@
       "title": "Crooner Family 3 Month Package",
       "venue_line": "The Southgate House Revival - Revival Room • Newport",
       "price_label": "$104",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Earl Sweatshirt & MIKE: Home on the Range Tour 2026",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "JOHN SCOFIELD: ELECTROSPECTIVE",
+      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Your Ol' Pal Don Pruett",
+      "venue_line": "The Southgate House Revival - The Lounge • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Catch Your Breath - Not Broken Enough Tour",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "BRANTLEY GILBERT REAL AMERICAN TOUR",
+      "venue_line": "PNC PAVILION • Cincinnati",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

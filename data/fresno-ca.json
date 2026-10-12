@@ -1,37 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-11T15:16:42.153Z",
+  "updated_at": "2026-10-12T18:30:06.957Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "JUANES WORLD TOUR 2026 ",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Brit Floyd",
-      "venue_line": "William Saroyan Theatre Fresno Convention & Entertainment Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "This Wild Life, Nate Bergman",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$33–$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Volleyball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Cheekface with special guest Waitress",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$10–$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Microwave & Free Throw: North America 2026",
+      "venue_line": "Tioga Sequoia Brewery  • Fresno",
+      "price_label": "$36–$147",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,77 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-11T15:16:27.953Z",
+  "updated_at": "2026-10-12T18:29:51.031Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "HOT WHEELS START YOUR ENGINE VIP (Event Ticket Required) 11:45AM",
-      "venue_line": "Paycom Center • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "HOT WHEELS PEDAL TO THE METAL VIP (Event ticket required) 11:45AM",
-      "venue_line": "Paycom Center • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
-      "venue_line": "Paycom Center • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Sonic - Live in Concert",
-      "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Come from Away (Touring)",
-      "venue_line": "Lyric Theatre of Oklahoma • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Oklahoma Sooners Women Volleyball vs. Texas Longhorns Womens Volleyball",
-      "venue_line": "McCasland Field House • Norman",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "11",
-      "date_iso": "2026-10-11",
-      "title": "Demon Hunter",
-      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "12",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Elevation Worship & Steven Furtick - Fall Tour 2026",
+      "venue_line": "Paycom Center • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Oklahoma Warriors vs. Lone Star Brahmas",
+      "venue_line": "Blazers Ice Centre • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Gringos",
+      "venue_line": "Beer City Music Hall • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Oklahoma Sooners Women Volleyball vs. Tennessee Vols Womens Volleyball",
+      "venue_line": "McCasland Field House • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Kels",
+      "venue_line": "Beer City Music Hall • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Black Country, New Road",
+      "venue_line": "The Jones Assembly • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Aaron Branch - Ages 18+",
+      "venue_line": "Bricktown Comedy Club • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }
