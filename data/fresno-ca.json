@@ -1,17 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-12T18:30:06.957Z",
+  "updated_at": "2026-10-13T16:41:08.448Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Tower of Power w/ War",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +191,16 @@
       "price_label": "$36–$147",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
+      "venue_line": "Warnors Theatre • Fresno",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

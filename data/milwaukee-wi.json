@@ -1,6 +1,6 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-10-12T18:29:39.374Z",
+  "updated_at": "2026-10-13T16:40:41.134Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,26 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Los Angeles Dodgers at Milwaukee Brewers: NLCS (Home Game 2)",
-      "venue_line": "American Family Field • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Earl Sweatshirt w/ MIKE",
-      "venue_line": "The Rave-Eagles Club • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -199,6 +179,26 @@
       "title": "Jazz At Lincoln Center Orchestra",
       "venue_line": "Wilson Theater at Vogel Hall • Milwaukee",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Undertale Symphony",
+      "venue_line": "Riverside Theater - WI • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Joe Stamm",
+      "venue_line": "Shank Hall • Milwaukee",
+      "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
     }

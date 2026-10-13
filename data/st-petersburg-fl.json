@@ -1,27 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-12T18:29:32.262Z",
+  "updated_at": "2026-10-13T16:40:33.895Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Stick To Your Guns, No Cure, and Vomit Forth in Bradenton",
-      "venue_line": "Oscura • Bradenton",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Cleveland Guardians at Tampa Bay Rays: ALCS (Home Game 1)",
-      "venue_line": "Tropicana Field • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "SPoT Anniversary Party + Madness Concrete Jam",
+      "venue_line": "Skatepark Of Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Earthquake",
+      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

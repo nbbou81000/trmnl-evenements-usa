@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-12T18:29:14.497Z",
+  "updated_at": "2026-10-13T16:40:15.939Z",
   "events": [
     {
       "day_label": "FRI",
@@ -8,16 +8,6 @@
       "date_iso": "2026-10-02",
       "title": "UB Distinguished Speakers Series Subscription",
       "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Mon. 10/12/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Fri. 10/16/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

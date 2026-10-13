@@ -1,17 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-10-12T18:29:45.143Z",
+  "updated_at": "2026-10-13T16:40:46.451Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Sioux Falls Stampede vs. Lincoln Stars",
-      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -181,6 +171,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "FLAGRANT / ZENITH",
+      "venue_line": "The Grain Bin • Sioux Falls",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SAT",

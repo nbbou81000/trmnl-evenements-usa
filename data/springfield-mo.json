@@ -1,17 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-12T18:29:41.698Z",
+  "updated_at": "2026-10-13T16:40:43.413Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "sKitz Kraven",
-      "venue_line": "Regency - MO • Springfield",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Missouri State Bears Football vs. New Mexico State Aggies Football",
+      "venue_line": "Robert W. Plaster Stadium • Springfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

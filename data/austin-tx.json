@@ -1,27 +1,7 @@
 {
   "city_label": "Austin, TX",
-  "updated_at": "2026-10-12T18:29:47.581Z",
+  "updated_at": "2026-10-13T16:40:49.145Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Blue Monday with Soul Man Sam & Lindsay Beaver feat. Steve Bell",
-      "venue_line": "Antone's Nightclub • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "L7: The Last Hurrah Tour 2026",
-      "venue_line": "Emo's Austin • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-15",
       "title": "Premium Seating - Ziggy Marley and Gov't Mule",
       "venue_line": "Moody Amphitheater • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ziggy Marley and Gov't Mule",
+      "venue_line": "Moody Amphitheater • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Gorillaz - The Mountain Tour",
+      "venue_line": "Moody Center ATX • Austin",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

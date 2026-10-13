@@ -1,17 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-12T18:30:00.783Z",
+  "updated_at": "2026-10-13T16:41:02.314Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Demon Hunter",
-      "venue_line": "El Rey - NM • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Beauty And The Beast (Touring)",
+      "venue_line": "Popejoy Hall • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

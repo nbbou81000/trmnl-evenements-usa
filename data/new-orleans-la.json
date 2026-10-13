@@ -1,47 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-12T18:29:54.157Z",
+  "updated_at": "2026-10-13T16:40:55.901Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Charmaine Neville Band",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Ward Davis",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Tom Jones",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Charmaine Neville Band",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -199,6 +159,46 @@
       "title": "Marilyn Manson",
       "venue_line": "The Fillmore New Orleans • New Orleans",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Victor Goines Quartet",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$47",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Rock The Rafters: A Cajun & Creole Celebration",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Comedy Gumbeaux",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$13–$67",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "A Funky Songwriter Summit ft. Lilli Lewis, Joe Marcinek, Marc Stone, Pat Smith, Keiko Komaki, Megan Martinez, Sean Carey, and Terry Scott, Jr.",
+      "venue_line": "Chickie Wah Wah • New Orleans",
+      "price_label": "$27–$45",
       "type_key": "music",
       "type_label": "Music"
     }

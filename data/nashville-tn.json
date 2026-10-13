@@ -1,127 +1,7 @@
 {
   "city_label": "Nashville, TN",
-  "updated_at": "2026-10-12T18:29:52.829Z",
+  "updated_at": "2026-10-13T16:40:54.494Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Open Mic hosted by Barbara Cloyd",
-      "venue_line": "The Bluebird Cafe • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Open Mic Performer Sign-Ups",
-      "venue_line": "The Bluebird Cafe • Nashville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The 502s - Just A Little Run",
-      "venue_line": "The Basement • Nashville",
-      "price_label": "$39",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "New Material Mondays",
-      "venue_line": "Zanies Comedy Showplace • Nashville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Bright Eyes",
-      "venue_line": "Brooklyn Bowl Nashville • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "THE TIME JUMPERS",
-      "venue_line": "3rd and Lindsley • Nashville",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Limp Bizkit",
-      "venue_line": "The Truth • Nashville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "PIG",
-      "venue_line": "Exit/In • Nashville",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Russian Circles w/ Pelican",
-      "venue_line": "The Basement East • Nashville",
-      "price_label": "$36–$74",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Laken Campo / Joy Hotchkiss / Lainey Seitz",
-      "venue_line": "The East Room • Nashville",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The Two Tracks w/ Sweet Megg and Josie Toney",
-      "venue_line": "The Basement • Nashville",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Blue Monday with Kevin McKendree, George Sluppick, Steve Mackey & Yates McKendree",
-      "venue_line": "The Bluebird Cafe • Nashville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -136,7 +16,7 @@
       "day_label": "TUE",
       "day_number": "13",
       "date_iso": "2026-10-13",
-      "title": "New Faces Night feat.",
+      "title": "New Faces Night feat. Nettie and the Delta Boy, Jessy Fury Gooding, and Brady Dallas Jones",
       "venue_line": "The Basement • Nashville",
       "price_label": "$0",
       "type_key": "music",
@@ -201,6 +81,126 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Waylon Wyatt - Dustpiles World Tour",
+      "venue_line": "Brooklyn Bowl Nashville • Nashville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Greywind",
+      "venue_line": "Cannery Hall • Nashville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Foster The People: Good Mourning Sunshine Tour",
+      "venue_line": "The Truth • Nashville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Mind Enterprises w/ Fred Fancy",
+      "venue_line": "The Basement East • Nashville",
+      "price_label": "$39–$68",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Ultimate Comedy - Local Open Mic Stand Up Free!",
+      "venue_line": "The East Room • Nashville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "In The Round with Tommy Karlas, Trent Willmon & Sam Banks",
+      "venue_line": "The Bluebird Cafe • Nashville",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "SESAC Presents: In The Round with Kasey Tyndall, Harper Grace & Aaron Gillespie",
+      "venue_line": "The Bluebird Cafe • Nashville",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Tauren Wells w/ Seph Schlueter",
+      "venue_line": "Ryman Auditorium • Nashville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Soccer Mommy & Snail Mail: The S&M Tour",
+      "venue_line": "Brooklyn Bowl Nashville • Nashville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "PJ & The Bear with Eli Howard",
+      "venue_line": "The Basement • Nashville",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Frankie Quinones",
+      "venue_line": "Zanies Comedy Showplace • Nashville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Studio Tenn Presents: The Addams Family",
+      "venue_line": "Turner Theater • Franklin",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

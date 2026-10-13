@@ -1,37 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-12T18:29:35.798Z",
+  "updated_at": "2026-10-13T16:40:37.479Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Happy Hour w/ The Shadowfields at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$2",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Bella White w/ Georgia Harmer",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$44",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The Midnight",
-      "venue_line": "KEMBA Live! • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -126,7 +96,7 @@
       "day_label": "WED",
       "day_number": "14",
       "date_iso": "2026-10-14",
-      "title": "Roger Clyne & The Peacemakers w/ Ike Reilly Featuring Shane Reilly",
+      "title": "Roger Clyne & The Peacemakers - low tix warning",
       "venue_line": "Rumba Cafe • Columbus",
       "price_label": "$36",
       "type_key": "music",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Colby Acuff",
+      "venue_line": "A&R Music Bar • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "COSTA",
+      "venue_line": "Skully's Music Diner • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "COSTA @ Skully's - Columbus, OH - 10.15.26",
+      "venue_line": "Skullys Music Diner • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

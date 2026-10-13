@@ -1,97 +1,7 @@
 {
   "city_label": "Denver, CO",
-  "updated_at": "2026-10-12T18:29:57.839Z",
+  "updated_at": "2026-10-13T16:40:59.489Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "KSE Venue Ball Arena Tours",
-      "venue_line": "Ball Arena • Denver",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Garden Brothers Circus",
-      "venue_line": "Denver Coliseum • Denver",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Garden Brothers Circus",
-      "venue_line": "Denver Coliseum • Denver",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Lil Pete: Real Is Back Tour",
-      "venue_line": "Marquis • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Rise Against: Ricochet 2026",
-      "venue_line": "Red Rocks Amphitheatre • Morrison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Rise Against: Ricochet 2026",
-      "venue_line": "Red Rocks Amphitheatre • Morrison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Castle Rat (16 and Over)",
-      "venue_line": "Ogden Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Malcolm Todd (16 and Over)",
-      "venue_line": "Mission Ballroom • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Saliva and Drowning Pool (16 and Over)",
-      "venue_line": "Gothic Theatre • Englewood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Paramount Theatre Club Seating: Gary Clark Jr.",
+      "venue_line": "Paramount Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Jeff Goldblum and the Mildred Snitzer Orchestra",
+      "venue_line": "Boettcher Hall • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Justin Nozuka",
+      "venue_line": "Ophelia's Electric Soapbox • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Geordie Greep",
+      "venue_line": "Cervantes Masterpiece Ballroom • Denver",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Death From Above 1979 (16 and Over)",
+      "venue_line": "Gothic Theatre • Englewood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "KSE Venue Ball Arena Tours",
+      "venue_line": "Ball Arena • Denver",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Mastodon",
+      "venue_line": "Fillmore Auditorium (Denver) • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Ladies Night 2026",
+      "venue_line": "Stampede • Aurora",
+      "price_label": "$17",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Ladies Night at Stampede",
+      "venue_line": "Stampede - Aurora • Aurora",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

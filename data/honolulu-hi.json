@@ -1,17 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-12T18:30:14.026Z",
+  "updated_at": "2026-10-13T16:41:15.390Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Augustana",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$41–$51",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

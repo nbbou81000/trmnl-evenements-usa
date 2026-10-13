@@ -1,87 +1,7 @@
 {
   "city_label": "Oakland, CA",
-  "updated_at": "2026-10-12T18:30:08.328Z",
+  "updated_at": "2026-10-13T16:41:09.849Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Ray Lau",
-      "venue_line": "Cobb's Comedy Club • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Scuffed Realtor: LIVE with Nick Rochefort and Alex Schultz",
-      "venue_line": "Cobb's Comedy Club • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Ludovico Einaudi: Solo Piano",
-      "venue_line": "Louise M. Davies Symphony Hall • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Love Spells",
-      "venue_line": "August Hall • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "MARO: SO MUCH HAS CHANGED (MOVED FROM THE CASTRO)",
-      "venue_line": "Bimbo's 365 Club • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "MOVED TO AUGUST HALL - LOVE SPELLS - LOVE IS THE LAW WORLD TOUR (SOLD OUT)",
-      "venue_line": "Cafe Du Nord • San Francisco",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "KiNG MALA",
-      "venue_line": "The Independent • San Francisco",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "KiNG MALA",
-      "venue_line": "The Independent • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -199,6 +119,86 @@
       "title": "Dani Offline — Lover's Discourse Live w/ Amanda Magaña",
       "venue_line": "Brick and Mortar Music Hall • San Francisco",
       "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Isabel LaRosa - DOLLPARTS TOUR (An Evening With)",
+      "venue_line": "Cafe Du Nord • San Francisco",
+      "price_label": "$39",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Automatic",
+      "venue_line": "The Independent • San Francisco",
+      "price_label": "$34",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Karaoke Tuesday",
+      "venue_line": "Neck of the Woods • San Francisco",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "Vidura Bandara Rajapaksa: The Paradise Gothic Tour",
+      "venue_line": "Cobb's Comedy Club • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Peter Pan Goes Wrong",
+      "venue_line": "San Francisco Playhouse • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "California Golden Bears Womens Basketball vs. UCLA Bruins Womens Basketball",
+      "venue_line": "Haas Pavilion • Berkeley",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Oh, Mary! (Touring) - Ages 14+ (No children under 5 allowed.)",
+      "venue_line": "Curran Theatre • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "BRIT FLOYD - The Moon, The Wall and Beyond",
+      "venue_line": "Fox Theater - Oakland • Oakland",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

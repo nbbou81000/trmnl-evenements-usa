@@ -1,17 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-12T18:30:13.595Z",
+  "updated_at": "2026-10-13T16:41:14.961Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Nep, Erin Parkes",
-      "venue_line": "The District • Spokane",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -78,7 +68,7 @@
       "date_iso": "2026-10-15",
       "title": "RAY VOLPE - VOLPETRON ETERNAL TOUR",
       "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$36–$189",
+      "price_label": "$44–$100",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-17",
       "title": "& Juliet (Touring)",
       "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "CHELSEA HANDLER: THE HIGH AND MIGHTY TOUR",
+      "venue_line": "Martin Woldson Theater at the Fox • Spokane",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

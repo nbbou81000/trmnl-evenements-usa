@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-12T18:29:47.116Z",
+  "updated_at": "2026-10-13T16:40:48.666Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,56 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Blitzkid",
-      "venue_line": "The Rock Box • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "PRESIDENT: North American Campaign 2026",
-      "venue_line": "Aztec Theatre • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Ella Boh",
-      "venue_line": "Small Stage at Paper Tiger • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Ella Boh w/ Psylosia",
-      "venue_line": "Paper Tiger • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Bassvictim w/ Thoom",
-      "venue_line": "Paper Tiger • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Cinderella | Opera SA",
+      "venue_line": "H-E-B Performance Hall • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Celtic Thunder",
+      "venue_line": "Majestic Theatre San Antonio • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "San Antonio Homegrown",
+      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Linea Personal: TODO Ø NADA",
+      "venue_line": "Aztec Theatre • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Schizophonics w/ Dale Crover Band",
+      "venue_line": "Paper Tiger • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

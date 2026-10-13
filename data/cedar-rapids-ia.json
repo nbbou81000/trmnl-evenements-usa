@@ -1,17 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-12T18:29:43.624Z",
+  "updated_at": "2026-10-13T16:40:45.158Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Snarky Puppy",
-      "venue_line": "Hancher Auditorium • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Bingo Loco (Ages 21+)",
+      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

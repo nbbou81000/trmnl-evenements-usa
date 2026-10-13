@@ -1,17 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-12T18:29:56.414Z",
+  "updated_at": "2026-10-13T16:40:58.159Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Phish",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -163,16 +153,6 @@
       "type_label": "Other"
     },
     {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Stand Up for Jamey: Autism Benefit Show",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$27",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
       "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Billy Strings",
+      "venue_line": "Orion Amphitheater • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Sonic Live in Concert",
+      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-12T18:29:35.380Z",
+  "updated_at": "2026-10-13T16:40:37.017Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Blind Pig Comedy",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$3",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Blind Pig Comedy",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -199,6 +179,26 @@
       "title": "Broadway Rave",
       "venue_line": "Blind Pig • Ann Arbor",
       "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Broadway Rave - The Musical Theatre Dance Party",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Saddle Up Dance Party - Morgan Wallen Night",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$13–$32",
       "type_key": "music",
       "type_label": "Music"
     }

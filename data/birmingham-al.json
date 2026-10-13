@@ -1,27 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-12T18:29:55.955Z",
+  "updated_at": "2026-10-13T16:40:57.727Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Birmingham Bandstand (Open Mic) at the Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$5",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Joey Cash - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -186,6 +166,16 @@
       "day_label": "THU",
       "day_number": "15",
       "date_iso": "2026-10-15",
+      "title": "The STARS Tour ft. Anne Wilson | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
       "title": "Maggie Rose",
       "venue_line": "Lakeview Marina Music Park • Birmingham",
       "price_label": "Price not available",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "We are Proud to Present",
+      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

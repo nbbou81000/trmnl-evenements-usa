@@ -1,6 +1,6 @@
 {
   "city_label": "Cheyenne, WY",
-  "updated_at": "2026-10-12T18:30:04.275Z",
+  "updated_at": "2026-10-13T16:41:05.752Z",
   "events": [
     {
       "day_label": "WED",
@@ -101,6 +101,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "11",
+      "date_iso": "2026-12-11",
+      "title": "Aly & AJ",
+      "venue_line": "The Lincoln - Cheyenne • Cheyenne",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

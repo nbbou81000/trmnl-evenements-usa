@@ -1,37 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-10-12T18:29:34.511Z",
+  "updated_at": "2026-10-13T16:40:36.155Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Lily Vakili & Her Band with Mighty Joe Castro and the Gravemen",
-      "venue_line": "Small's • Hamtramck",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Beck - Suite Rental",
-      "venue_line": "Fox Theatre Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "BECK: RIDE LONESOME TOUR",
-      "venue_line": "Fox Theatre Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -88,7 +58,7 @@
       "date_iso": "2026-10-13",
       "title": "Magic Bag Presents: Stone Cold and the Jackal",
       "venue_line": "The Magic Bag • Ferndale",
-      "price_label": "$64–$229",
+      "price_label": "$64",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Leanne Morgan -THE TIME OF OUR LIVES TOUR",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "UniverSoul Circus",
+      "venue_line": "Across from the Aretha Franklin Amphitheatre Universoul Circus • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Modele wsg Lonesome Skeleton Band + Katy Needs A life",
+      "venue_line": "Small's • Hamtramck",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

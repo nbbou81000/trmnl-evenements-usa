@@ -1,17 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-12T18:29:25.403Z",
+  "updated_at": "2026-10-13T16:40:26.864Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Olivia O'Brien",
-      "venue_line": "Amos Southend • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Julia Cole",
+      "venue_line": "Amos Southend • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",

@@ -1,17 +1,7 @@
 {
   "city_label": "Houston, TX",
-  "updated_at": "2026-10-12T18:29:46.662Z",
+  "updated_at": "2026-10-13T16:40:48.086Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Arch Enemy & The Black Dahlia Murder - Wrath Across North America 2026",
-      "venue_line": "House of Blues Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Funjelah Live Podcast Taping w/ Anjelah Johnson-Reyes & Special Guest",
+      "venue_line": "Punch Line Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

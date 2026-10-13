@@ -1,6 +1,6 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-12T18:29:29.562Z",
+  "updated_at": "2026-10-13T16:40:31.117Z",
   "events": [
     {
       "day_label": "WED",
@@ -151,6 +151,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "11",
+      "date_iso": "2026-12-11",
+      "title": "Matthew West Come Home For Christmas Live On Tour",
+      "venue_line": "Bell Auditorium • Augusta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "11",
+      "date_iso": "2026-12-11",
+      "title": "A Charlie Brown Christmas - Live On Stage!",
+      "venue_line": "Columbia County Performing Arts Center • Evans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

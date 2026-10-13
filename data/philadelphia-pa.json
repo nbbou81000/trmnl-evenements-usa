@@ -1,67 +1,7 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-10-12T18:29:13.563Z",
+  "updated_at": "2026-10-13T16:40:15.064Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Sorry Ghost, Kevin Walkman",
-      "venue_line": "Nikki Lopez Philly • Philadelphia",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Punch Line Philly Open Mic Night",
-      "venue_line": "Punch Line Philly Callback Bar • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Gregory Alan Isakov - 2 Day Pass - Ages 21+ Unless with a Parent or Legal Guardian",
-      "venue_line": "Ardmore Music Hall • Ardmore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Sugar w/ J. Robbins",
-      "venue_line": "Union Transfer • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Sylvan Esso",
-      "venue_line": "Franklin Music Hall • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Gregory Alan Isakov - Ages 21+ Unless with a Parent or Legal Guardian",
-      "venue_line": "Ardmore Music Hall • Ardmore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Girl from the North Country",
+      "venue_line": "Arden Theatre Company • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Francesca Fiorentini: The Bitchuation Room Live",
+      "venue_line": "Punch Line Philly • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "The Addams Family (Touring)",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Keznamdi (21+ Event)",
+      "venue_line": "MilkBoy Philadelphia • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

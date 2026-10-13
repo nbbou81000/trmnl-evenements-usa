@@ -1,57 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-12T18:29:40.321Z",
+  "updated_at": "2026-10-13T16:40:42.067Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "J. D. Pride Youth Football",
-      "venue_line": "U.S. Bank Stadium • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Asha Banks",
-      "venue_line": "7th Street Entry • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Minnesota Wild vs. Vegas Golden Knights",
-      "venue_line": "Grand Casino Arena • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Holywatr",
-      "venue_line": "Fine Line Music Cafe • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Undertale - The Determination Symphony World Tour",
-      "venue_line": "Orpheum Theatre • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "U.S. Bank Stadium Tour",
+      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Minnesota Wild vs. St. Louis Blues",
+      "venue_line": "Grand Casino Arena • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Joshua Burnside",
+      "venue_line": "Cedar Cultural Center • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "An Evening With C.S. Lewis",
+      "venue_line": "Ames Center • Burnsville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Something Worth Waiting For: The Tour / \r\nwith Nine Perfect Lives - Ages 18+",
+      "venue_line": "Fine Line Music Cafe • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

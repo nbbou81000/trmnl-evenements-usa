@@ -1,57 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-10-12T18:29:45.623Z",
+  "updated_at": "2026-10-13T16:40:47.174Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Arrows In Action w/ Good Boy Daisy",
-      "venue_line": "Club Dada • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Cavetown - Running With Scissors Tour",
-      "venue_line": "House of Blues Dallas  • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Chad Gray w/ Butcher Babies",
-      "venue_line": "The Studio at the Bomb Factory • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Logic & G-Eazy: The Endless Summer Tour Part II",
-      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Specialized Karaoke Night with RUEN",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Ivã¡N Fematt ÂLa Moleâ (En Espaã±Ol)",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "An Evening With Celtic Thunder 2026: Celebrate Your Favorite Songs",
+      "venue_line": "Majestic Theatre Dallas • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Hip Hop Puppet Show - \"I'm Not Playin' With You\"",
+      "venue_line": "Bruton Theatre • Dallas",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Something Different Presents: Unpopular Opinion Night - 21+",
+      "venue_line": "House of Blues Dallas  • Dallas",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Elevation Worship  | Official Ticket + Hotel Packages",
+      "venue_line": "American Airlines Center • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

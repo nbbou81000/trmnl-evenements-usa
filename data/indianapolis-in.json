@@ -1,17 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-10-12T18:29:38.458Z",
+  "updated_at": "2026-10-13T16:40:40.094Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The Toxhards",
-      "venue_line": "Hoosier Dome • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -188,6 +178,16 @@
       "date_iso": "2026-10-15",
       "title": "The Sixties Show",
       "venue_line": "Payne & Mencias Palladium • Carmel",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "King's X",
+      "venue_line": "Turntable • Indianapolis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

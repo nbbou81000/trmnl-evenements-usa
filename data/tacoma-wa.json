@@ -1,57 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-12T18:30:13.172Z",
+  "updated_at": "2026-10-13T16:41:14.473Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Lumen Field Stadium Tours",
-      "venue_line": "Lumen Field Stadium Tours • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Clock-Out Lounge Presents: Collide-O-Scope",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$20",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Boy Harsher w/ True Blue",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) featuring Frank Carter",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Seattle Mariners Ballpark Tour",
-      "venue_line": "T-Mobile Park • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -126,9 +76,9 @@
       "day_label": "WED",
       "day_number": "14",
       "date_iso": "2026-10-14",
-      "title": "Emmett Montgomery and Brett Hamil Present: Joketellers Union",
+      "title": "Emmett Montgomery and Brett Hamil Present: Joketellers Union w/ Jaci Terjeson & Madhuri Raju",
       "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$15",
+      "price_label": "$16",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Earlybirds Club - Ages 21+",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Rick Glassman",
+      "venue_line": "Tacoma Comedy Club • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Damon Williams",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$29–$41",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Seattle Thunderbirds vs. Kamloops Blazers",
+      "venue_line": "accesso ShoWare Center • Kent",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Nelly",
+      "venue_line": "Muckleshoot Casino Events Center • Auburn",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

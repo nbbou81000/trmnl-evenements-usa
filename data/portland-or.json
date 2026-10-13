@@ -1,67 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-12T18:30:11.247Z",
+  "updated_at": "2026-10-13T16:41:12.620Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Portland Trail Blazers vs London Lions",
-      "venue_line": "Moda Center • Portland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Bluey's Big Play - The Stage Show - All Ages, everyone needs a ticket",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Portland",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$59–$277",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Square Dancing with Old Time Highway and Caller Caroline Oakley",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Paige Fish (21 and Over)",
-      "venue_line": "Holocene • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "KARAOKE FROM HELL",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$8",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +141,66 @@
       "price_label": "$14",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ashley Cooke w/ Aniston Pate",
+      "venue_line": "Revolution Hall - Portland • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Jeff Goldblum and the Mildred Snitzer Orchestra",
+      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "HULDER with Antichrist Siege Machine & Lividus",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "NICK ROCHEFORT AND SCUFFED REALTOR",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$37–$52",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Tinlicker",
+      "venue_line": "McMenamins Crystal Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

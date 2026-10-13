@@ -1,117 +1,7 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-10-12T18:30:10.220Z",
+  "updated_at": "2026-10-13T16:41:11.793Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Live Racing at Santa Anita Park",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Los Angeles Rams VIP Tailgate",
-      "venue_line": "Hollywood Park Casino • Inglewood",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The Terminator Live",
-      "venue_line": "Cerritos Center for the Performing Arts • Cerritos",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The Bends",
-      "venue_line": "Constellation Room • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The Jet Stone Conspiracy Presents: Welcome to America - Night Two",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "An Evening With Brandi Carlile +",
-      "venue_line": "Ray Charles Terrace at GRAMMY Museum L.A. Live • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Upsell - Mezzanine Bleachers - Not A Ticket",
-      "venue_line": "The Regent Theater • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Upsell: Premium Viewing - NOT A TICKET",
-      "venue_line": "The Regent Theater • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "The Rasmus with Special Guests: Saint Agnes and Death Valley Dreams",
-      "venue_line": "The Regent Theater • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Schoolboy Q",
-      "venue_line": "The Novo by Microsoft • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Los Angeles Coliseum Historic Tours",
-      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -149,6 +39,16 @@
       "title": " Lucy Darling: 5:30PM Pre-Show Talkback ",
       "venue_line": "Terrace Theater - Long Beach Convention and Entertainment Center • Long Beach",
       "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "13",
+      "date_iso": "2026-10-13",
+      "title": "An Evening at the Improv featuring Jeanne Whitney, Hormoz Rashidi, Zach Stein, Angie Stroud, Caleb Synan and Gena B. Jones",
+      "venue_line": "Irvine Improv • Irvine",
+      "price_label": "$31–$83",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Olive Klug",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Love Spells",
+      "venue_line": "Constellation Room • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Patrick Droney",
+      "venue_line": "The Belasco • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "RANDY FELTFACE: GIMMICK!",
+      "venue_line": "Irvine Improv • Irvine",
+      "price_label": "$0",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Drag Show: \"Wild Wednesdays\" @ Hamburger Mary's Long Beach",
+      "venue_line": "Hamburger Mary's - Long Beach • Long Beach",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Los Angeles Galaxy vs. Portland Timbers",
+      "venue_line": "Dignity Health Sports Park • Carson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Los Angeles Football Club vs. Austin FC",
+      "venue_line": "BMO Stadium • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "The Drop: Lucky Daye +",
+      "venue_line": "Ray Charles Terrace at GRAMMY Museum L.A. Live • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Horror Nerd with Samantha Hale",
+      "venue_line": "Brea Improv • Brea",
+      "price_label": "$31–$83",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Ingrid Michaelson Trio ft. Allie Moss and Hannah Winkler",
+      "venue_line": "Cerritos Center for the Performing Arts • Cerritos",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

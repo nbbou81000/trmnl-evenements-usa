@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-12T18:29:15.409Z",
+  "updated_at": "2026-10-13T16:40:16.840Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,16 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "DEAD NIGHT w/ Lady in Red",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -199,6 +189,16 @@
       "title": "Prince Daddy and the Hyena",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Boots at the Brewery | Line Dancing",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$13",
       "type_key": "music",
       "type_label": "Music"
     }

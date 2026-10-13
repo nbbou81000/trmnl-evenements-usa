@@ -1,67 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-12T18:29:36.205Z",
+  "updated_at": "2026-10-13T16:40:37.870Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Nerd Night",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Angie's Intimate Essentials",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$13",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "MUSIC TRIVI-AOKE",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Mike Maimone",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Eyehategod, BL'AST!, Luicidal, Evil Army",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "White Denim",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -78,7 +18,7 @@
       "date_iso": "2026-10-13",
       "title": "SUPERSUCKERS W/ The Rumours",
       "venue_line": "The Winchester • Lakewood",
-      "price_label": "$23",
+      "price_label": "$30",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-14",
       "title": "Dadi Freyr",
       "venue_line": "Globe Iron • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "The Linda Lindas w/ Adan Diaz",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "SHIT SHOW KARAOKE",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Tampa Bay Rays at Cleveland Guardians: ALCS (Home Game 1)",
+      "venue_line": "Progressive Field • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Fright Market",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "CeCe Winans-COME WORSHIP! Tour",
+      "venue_line": "Wolstein Center at CSU • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Struggle Jennings",
+      "venue_line": "The Cambridge Room at House of Blues Cleveland • Cleveland",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

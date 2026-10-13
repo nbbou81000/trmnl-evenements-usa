@@ -1,27 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-12T18:29:52.386Z",
+  "updated_at": "2026-10-13T16:40:54.050Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Modest Mouse",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "\"The Hayley Williams Show\"",
-      "venue_line": "BankPlus Amphitheater at Snowden Grove • Southaven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Dru Hill",
+      "venue_line": "BankPlus Amphitheater at Snowden Grove • Southaven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Mid-South Monarchs vs. Baton Rouge Kingfish",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

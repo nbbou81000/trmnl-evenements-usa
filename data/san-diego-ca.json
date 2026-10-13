@@ -1,97 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-12T18:30:05.181Z",
+  "updated_at": "2026-10-13T16:41:06.654Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "DOMi & JD BECK - WHO ASKED? NORTH AMERICA TOUR",
-      "venue_line": "House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "MADDIE ZAHM: Everything All The Time Tour ",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Hokus Pokus Live!",
-      "venue_line": "The Observatory North Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Davide De Pierro",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$50–$72",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Lucy Darling: As You Wish",
-      "venue_line": "Balboa Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "EsDeeKid - Council House Rat Tour",
-      "venue_line": "SOMA • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "EsDeeKid - Council House Rat Tour",
-      "venue_line": "SOMA - Mainstage • San Diego",
-      "price_label": "$34–$60",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "EsDeeKid w/ Rico Ace",
-      "venue_line": "Soma • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Sophie Hunter presents:   STEREOSCOPE The Tour",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Begin Again",
+      "venue_line": "Old Globe Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "San Diego Gulls vs. Ontario Reign",
+      "venue_line": "Pechanga Arena San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour - La Mesa, CA",
+      "venue_line": "Skyline Church • La Mesa",
+      "price_label": "$20–$122",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Davide De Pierro",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$50–$72",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Davide De Pierro - 21+",
+      "venue_line": "Belly Up Tavern • Solana Beach",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "San Diego FC vs Houston Dynamo FC",
+      "venue_line": "Snapdragon Stadium • San Diego",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Charli xcx - Music, Fashion, Film Tour",
+      "venue_line": "Viejas Arena at Aztec Bowl San Diego State University • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "LP - All Is Not Lost Tour",
+      "venue_line": "The Sound • Del Mar",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

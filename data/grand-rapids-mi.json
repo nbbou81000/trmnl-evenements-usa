@@ -1,37 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-12T18:29:34.960Z",
+  "updated_at": "2026-10-13T16:40:36.600Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Metal Mondays",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Sweet Pill + Heart To Gold + Spaced",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "12",
-      "date_iso": "2026-10-12",
-      "title": "Julia Wolf",
-      "venue_line": "Intersection - Elevation • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "13",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Grand Rapids Ballet: Broken Wings",
+      "venue_line": "Peter Martin Wege Theatre • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Roosevelt Diggs (album release party) + The Reverend Jesse Ray + Futuretime String Band",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Anthony Hamilton, Leela James & Raheem Devaughn",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
