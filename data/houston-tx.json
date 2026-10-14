@@ -1,77 +1,7 @@
 {
   "city_label": "Houston, TX",
-  "updated_at": "2026-10-13T16:40:48.086Z",
+  "updated_at": "2026-10-14T14:16:31.743Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Govt Mule w/ Ziggy Marley",
-      "venue_line": "Smart Financial Centre at Sugar Land • Sugar Land",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "PRESIDENT: North American Campaign 2026",
-      "venue_line": "House of Blues Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "The Emerald Theatre • Houston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
-      "venue_line": "The Bronze Peacock at House of Blues Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Weatherday",
-      "venue_line": "The Secret Group • Houston",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Bassvictim",
-      "venue_line": "White Oak Music Hall - Downstairs • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Weatherday Hornet Disaster Tour 2026",
-      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -156,21 +86,21 @@
       "day_label": "THU",
       "day_number": "15",
       "date_iso": "2026-10-15",
-      "title": "Houston Cougars Mens Basketball vs. Montana Tech Diggers Mens Basketball",
-      "venue_line": "Fertitta Center • Houston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
       "title": "Sleeping With Sirens: An Ending In Itself Tour",
       "venue_line": "Bayou Music Center • Houston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Houston Cougars Mens Basketball vs. Montana Tech Diggers Mens Basketball",
+      "venue_line": "Fertitta Center • Houston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "THU",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-15",
       "title": "Funjelah Live Podcast Taping w/ Anjelah Johnson-Reyes & Special Guest",
       "venue_line": "Punch Line Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "YHWH Nailgun",
+      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Indigo Girls w/ Linda Perry",
+      "venue_line": "Smart Financial Centre at Sugar Land • Sugar Land",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Houston Rockets vs. Oklahoma City Thunder",
+      "venue_line": "Toyota Center - TX • Houston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ivã¡N Fematt ÂLa Moleâ (En Espaã±Ol)",
+      "venue_line": "Houston Improv • Houston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Henao",
+      "venue_line": "Warehouse Live Midtown • Houston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Too Much To Say - a tribute to Dave Matthews",
+      "venue_line": "Scout Bar - Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "The Emerald Theatre • Houston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

@@ -1,6 +1,6 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-13T16:40:29.691Z",
+  "updated_at": "2026-10-14T14:16:12.173Z",
   "events": [
     {
       "day_label": "FRI",
@@ -76,21 +76,21 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
-      "title": "SPOOKY PERREO - Halloween Reggaeton Dance Party",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
       "title": "Univ of South Carolina Gamecocks Football vs. Tennessee Volunteers Football",
       "venue_line": "Williams-Brice Stadium • Columbia",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "SPOOKY PERREO - Halloween Reggaeton Dance Party",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "TUE",

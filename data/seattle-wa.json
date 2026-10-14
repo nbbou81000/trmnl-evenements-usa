@@ -1,117 +1,7 @@
 {
   "city_label": "Seattle, WA",
-  "updated_at": "2026-10-13T16:41:14.036Z",
+  "updated_at": "2026-10-14T14:16:59.474Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Smoke On the Mountain",
-      "venue_line": "Taproot Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Hayden Everett - Ages 21+",
-      "venue_line": "Neumos • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "amelie farren w/ Lilith Max",
-      "venue_line": "The Vera Project • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Free spooky movie night- A Girl Walks Home Alone at Night (2014)",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Seattle Thunderbirds vs. Vancouver Giants",
-      "venue_line": "accesso ShoWare Center • Kent",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Paige Fish",
-      "venue_line": "Baba Yaga • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Lila Downs: Cambias mi Mundo",
-      "venue_line": "Moore Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Iron & Wine",
-      "venue_line": "The 5th Avenue Theatre • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Young Miko - Late Checkout Tour",
-      "venue_line": "Climate Pledge Arena • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Mon Rovia w/ Sydney Rose",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "SOLD OUT! Jackie Evans on Tour (partially seated)",
-      "venue_line": "Tractor • Seattle",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -196,8 +86,118 @@
       "day_label": "WED",
       "day_number": "14",
       "date_iso": "2026-10-14",
+      "title": "Bupp! Gameshow Night!",
+      "venue_line": "Chop Suey • Seattle",
+      "price_label": "$15",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
       "title": "Ashley Cooke (21 and Over)",
       "venue_line": "Showbox SODO • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Vidura Bandara Rajapaksa: The Paradise Gothic Tour",
+      "venue_line": "Neptune Theatre • Seattle",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "SOLD OUT! Dave Alvin: New and Old Songs w/ Chris Miller Plus Special Guest: Christy McWilson (partially seated)",
+      "venue_line": "Tractor • Seattle",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Tractor Presents: Izaak Opatz w/ Serafima & The Shakedowns AT The Sunset",
+      "venue_line": "Tractor • Seattle",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Tractor Presents: Tray Wellington Band w/ Asa Menlove, Hemlock Revival AT Conor Byrne Pub",
+      "venue_line": "Tractor • Seattle",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Emmett Montgomery and Brett Hamil Present: Joketellers Union w/ Jaci Terjeson & Madhuri Raju",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$16",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "BLÜ EYES- Two People at Once Tour",
+      "venue_line": "Baba Yaga • Seattle",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Converge w/ The Heiress",
+      "venue_line": "El Corazon • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Smoke On the Mountain",
+      "venue_line": "Taproot Theatre • Seattle",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Rocky Horror Picture Spooktacular Tour with Patricia Quinn",
+      "venue_line": "The 5th Avenue Theatre • Seattle",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Doja Cat - Tour Ma Vie World Tour",
+      "venue_line": "Climate Pledge Arena • Seattle",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

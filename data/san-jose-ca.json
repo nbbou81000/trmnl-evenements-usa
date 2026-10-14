@@ -1,57 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-13T16:41:07.563Z",
+  "updated_at": "2026-10-14T14:16:52.510Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Rin, Sabrina Sterling",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$263–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Sukhishvili Georgian National Ballet",
-      "venue_line": "California Theatre • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "San Jose Sharks vs. Boston Bruins",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Lakeview",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "The Wallflowers",
+      "venue_line": "Mountain Winery • Saratoga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Small Town Murder",
+      "venue_line": "California Theatre • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "David Starfire",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Blade Rave",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$26–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Moe's Alley Presents: Young Dubliners w/ Ockham's Razor",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

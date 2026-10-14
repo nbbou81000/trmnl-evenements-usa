@@ -1,87 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-10-13T16:40:47.174Z",
+  "updated_at": "2026-10-14T14:16:30.800Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Test Your Mic",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Ravyn Lenae Presents: Blue Island",
-      "venue_line": "House of Blues Dallas  • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "L7: The Last Hurrah Tour 2026",
-      "venue_line": "The Echo Lounge & Music Hall • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "ARTMS",
-      "venue_line": "Texas Trust CU Theatre • Grand Prairie",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "FIFTH THIRD GARAGE: Dallas Stars v Colorado Avalanche",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Dallas Stars vs. Colorado Avalanche",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "MARIS",
-      "venue_line": "Club Dada • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "EPIK HIGH 3.0 NORTH AMERICAN TOUR",
-      "venue_line": "Granada Theater - TX • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -199,6 +119,86 @@
       "title": "Elevation Worship  | Official Ticket + Hotel Packages",
       "venue_line": "American Airlines Center • Dallas",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Elevation Worship & Steven Furtick - Fall Tour 2026",
+      "venue_line": "American Airlines Center • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Tales from the Dorkside",
+      "venue_line": "Addison Improv • Addison",
+      "price_label": "$13–$75",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+      "venue_line": "AT&T Stadium • Arlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+      "venue_line": "AT&T Stadium • Arlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Andy Franklin & Kenny Lee: Double Headliner",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Sons of Legion",
+      "venue_line": "Texas Trust CU Theatre • Grand Prairie",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Don Chief and Friends (Feat Celebrity)",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Parrotfish, Clement Hall, Sundowning.",
+      "venue_line": "Three Links Deep Ellum • Dallas",
+      "price_label": "$22–$26",
       "type_key": "music",
       "type_label": "Music"
     }

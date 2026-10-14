@@ -1,77 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-13T16:40:37.870Z",
+  "updated_at": "2026-10-14T14:16:21.099Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "BOOK BANTER BRIGADE: HEX",
-      "venue_line": "Unhinged Lounge • Cleveland",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "SUPERSUCKERS W/ The Rumours",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Lyrical Rhythms",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Laura Veirs w/ Karl Blau",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Roger Clyne and The Peacemakers",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "The Mercury Jam",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Secret Society Comedy Presents: One More Joke",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -81,6 +11,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "14",
+      "date_iso": "2026-10-14",
+      "title": "Metalcore Wednesday",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -199,6 +139,66 @@
       "title": "Struggle Jennings",
       "venue_line": "The Cambridge Room at House of Blues Cleveland • Cleveland",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "NEVER TRUST THE LIVING",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Blooming Trio",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ghostbusters In Concert",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "W.A.S.P.",
+      "venue_line": "Agora Theatre • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Last Waltz - The 50th Anniversary Tour Featuring: Chest Fever",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Dana and Alden, Alex Amen",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
     }

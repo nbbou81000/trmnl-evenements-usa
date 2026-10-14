@@ -1,117 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-13T16:41:06.654Z",
+  "updated_at": "2026-10-14T14:16:51.445Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Nekrogoblikon",
-      "venue_line": "House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "An Evening with Davide De Pierro",
-      "venue_line": "The Observatory North Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Ilana Glazer Live!",
-      "venue_line": "Balboa Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Geese - Getting Killed Again Tour",
-      "venue_line": "Petco Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Begin Again",
-      "venue_line": "Old Globe Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Sombr w/ The Hellp",
-      "venue_line": "Pechanga Arena San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Role Model Presents: Chuck On Tour",
-      "venue_line": "Cal Coast Credit Union Open Air Theatre at SDSU • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Benmont Tench - SOLO",
-      "venue_line": "Music Box • San Diego",
-      "price_label": "$67",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Deer Tick - Tour-o-matic w/ Presley Haile",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$41–$124",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Deer Tick (21+ Event)",
-      "venue_line": "Belly Up Tavern • Solana Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -199,6 +89,116 @@
       "title": "LP - All Is Not Lost Tour",
       "venue_line": "The Sound • Del Mar",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Turnpike Troubadours",
+      "venue_line": "Petco Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
+      "venue_line": "House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "venue_line": "Balboa Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "LOVE SPELLS - LOVE IS THE LAW WORLD TOUR",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Begin Again",
+      "venue_line": "Old Globe Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Xavier Wulf Presents: The Cool World Tour",
+      "venue_line": "The Observatory North Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "ADD ON: Xavier Wulf M&G",
+      "venue_line": "The Observatory North Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Akeem Ali - The Texture Tour",
+      "venue_line": "Music Box • San Diego",
+      "price_label": "$33–$99",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Akeem Ali",
+      "venue_line": "Music Box - San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Saint Levant",
+      "venue_line": "Soma • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Easy Star All-Stars - Dub Side of the Moon w/ Double Tiger",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$33–$55",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,37 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-13T16:40:26.864Z",
+  "updated_at": "2026-10-14T14:16:09.089Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "Spectrum Center • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Igorrr: North American Tour 2026",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "The Revivalists",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "COLBY ACUFF: The Handmade Horsepower Tour",
+      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Arcángel - La 8va Maravilla World Tour",
+      "venue_line": "Ovens Auditorium • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Juelz (18+ Event)",
+      "venue_line": "Blackbox Theater - Charlotte • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

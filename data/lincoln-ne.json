@@ -1,17 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-13T16:40:44.284Z",
+  "updated_at": "2026-10-14T14:16:27.893Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "GODSMACK - The Rise of Rock World Tour 2026",
-      "venue_line": "Pinnacle Bank Arena • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Lincoln Stars vs. Muskegon Lumberjacks",
+      "venue_line": "Ice Box • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

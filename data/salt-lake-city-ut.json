@@ -1,107 +1,7 @@
 {
   "city_label": "Salt Lake City, UT",
-  "updated_at": "2026-10-13T16:41:00.875Z",
+  "updated_at": "2026-10-14T14:16:45.218Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Bebe Stockwell",
-      "venue_line": "Kilby Court • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Utah Mammoth vs. Toronto Maple Leafs",
-      "venue_line": "Delta Center • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "The Green - Titles Tour 2026",
-      "venue_line": "The Depot • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Pouya",
-      "venue_line": "The Complex • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Pouya",
-      "venue_line": "The Complex - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Our Town",
-      "venue_line": "Beehive Stage at Hale Centre Theatre Sandy • Sandy",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Nahko and Medicine For The People",
-      "venue_line": "The Complex - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
-      "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Malcolm Todd: Do That Again Tour",
-      "venue_line": "The Union • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Kishi Bashi (21 and Over)",
-      "venue_line": "The Commonwealth Room • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Wrecks - Finally : OUTSIDE Tour",
+      "venue_line": "The Depot • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Julien Baker w/ Rocket",
+      "venue_line": "Kilby Court • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Justin Nozuka - 21+",
+      "venue_line": "The Urban Lounge-UT • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Our Town",
+      "venue_line": "Beehive Stage at Hale Centre Theatre Sandy • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Kacey Musgraves",
+      "venue_line": "Delta Center • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Dear Evan Hansen",
+      "venue_line": "CenterPoint Legacy Theatre • Centerville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Joseph and the Amazing Technicolor Dreamcoat (Touring)",
+      "venue_line": "Young Living Centre Stage at Hale Centre Theatre • Sandy",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Kyle Hume",
+      "venue_line": "Soundwell • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "The Milk Carton Kids (21 and Over)",
+      "venue_line": "The Commonwealth Room • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Bumble's Drone Spooktacular",
+      "venue_line": "The Ballpark at America First Square • South Jordan",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

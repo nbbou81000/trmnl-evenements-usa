@@ -1,6 +1,6 @@
 {
   "city_label": "Shreveport, LA",
-  "updated_at": "2026-10-13T16:40:56.858Z",
+  "updated_at": "2026-10-14T14:16:40.815Z",
   "events": [
     {
       "day_label": "FRI",
@@ -168,6 +168,16 @@
       "date_iso": "2026-12-11",
       "title": "Shenandoah",
       "venue_line": "Margaritaville Resort Casino • Bossier City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "12",
+      "date_iso": "2026-12-12",
+      "title": "Winter Fest Featuring Webbie",
+      "venue_line": "Shreveport Municipal Memorial Auditorium • Shreveport",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,67 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-13T16:40:42.067Z",
+  "updated_at": "2026-10-14T14:16:25.520Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "HEY, NOTHING - THE HOUND TOUR",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Jazz at Lincoln Center Orchestra w/ Wynton Marsalis",
-      "venue_line": "Orchestra Hall-MN • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Jesse Roper",
-      "venue_line": "Cedar Cultural Center • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "STING 3.0 Tour",
-      "venue_line": "Orpheum Theatre • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "venue_line": "Grand Casino Arena • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "venue_line": "Grand Casino Arena • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Ben Schwartz and Friends",
+      "venue_line": "Orpheum Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "U.S. Bank Stadium Tour",
+      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "The Menzingers: Everything I Ever Saw North American Tour",
+      "venue_line": "Varsity Theater • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Grace Enger - The Satisfied Girl Tour",
+      "venue_line": "Green Room • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Skillet: Comatose 20 Years, Still Screaming Tour",
+      "venue_line": "Uptown Theater Minneapolis • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "St. Thomas Tommies Womens Hockey vs. St. Cloud State Huskies Womens Hockey",
+      "venue_line": "Lee and Penny Anderson Arena • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

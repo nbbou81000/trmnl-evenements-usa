@@ -1,17 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-13T16:40:45.585Z",
+  "updated_at": "2026-10-14T14:16:29.371Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "sKitz Kraven",
-      "venue_line": "Wave • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Wichita State Shockers Womens Volleyball vs. North Texas Mean Green Women's Volleyball",
+      "venue_line": "Charles Koch Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

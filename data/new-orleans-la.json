@@ -1,67 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-13T16:40:55.901Z",
+  "updated_at": "2026-10-14T14:16:39.834Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Modest Mouse",
-      "venue_line": "The Fillmore New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Comedy Beast",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$8",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Autumn Dominguez  presents A Birthday Tribute to Lee Konitz",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Bright Eyes",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$70",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Gabe Rutledge presented by Laugh Life Comedy",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "13",
-      "date_iso": "2026-10-13",
-      "title": "Autumn Dominguez  presents A Birthday Tribute to Lee Konitz",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "14",
@@ -196,11 +136,71 @@
       "day_label": "THU",
       "day_number": "15",
       "date_iso": "2026-10-15",
-      "title": "A Funky Songwriter Summit ft. Lilli Lewis, Joe Marcinek, Marc Stone, Pat Smith, Keiko Komaki, Megan Martinez, Sean Carey, and Terry Scott, Jr.",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$27–$45",
+      "title": "ROAD TO ELECTRIC SPRING",
+      "venue_line": "Gasa Gasa • New Orleans",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Victor Goines Quartet",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$47",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "$3 Thursday ft. Orange You Glad",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$6",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Tulane Green Wave Football vs. Memphis Tigers Football",
+      "venue_line": "Yulman Stadium • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "K. Michelle",
+      "venue_line": "The Fillmore New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Comedy Teabag: A Dirty Comedy Show presented by Twisted Tea",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$16",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "New Orleans Pelicans vs. Washington Wizards",
+      "venue_line": "Smoothie King Center • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }
