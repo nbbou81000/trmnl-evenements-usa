@@ -1,17 +1,7 @@
 {
   "city_label": "Lubbock, TX",
-  "updated_at": "2026-10-14T14:16:34.347Z",
+  "updated_at": "2026-10-15T13:51:32.924Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Elevation Worship",
-      "venue_line": "United Supermarkets Arena • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Texas Tech Red Raiders Mens Basketball vs. Stonehill Skyhawks Mens Basketball",
+      "venue_line": "United Supermarkets Arena • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

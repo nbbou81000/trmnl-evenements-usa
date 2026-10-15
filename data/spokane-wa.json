@@ -1,27 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-14T14:17:00.422Z",
+  "updated_at": "2026-10-15T13:51:55.925Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Jon Meacham",
-      "venue_line": "The Fox - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "& Juliet (Touring)",
-      "venue_line": "First Interstate Center for the Arts • Spokane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "DJ Pauly D (18 and Over)",
+      "venue_line": "Spokane Live at Spokane Tribe Casino • Airway Heights",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Monster Jam",
+      "venue_line": "Numerica Veterans Arena • Spokane",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

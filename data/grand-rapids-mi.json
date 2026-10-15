@@ -1,37 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-14T14:16:19.750Z",
+  "updated_at": "2026-10-15T13:51:20.243Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Tip Top's Open Mic Hosted by Sound guy Cliff and Rowdy Fingers",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The Notebook (Touring)",
-      "venue_line": "DeVos Performance Hall • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Victor Jones + Gentlemen Cowbois",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Beth Stelling: Let Me Get Loose + Virginia Anzengruber",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$45",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Zach Top",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "THE HELP",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-14T14:16:52.510Z",
+  "updated_at": "2026-10-15T13:51:49.125Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "San Jose Barracuda vs. Calgary Wranglers",
-      "venue_line": "Tech CU Arena • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Open Mic at the San Jose Improv",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$5",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "San Jose Civic • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Jay Buchanan",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "*SOLD OUT - THANK YOU!* - Alborosie & Shengen Clan w/ Rise Up + Selecta 7",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +141,66 @@
       "price_label": "$30",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Mike Salazar (en Español)",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$62–$132",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$25–$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Santa Clara Broncos Womens Volleyball vs. St. Marys CA Gaels Womens Volleyball",
+      "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

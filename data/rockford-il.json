@@ -1,27 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-14T14:16:18.181Z",
+  "updated_at": "2026-10-15T13:51:19.050Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Club Coronado For Mania: The ABBA Tribute",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "MANIA: The ABBA Tribute",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -197,6 +177,26 @@
       "day_number": "30",
       "date_iso": "2026-10-30",
       "title": "Rockford IceHogs vs. Manitoba Moose",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Hitz Boxing: Rock The Ring - Halloween Havoc",
+      "venue_line": "Hard Rock Live Rockford • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Rockford IceHogs vs. Texas Stars",
       "venue_line": "BMO Center • Rockford",
       "price_label": "Price not available",
       "type_key": "sports",

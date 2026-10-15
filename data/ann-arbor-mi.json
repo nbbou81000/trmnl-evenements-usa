@@ -1,37 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-14T14:16:20.186Z",
+  "updated_at": "2026-10-15T13:51:20.726Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Line Dance Lessons at Diamondback Music Hall",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$13–$21",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Kenny Wayne Shepherd",
-      "venue_line": "Michigan Theater • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Breaker Box | BERATE | Harke | closet ghost",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -76,6 +46,16 @@
       "day_label": "FRI",
       "day_number": "16",
       "date_iso": "2026-10-16",
+      "title": "Michigan Wolverines Mens Basketball vs. Oregon State Beavers Mens Basketball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
       "title": "USA Hockey National Team Development Program vs. Dubuque Fighting Saints",
       "venue_line": "USA Hockey Arena • Plymouth",
       "price_label": "Price not available",
@@ -91,16 +71,6 @@
       "price_label": "$24–$148",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Michigan Wolverines Mens Basketball vs. Oregon State Beavers Mens Basketball",
-      "venue_line": "Crisler Center • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -201,6 +171,36 @@
       "price_label": "$30",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Last Waltz - 50 Year Anniversary Tour featuring CHEST FEVER The Official Revival of THE BAND",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$24–$189",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$3",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

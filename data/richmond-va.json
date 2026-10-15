@@ -1,37 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-14T14:16:07.525Z",
+  "updated_at": "2026-10-15T13:51:09.821Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Sunn 0]]]",
-      "venue_line": "The National • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The Phil Collins Story",
-      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Boombox w/ Future Joy",
-      "venue_line": "The Broadberry • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-23",
       "title": "Soccer Mommy w/ Snail Mail",
       "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Brad Williams",
+      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Brad Williams: The Tall Tales Tour",
+      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Anthony Hamilton w/ Raheem Devaughn",
+      "venue_line": "Altria Theater • Richmond",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

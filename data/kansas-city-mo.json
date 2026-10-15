@@ -1,27 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-14T14:16:26.040Z",
+  "updated_at": "2026-10-15T13:51:25.792Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Microwave w/ Free Throw",
-      "venue_line": "The Truman - Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Chris Stapleton's All-American Road Show",
-      "venue_line": "Morton Amphitheater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -197,6 +177,26 @@
       "day_number": "19",
       "date_iso": "2026-10-19",
       "title": "Kyle Hume",
+      "venue_line": "recordBar • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Skillet",
+      "venue_line": "The Midland Theatre - MO • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Michigander",
       "venue_line": "recordBar • Kansas City",
       "price_label": "Price not available",
       "type_key": "music",

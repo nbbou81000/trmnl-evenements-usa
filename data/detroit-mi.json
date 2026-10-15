@@ -1,67 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-10-14T14:16:19.278Z",
+  "updated_at": "2026-10-15T13:51:19.838Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Lenny Pearce",
-      "venue_line": "Royal Oak Music Theatre • Royal Oak",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "He Is Legend, In Angles, Excide, Ogemaw County",
-      "venue_line": "TSDMAAC • Detroit",
-      "price_label": "$12–$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Scene Queen: METALICIOUS",
-      "venue_line": "Saint Andrew's Hall • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "UniverSoul Circus",
-      "venue_line": "Across from the Aretha Franklin Amphitheatre Universoul Circus • Detroit",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Eric Johanson The Open Bayou Tour",
-      "venue_line": "Small's • Hamtramck",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Dirty Dancing (Touring)",
-      "venue_line": "Fisher Theatre - Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "LOCKED SHUT",
+      "venue_line": "Pike Room @ The Crofoot • Pontiac",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Suki Waterhouse: The Loveland Tour",
+      "venue_line": "The Fillmore Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Leanne Morgan: THE TIME OF OUR LIVES TOUR",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Leanne Morgan - Suite Rental",
+      "venue_line": "Fox Theatre Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Detroit Pistons v Toronto Raptors (Preseason)",
+      "venue_line": "Little Caesars Arena • Detroit",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Paris Paloma w/ Susannah Joffe",
+      "venue_line": "Jack White Theatre at the Masonic Temple - Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

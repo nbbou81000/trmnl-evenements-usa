@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-14T14:16:39.377Z",
+  "updated_at": "2026-10-15T13:51:37.493Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Cannons: The Everything Glows Tour",
-      "venue_line": "The Signal - Concert Hall • Chattanooga",
-      "price_label": "$46–$62",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Bobby Stone Film Series: Suspiria",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     },
     {
       "day_label": "SUN",

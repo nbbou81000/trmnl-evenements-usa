@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-14T14:16:43.335Z",
+  "updated_at": "2026-10-15T13:51:41.103Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Crescent Comedy Workshop",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$2",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Crescent Comedy Chaos",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -76,9 +56,9 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Amber Wallin",
+      "title": "Postponed till March 20, 2027: Amber Wallin",
       "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$33–$84",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +181,26 @@
       "price_label": "$37",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "AMB EDM W/ HOLY SMOKES/KRYPTK/SAHAROINE/DM@CRACY/MVKK/GIMME THAT",
+      "venue_line": "Alabama Music Box • Mobile",
+      "price_label": "$13–$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Wandaween Hosted by Wanda Doomy featuring a screening of Jennifer's Body plus Wanda Costume Contest",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

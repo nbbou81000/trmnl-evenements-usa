@@ -1,37 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-14T14:16:11.645Z",
+  "updated_at": "2026-10-15T13:51:13.332Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Meredith Willson???s The Music Man",
-      "venue_line": "Gaillard Center • Charleston",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Nevertel",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -197,6 +167,36 @@
       "day_number": "20",
       "date_iso": "2026-10-20",
       "title": "Scene Queen: METALICIOUS",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Gibbes Distinguished Lecture Series presents Danny McBride + Beeple",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Inside Out Charleston",
+      "venue_line": "The Refinery • Charleston",
+      "price_label": "$9",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Alana Springsteen - I Hope This Helps Tour",
       "venue_line": "Music Farm • Charleston",
       "price_label": "Price not available",
       "type_key": "music",

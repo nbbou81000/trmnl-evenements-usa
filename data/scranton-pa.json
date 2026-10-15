@@ -1,27 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-14T14:16:05.013Z",
+  "updated_at": "2026-10-15T13:51:07.701Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The Shining",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The Shining",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Journey",
+      "venue_line": "Mohegan Sun Arena at Casey Plaza • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "CLUTCH: US Fall Tour",
+      "venue_line": "F.M. Kirby Center • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

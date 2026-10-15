@@ -1,6 +1,6 @@
 {
   "city_label": "Shreveport, LA",
-  "updated_at": "2026-10-14T14:16:40.815Z",
+  "updated_at": "2026-10-15T13:51:38.883Z",
   "events": [
     {
       "day_label": "FRI",
@@ -178,6 +178,26 @@
       "date_iso": "2026-12-12",
       "title": "Winter Fest Featuring Webbie",
       "venue_line": "Shreveport Municipal Memorial Auditorium • Shreveport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "13",
+      "date_iso": "2026-12-13",
+      "title": "Jeff Dunham Inappropriate Contact",
+      "venue_line": "Shreveport Municipal Memorial Auditorium • Shreveport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "13",
+      "date_iso": "2026-12-13",
+      "title": "Pentatonix: Christmas in the City Tour ",
+      "venue_line": "Brookshire Grocery Arena • Bossier City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

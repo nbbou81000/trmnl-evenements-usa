@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-14T14:16:53.605Z",
+  "updated_at": "2026-10-15T13:51:50.042Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "MILITARIE GUN 20 Songs for 20 Dollars plus special guests Softcult, Shady Nasty, Dazy",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Iration",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -199,6 +179,26 @@
       "title": "BLITZKID Modern Hel Tour 2026",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$27–$71",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "There Will Be Bass",
+      "venue_line": "Mezcal Lounge • Fresno",
+      "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "BAD BUNNY HALLOWEEN",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$8",
       "type_key": "music",
       "type_label": "Music"
     }

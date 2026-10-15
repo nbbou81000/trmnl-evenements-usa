@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-14T14:16:41.326Z",
+  "updated_at": "2026-10-15T13:51:39.371Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The Doobie Brothers: Walk This Road Tour",
-      "venue_line": "Brandon Amphitheater • Brandon",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -197,6 +187,16 @@
       "day_number": "7",
       "date_iso": "2026-11-07",
       "title": "Hayes Carll w/ Joelton Mayfield",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Grateful Shred",
       "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",

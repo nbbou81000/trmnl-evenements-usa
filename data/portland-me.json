@@ -1,17 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-14T14:16:01.544Z",
+  "updated_at": "2026-10-15T13:51:04.703Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "MUSHROOMHEAD / FEAR FACTORY with guests NINE TREASURES",
-      "venue_line": "Aura • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Maine Mariners vs. Worcester Railers",
+      "venue_line": "Cross Insurance Arena • Portland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

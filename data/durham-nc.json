@@ -1,77 +1,7 @@
 {
   "city_label": "Durham, NC",
-  "updated_at": "2026-10-14T14:16:10.088Z",
+  "updated_at": "2026-10-15T13:51:12.014Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Five Finger Death Punch",
-      "venue_line": "Coastal Credit Union Music Park at Walnut Creek • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Southern Nights Comedy Tour, Landon Bryant, Mary Ryan Brown",
-      "venue_line": "Raleigh Improv • Cary",
-      "price_label": "$33–$89",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Thundercat: Distracted AF Tour",
-      "venue_line": "The Ritz • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Maybe Happy Ending (Touring)",
-      "venue_line": "DPAC • Durham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Brigitte Calls Me Baby",
-      "venue_line": "Cat's Cradle • Carrboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Machine Girl",
-      "venue_line": "Lincoln Theatre • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Machine Girl",
-      "venue_line": "Lincoln Theatre-NC • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -118,6 +48,16 @@
       "date_iso": "2026-10-15",
       "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
       "venue_line": "Carolina Theatre - Durham • Durham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Lamp w/ Scott Metzger",
+      "venue_line": "Lincoln Theatre-NC • Raleigh",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "The Lounge at Martin Marietta Center for the Performing Arts",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Atsuko Okatsuka: The Big Bowl Tour",
+      "venue_line": "Carolina Theatre - Durham • Durham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Atsuko Okatsuka",
+      "venue_line": "Carolina Theatre - Durham • Durham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "North Carolina Symphony - Rhapsody In Blue",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Dean Turnley (18+ Event)",
+      "venue_line": "The Fruit • Durham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Rene Vaca",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$33–$108",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

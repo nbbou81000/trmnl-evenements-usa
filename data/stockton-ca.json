@@ -1,6 +1,6 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-14T14:16:54.584Z",
+  "updated_at": "2026-10-15T13:51:50.867Z",
   "events": [
     {
       "day_label": "FRI",
@@ -41,6 +41,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Jamz Fall Fest/TVL",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "FRI",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "1",
-      "date_iso": "2026-12-01",
-      "title": "Stockton Kings vs. Santa Cruz Warriors",
-      "venue_line": "Adventist Health Arena • Stockton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     }
   ]
 }

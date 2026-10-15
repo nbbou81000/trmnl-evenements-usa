@@ -1,17 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-14T14:16:26.971Z",
+  "updated_at": "2026-10-15T13:51:26.612Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "EyeHateGod",
-      "venue_line": "Regency - MO • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Missouri State Bears Football vs. New Mexico State Aggies Football",
+      "venue_line": "Robert W. Plaster Stadium • Springfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

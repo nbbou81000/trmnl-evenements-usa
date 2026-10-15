@@ -1,107 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-14T14:16:21.099Z",
+  "updated_at": "2026-10-15T13:51:21.539Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "FREE PLAY WEDNESDAYS",
-      "venue_line": "The Mercury Music Lounge • Lakewood",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Metalcore Wednesday",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "BOOZY BINGO (FALL BINGO)",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "THE PEOPLE POETRY: OPEN MIC NIGHT",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$10",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "TANGO y algo mas!",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "All Elite Wrestling Presents DYNAMITE",
-      "venue_line": "Wolstein Center at CSU • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Oso Oso, Leisure Hour, Bad Luck",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Dadi Freyr",
-      "venue_line": "Globe Iron • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The Linda Lindas w/ Adan Diaz",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "SHIT SHOW KARAOKE",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -188,7 +88,7 @@
       "date_iso": "2026-10-15",
       "title": "The Last Waltz - The 50th Anniversary Tour Featuring: Chest Fever",
       "venue_line": "The Winchester • Lakewood",
-      "price_label": "$36",
+      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +99,106 @@
       "title": "Dana and Alden, Alex Amen",
       "venue_line": "Grog Shop • Cleveland Heights",
       "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "15",
+      "date_iso": "2026-10-15",
+      "title": "Bobby Bare Jr.",
+      "venue_line": "Beachland Tavern • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Earlybirds Club (21+ Event)",
+      "venue_line": "Globe Iron • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Cleveland Monsters vs. Wilkes-Barre Scranton Penguins",
+      "venue_line": "Rocket Arena • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Tampa Bay Rays at Cleveland Guardians: ALCS (Home Game 2)",
+      "venue_line": "Progressive Field • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "THE DREAD CREW OF ODDWOOD, The Brazen Rogues",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "MANIA: The ABBA Tribute",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Earl Sweatshirt w/ MIKE",
+      "venue_line": "Rock & Roll Hall Of Fame • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "The FM Project - A Steely Dan Tribute",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Eggy",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Acid Mothers Temple",
+      "venue_line": "Beachland Tavern • Cleveland",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

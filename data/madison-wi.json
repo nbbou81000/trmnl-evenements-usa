@@ -1,17 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-14T14:16:24.985Z",
+  "updated_at": "2026-10-15T13:51:24.969Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Carbon Leaf",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-20",
       "title": "THE ARMY, THE NAVY: THE FAKE BRAVE TOUR 2026",
       "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Judah & the Lion",
+      "venue_line": "The Sylvee • Madison",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,17 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-14T14:16:28.925Z",
+  "updated_at": "2026-10-15T13:51:28.289Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "The War and Treaty",
-      "venue_line": "The Englert Theatre • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -46,6 +36,16 @@
       "day_label": "SUN",
       "day_number": "18",
       "date_iso": "2026-10-18",
+      "title": "Iowa Hawkeyes Womens Volleyball vs. Wisconsin Badgers Womens Volleyball",
+      "venue_line": "Xtream Arena • Coralville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
       "venue_line": "Paramount Theatre • Cedar Rapids",
       "price_label": "Price not available",
@@ -61,16 +61,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Iowa Hawkeyes Womens Volleyball vs. Wisconsin Badgers Womens Volleyball",
-      "venue_line": "Xtream Arena • Coralville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "WED",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Gary Owen",
+      "venue_line": "Paramount Theatre-Iowa • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

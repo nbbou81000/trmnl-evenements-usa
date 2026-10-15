@@ -1,17 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-14T14:16:55.961Z",
+  "updated_at": "2026-10-15T13:51:52.110Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Mark Paul: The Daddy Ball Tour",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$31–$62",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "15",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Faultline Festival with Dustin Lynch",
+      "venue_line": "Morongo Field • Rancho Cucamonga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

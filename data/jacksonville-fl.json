@@ -1,37 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-14T14:16:14.089Z",
+  "updated_at": "2026-10-15T13:51:15.646Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "CANCELLED - Sex N' The City: A (super Unauthorized) Musical Parody",
-      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Black Violin",
-      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "14",
-      "date_iso": "2026-10-14",
-      "title": "Toadies: The Charmer Tour",
-      "venue_line": "FIVE • Jacksonville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Big Ass Truck, Chamber, Mugshot, Load Tha Nine, Scheme",
+      "venue_line": "Corazon del Barrio • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Golden Girls: The Laughs Continue",
+      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Billy Joel Legacy",
+      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
