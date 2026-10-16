@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-15T13:51:41.103Z",
+  "updated_at": "2026-10-16T13:42:25.353Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Gabriel Rutledge",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$33–$84",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Sister Hazel",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -59,6 +39,16 @@
       "title": "Postponed till March 20, 2027: Amber Wallin",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Only Locals Comedy Showcase",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$9",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -158,7 +148,7 @@
       "date_iso": "2026-10-22",
       "title": "Stagner's Showcase feat. Justin Stagner & Friends",
       "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14–$50",
+      "price_label": "$21–$50",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -199,6 +189,16 @@
       "title": "Wandaween Hosted by Wanda Doomy featuring a screening of Jennifer's Body plus Wanda Costume Contest",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$14",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Souled Out Comedy Show",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14–$39",
       "type_key": "misc",
       "type_label": "Other"
     }

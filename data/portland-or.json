@@ -1,97 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-15T13:51:53.879Z",
+  "updated_at": "2026-10-16T13:42:38.249Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Crystal Ballroom Tours",
-      "venue_line": "McMenamins Crystal Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue_line": "Jack London Revue • Portland",
-      "price_label": "$26–$206",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Disney On Ice presents Jump In!",
-      "venue_line": "Veterans Memorial Coliseum • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Friends in Low Places Presents: Line Dance Pre-Party",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Ashley Cooke w/ Aniston Pate",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Jeff Goldblum and the Mildred Snitzer Orchestra",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "HULDER with Antichrist Siege Machine & Lividus",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "NICK ROCHEFORT AND SCUFFED REALTOR",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$37",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Tinlicker",
-      "venue_line": "McMenamins Crystal Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -111,6 +21,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "NEKROMANTIX with D.R.I., Rezurex, & Scattered Guts",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$37",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -139,16 +59,6 @@
       "title": "ANALOG DOG",
       "venue_line": "Jack London Revue • Portland",
       "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "NEKROMANTIX with D.R.I., Rezurex, & Scattered Guts",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$37",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "TWIRL",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Caspa - Ages 21+",
+      "venue_line": "45 East • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$2",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Guys & Dolls",
+      "venue_line": "Winningstad Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Oregon Ballet Theatre Presents Swan Lake",
+      "venue_line": "Keller Auditorium • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "SAW: The Musical (Touring)",
+      "venue_line": "Alberta Abbey • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

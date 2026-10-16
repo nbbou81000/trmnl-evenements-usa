@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-15T13:51:50.042Z",
+  "updated_at": "2026-10-16T13:42:34.285Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Bush",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Echos, Lana Del Rabies",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$21–$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +181,26 @@
       "price_label": "$8",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "WWE Souvenir Ticket",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "WWE Monday Night RAW",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

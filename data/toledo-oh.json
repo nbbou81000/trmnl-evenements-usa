@@ -1,6 +1,6 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-15T13:51:22.372Z",
+  "updated_at": "2026-10-16T13:42:06.253Z",
   "events": [
     {
       "day_label": "FRI",
@@ -8,6 +8,16 @@
       "date_iso": "2026-10-16",
       "title": "Bowling Green Falcons Hockey vs. Niagara Purple Eagles Hockey",
       "venue_line": "Slater Family Ice Arena • Bowling Green",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Bowling Green Falcons Football vs. Ball State Cardinals Football",
+      "venue_line": "Doyt Perry Stadium • Bowling Green",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -31,16 +41,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bowling Green Falcons Football vs. Ball State Cardinals Football",
-      "venue_line": "Doyt Perry Stadium • Bowling Green",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "FRI",

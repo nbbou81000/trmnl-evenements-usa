@@ -1,6 +1,6 @@
 {
   "city_label": "Billings, MT",
-  "updated_at": "2026-10-15T13:51:46.916Z",
+  "updated_at": "2026-10-16T13:42:31.302Z",
   "events": [
     {
       "day_label": "FRI",
@@ -181,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "14",
+      "date_iso": "2026-12-14",
+      "title": "A Christmas Carol",
+      "venue_line": "Alberta Bair Theater • Billings",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

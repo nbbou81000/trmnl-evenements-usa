@@ -1,37 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-15T13:51:55.925Z",
+  "updated_at": "2026-10-16T13:42:40.366Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "& Juliet (Touring)",
-      "venue_line": "First Interstate Center for the Arts • Spokane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "RAY VOLPE - VOLPETRON ETERNAL TOUR",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$44–$100",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Ray Volpe",
-      "venue_line": "Knitting Factory Spokane - WA • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "& Juliet (Touring)",
+      "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "& Juliet (Touring)",
+      "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "LAKEVIEW - WRECK MY NIGHT TOUR",
+      "venue_line": "The District • Spokane",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

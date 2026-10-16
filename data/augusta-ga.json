@@ -1,17 +1,7 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-15T13:51:15.229Z",
+  "updated_at": "2026-10-16T13:41:58.656Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Air Supply: A Matter of Time Tour",
-      "venue_line": "Columbia County Performing Arts Center • Evans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -123,6 +113,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Rickey Smiley",
+      "venue_line": "Miller Theater - GA • Augusta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
       "day_label": "TUE",
       "day_number": "24",
       "date_iso": "2026-11-24",
@@ -141,6 +141,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "5",
+      "date_iso": "2026-12-05",
+      "title": "ZZ Top Notch - ZZ Top Tribute",
+      "venue_line": "Miller Theater - GA • Augusta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "FRI",

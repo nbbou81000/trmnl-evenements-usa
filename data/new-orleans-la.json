@@ -1,77 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-15T13:51:37.896Z",
+  "updated_at": "2026-10-16T13:42:22.307Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Marilyn Manson",
-      "venue_line": "The Fillmore New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Victor Goines Quartet",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$47",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Rock The Rafters: A Cajun & Creole Celebration",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Comedy Gumbeaux",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$13–$67",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "ROAD TO ELECTRIC SPRING",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Victor Goines Quartet",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$47",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "$3 Thursday ft. Orange You Glad",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$6",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -199,6 +129,76 @@
       "title": "John \"Papa\" Gros B3 Funk Set with Alex Mallet, Tucker Godbold, Russ Broussard & Special Guest June Yamagishi",
       "venue_line": "Chickie Wah Wah • New Orleans",
       "price_label": "$33–$45",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Let Me Stand Next To Your Fire",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Alejandro Canales Trio with Dylan Torrance and Simon Lott",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Bingo Loco",
+      "venue_line": "The Joy Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "ELEW \"The Top Professor\" & Herlin Riley featuring Max Moran",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$58",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Dean Martin Story",
+      "venue_line": "Jefferson Perf Arts Center • Metairie",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Margaret Cho Presents Charlene Kaye: Tiger Daughter",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "ELEW \"The Top Professor\" & Herlin Riley featuring Max Moran",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$58",
       "type_key": "music",
       "type_label": "Music"
     }

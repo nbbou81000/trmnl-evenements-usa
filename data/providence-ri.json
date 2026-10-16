@@ -1,6 +1,6 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-15T13:51:02.865Z",
+  "updated_at": "2026-10-16T13:41:46.080Z",
   "events": [
     {
       "day_label": "FRI",
@@ -36,6 +36,16 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
+      "title": "Providence College Friars Mens Basketball vs. Pittsburgh Panthers Mens Basketball",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
       "title": "Providence College Men's Basketball",
       "venue_line": "Amica Mutual Pavilion • Providence",
       "price_label": "Price not available",
@@ -56,28 +66,18 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "New England Revolution vs. Chicago Fire FC",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Providence College Friars Mens Basketball vs. Pittsburgh Panthers Mens Basketball",
-      "venue_line": "Amica Mutual Pavilion • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
       "title": "Rhode Island FC vs. Pittsburgh Riverhounds SC",
       "venue_line": "Centreville Bank Stadium • Pawtucket",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "New England Revolution vs. Chicago Fire FC",
+      "venue_line": "Gillette Stadium • Foxborough",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -168,7 +168,7 @@
       "date_iso": "2026-10-23",
       "title": "Evan Honer",
       "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$135",
+      "price_label": "$37–$135",
       "type_key": "music",
       "type_label": "Music"
     },

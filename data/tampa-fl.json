@@ -1,37 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-10-15T13:51:17.327Z",
+  "updated_at": "2026-10-16T13:42:01.001Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Tampa Bay Lightning vs. Seattle Kraken",
-      "venue_line": "Benchmark International Arena • Tampa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "On Company Time \"The PTO Tour\" in Tampa",
-      "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "The Vampire Circus",
-      "venue_line": "Ruth Eckerd Hall • Clearwater",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -166,6 +136,16 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
+      "title": "Tampa Bay Rowdies vs. Detroit City FC",
+      "venue_line": "Al Lang Stadium • Saint Petersburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
       "title": "Scheherazade",
       "venue_line": "Mahaffey Theater • St Petersburg",
       "price_label": "Price not available",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Crooked Pop Tailgate: Tampa Bay Buccaneers Vs. Pittsburgh Steelers",
+      "venue_line": "Raymond James Stadium • Tampa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Steinway Piano Series at USF:  Tinatin Gudadze",
+      "venue_line": "USF Barness Recital Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

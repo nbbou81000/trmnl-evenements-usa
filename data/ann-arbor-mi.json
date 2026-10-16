@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-15T13:51:20.726Z",
+  "updated_at": "2026-10-16T13:42:04.543Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Deraps, Jackstand, Brad Russell",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "The Toxhards",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -96,8 +76,8 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Eastern Michigan Eagles Football vs. Toledo Rockets Football",
-      "venue_line": "Rynearson Stadium • Ypsilanti",
+      "title": "Michigan Wolverines Football vs. Penn State Nittany Lions Football",
+      "venue_line": "Michigan Stadium • Ann Arbor",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -106,8 +86,8 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Michigan Wolverines Football vs. Penn State Nittany Lions Football",
-      "venue_line": "Michigan Stadium • Ann Arbor",
+      "title": "Eastern Michigan Eagles Football vs. Toledo Rockets Football",
+      "venue_line": "Rynearson Stadium • Ypsilanti",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Lauren Sanderson, XKYLER ",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$30–$118",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Lauren Sanderson",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

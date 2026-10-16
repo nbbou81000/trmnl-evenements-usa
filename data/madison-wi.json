@@ -1,27 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-15T13:51:24.969Z",
+  "updated_at": "2026-10-16T13:42:08.867Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Duane Betts & Palmetto Motel",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Magenta Wave",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -197,6 +177,26 @@
       "day_number": "20",
       "date_iso": "2026-10-20",
       "title": "Judah & the Lion",
+      "venue_line": "The Sylvee • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Tank and The Bangas - The Last Balloon Tour",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Sleeping With Sirens: An Ending In Itself Tour",
       "venue_line": "The Sylvee • Madison",
       "price_label": "Price not available",
       "type_key": "music",

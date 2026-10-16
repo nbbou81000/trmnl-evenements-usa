@@ -1,27 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-15T13:51:03.281Z",
+  "updated_at": "2026-10-16T13:41:46.535Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "My Hero Academia in Concert",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-21",
       "title": "Dracula",
       "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Ghostbusters In Concert",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

@@ -1,27 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-15T13:51:32.110Z",
+  "updated_at": "2026-10-16T13:42:16.322Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "The UTEP Jazz Ensembles In Concert - UTEP Department of Music",
-      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "In The Time Of The Butterflies-UTEP Theatre & Dance",
-      "venue_line": "June Sadowski Kruszewski Studio Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -177,7 +157,7 @@
       "day_number": "18",
       "date_iso": "2026-10-18",
       "title": "Yandel - SINFÓNICO",
-      "venue_line": "GECU Arena at Don Haskins Center • El Paso",
+      "venue_line": "GECU Arena at the Don Haskins Center • El Paso",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Mon Laferte - Femme Fatale Tour",
+      "venue_line": "GECU Arena at the Don Haskins Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The UTEP Dinner Theatre - Sweeney Todd",
+      "venue_line": "UTEP Dinner Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

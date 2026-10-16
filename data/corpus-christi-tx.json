@@ -1,7 +1,17 @@
 {
   "city_label": "Corpus Christi, TX",
-  "updated_at": "2026-10-15T13:51:32.524Z",
+  "updated_at": "2026-10-16T13:42:16.773Z",
   "events": [
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "William Beckmann w/ Julianna Rankin",
+      "venue_line": "Brewster Street Ice House • Corpus Christi",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -186,16 +196,6 @@
       "day_label": "FRI",
       "day_number": "20",
       "date_iso": "2026-11-20",
-      "title": "Corpus Christi IceRays vs. Amarillo Wranglers",
-      "venue_line": "Hilliard Center Arena • Corpus Christi",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "21",
-      "date_iso": "2026-11-21",
       "title": "Corpus Christi IceRays vs. Amarillo Wranglers",
       "venue_line": "Hilliard Center Arena • Corpus Christi",
       "price_label": "Price not available",

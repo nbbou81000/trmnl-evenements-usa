@@ -1,57 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-15T13:51:49.125Z",
+  "updated_at": "2026-10-16T13:42:33.418Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Santa Clara Broncos Womens Volleyball vs. Pacific Tigers Womens Volleyball",
-      "venue_line": "Leavey Event Center • Santa Clara",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "RUSH: Fifty Something",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "RANDY FELTFACE: GIMMICK!",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$31–$102",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Andre Cruz & The Black Diamond Rhythm Band w/ Trianna Feruza & The Heavy Hitters",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +151,56 @@
       "price_label": "$27–$31",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Phantom of the Opera (Touring)",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$25–$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$25–$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Stanford Cardinal Football vs. Elon University Phoenix Football",
+      "venue_line": "Stanford Stadium • Stanford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

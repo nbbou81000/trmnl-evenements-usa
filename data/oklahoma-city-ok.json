@@ -1,17 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-15T13:51:35.022Z",
+  "updated_at": "2026-10-16T13:42:19.231Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "I See Stars w/ Nate Vickers",
-      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-22",
       "title": "Ole 60 w/ Arcy Drive",
       "venue_line": "OKC Zoo Amphitheatre • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Prof w/ Norman Sann",
+      "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

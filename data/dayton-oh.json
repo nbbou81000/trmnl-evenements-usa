@@ -1,17 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-15T13:51:23.192Z",
+  "updated_at": "2026-10-16T13:42:07.126Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Dave Chappelle: Working Out Karmageddon",
-      "venue_line": "YS Firehouse • Yellow Springs",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Deck the Diamond",
+      "venue_line": "Day Air Ballpark • Dayton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-15T13:51:05.128Z",
+  "updated_at": "2026-10-16T13:41:48.325Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "The Wild Kratts Live!",
-      "venue_line": "Capitol Center for the Arts - NH • Concord",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "The Wild Kratts Live!",
-      "venue_line": "Capitol Center for the Arts - NH • Concord",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-01",
       "title": "Ana Castela Boston | After Party | November 1st",
       "venue_line": "Centro Night Club • Lawrence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Combat Zone 94",
+      "venue_line": "SNHU Arena • Manchester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "YellowHouse Blues Band",
+      "venue_line": "BNH Stage • Concord",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

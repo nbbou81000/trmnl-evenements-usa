@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-15T13:51:01.584Z",
+  "updated_at": "2026-10-16T13:41:44.671Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "100 Demons",
-      "venue_line": "The Montage Music Hall • Rochester",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "The Music of Weather Report",
-      "venue_line": "Lovin' Cup • Rochester",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Cool Club & the Lipker Sisters: Halloween Bash!",
+      "venue_line": "Lovin' Cup • Rochester",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lil Baby: Upstate Fest Feat. Fetty Wap, Key Glock, Boosie, & KenTheMan",
+      "venue_line": "Blue Cross Arena • Rochester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

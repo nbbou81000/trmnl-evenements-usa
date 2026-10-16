@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-10-15T13:51:14.296Z",
+  "updated_at": "2026-10-16T13:41:57.771Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,9 +23,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
       "title": "Tours: Truist Park",
       "venue_line": "Truist Park • Atlanta",
       "price_label": "Price not available",
@@ -33,49 +33,139 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King",
-      "venue_line": "The Masquerade - Hell • Atlanta",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Trap Karaoke: Atlanta",
+      "venue_line": "Coca-Cola Roxy • Atlanta",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Token: I'm Leaving Soon Tour",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
+      "venue_line": "Lakewood Amphitheatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Quadeca",
+      "venue_line": "The Masquerade - Heaven • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Ceremony",
+      "venue_line": "The Masquerade - Hell • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "ivri",
       "venue_line": "The Masquerade - Purgatory • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Dan + Shay: The Young Tour",
-      "venue_line": "Ameris Bank Amphitheatre • Alpharetta",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "MARIS",
+      "venue_line": "The Masquerade  - Altar • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Alabama Live In Concert",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Ali Siddiq: The Custom Fit Tour",
+      "venue_line": "State Farm Arena • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Georgia Tech Yellow Jackets Womens Volleyball vs. Syracuse University Womens Volleyball",
+      "venue_line": "O'Keefe Gymnasium • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Trap Karaoke",
+      "venue_line": "Coca-Cola Roxy • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
       "venue_line": "Gas South Arena • Duluth",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Atlanta Ballet 2: Cinderella",
+      "venue_line": "Fox Theatre - Atlanta • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Guster With The Atlanta Symphony Orchestra",
+      "venue_line": "Atlanta Symphony Hall • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Garage - 1180 Peachtree St: Guster",
+      "venue_line": "Atlanta Symphony Hall • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
       "title": "Mexodus",
       "venue_line": "Alliance Theatre - Coca-Cola Stage • Atlanta",
       "price_label": "Price not available",
@@ -83,124 +173,34 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Like Father",
-      "venue_line": "Alliance Theatre • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "KATSEYE: THE WILDWORLD TOUR",
-      "venue_line": "State Farm Arena • Atlanta",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "San Holo presents TRUE LOVE IN A MADE UP WORLD",
+      "venue_line": "Tabernacle Presented by iTHINK Financial • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Delta Sky360 Club Experience: Katseye",
-      "venue_line": "State Farm Arena • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Bayonne",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Bombargo",
       "venue_line": "Aisle 5 • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Tricky",
-      "venue_line": "The Loft • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Isaiah Falls",
-      "venue_line": "Center Stage Theater • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Great Lake Swimmers",
-      "venue_line": "Vinyl • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Kyle Kinane",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "Waylon Wyatt",
       "venue_line": "Variety Playhouse • Atlanta",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Bayonne",
-      "venue_line": "Aisle 5 • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Interpol w/ DIIV",
-      "venue_line": "The Eastern-GA • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Tank and The Bangas",
-      "venue_line": "Terminal West • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Kelela - new avatar live",
-      "venue_line": "Buckhead Theatre • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-10-15T13:51:24.132Z",
+  "updated_at": "2026-10-16T13:42:07.987Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Brad Williams: The Tall Tales Tour",
-      "venue_line": "Embassy Theatre • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Niko Moon - VIP Upgrades",
-      "venue_line": "The Clyde • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -197,6 +167,36 @@
       "day_number": "24",
       "date_iso": "2026-10-24",
       "title": "Fort Wayne Komets vs. Indy Fuel",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Fort Wayne Komets vs. Indy Fuel",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Katy Nichole",
+      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Fort Wayne Komets vs. Wheeling Nailers",
       "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
       "price_label": "Price not available",
       "type_key": "sports",

@@ -1,27 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-15T13:51:27.431Z",
+  "updated_at": "2026-10-16T13:42:11.566Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Matt Mathews",
-      "venue_line": "Lied Center for Performing Arts • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Silver Ticket Karaoke",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -46,8 +26,8 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Lincoln Stars vs. Sioux City Musketeers",
-      "venue_line": "Ice Box • Lincoln",
+      "title": "Nebraska Cornhuskers Womens Volleyball vs. Purdue Boilermakers Womens Volleyball",
+      "venue_line": "Bob Devaney Sports Center • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -56,8 +36,8 @@
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
-      "title": "Nebraska Cornhuskers Womens Volleyball vs. Purdue Boilermakers Womens Volleyball",
-      "venue_line": "Bob Devaney Sports Center • Lincoln",
+      "title": "Lincoln Stars vs. Sioux City Musketeers",
+      "venue_line": "Ice Box • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "American Aquarium, Kalyn Fay",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$27–$46",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "American Aquarium",
+      "venue_line": "Bourbon Theatre-NE • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

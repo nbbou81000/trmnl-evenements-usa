@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-15T13:51:54.677Z",
+  "updated_at": "2026-10-16T13:42:39.063Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Oregon Ducks Men's Basketball vs. Seattle University Redhawks Men's Basketball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "D.R.I.",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -199,6 +179,26 @@
       "title": "Slow Pulp",
       "venue_line": "WOW Hall • Eugene",
       "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Everclear",
+      "venue_line": "McDonald Theatre • Eugene",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Steely Dead",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$29",
       "type_key": "music",
       "type_label": "Music"
     }

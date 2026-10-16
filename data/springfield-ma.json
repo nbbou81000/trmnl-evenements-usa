@@ -1,16 +1,16 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-15T13:51:08.548Z",
+  "updated_at": "2026-10-16T13:41:51.941Z",
   "events": [
     {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
+      "day_label": "FRI",
+      "day_number": "16",
+      "date_iso": "2026-10-16",
+      "title": "UMass Minutemen Hockey vs. Northeastern Huskies Hockey",
+      "venue_line": "Mullins Center • Amherst",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -33,16 +33,6 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "UMass Minutemen Hockey vs. Northeastern Huskies Hockey",
-      "venue_line": "Mullins Center • Amherst",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
       "day_label": "SAT",
       "day_number": "17",
       "date_iso": "2026-10-17",
@@ -51,6 +41,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "UMass Minutemen Hockey vs. Northeastern Huskies Hockey",
+      "venue_line": "Mullins Center • Amherst",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -81,16 +81,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "UMass Minutemen Hockey vs. Northeastern Huskies Hockey",
-      "venue_line": "Mullins Center • Amherst",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -181,6 +171,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Melvin Seals",
+      "venue_line": "Infinity Hall - Hartford • Hartford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "THU",

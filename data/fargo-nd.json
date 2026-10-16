@@ -1,27 +1,7 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-15T13:51:29.208Z",
+  "updated_at": "2026-10-16T13:42:13.280Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "North Dakota State Bison Womens Volleyball vs. South Dakota State Jackrabbits Womens Volleyball",
-      "venue_line": "Bentson Bunker Fieldhouse • Fargo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Fargo Force vs Green Bay Gamblers",
-      "venue_line": "Scheels Arena • Fargo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "North Dakota State Bison Football vs. Northern Illinois Huskies Football",
+      "venue_line": "Fargodome • Fargo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "Wizards of Winter",
+      "venue_line": "Fargo Theatre • Fargo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-15T13:51:53.351Z",
+  "updated_at": "2026-10-16T13:42:37.817Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "THE SPIRAL ELECTRIC / SALEM'S BEND / ANCIENT RIVER",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "16",
@@ -199,6 +189,16 @@
       "title": "REGGIE RARE / C-DANKY / MUNCHIES & JUST JOE / ANDY TREES / 2 TONE / PLUS MORE",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "RAISE THE BAR: OPEN MIC NIGHT",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

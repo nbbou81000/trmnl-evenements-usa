@@ -1,17 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-10-15T13:51:29.605Z",
+  "updated_at": "2026-10-16T13:42:13.713Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Zach Top w/ Marty Stuart & His Fabulous Superlatives",
-      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -71,6 +61,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "TIm Burton Cocktail Dinner",
+      "venue_line": "Icon Events & Dada Gastropub • Sioux Falls",
+      "price_label": "$82",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "FRI",

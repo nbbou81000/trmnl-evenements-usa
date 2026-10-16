@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-15T13:51:02.023Z",
+  "updated_at": "2026-10-16T13:41:45.161Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,36 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Agnostic Front",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "Austin Meade",
-      "venue_line": "The Lost Horizon • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "15",
-      "date_iso": "2026-10-15",
-      "title": "NOSHOWS + BELLE BLUE",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -163,6 +133,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Melvin Seals",
+      "venue_line": "Center for the Arts of Homer • Homer",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "MON",
       "day_number": "19",
       "date_iso": "2026-10-19",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Carsie Blanton",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$42",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Rehash",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
