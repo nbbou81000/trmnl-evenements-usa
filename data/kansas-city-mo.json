@@ -1,47 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-16T13:42:09.760Z",
+  "updated_at": "2026-10-17T12:38:55.322Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Mojo Brookzz",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Kansas City Mavericks vs Rapid City Rush - Barn Party Night",
-      "venue_line": "Cable Dahmer Arena • Independence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Demola",
-      "venue_line": "The Truman - Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Michael Franti",
-      "venue_line": "Warehouse On Broadway • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -199,6 +159,46 @@
       "title": "Improvement Movement",
       "venue_line": "recordBar • Kansas City",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Paige Fish: the midnight crisis tour",
+      "venue_line": "Encore at Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Knocked Loose & Denzel Curry",
+      "venue_line": "Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Trampled By Turtles w/ Wild Horses",
+      "venue_line": "The Truman - Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Bonnie X Clyde at aura",
+      "venue_line": "Aura KC • Kansas City",
+      "price_label": "$37",
       "type_key": "music",
       "type_label": "Music"
     }

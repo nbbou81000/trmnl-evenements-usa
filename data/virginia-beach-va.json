@@ -1,57 +1,7 @@
 {
   "city_label": "Virginia Beach, VA",
-  "updated_at": "2026-10-16T13:41:53.724Z",
+  "updated_at": "2026-10-17T12:38:39.280Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Bethel Music",
-      "venue_line": "The Norva • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Cece Winans",
-      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Virginia Symphony: Mozart's Gran Partita",
-      "venue_line": "Attucks Theatre • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "Harrison Opera House • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Private Eyes: The Hall & Oates Tribute",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Brad Williams: The Tall Tales Tour",
+      "venue_line": "Harrison Opera House • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Overture Lounge - Brad Williams",
+      "venue_line": "Harrison Opera House • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "BLACKSTAGE LIVE PRESENTS - REEL RENAISSANCE - VIP - 2-DAY TICKET",
+      "venue_line": "American Theatre • Hampton",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "BLACKSTAGE LIVE PRESENTS - REEL RENAISSANCE - GA - 2-DAY TICKET",
+      "venue_line": "American Theatre • Hampton",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "REEL RENAISSANCE: Drink Package - Add on to GA Ticket",
+      "venue_line": "American Theatre • Hampton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,57 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-16T13:41:46.535Z",
+  "updated_at": "2026-10-17T12:38:32.056Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "R&B ONLY LIVE - Wallingford, CT",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Trapt",
-      "venue_line": "Webster Theatre • Hartford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "UConn Huskies Hockey vs. Colorado College Tigers Hockey",
-      "venue_line": "Toscano Family Ice Forum • Storrs",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Springfield Thunderbirds vs. Lehigh Valley Phantoms",
-      "venue_line": "MassMutual Center • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Melvin Seals",
+      "venue_line": "Infinity Hall - Hartford • Hartford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "UConn Huskies Hockey vs. Boston University Terriers Mens Ice Hockey",
+      "venue_line": "Toscano Family Ice Forum • Storrs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Arcángel - La 8va Maravilla World Tour",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Story So Far",
+      "venue_line": "Dome at Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

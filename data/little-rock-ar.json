@@ -1,17 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-16T13:42:20.060Z",
+  "updated_at": "2026-10-17T12:39:05.449Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Lauren Alaina: The Stages Tour",
-      "venue_line": "The Hall • Little Rock",
-      "price_label": "$41–$59",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "The Brook & The Bluff - The Werewolf Tour",
+      "venue_line": "The Hall • Little Rock",
+      "price_label": "$25–$154",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

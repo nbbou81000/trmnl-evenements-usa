@@ -1,117 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-16T13:41:47.418Z",
+  "updated_at": "2026-10-17T12:38:32.967Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Northeastern Huskies Womens Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Sacred Heart Pioneers Men's Ice Hockey vs. Ohio State Buckeyes Mens Hockey",
-      "venue_line": "Martire Family Arena  • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Cradle of Filth w/ Moonspell",
-      "venue_line": "District Music Hall • Norwalk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Michael Carbonaro: Wonderboy",
-      "venue_line": "Shubert Theatre - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Yale Bulldogs Hockey vs. Maryville Fighting Scouts Mens Hockey",
-      "venue_line": "Ingalls Rink • New Haven",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Foghat",
-      "venue_line": "Toad's Place • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Foghat",
-      "venue_line": "Toads Place - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Jared Freid: The Table For One Tour",
-      "venue_line": "The Paramount in concert with Northwell • Huntington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Cabaret",
-      "venue_line": "Theatre Three - NY • Port Jefferson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Anthony Rodia, INSANELY FUNNY TOUR",
-      "venue_line": "Palace Theatre Stamford • Stamford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Dear Evan Hansen",
-      "venue_line": "John W Engeman Theater • Northport",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -198,6 +88,116 @@
       "date_iso": "2026-10-17",
       "title": "Dear Evan Hansen",
       "venue_line": "John W Engeman Theater • Northport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Once Upon a One More Time",
+      "venue_line": "Smithtown Center for the Performing Arts • Smithttown",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Trombone Shorty & Orleans Avenue",
+      "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Once Upon a One More Time",
+      "venue_line": "Smithtown Center for the Performing Arts • Smithttown",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Cabaret",
+      "venue_line": "Theatre Three - NY • Port Jefferson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "All Them Witches",
+      "venue_line": "District Music Hall • Norwalk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Damned - Final Damnation 50",
+      "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Daughtry - 20 Years Unplugged Tour",
+      "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Evan Honer: It???s An Even Longer Road Tour",
+      "venue_line": "District Music Hall • Norwalk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Matteo Lane",
+      "venue_line": "Palace Theatre Stamford • Stamford",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

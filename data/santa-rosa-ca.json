@@ -1,27 +1,7 @@
 {
   "city_label": "Santa Rosa, CA",
-  "updated_at": "2026-10-16T13:42:36.129Z",
+  "updated_at": "2026-10-17T12:39:21.283Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Corey Kent",
-      "venue_line": "Ruth Finley Person Theater- Luther Burbank Center • Santa Rosa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Legendary Autumn Night Vietnamese Show",
-      "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-13",
       "title": "Craig Finn",
       "venue_line": "HopMonk Tavern - Novato • Novato",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Jerry Seinfeld",
+      "venue_line": "Ruth Finley Person Theater- Luther Burbank Center • Santa Rosa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Loverboy",
+      "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,107 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-16T13:42:33.418Z",
+  "updated_at": "2026-10-17T12:39:18.652Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "San Jose Barracuda vs. Calgary Wranglers",
-      "venue_line": "Tech CU Arena • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Stanford Cardinal Womens Volleyball vs. Wake Forest Demon Deacons Womens Volleyball",
-      "venue_line": "Maples Pavilion • Stanford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Are You Garbage Podcast: Army of Garbage Tour",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$37–$108",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Phantom of the Opera (Touring)",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Wallflowers",
-      "venue_line": "Mountain Winery • Saratoga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Small Town Murder",
-      "venue_line": "California Theatre • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "David Starfire",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Blade Rave",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$26–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Moe's Alley Presents: Young Dubliners w/ Ockham's Razor",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Mike Salazar (en Español)",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$62–$132",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "amelie farren w/ Lilith Max",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Dustin Nickerson",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$31",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Ghoul, Dry Socket",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$31–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Santa Clara Broncos Mens Basketball vs. Stanford Cardinal Mens Basketball",
+      "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "The Phantom of the Opera (Touring)",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "RUSH: Fifty Something",
+      "venue_line": "SAP Center at San Jose • San Jose",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "San Jose Earthquakes vs. Nashville SC",
+      "venue_line": "PayPal Park • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Nelly",
+      "venue_line": "Mountain Winery • Saratoga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Pedro Fernández - Ave Fénix Two'r",
+      "venue_line": "San Jose Civic • San Jose",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Gabriel Rutledge",
+      "venue_line": "Bankhead Theater - Livermore Valley PAC • Livermore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

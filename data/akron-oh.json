@@ -1,37 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-16T13:42:06.686Z",
+  "updated_at": "2026-10-17T12:38:52.253Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "for KING + COUNTRY's The Most Beautiful Colours Tour",
-      "venue_line": "Canton Civic Center • Canton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "MTP Presents: Evil Dead The Musical",
-      "venue_line": "John, James and Clara Knight Stage • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "MANIA: The ABBA Tribute",
-      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Fab Four - The Ultimate Tribute",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "MTP Presents: Evil Dead The Musical",
+      "venue_line": "John, James and Clara Knight Stage • Akron",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Snow White & the Seven Dwarfs by The United European Ballet",
+      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

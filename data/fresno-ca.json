@@ -1,37 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-16T13:42:34.285Z",
+  "updated_at": "2026-10-17T12:39:19.483Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Russell Dickerson",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Turnpike Troubadours w/ Special Guest Wyatt Flores",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$39–$42",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -197,6 +167,36 @@
       "day_number": "26",
       "date_iso": "2026-10-26",
       "title": "WWE Monday Night RAW",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Colorado State University Rams Womens Volleyball",
       "venue_line": "Save Mart Center • Fresno",
       "price_label": "Price not available",
       "type_key": "sports",

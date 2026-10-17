@@ -1,17 +1,7 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-16T13:41:58.656Z",
+  "updated_at": "2026-10-17T12:38:44.460Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Extreme Dwarfanator Wrestling",
-      "venue_line": "American Legion Richmond Post #63 • Augusta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -127,6 +117,16 @@
       "day_number": "24",
       "date_iso": "2026-11-24",
       "title": "Jersey Boys",
+      "venue_line": "Columbia County Performing Arts Center • Evans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "4",
+      "date_iso": "2026-12-04",
+      "title": "Augusta Ballet's The Nutcracker",
       "venue_line": "Columbia County Performing Arts Center • Evans",
       "price_label": "Price not available",
       "type_key": "arts",

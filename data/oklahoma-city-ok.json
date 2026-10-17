@@ -1,67 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-16T13:42:19.231Z",
+  "updated_at": "2026-10-17T12:39:04.603Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Oklahoma Sooners Women Volleyball vs. Kentucky Wildcats Womens Volleyball",
-      "venue_line": "McCasland Field House • Norman",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Elizabeth Nichols",
-      "venue_line": "Beer City Music Hall • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Oklahoma Warriors vs. Lone Star Brahmas",
-      "venue_line": "Blazers Ice Centre • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Sombr w/ The Hellp",
-      "venue_line": "Paycom Center • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Snarky Puppy",
-      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Brett Young",
-      "venue_line": "Showplace Theatre at Riverwind Casino • Norman",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -166,6 +106,16 @@
       "day_label": "WED",
       "day_number": "21",
       "date_iso": "2026-10-21",
+      "title": "Oklahoma Sooners Softball",
+      "venue_line": "Love's Field • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
       "title": "Casey Rocket",
       "venue_line": "Bricktown Comedy Club • Oklahoma City",
       "price_label": "Price not available",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-22",
       "title": "Prof w/ Norman Sann",
       "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Prof w/ Norman Sann",
+      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Oklahoma City Thunder vs. Denver Nuggets",
+      "venue_line": "Paycom Center • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Oklahoma Sooners Softball vs. USAO Drovers Softball",
+      "venue_line": "Love's Field • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Mom Jeans",
+      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Failure",
+      "venue_line": "Beer City Music Hall • Oklahoma City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

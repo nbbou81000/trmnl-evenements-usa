@@ -1,57 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-16T13:42:22.795Z",
+  "updated_at": "2026-10-17T12:39:08.127Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "LSU Tigers Womens Volleyball vs. South Carolina Gamecocks Womens Volleyball",
-      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Baton Rouge Kingfish vs. Monroe Moccasins",
-      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Jo Koy: Koy Meets World Tour",
-      "venue_line": "Baton Rouge River Center Theater • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Wine Lips with Heathers and Blue Widow",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Andrew Conn",
-      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
-      "price_label": "$28–$157",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -86,7 +36,7 @@
       "day_label": "WED",
       "day_number": "21",
       "date_iso": "2026-10-21",
-      "title": "Dax - The Anger Management Tour",
+      "title": "DAX: The Anger Management Tour w/ Gifted Hands",
       "venue_line": "Texas Club • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "music",
@@ -153,6 +103,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Eagle 98.1 Presents: Oz Born w/ Downfall",
+      "venue_line": "Texas Club • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "SUN",
       "day_number": "25",
       "date_iso": "2026-10-25",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-30",
       "title": "The Molly Ringwalds",
       "venue_line": "L'Auberge Casino & Hotel Baton Rouge  • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Emo Night Halloween with Dan Lion and Mookie Darden (18 and Over)",
+      "venue_line": "Chelsea's Live • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "White Trash Bash  /Frank Fletcher Band",
+      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
+      "price_label": "$0–$64",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Safe Sex Worldwide Halloween with Bandeaux Pat, K Strikez and Love Yourself",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$38",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Chee Weez & The Chase Tyler Band Monster Mash-Up",
+      "venue_line": "Texas Club • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

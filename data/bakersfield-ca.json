@@ -1,27 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-16T13:42:34.731Z",
+  "updated_at": "2026-10-17T12:39:19.917Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Red Jumpsuit Apparatus, If I Fall, Happy Now?",
-      "venue_line": "Temblor Brewing Company • Bakersfield",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Los Tigres del Norte",
-      "venue_line": "Dignity Health Arena • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -199,6 +179,26 @@
       "title": "MILLIONAIRE$ HALL-O-SCENE plus Whitney Peyton, Blade Trip",
       "venue_line": "Temblor Brewing Company • Bakersfield",
       "price_label": "$26–$42",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Snuffed On Sight, Foghorn, lament, Death of Me",
+      "venue_line": "Temblor Brewing Company • Bakersfield",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "BSO: MUSIC IN COLOR",
+      "venue_line": "Dignity Health Theater • Bakersfield",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

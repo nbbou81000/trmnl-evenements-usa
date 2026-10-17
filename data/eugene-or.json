@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-16T13:42:39.063Z",
+  "updated_at": "2026-10-17T12:39:24.288Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Oregon Ducks Volleyball vs. Indiana University Women's Volleyball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Can't Feel My Face 2010's Dance Party",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$20–$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -199,6 +179,26 @@
       "title": "Steely Dead",
       "venue_line": "WOW Hall • Eugene",
       "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Oregon Ducks Volleyball vs. University of Maryland Terrapins Volleyball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Emo Nite",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
     }

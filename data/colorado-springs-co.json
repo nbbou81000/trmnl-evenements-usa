@@ -1,37 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-10-16T13:42:26.251Z",
+  "updated_at": "2026-10-17T12:39:11.503Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Air Force Academy Falcons Hockey vs. Lindenwood Lions Mens Hockey",
-      "venue_line": "Cadet Ice Arena • USAF Academy",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Alien Ant Farm w/ Scarhaven",
-      "venue_line": "Sunshine Studios • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "All Hallows Headbang: Cryptic Writings, Resile,",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Whitney Cummings",
+      "venue_line": "Pikes Peak Center • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Air Force Academy Falcons Hockey vs. Colorado College Tigers Hockey",
+      "venue_line": "Cadet Ice Arena • USAF Academy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Witch Hound Album Release Party, with Malkasian, Doctor Nez, Uncle Goober, and Panda Strike as MC",
+      "venue_line": "Vultures • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

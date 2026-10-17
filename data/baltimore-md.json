@@ -1,67 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-16T13:41:52.831Z",
+  "updated_at": "2026-10-17T12:38:38.431Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Plini - An Unnameable Desire North American Tour",
-      "venue_line": "Baltimore Soundstage • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Disney On Ice presents Spotlight Magic!",
-      "venue_line": "CFG Bank Arena • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Story So Far",
-      "venue_line": "Nevermore Hall • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Words, Wings & Wine",
-      "venue_line": "M&T Bank Exchange • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Royal Takeover w/ T.I. -Trina - DJ Envy",
-      "venue_line": "Chesapeake Employers Insurance Arena • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Dillinger Escape Plan",
+      "venue_line": "Nevermore Hall • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "UMB Presents: Broadway in Baltimore",
+      "venue_line": "M&T Bank Exchange • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Gillian Welch & David Rawlings",
+      "venue_line": "The Lyric - Baltimore • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Gillian Welch & David Rawlings",
+      "venue_line": "The Lyric • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Gillian Welch & David Rawlings",
+      "venue_line": "The Lyric • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "CRADLE OF FILTH: Majestic In Death II w/ Moonspell, Worm",
+      "venue_line": "Baltimore Soundstage • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

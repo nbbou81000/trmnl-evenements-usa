@@ -1,77 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-16T13:42:29.197Z",
+  "updated_at": "2026-10-17T12:39:14.402Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Tucson Roadrunners vs. San Diego Gulls",
-      "venue_line": "Tucson Arena • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "New Tracks By The Tracks @ 191 Toole",
-      "venue_line": "191 Toole • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Arizona Wildcats Mens Basketball vs. San Diego State Aztecs Mens Basketball",
-      "venue_line": "McKale Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Piano Series: Vitaly Starikov",
-      "venue_line": "Centennial Hall • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Wind Ensemble",
-      "venue_line": "Crowder Hall - University of Arizona • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Felipe Esparza",
-      "venue_line": "Desert Diamond Casino - Sahuarita • Sahuarita",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Southern AZ Fall Home Show",
-      "venue_line": "Tucson Convention Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-18",
       "title": "Juanes",
       "venue_line": "Anselmo Valencia Amphitheater • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "MICO",
+      "venue_line": "La Rosa • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "The Who's Tommy (Touring)",
+      "venue_line": "Centennial Hall • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "MICO",
+      "venue_line": "La Rosa • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Chelsea Wolfe: THE DARK World Tour @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Jenna Davis @ 191 Toole",
+      "venue_line": "191 Toole • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "The Who's Tommy (Touring)",
+      "venue_line": "Centennial Hall • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Cameron Whitcomb - Kingdom of Fear Tour @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

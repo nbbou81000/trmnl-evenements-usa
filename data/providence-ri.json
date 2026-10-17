@@ -1,37 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-16T13:41:46.080Z",
+  "updated_at": "2026-10-17T12:38:31.612Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "frameless.,Hot Start, & Kyodie",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Boston Legacy FC vs. Racing Louisville FC",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Wicked Peach",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -168,7 +138,7 @@
       "date_iso": "2026-10-23",
       "title": "Evan Honer",
       "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$37–$135",
+      "price_label": "$37",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Bryant Bulldogs Football vs. Stony Brook Seawolves Football",
+      "venue_line": "Beirne Stadium • Smithfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Providence Bruins vs. Utica Comets",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Story So Far",
+      "venue_line": "Strand Theatre-RI • Providence",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-16T13:42:28.373Z",
+  "updated_at": "2026-10-17T12:39:13.582Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "New Mexico Goatheads vs. Idaho Steelheads",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "New Mexico Goatheads VS Idaho Steelheads",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Popejoy Hall • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Arsenic and Old Lace",
-      "venue_line": "Albuquerque Little Theatre • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Level Up (18 and Over)",
-      "venue_line": "Revel Entertainment Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Emo Night Brooklyn - 21+",
-      "venue_line": "Revel Entertainment Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Arsenic and Old Lace",
+      "venue_line": "Albuquerque Little Theatre • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "New Mexico Goatheads vs. Idaho Steelheads",
+      "venue_line": "Rio Rancho Events Center • Rio Rancho",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "New Mexico Goatheads VS Idaho Steelheads",
+      "venue_line": "Rio Rancho Events Center • Rio Rancho",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Beauty And The Beast (Touring)",
+      "venue_line": "Popejoy Hall • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+      "venue_line": "First Financial Credit Union Amphitheater • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Madeon (16 and Over)",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

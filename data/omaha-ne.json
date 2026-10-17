@@ -1,27 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-16T13:42:11.108Z",
+  "updated_at": "2026-10-17T12:38:56.672Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Omaha Men's Soccer vs. Oral Roberts",
-      "venue_line": "Caniglia Field • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
-      "venue_line": "Steelhouse Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Mexican Slum Rats",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Creighton Bluejays Womens Volleyball vs. UConn Women's Volleyball",
+      "venue_line": "RYAN CENTER/DJ SOKOL ARENA • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

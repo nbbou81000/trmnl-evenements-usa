@@ -1,37 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-16T13:42:12.880Z",
+  "updated_at": "2026-10-17T12:38:58.328Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Wichita State Shockers Womens Volleyball vs. Texas San Antonio Roadrunners Womens Volleyball",
-      "venue_line": "Charles Koch Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Matt Mathews: Not What I Ordered World Tour",
-      "venue_line": "Kansas Star Event Center Arena • Mulvane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Zach Rushing (18+ Event)",
-      "venue_line": "The Cotillion • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "Wichita Orpheum Theatre • Wichita",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "NGHTMRE w/ Luzcid",
+      "venue_line": "The Cotillion • Wichita",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "Wichita Orpheum Theatre • Wichita",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-16T13:41:55.967Z",
+  "updated_at": "2026-10-17T12:38:41.560Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Greensboro Gargoyles vs Reading Royals - Opening Night",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The SteelDrivers",
-      "venue_line": "The Ramkat • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Premium Lounge - Mojo Brookzz",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "MOJO BROOKZZ: OUTTA POCKET TOUR",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

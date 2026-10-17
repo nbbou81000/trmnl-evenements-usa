@@ -1,27 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-16T13:41:56.417Z",
+  "updated_at": "2026-10-17T12:38:41.998Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Greensboro Gargoyles vs Reading Royals - Opening Night",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The SteelDrivers",
-      "venue_line": "The Ramkat • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-05",
       "title": "Greensboro Gargoyles vs Maine Mariners - School Day",
       "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Extreme Dwarfanator Wrestling",
+      "venue_line": "American Legion I.T. Mann Post 87 • High Point",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Greensboro Swarm vs. Long Island Nets",
+      "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

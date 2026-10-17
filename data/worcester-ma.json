@@ -1,27 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-16T13:41:51.521Z",
+  "updated_at": "2026-10-17T12:38:36.986Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "PeelingFlesh w/ Gridiron",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "All Night Boogie Band & Troy Mercy",
-      "venue_line": "Off The Rails Music Venue • Worcester",
-      "price_label": "$25–$56",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-24",
       "title": "Insane Clown Posse",
       "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Mania: The ABBA Tribute",
+      "venue_line": "Hanover Theatre • Worcester",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

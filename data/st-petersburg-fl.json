@@ -1,37 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-16T13:42:01.456Z",
+  "updated_at": "2026-10-17T12:38:47.278Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Cavetown - Running With Scissors Tour",
-      "venue_line": "Jannus Live • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Dan + Shay: The Young Tour",
-      "venue_line": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Bassem Youssef: The Belly of the Beast Tour",
-      "venue_line": "Tampa Theatre • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Cleveland Guardians at Tampa Bay Rays: ALCS (Home Game 3, If Necessary)",
+      "venue_line": "Tropicana Field • Saint Petersburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Breaking Benjamin",
+      "venue_line": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "South Florida Bulls Mens Basketball vs. Saint Leo Lions Mens Basketball",
+      "venue_line": "Yuengling Center • Tampa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

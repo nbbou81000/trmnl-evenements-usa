@@ -1,37 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-16T13:41:58.205Z",
+  "updated_at": "2026-10-17T12:38:43.961Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Savannah Ghost Pirates vs. Norfolk Admirals",
-      "venue_line": "Enmarket Arena • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Mark Paul: The Daddy Ball Tour",
-      "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "26-27 Broadway in Savannah Season",
-      "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-30",
       "title": "Banana Ball All Star Game 2026",
       "venue_line": "Grayson Stadium • Savannah",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Savannah Ghost Pirates vs. Greenville Swamp Rabbits",
+      "venue_line": "Enmarket Arena • Savannah",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Motionless In White: The Sweat and Blood Tour",
+      "venue_line": "VyStar Pavilion • Port Wentworth",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Savannah Ghost Pirates vs. Atlanta Gladiators",
+      "venue_line": "Enmarket Arena • Savannah",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

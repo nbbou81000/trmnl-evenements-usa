@@ -1,67 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-16T13:42:21.463Z",
+  "updated_at": "2026-10-17T12:39:06.867Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Tennessee Volunteers Baseball vs. Lipscomb Baseball",
-      "venue_line": "Covenant Health Park • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Goodbye June, Danny Worsnop",
-      "venue_line": "The 808 • Knoxville",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Masterworks: Tchaikovsky's 5th Symphony",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
-      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Knoxville Ice Bears vs. Evansville Thunderbolts",
-      "venue_line": "Knoxville Civic Coliseum • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Trae Crowder",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Tennessee Volunteers Volleyball vs. Vanderbilt Commodores Volleyball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Benjamin Tod and the Inline Six 2026 Tour",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Benjamin Tod",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Tennessee Lady Volunteers Women's Basketball vs. Florida A&M Rattlers Womens Basketball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Buddy Guy 90",
+      "venue_line": "Tennessee Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Q Series",
+      "venue_line": "Elks Lodge • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

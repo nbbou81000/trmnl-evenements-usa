@@ -1,17 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-16T13:41:48.325Z",
+  "updated_at": "2026-10-17T12:38:33.840Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Classic Albums Live: Led Zeppelin II",
-      "venue_line": "Nashua Center For the Arts • Nashua",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Marty Stuart & His Fabulous Superlatives",
+      "venue_line": "Nashua Center For the Arts • Nashua",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

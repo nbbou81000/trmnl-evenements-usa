@@ -1,17 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-16T13:42:18.046Z",
+  "updated_at": "2026-10-17T12:39:03.416Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Yandel - SINFÓNICO",
-      "venue_line": "Payne Arena • Hidalgo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -48,6 +38,16 @@
       "date_iso": "2026-10-17",
       "title": "Mon Laferte - Femme Fatale Tour",
       "venue_line": "Payne Arena • Hidalgo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Bobby Pulido",
+      "venue_line": "Bert Ogden Arena • Edinburg",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

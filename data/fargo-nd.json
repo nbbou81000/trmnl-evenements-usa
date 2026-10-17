@@ -1,17 +1,7 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-16T13:42:13.280Z",
+  "updated_at": "2026-10-17T12:38:58.736Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Fargo Force vs Green Bay Gamblers",
-      "venue_line": "Scheels Arena • Fargo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "25",
+      "date_iso": "2026-11-25",
+      "title": "Fargo Force vs Tri-City Storm",
+      "venue_line": "Scheels Arena • Fargo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

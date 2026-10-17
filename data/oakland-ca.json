@@ -1,11 +1,11 @@
 {
   "city_label": "Oakland, CA",
-  "updated_at": "2026-10-16T13:42:35.700Z",
+  "updated_at": "2026-10-17T12:39:20.872Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
       "title": "Disney On Ice presents Find Your Hero",
       "venue_line": "Oakland Arena • Oakland",
       "price_label": "Price not available",
@@ -13,79 +13,19 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "California Golden Bears Womens Volleyball vs. North Carolina State Wolfpack Womens Volleyball",
-      "venue_line": "Haas Pavilion • Berkeley",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Golden State Warriors vs. Portland Trail Blazers",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "WNBA Playoffs Round 3 Game 1: Valkyries V Dream",
       "venue_line": "Chase Center • San Francisco",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Open Mic at the Nikko Friday October 16 with Russell Deason",
-      "venue_line": "Feinstein's at The Nikko • San Francisco",
-      "price_label": "$18–$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Ashley Gavin",
-      "venue_line": "Cobb's Comedy Club • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Musiq Soulchild",
-      "venue_line": "Yoshi's Oakland • Oakland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Aaron Weber",
-      "venue_line": "Punch Line Comedy Club - San Francisco • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Laura Ramoso: The Calm Down Tour",
-      "venue_line": "The Masonic • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
       "title": "Oh, Mary! (Touring) - Ages 14+ (No children under 5 allowed.)",
       "venue_line": "Curran Theatre • San Francisco",
       "price_label": "Price not available",
@@ -93,19 +33,129 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Rush Tribute Project",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Gutenberg! The Musical!",
+      "venue_line": "Hillbarn Theatre • Foster City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Disney On Ice presents Find Your Hero",
+      "venue_line": "Oakland Arena • Oakland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "DAYSHIFT - The 30+ Daytime Party!",
+      "venue_line": "Crybaby • Oakland",
+      "price_label": "$1",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Disney On Ice presents Find Your Hero",
+      "venue_line": "Oakland Arena • Oakland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Aaron Weber",
+      "venue_line": "Punch Line Comedy Club - San Francisco • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Ashley Gavin",
+      "venue_line": "Cobb's Comedy Club • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "venue_line": "The Masonic • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "USAMA SIDDIQUEE",
       "venue_line": "Palace of Fine Arts • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Hannibal Thompson aka AllAmericanP  LIVE TAPING",
+      "venue_line": "Historic BAL Theatre • San Leandro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "California Golden Bears Football vs. Wake Forest Demon Deacons Football",
+      "venue_line": "Kabam Field at California Memorial Stadium • Berkeley",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Oh, Mary! (Touring) - Ages 14+ (No children under 5 allowed.)",
+      "venue_line": "Curran Theatre • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "San Francisco Symphony",
+      "venue_line": "Davies Symphony Hall • San Francisco",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
       "title": "Sara Bareilles: The Good Grief Tour",
       "venue_line": "The Theater at Bill Graham Civic Auditorium • San Francisco",
       "price_label": "Price not available",
@@ -113,92 +163,42 @@
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "SCHOOLBOY Q - 10 Years of Blank Face LP",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
       "venue_line": "Fox Theater - Oakland • Oakland",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "glaive w/ Kurtains",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Elephant Revival",
       "venue_line": "The UC Theatre • Berkeley",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Vulfpeck",
-      "venue_line": "Greek Theatre-U.C. Berkeley • Berkeley",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Dom Dolla b2b Disclosure - Ages 21+",
+      "venue_line": "Pier 48 • San Francisco",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Tainted Love",
-      "venue_line": "Bimbo's 365 Club • San Francisco",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "moe.",
-      "venue_line": "The Regency Ballroom • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Jungle Giants w/ Morning Silk",
-      "venue_line": "Great American Music Hall • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Neurosis",
-      "venue_line": "The Fillmore • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Renny Conti - Split Second Tour with James Eichman",
-      "venue_line": "Cafe Du Nord • San Francisco",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Iron & Wine",
-      "venue_line": "The Castro Theatre • San Francisco",
-      "price_label": "Price not available",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Rob Dehlinger: The Singing Trumpet from the Alpha Rhythm Kings",
+      "venue_line": "Feinstein's at The Nikko • San Francisco",
+      "price_label": "$40–$56",
       "type_key": "music",
       "type_label": "Music"
     }

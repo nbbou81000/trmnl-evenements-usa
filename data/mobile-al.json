@@ -1,37 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-16T13:42:25.353Z",
+  "updated_at": "2026-10-17T12:39:10.683Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Luke Severeid",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$27–$73",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Danny Bedrosian & Secret Army",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Late Night Comedy Show",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$9–$39",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -199,6 +169,36 @@
       "title": "The Souled Out Comedy Show",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$14–$39",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Mobile Roast League: Comedians Fight With Words!",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Drew Tessier",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$27–$73",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Crescent Comedy Workshop",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$2",
       "type_key": "misc",
       "type_label": "Other"
     }

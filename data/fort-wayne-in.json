@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-10-16T13:42:07.987Z",
+  "updated_at": "2026-10-17T12:38:53.571Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Jurassic Quest | Allen County War Memorial Coliseum | Fort Wayne, IN 2026",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Jurassic Quest | Allen County War Memorial Coliseum | Fort Wayne, IN 2026",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -197,6 +177,26 @@
       "day_number": "30",
       "date_iso": "2026-10-30",
       "title": "Fort Wayne Komets vs. Wheeling Nailers",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Fort Wayne Komets vs. Wheeling Nailers",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Fort Wayne Komets vs. Toledo Walleye",
       "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
       "price_label": "Price not available",
       "type_key": "sports",

@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-16T13:41:45.161Z",
+  "updated_at": "2026-10-17T12:38:30.615Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,46 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Wednesday 13",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "RIGOMETRICS w/s/g Kale",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Haggis X-1 w/s/g Brian Thomas Trio",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Tab Benoit",
-      "venue_line": "Center for the Arts of Homer • Homer",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -199,6 +159,46 @@
       "title": "Rehash",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Nik Parr & The Selfless Lovers",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
+      "venue_line": "NY State Fairgrounds • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
+      "venue_line": "NY State Fairgrounds • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Holywatr: Deo Gratias Tour",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$32–$119",
       "type_key": "music",
       "type_label": "Music"
     }

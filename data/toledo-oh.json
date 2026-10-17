@@ -1,17 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-16T13:42:06.253Z",
+  "updated_at": "2026-10-17T12:38:51.842Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Bowling Green Falcons Hockey vs. Niagara Purple Eagles Hockey",
-      "venue_line": "Slater Family Ice Arena • Bowling Green",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Christmas On Tour",
+      "venue_line": "Huntington Center • Toledo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

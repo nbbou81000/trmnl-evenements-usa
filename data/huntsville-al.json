@@ -1,37 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-16T13:42:24.507Z",
+  "updated_at": "2026-10-17T12:39:09.839Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Zainab Johnson",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$5–$27",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Honor Thy Era Welcome Back Bulldog Party",
-      "venue_line": "VBC Mars Music Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Zainab Johnson",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$5–$27",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Chaos & Crawlers",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Nurse Blake: But Did You Die? Comedy Tour",
+      "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Fiona Cauley",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$27",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

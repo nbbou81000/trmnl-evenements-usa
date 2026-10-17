@@ -1,77 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-16T13:42:04.543Z",
+  "updated_at": "2026-10-17T12:38:50.161Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Beth Stelling",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Michigan Wolverines Mens Soccer vs. Maryland Terrapins Mens Soccer",
-      "venue_line": "UM Soccer Stadium • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Michigan Wolverines Mens Basketball vs. Oregon State Beavers Mens Basketball",
-      "venue_line": "Crisler Center • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "USA Hockey National Team Development Program vs. Dubuque Fighting Saints",
-      "venue_line": "USA Hockey Arena • Plymouth",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Coco Montoya, Jim McCarty",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$24–$148",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Beth Stelling: Let Me Get Loose   ",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$30",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "BOOTS & 808s: The Country x EDM Experience",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$13–$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -199,6 +129,76 @@
       "title": "Lauren Sanderson",
       "venue_line": "Blind Pig • Ann Arbor",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Line Dance Lessons at Diamondback Music Hall",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$13–$21",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "SECRET SHOW",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Lights Out The UFO Experience with Andy Parker • Angeles",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$21–$158",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "HARBOUR",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Michigan Wolverines Hockey vs. Western Michigan Broncos Hockey",
+      "venue_line": "Yost Arena • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "YYNOT - Classic RUSH Tribute and Prog Rock Originals, Triple Black, Pound Town Prophet",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$19–$189",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Travis Porter - 2000's Hip-Hop Rewind",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$54–$70",
       "type_key": "music",
       "type_label": "Music"
     }

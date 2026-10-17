@@ -1,17 +1,7 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-16T13:42:35.247Z",
+  "updated_at": "2026-10-17T12:39:20.346Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Megan Woods: The Truth Tour - Stockton, CA",
-      "venue_line": "First Baptist Church of Stockton (W Alpine) • Stockton",
-      "price_label": "$21–$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "1",
+      "date_iso": "2026-12-01",
+      "title": "Stockton Kings vs. Santa Cruz Warriors",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

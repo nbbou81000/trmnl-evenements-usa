@@ -1,87 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-16T13:42:08.867Z",
+  "updated_at": "2026-10-17T12:38:54.443Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Lenny Pearce - Toddler Rave World Tour",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Ramble",
-      "venue_line": "Roxxy • Madison",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Wisconsin Badgers Womens Volleyball vs. Maryland Terrapins Womens Volleyball",
-      "venue_line": "UW Field House • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
-      "venue_line": "Orpheum Theater • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Wisconsin Badgers Womens Hockey vs. Minnesota State Mavericks Womens Hockey",
-      "venue_line": "LaBahn Arena • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Digable Planets-Celebrating 30 Years Of Blow Out Comb",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Blake Whiten-Something To Say Tour",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
-      "venue_line": "Orpheum Theater • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -197,6 +117,86 @@
       "day_number": "21",
       "date_iso": "2026-10-21",
       "title": "Sleeping With Sirens: An Ending In Itself Tour",
+      "venue_line": "The Sylvee • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Adam Ray: WHO IS ME Tour",
+      "venue_line": "Barrymore Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
+      "venue_line": "Orpheum Theater • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Brett Goldstein: Sex, Death & Small Talk",
+      "venue_line": "Orpheum Theater • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Madison Capitols vs. Waterloo Black Hawks",
+      "venue_line": "Legacy20 Arena at Deforest Yards • Deforest",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Wisconsin Badgers Womens Volleyball vs. Washington Huskies Womens Volleyball",
+      "venue_line": "UW Field House • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Fruit Bats",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "DICE",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "ALLEYCVT",
       "venue_line": "The Sylvee • Madison",
       "price_label": "Price not available",
       "type_key": "music",

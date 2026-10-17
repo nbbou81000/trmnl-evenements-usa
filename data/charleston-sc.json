@@ -1,57 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-16T13:41:56.865Z",
+  "updated_at": "2026-10-17T12:38:42.438Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "TRAMPLED BY TURTLES",
-      "venue_line": "The Refinery • Charleston",
-      "price_label": "$58–$85",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Trampled By Turtles",
-      "venue_line": "The Refinery Charleston • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "The Marshall Tucker Band",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Eddie 9V",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Gabriel Iglesias: The 1976 Tour",
-      "venue_line": "North Charleston Coliseum • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -196,6 +146,56 @@
       "day_label": "THU",
       "day_number": "22",
       "date_iso": "2026-10-22",
+      "title": "Disney On Ice presents Magic of Family",
+      "venue_line": "North Charleston Coliseum • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Watch What Happens Live with Andy Cohen",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Blake Whiten - Something to Say Tour",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Hip Abduction",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Sexy Unique Podcast",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
       "title": "Disney On Ice presents Magic of Family",
       "venue_line": "North Charleston Coliseum • North Charleston",
       "price_label": "Price not available",

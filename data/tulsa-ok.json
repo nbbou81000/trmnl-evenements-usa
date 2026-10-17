@@ -1,26 +1,16 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-16T13:42:19.645Z",
+  "updated_at": "2026-10-17T12:39:05.006Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Staind: Break The Cycle 25th Anniversary Tour",
-      "venue_line": "BOK Center • Tulsa",
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Chris Kattan",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Travis Tritt - Ages 21+",
-      "venue_line": "The Cove at River Spirit Casino Resort • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SAT",
@@ -73,6 +63,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "SAT",
+      "day_number": "17",
+      "date_iso": "2026-10-17",
+      "title": "Chris Kattan",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
       "day_label": "SUN",
       "day_number": "18",
       "date_iso": "2026-10-18",
@@ -106,6 +106,16 @@
       "day_label": "THU",
       "day_number": "22",
       "date_iso": "2026-10-22",
+      "title": "Ralph Barbosa",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
       "title": "Authority Zero w/ Counterpunch",
       "venue_line": "Vanguard - OK • Tulsa",
       "price_label": "Price not available",
@@ -131,6 +141,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ralph Barbosa",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "FRI",
@@ -173,34 +193,14 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Blue October",
-      "venue_line": "Tulsa Theater • Tulsa",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ralph Barbosa",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
-      "venue_line": "BOK Center • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Theresa Caputo (21 and Over)",
-      "venue_line": "The Cove at River Spirit Casino Resort • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

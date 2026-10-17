@@ -1,77 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-16T13:41:47.003Z",
+  "updated_at": "2026-10-17T12:38:32.513Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Northeastern Huskies Womens Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "R&B ONLY LIVE - Wallingford, CT",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Michael Carbonaro: Wonderboy",
-      "venue_line": "Shubert Theatre - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Yale Bulldogs Hockey vs. Maryville Fighting Scouts Mens Hockey",
-      "venue_line": "Ingalls Rink • New Haven",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Sacred Heart Pioneers Men's Ice Hockey vs. Ohio State Buckeyes Mens Hockey",
-      "venue_line": "Martire Family Arena  • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Foghat",
-      "venue_line": "Toad's Place • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Foghat",
-      "venue_line": "Toads Place - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Rodrigo y Gabriela",
+      "venue_line": "College Street Music Hall • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "The Price Is Right Live - Stage Show",
+      "venue_line": "Palace Theatre Waterbury-CT • Waterbury",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Machine Girl",
+      "venue_line": "Toad's Place • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Machine Girl",
+      "venue_line": "Toads Place - CT • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Rumours of Fleetwood Mac",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Yale Bulldogs Womens Hockey",
+      "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Yale Bulldogs Hockey vs. Brown University Bears Hockey",
+      "venue_line": "Ingalls Rink • New Haven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

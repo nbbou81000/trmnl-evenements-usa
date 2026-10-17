@@ -1,17 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-16T13:42:12.437Z",
+  "updated_at": "2026-10-17T12:38:57.917Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "16",
-      "date_iso": "2026-10-16",
-      "title": "Cedar Rapids Roughriders vs. Sioux Falls Stampede",
-      "venue_line": "IMON Ice • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "17",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Cedar Rapids Roughriders vs. Green Bay Gamblers",
       "venue_line": "IMON Ice • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Iowa Hawkeyes Womens Volleyball vs. Minnesota Gophers Womens Volleyball",
+      "venue_line": "Xtream Arena • Coralville",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
