@@ -1,77 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-17T12:39:14.402Z",
+  "updated_at": "2026-10-18T12:56:31.230Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Just For Kids with the Percussion Ensemble : Tucson Symphony Orchestra",
-      "venue_line": "Tucson Symphony Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Party in the Park w/ Wiz Khalifa",
-      "venue_line": "Rillito Park • Tucson",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Fandangos and Malambos : Tucson Symphony Orchestra",
-      "venue_line": "Tucson Symphony Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Arizona Wildcats Womens Volleyball vs. BYU Cougars Womens Volleyball",
-      "venue_line": "McKale Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tucson Roadrunners vs. San Diego Gulls",
-      "venue_line": "Tucson Arena • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Fresh Tracks By The Tracks @ 191 Toole",
-      "venue_line": "191 Toole • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Hannibal Buress @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Vivan Los Muertos with Las Cafeteras",
+      "venue_line": "Fox Theatre - Tucson AZ • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Kingdom Collapse",
+      "venue_line": "The Rock • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Arizona Wildcats Womens Soccer vs. Colorado Buffaloes Womens Soccer",
+      "venue_line": "Murphey Field at Mulcahy Stadium • Tucson",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Who's Tommy (Touring)",
+      "venue_line": "Centennial Hall • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "2Slimey @ 191 Toole",
+      "venue_line": "191 Toole • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Samantha Fish: Paper Doll Live World Tour @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Arizona Wildcats Mens Basketball vs. Eastern Washington Eagles Mens Basketball",
+      "venue_line": "McKale Center • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

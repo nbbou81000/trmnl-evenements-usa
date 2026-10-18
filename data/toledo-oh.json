@@ -1,37 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-17T12:38:51.842Z",
+  "updated_at": "2026-10-18T12:56:07.723Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bowling Green Falcons Football vs. Ball State Cardinals Football",
-      "venue_line": "Doyt Perry Stadium • Bowling Green",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bowling Green Falcons Hockey vs. Niagara Purple Eagles Hockey",
-      "venue_line": "Slater Family Ice Arena • Bowling Green",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Brantley Gilbert - Real American Tour",
-      "venue_line": "Huntington Center • Toledo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -197,6 +167,36 @@
       "day_number": "14",
       "date_iso": "2026-11-14",
       "title": "Christmas On Tour",
+      "venue_line": "Huntington Center • Toledo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "16",
+      "date_iso": "2026-11-16",
+      "title": "Bowling Green Falcons Womens Basketball vs. Lawrence Tech Blue Devils Womens Basketball",
+      "venue_line": "Stroh Center • Bowling Green",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Sugarland - Ride or Die Tour",
+      "venue_line": "Huntington Center • Toledo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Toledo Walleye vs. Rapid City Rush",
       "venue_line": "Huntington Center • Toledo",
       "price_label": "Price not available",
       "type_key": "sports",

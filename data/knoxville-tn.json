@@ -1,27 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-17T12:39:06.867Z",
+  "updated_at": "2026-10-18T12:56:23.333Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tennessee Volunteers Football vs. Alabama Crimson Tide Football",
-      "venue_line": "Neyland Stadium • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "All My Exes Live in Texas: Classic Country Night",
-      "venue_line": "The 808 • Knoxville",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "October 28, 2026 - Loft & TriStar Club Seating",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "The Red Clay Strays",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,87 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-17T12:38:47.278Z",
+  "updated_at": "2026-10-18T12:56:03.071Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tampa Bay Lightning vs. Vancouver Canucks",
-      "venue_line": "Benchmark International Arena • Tampa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Toadies: The Charmer Tour",
-      "venue_line": "Jannus Live • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "SPoT Anniversary Party + Madness Concrete Jam",
-      "venue_line": "Skatepark Of Tampa • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "$uicideboy$ present Grey Day Tour 2026 w. Shakewell & more",
-      "venue_line": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "South Florida Bulls Football vs. Kent State University Golden Flashes Football",
-      "venue_line": "Raymond James Stadium • Tampa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Suncoast Credit Union \"Juntos y con Ritmo\"",
-      "venue_line": "Yuengling Center • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tampa Bay Rowdies vs. Detroit City FC",
-      "venue_line": "Al Lang Stadium • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Scheherazade",
-      "venue_line": "Mahaffey Theater • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -176,16 +96,6 @@
       "day_label": "MON",
       "day_number": "19",
       "date_iso": "2026-10-19",
-      "title": "Cleveland Guardians at Tampa Bay Rays: ALCS (Home Game 3, If Necessary)",
-      "venue_line": "Tropicana Field • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
       "title": "Breaking Benjamin",
       "venue_line": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds • Tampa",
       "price_label": "Price not available",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Cleveland Guardians at Tampa Bay Rays: ALCS (Home Game 3)",
+      "venue_line": "Tropicana Field • Saint Petersburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "CLUTCH: US Fall Tour",
+      "venue_line": "The Ritz Ybor • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Cleveland Guardians at Tampa Bay Rays: ALCS (Home Game 4, If Necessary)",
+      "venue_line": "Tropicana Field • Saint Petersburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Hamilton (Touring)",
+      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "The Concert: A Tribute To ABBA",
+      "venue_line": "Ruth Eckerd Hall • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Hamilton (Touring)",
+      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "EsDeeKid - Council House Rat Tour",
+      "venue_line": "Jannus Live • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Jake Owen w/ Niko Moon",
+      "venue_line": "The BayCare Sound • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Jake Owen",
+      "venue_line": "The BayCare Sound • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

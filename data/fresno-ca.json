@@ -1,37 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-17T12:39:19.483Z",
+  "updated_at": "2026-10-18T12:56:36.467Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Diplo",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Napoleon Dynamite Live!",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Y2K PARTY! Early 2000s Bangers All Night",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$8",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Colorado State",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Havok , Hellripper, Slackjaw, Xoth",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$32–$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Foreigner - 21+",
+      "venue_line": "Table Mountain Casino • Friant",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

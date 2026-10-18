@@ -1,57 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-17T12:38:36.986Z",
+  "updated_at": "2026-10-18T12:55:53.065Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The Wild Kratts Live! ( Anyone age 1 and over requires a paid ticket to attend the performance)",
-      "venue_line": "Hanover Theatre • Worcester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Worcester Railers vs. Maine Mariners - Opening Night",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Dillinger Escape Plan w/ Many Eyes",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Holy Cross Crusaders Hockey vs. Army Black Knights Hockey",
-      "venue_line": "Hart Recreation Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Wind Walkers w/ If Not For Me",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-24",
       "title": "Mania: The ABBA Tribute",
       "venue_line": "Hanover Theatre • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Mania: The ABBA Tribute",
+      "venue_line": "The Hanover Theatre • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Tipton Rock Band & The Salty Sister Project",
+      "venue_line": "Off The Rails Music Venue • Worcester",
+      "price_label": "$20–$51",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Disney On Ice presents Spotlight Magic!",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Arch Enemy w/ The Black Dahlia Murder",
+      "venue_line": "Palladium-MA • Worcester",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

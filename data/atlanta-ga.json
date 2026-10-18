@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-10-17T12:38:43.332Z",
+  "updated_at": "2026-10-18T12:55:59.294Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,19 +23,29 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Atlanta Ballet 2: Cinderella",
-      "venue_line": "Fox Theatre - Atlanta • Atlanta",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Atlanta Falcons v Chicago Bears",
+      "venue_line": "Mercedes-Benz Stadium • Atlanta",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Georgia Tech Yellow Jackets Womens Volleyball vs. Boston College Eagles Womens Volleyball",
+      "venue_line": "O'Keefe Gymnasium • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Like Father",
       "venue_line": "Alliance Theatre • Atlanta",
       "price_label": "Price not available",
@@ -43,109 +53,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tours: Truist Park",
-      "venue_line": "Truist Park • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Atlanta Ballet 2: Cinderella",
-      "venue_line": "Fox Theatre - Atlanta • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Breaking Benjamin",
-      "venue_line": "Ameris Bank Amphitheatre • Alpharetta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "[L7: The Last Hurrah Tour 2026]",
-      "venue_line": "The Masquerade - Heaven • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cortisa Star - For All The Dolls Tour",
-      "venue_line": "The Masquerade - Purgatory • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Combichrist",
-      "venue_line": "The Masquerade - Hell • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Adjust The Sails",
-      "venue_line": "The Masquerade  - Altar • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Atsuko Okatsuka: The Big Bowl Tour",
-      "venue_line": "Tabernacle Presented by iTHINK Financial • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Jake Worthington",
-      "venue_line": "Eddie's Attic • Decatur",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Jake Worthington",
-      "venue_line": "Eddie's Attic • Decatur",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Atlanta Gladiators vs. Norfolk Admirals",
       "venue_line": "Gas South Arena • Duluth",
       "price_label": "Price not available",
@@ -153,54 +63,144 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Dad's Garage: LIVE!",
-      "venue_line": "Hudgens Center • Duluth",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Outlander in Concert",
+      "venue_line": "Fox Theatre - Atlanta • Atlanta",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Atlanta United FC vs. Inter Miami CF",
-      "venue_line": "Mercedes-Benz Stadium • Atlanta",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Maya De Vitry",
+      "venue_line": "Eddie's Attic • Decatur",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Guster With The Atlanta Symphony Orchestra",
-      "venue_line": "Atlanta Symphony Hall • Atlanta",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Nevertel",
+      "venue_line": "The Masquerade - Hell • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Garage - 1180 Peachtree St: Guster",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "In Her Own Words / Every Avenue",
+      "venue_line": "The Masquerade - Purgatory • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Rachel Bochner | The \"Sorry If It's Selfish\" Tour",
+      "venue_line": "The Masquerade  - Altar • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Rocky Horror Picture Show with Barry Bostwick and Nell Campbell",
+      "venue_line": "Atlanta Symphony Hall • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Garage - 1180 Peachtree St: The Rocky Horror Picture Show",
       "venue_line": "Atlanta Symphony Hall • Atlanta",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Kathy Griffin: New Face, New Tour (18+)",
+      "venue_line": "Buckhead Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Abbie Gamboa",
+      "venue_line": "Center Stage Theater • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Like Father",
       "venue_line": "Alliance Theatre • Atlanta",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Cavetown - Running With Scissors Tour",
+      "venue_line": "Tabernacle Presented by iTHINK Financial • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "LaMP",
+      "venue_line": "Vinyl • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Hiss Golden Messenger",
+      "venue_line": "Terminal West • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Georgian Chamber Players",
+      "venue_line": "Eddie's Attic • Decatur",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

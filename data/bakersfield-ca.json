@@ -1,27 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-17T12:39:19.917Z",
+  "updated_at": "2026-10-18T12:56:37.008Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bakersfield Condors vs. Calgary Wranglers",
-      "venue_line": "Dignity Health Arena • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Easy Star All-Stars: Dub Side of the Moon Live with Double Tiger",
-      "venue_line": "Temblor Brewing Company • Bakersfield",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-07",
       "title": "BSO: MUSIC IN COLOR",
       "venue_line": "Dignity Health Theater • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Journey USA - Journey Tribute",
+      "venue_line": "Bakersfield Fox Theater • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "PUFF PUFF PASS TOUR: SNOOP DOGG",
+      "venue_line": "Dignity Health Arena • Bakersfield",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

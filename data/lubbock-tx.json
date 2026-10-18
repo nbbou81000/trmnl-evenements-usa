@@ -1,27 +1,7 @@
 {
   "city_label": "Lubbock, TX",
-  "updated_at": "2026-10-17T12:39:02.587Z",
+  "updated_at": "2026-10-18T12:56:19.062Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Texas Tech Red Raiders Football vs. Arizona State Sun Devils Football",
-      "venue_line": "Galaxy Stadium • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Theresa Caputo",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Texas Tech Red Raiders Womens Basketball vs. Southeastern Louisiana Lions Womens Basketball",
+      "venue_line": "United Supermarkets Arena • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Jim Gaffigan",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

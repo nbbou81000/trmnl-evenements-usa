@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-17T12:38:30.615Z",
+  "updated_at": "2026-10-18T12:55:45.604Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,56 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Syracuse Crunch vs. Rochester Americans",
-      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Syracuse Orange Football vs. Louisville Cardinals",
-      "venue_line": "JMA Wireless Dome  • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "THE ROLLIN' RUST w/s/g Rev Ezra",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Dangerous Type",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Daft Disko [french house & disco party]",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SUN",
@@ -199,6 +149,56 @@
       "title": "Holywatr: Deo Gratias Tour",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$32–$119",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Syracuse Crunch vs. Rochester Americans",
+      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dale Jones",
+      "venue_line": "Funny Bone Comedy Club - Syracuse • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Bored Teachers: \"Is It Friday Yet?!\" Comedy Tour",
+      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "BIG SHRIMP w/s/g Joe Marcinek Band",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ladies of the 80's Night Out",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$15–$25",
       "type_key": "music",
       "type_label": "Music"
     }

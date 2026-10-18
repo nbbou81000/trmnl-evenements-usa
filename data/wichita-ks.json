@@ -1,47 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-17T12:38:58.328Z",
+  "updated_at": "2026-10-18T12:56:14.691Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "There's No Place Like Home Bully Bash 2.0",
-      "venue_line": "Expo Hall at Century II • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Wichita Thunder vs. Tahoe Knight Monsters",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Wichita Thunder vs. Tahoe Knight Monsters",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Big Boogie",
-      "venue_line": "Wave • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Wichita Thunder vs. Tulsa Oilers - Hockey",
+      "venue_line": "INTRUST Bank Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Wichita Thunder vs. Tulsa Oilers",
+      "venue_line": "INTRUST Bank Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Wichita State Shockers Womens Volleyball vs. Florida Atlantic Owls Womens Volleyball",
+      "venue_line": "Charles Koch Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Tosca",
+      "venue_line": "Concert Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

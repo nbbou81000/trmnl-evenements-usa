@@ -1,27 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-17T12:39:08.127Z",
+  "updated_at": "2026-10-18T12:56:24.599Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "LSU Tigers Football vs. Mississippi State Bulldogs Football",
-      "venue_line": "LSU Tiger Stadium • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Baton Rouge Latin Nights Halloween",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "LSU Tigers Womens Basketball vs. Southeastern Louisiana Lions Womens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "LSU Tigers Mens Basketball vs. LSU New Orleans Privateers Mens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

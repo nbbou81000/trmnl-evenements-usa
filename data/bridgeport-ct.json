@@ -1,117 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-17T12:38:32.967Z",
+  "updated_at": "2026-10-18T12:55:48.133Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Sacred Heart Pioneers Football vs. Hampton University Pirates Football",
-      "venue_line": "Sikorsky Credit Union Field • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Dear Evan Hansen",
-      "venue_line": "John W Engeman Theater • Northport",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Stony Brook Seawolves Football vs. Albany Great Danes Football",
-      "venue_line": "Kenneth P. LaValle Stadium • Stony Brook",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Northeastern Huskies Womens Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Snow White and the Seven Dwarfs by The United European Ballet Company",
-      "venue_line": "Palace Theatre Stamford • Stamford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Sacred Heart Pioneers Men's Ice Hockey vs. Ohio State Buckeyes Mens Hockey",
-      "venue_line": "Martire Family Arena  • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The Damned w/ Flamin Groovies",
-      "venue_line": "District Music Hall • Norwalk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cabaret",
-      "venue_line": "Theatre Three - NY • Port Jefferson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Dear Evan Hansen",
-      "venue_line": "John W Engeman Theater • Northport",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Once Upon a One More Time",
-      "venue_line": "Smithtown Center for the Performing Arts • Smithttown",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Trombone Shorty & Orleans Avenue",
-      "venue_line": "The Paramount in concert with Northwell • Huntington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Quinnipiac Bobcats Mens Ice Hockey vs. Army Black Knights Hockey",
+      "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Anthony Rodia: Insanely Funny Tour",
+      "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Cabaret",
+      "venue_line": "Theatre Three - NY • Port Jefferson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dar Williams",
+      "venue_line": "Ridgefield Playhouse • Ridgefield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Killers of Kill Tony",
+      "venue_line": "Palace Theatre Stamford • Stamford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Punchis Punchis (18 and Over)",
+      "venue_line": "Toads Place - CT • New Haven",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "KIDZ BOP Daytime Dance Party",
+      "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Sacred Heart Pioneers Men's Ice Hockey vs. Holy Cross Crusaders Mens College Hockey",
+      "venue_line": "Martire Family Arena  • Fairfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

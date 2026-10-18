@@ -1,87 +1,7 @@
 {
   "city_label": "Virginia Beach, VA",
-  "updated_at": "2026-10-17T12:38:39.280Z",
+  "updated_at": "2026-10-18T12:55:55.273Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "Harrison Opera House • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Five Finger Death Punch",
-      "venue_line": "Veterans United Home Loans Amphitheater at Virginia Beach • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Nurse Blake: But Did You Die? Comedy Tour",
-      "venue_line": "Attucks Theatre • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Old Dominion Monarchs Mens Basketball vs. Virginia Commonwealth Rams Mens Basketball",
-      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The Story So Far",
-      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Emoween: A Still Not Okay Tour",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "Harrison Opera House • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "2000s Rave",
-      "venue_line": "Peabody's Nightclub - VA • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Norfolk Admirals vs. Trois-Rivières Lions",
+      "venue_line": "Scope Arena • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Scott Bradlee's Postmodern Jukebox",
+      "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Desi Alexander - Ages 21+",
+      "venue_line": "The Norva • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Broadway Rave: A Musical Theater Dance Party (Ages 18+)",
+      "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Hampton Pirates Football vs. Monmouth University Hawks Football",
+      "venue_line": "Armstrong Stadium Hampton University • Hampton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Adult Access: Halloween Edition - Ages 21+",
+      "venue_line": "The Shack • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Swan Lake - Symphony of Lights",
+      "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Old Dominion Monarchs Mens Basketball vs. Virginia State Trojan Mens Basketball",
+      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-17T12:38:30.203Z",
+  "updated_at": "2026-10-18T12:55:45.175Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "RIT Brick City Homecoming Game v. Michigan State",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +189,16 @@
       "title": "Lil Baby: Upstate Fest Feat. Fetty Wap, Key Glock, Boosie, & KenTheMan",
       "venue_line": "Blue Cross Arena • Rochester",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "HALLOWEEN at BUG JAR ft. Tabby / Bad Bloom / Riverbed / The Salinas",
+      "venue_line": "The Bug Jar • Rochester",
+      "price_label": "$12–$14",
       "type_key": "music",
       "type_label": "Music"
     }

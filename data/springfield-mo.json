@@ -1,27 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-17T12:38:56.142Z",
+  "updated_at": "2026-10-18T12:56:12.482Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Arsenic and Old Lace",
-      "venue_line": "Springfield Little Theatre • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Buku",
-      "venue_line": "Regency - MO • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-20",
       "title": "Matt Mathews",
       "venue_line": "Juanita K. Hammons Hall • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Lucero",
+      "venue_line": "Regency - MO • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Matt Mathews: Not What I Ordered World Tour",
+      "venue_line": "Juanita K. Hammons Halls for the Performing Arts • Springfield",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

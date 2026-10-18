@@ -1,37 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-17T12:38:52.706Z",
+  "updated_at": "2026-10-18T12:56:08.781Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Hocus Pocus",
-      "venue_line": "Fraze Pavilion • Kettering",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Dayton Flyers Men's Basketball v. Notre Dame (Exh.)",
-      "venue_line": "University of Dayton Arena • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Hina & Fiona Play Saint-Saens & Ravel w/ Dayton Philharmonic",
-      "venue_line": "Winsupply Theatre • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-14",
       "title": "Dayton Flyers Football v. Davidson",
       "venue_line": "Welcome Stadium • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Dayton Flyers Men's Basketball v. Cincinnati",
+      "venue_line": "University of Dayton Arena • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Dayton Flyers Men's Basketball v. Central Michigan",
+      "venue_line": "University of Dayton Arena • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Wright State Raiders Women's Basketball vs. Marshall Thundering Herd Womens Basketball",
+      "venue_line": "Wright State University Nutter Center • Dayton",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

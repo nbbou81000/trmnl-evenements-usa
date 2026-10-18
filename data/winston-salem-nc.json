@@ -1,37 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-17T12:38:41.998Z",
+  "updated_at": "2026-10-18T12:55:57.948Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "IMPORTEXPO Car Show",
-      "venue_line": "Greensboro Complex • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Greensboro Gargoyles vs Reading Royals - Opening Weekend",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The SteelDrivers",
-      "venue_line": "The Ramkat • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-06",
       "title": "Greensboro Swarm vs. Long Island Nets",
       "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Greensboro Gargoyles vs Maine Mariners - Wizard Weekend",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Justin Moore",
+      "venue_line": "Lawrence Joel Veterans Memorial Coliseum • Winston Salem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Quincy Roberts Presents 2026 Elite Muscle Classic",
+      "venue_line": "Piedmont Hall • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

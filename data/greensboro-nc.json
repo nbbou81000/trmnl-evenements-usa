@@ -1,57 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-17T12:38:41.560Z",
+  "updated_at": "2026-10-18T12:55:57.497Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "North Carolina A & T Aggies Football vs. Chicago State Cougars Football",
-      "venue_line": "Truist Stadium • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "IMPORTEXPO Car Show",
-      "venue_line": "Greensboro Complex • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Greensboro Gargoyles vs Reading Royals - Opening Weekend",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Emo Nite",
-      "venue_line": "The Pyrle • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The SteelDrivers",
-      "venue_line": "The Ramkat • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits - Howl-O-Ween",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Sonic Live In Concert",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Premium Lounge - Sonic Live in Concert",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "An Evening With David Sedaris",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Premium Lounge - David Sedaris",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

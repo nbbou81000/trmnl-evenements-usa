@@ -1,27 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-17T12:38:36.537Z",
+  "updated_at": "2026-10-18T12:55:52.593Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The Fab Four: Tribute to the Beatles' A Hard Day's Night",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Smoke on the Mountain - Wellness Festival",
-      "venue_line": "The Pavilion at Montage Mountain • Scranton",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": " Law Revue Talent Show",
+      "venue_line": "F.M. Kirby Center • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Varsity Spirit presents UCA - Pocono Regional",
+      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

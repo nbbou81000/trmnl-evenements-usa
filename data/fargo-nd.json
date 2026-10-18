@@ -1,27 +1,7 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-17T12:38:58.736Z",
+  "updated_at": "2026-10-18T12:56:15.131Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "North Dakota State Bison Womens Volleyball vs. South Dakota Coyotes Womens Volleyball",
-      "venue_line": "Bentson Bunker Fieldhouse • Fargo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "North Dakota State Bison Football vs. Nevada Wolfpack Football",
-      "venue_line": "Fargodome • Fargo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -196,6 +176,26 @@
       "day_label": "WED",
       "day_number": "25",
       "date_iso": "2026-11-25",
+      "title": "Fargo Force vs Tri-City Storm",
+      "venue_line": "Scheels Arena • Fargo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Fargo Force vs Tri-City Storm",
+      "venue_line": "Scheels Arena • Fargo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
       "title": "Fargo Force vs Tri-City Storm",
       "venue_line": "Scheels Arena • Fargo",
       "price_label": "Price not available",

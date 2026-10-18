@@ -1,17 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-17T12:38:57.917Z",
+  "updated_at": "2026-10-18T12:56:14.259Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cedar Rapids Roughriders vs. Sioux Falls Stampede",
-      "venue_line": "IMON Ice • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "David Cross",
+      "venue_line": "The Englert Theatre • Iowa City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

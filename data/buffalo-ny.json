@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-17T12:38:29.633Z",
+  "updated_at": "2026-10-18T12:55:44.738Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,66 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "St. Bonaventure MBB v Penn State 4:00PM",
-      "venue_line": "KeyBank Center • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Ricky Nelson Remembered Starring Matthew and Gunnar Nelson",
-      "venue_line": "The Avalon Theatre At Niagara Fallsview Casino Resort • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bat Boy the Musical",
-      "venue_line": "Shea's Smith Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Sat. 10/17/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Boyz II Men",
-      "venue_line": "Seneca Niagara Resort & Casino Event Center • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Ricky Nelson Remembered Starring Matthew and Gunnar Nelson",
-      "venue_line": "The Avalon Theatre At Niagara Fallsview Casino Resort • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SUN",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Wolfman Jack (18+ Event)",
+      "venue_line": "Buffalo Iron Works • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Wed. 10/21/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Herman's Hermits Starring Peter Noone",
+      "venue_line": "The Avalon Theatre At Niagara Fallsview Casino Resort • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Pitch10",
+      "venue_line": "Shea's Buffalo Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Earl Sweatshirt w/ MIKE",
+      "venue_line": "Town Ballroom • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Kevin Nealon",
+      "venue_line": "Helium Comedy Club - Buffalo • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

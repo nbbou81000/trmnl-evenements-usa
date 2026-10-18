@@ -1,77 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-17T12:38:37.509Z",
+  "updated_at": "2026-10-18T12:55:53.484Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "UMass Minutemen Hockey vs. Northeastern Huskies Hockey",
-      "venue_line": "Mullins Center • Amherst",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Springfield Thunderbirds vs. Lehigh Valley Phantoms",
-      "venue_line": "MassMutual Center • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Hartford Athletic vs. Brooklyn FC",
-      "venue_line": "Trinity Health Stadium • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cheyenne Jackson",
-      "venue_line": "Bushnell/ Belding Theater • Hartford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "ROAR! Comedy: Matty Chymbor",
-      "venue_line": "The Armory at MGM Springfield • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mount Eerie",
-      "venue_line": "Academy of Music Theatre - MA • Northampton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -196,6 +126,76 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "UMass Minutemen Hockey vs. Stonehill Skyhawks Mens Hockey",
+      "venue_line": "Mullins Center • Amherst",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Hartford Athletic vs. Rhode Island FC",
+      "venue_line": "Trinity Health Stadium • Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Voyage - Celebrating The Music of Journey",
+      "venue_line": "Aria Ballroom at MGM Springfield • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Lady Lamb",
+      "venue_line": "The Drake - Amherst • Amherst",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Twitchfits - Halloween IV",
+      "venue_line": "Pines Theater at Look Park • Florence",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
       "title": "Mamma Mia! (Touring)",
       "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
       "price_label": "Price not available",

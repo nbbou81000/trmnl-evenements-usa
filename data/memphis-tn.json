@@ -1,67 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-17T12:39:05.895Z",
+  "updated_at": "2026-10-18T12:56:22.465Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "23rd Annual Memphis Tri-State Blues Festival",
-      "venue_line": "Landers Center  • Southaven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mojo Brookzz Outta Pocket Tour",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Trap Karaoke (21+ Event)",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The Heart & Soul Of Magic",
-      "venue_line": "Halloran Centre at the Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Blisspop Presents: Hot In Herre: 2000s Dance Party",
-      "venue_line": "Minglewood Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mojo Brookzz Outta Pocket Tour",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -199,6 +139,66 @@
       "title": "R&B ONLY LIVE - Memphis, TN",
       "venue_line": "Minglewood Hall • Memphis",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Robert Cray Band",
+      "venue_line": "Germantown Performing Arts • Germantown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Morris Day and the Time & The S.O.S Band. The Ultimate Funk & Soul Exp",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Iron & Wine",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Crowder LIVE! - Cordova, TN",
+      "venue_line": "Hope Church • Cordova",
+      "price_label": "$25–$93",
       "type_key": "music",
       "type_label": "Music"
     }

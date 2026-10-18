@@ -1,77 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-17T12:39:01.752Z",
+  "updated_at": "2026-10-18T12:56:18.199Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "El Paso Locomotive FC vs. Sacramento Republic FC",
-      "venue_line": "Southwest University Park • El Paso",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "El Paso Rhinos",
-      "venue_line": "Events Center  • El Paso",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "UTEP FB v San Jose State",
-      "venue_line": "Sun Bowl Stadium • El Paso",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "El Paso Symphony Orchestra: Heaven on Earth ft M. Marrero, Soprano",
-      "venue_line": "The Plaza Theatre Performing Arts Center • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tatiana & Los Chicharrines - Tativerso Chicharrin - Canceled",
-      "venue_line": "Abraham Chavez Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Franco Escamilla - El Juicio",
-      "venue_line": "El Paso County Coliseum • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Broadway Rave - The Musical Theatre Dance Party (18 and Over)",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -196,6 +126,76 @@
       "day_label": "SUN",
       "day_number": "25",
       "date_iso": "2026-10-25",
+      "title": "The UTEP Dinner Theatre - Sweeney Todd",
+      "venue_line": "UTEP Dinner Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Maria Jose + Moenia Us Tour 2026",
+      "venue_line": "Abraham Chavez Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Don Omar \"The Last King World Tour\"",
+      "venue_line": "GECU Arena at the Don Haskins Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Thee Sinseers",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Superheaven",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "The UTEP Symphony Orchestra in Concert - UTEP Department of Music",
+      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Surely Tempo",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
       "title": "The UTEP Dinner Theatre - Sweeney Todd",
       "venue_line": "UTEP Dinner Theatre • El Paso",
       "price_label": "Price not available",

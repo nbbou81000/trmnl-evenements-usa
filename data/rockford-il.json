@@ -1,47 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-17T12:38:48.549Z",
+  "updated_at": "2026-10-18T12:56:04.404Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Spirits & Spirits",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Adam Calhoun , Struggle Jennings, Savannah Dexter , Dusty Leigh , Hard Target, Cymple Man , Shocka Hustlemane, Big Buck Beezy",
-      "venue_line": "The Apollo Theatre Ac • Belvidere",
-      "price_label": "$32–$111",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Adam Calhoun w/ Struggle Jennings",
-      "venue_line": "The Apollo Theatre Ac • Belvidere",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Rockford IceHogs vs. Grand Rapids Griffins",
-      "venue_line": "BMO Center • Rockford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Rockford IceHogs vs. Grand Rapids Griffins",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Club Coronado for Alton Brown",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "An Evening of Alton Brown",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "The 1985 - Totally 80's Mixtape LIVE! ",
+      "venue_line": "The Apollo Theatre Ac • Belvidere",
+      "price_label": "$15–$37",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

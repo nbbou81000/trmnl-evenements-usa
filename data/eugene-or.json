@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-17T12:39:24.288Z",
+  "updated_at": "2026-10-18T12:56:41.399Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Moxie Dance Collective Presents: Return To The Scene",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$26–$42",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Oregon Ducks Football vs. Nebraska Cornhusker Football",
-      "venue_line": "Autzen Stadium • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +181,26 @@
       "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Witches Ball 2026",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Oregon Ducks Football vs. Northwestern Wildcats Football",
+      "venue_line": "Autzen Stadium • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,11 +1,21 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-17T12:39:23.462Z",
+  "updated_at": "2026-10-18T12:56:40.539Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Okee Dokee Brothers",
+      "venue_line": "Aladdin Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Disney On Ice presents Jump In!",
       "venue_line": "Veterans Memorial Coliseum • Portland",
       "price_label": "Price not available",
@@ -13,9 +23,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Guys & Dolls",
       "venue_line": "Winningstad Theatre • Portland",
       "price_label": "Price not available",
@@ -23,69 +33,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Oregon Ballet Theatre Presents Swan Lake",
-      "venue_line": "Keller Auditorium • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Disney On Ice presents Jump In!",
-      "venue_line": "Veterans Memorial Coliseum • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "SAW: The Musical (Touring)",
-      "venue_line": "Alberta Abbey • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Disney On Ice presents Jump In!",
-      "venue_line": "Veterans Memorial Coliseum • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Sukhishvili Georgian National Ballet",
-      "venue_line": "Newmark Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Guys & Dolls",
-      "venue_line": "Winningstad Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Oregon Symphony presents The Princess Bride in Concert",
       "venue_line": "Arlene Schnitzer Concert Hall • Portland",
       "price_label": "Price not available",
@@ -93,49 +43,19 @@
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Portland Timbers vs. Colorado Rapids",
-      "venue_line": "Providence Park • Portland",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Disney On Ice presents Jump In!",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mom Jeans",
-      "venue_line": "Roseland Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Doja Cat - Tour Ma Vie World Tour",
-      "venue_line": "Moda Center • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Oregon Ballet Theatre Presents Swan Lake",
-      "venue_line": "Keller Auditorium • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "SAW: The Musical (Touring)",
       "venue_line": "Alberta Abbey • Portland",
       "price_label": "Price not available",
@@ -143,64 +63,144 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "STEEL BEANS",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "venue_line": "Newmark Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Charles Wesley Godwin",
+      "venue_line": "McMenamins Crystal Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Daniel Sloss",
+      "venue_line": "Newmark Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Brit Floyd: The Moon, The Wall and Beyond",
+      "venue_line": "Ilani Cowlitz Ballroom • Ridgefield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Alex Hamburger and José Luiz Martins Duo",
       "venue_line": "Jack London Revue • Portland",
-      "price_label": "$26",
+      "price_label": "$26–$206",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "FABIO FRIZZI performing the FRIZZI2FULCI",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$38–$254",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "KIEFER with Shibo",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Joshua Burnside with Taylor Kingman",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Casual Eddie",
       "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$25",
+      "price_label": "$16",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Finn Wolfhard",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Sawyer Hill",
       "venue_line": "Hawthorne Theatre • Portland",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Marie Vaunt - Ages 21+",
-      "venue_line": "45 East • Portland",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Diles Que No Me Maten (21 and Over)",
+      "venue_line": "Revolution Hall - Portland • Portland",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "IT&I followed by Sinferno Cabaret",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "HOTEL ALLAN - The 10 Year Anniversary Tour",
+      "venue_line": "McMenamins Mission Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "CHURCH OF HIVE",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$6",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Daniel Sloss",
+      "venue_line": "Newmark Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "SINFERNO CABARET",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$14–$314",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "JULIA WOLF - 94/7 ELYSIAN BREWING SPACE DUST SESSIONS",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

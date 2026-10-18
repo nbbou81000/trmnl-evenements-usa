@@ -1,137 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-17T12:38:55.744Z",
+  "updated_at": "2026-10-18T12:56:12.033Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Pines Fest at Atomic by Jamo",
-      "venue_line": "Atomic Pavilion • St. Louis",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "BXC Night of Champions V",
-      "venue_line": "Chaifetz Arena • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Trish Suhr",
-      "venue_line": "Helium Comedy Club - St. Louis • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Danny Jolles",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "A Deadside Halloween 3",
-      "venue_line": "Pop's Concert Venue • Sauget",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mastodon",
-      "venue_line": "The Pageant • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "KPop Princesses: A Tribute to Demon Hunters",
-      "venue_line": "Family Arena • Saint Charles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "DECEIVED by Johnna Wright and Patty Jamieson, Directed by Sharon Hunter",
-      "venue_line": "The Gaslight Theater • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Deorro Feat Banda Artilleros & JUOS",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "STING 3.0 Tour",
-      "venue_line": "Stifel Theatre • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Greek Fire",
-      "venue_line": "Delmar Hall • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Zack Fox",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Danny Jolles",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +71,136 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Catch Your Breath: Not Broken Enough Tour",
+      "venue_line": "The Hawthorn • St. Louis",
+      "price_label": "$37",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Catch Your Breath",
+      "venue_line": "The Hawthorn-St. Louis • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "The Wrecks - Finally: OUTSIDE Tour",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Open Mic Night",
+      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "sunn o)))",
+      "venue_line": "Delmar Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Knocked Loose & Denzel Curry",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "RUSH: Fifty Something",
+      "venue_line": "Enterprise Center • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Sueco",
+      "venue_line": "The Hawthorn • St. Louis",
+      "price_label": "$38–$633",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Michigander",
+      "venue_line": "Off Broadway • Saint Louis",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Michigander",
+      "venue_line": "Off Broadway • St. Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Failure with special guests Quannnic - The Rising Skyline Tour",
+      "venue_line": "Delmar Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "St. Louis Blues vs. Vegas Golden Knights",
+      "venue_line": "Enterprise Center • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Pain of Truth",
+      "venue_line": "Pop's Concert Venue • Sauget",
+      "price_label": "$41–$64",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

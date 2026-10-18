@@ -1,67 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-17T12:39:09.427Z",
+  "updated_at": "2026-10-18T12:56:25.972Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "We are Proud to Present",
-      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Samford University Bulldogs Football vs. Mercer Bears Football",
-      "venue_line": "Pete Hanna Center • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "We are Proud to Present",
-      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Electric Blue Yonder with Love Rat & Glen Iris Cult October 17th at The Nick, 7pm",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Hot In Herre: 2000s Dance Party - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Late Night Rock Show with The Dangerous Method, Mindshaft & Millennium Grey at The Nick 10/17 11pm",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Snail Mail & Soccer Mommy",
+      "venue_line": "Iron City • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Eggy:  The Final Tour (of 2026)",
+      "venue_line": "Lakeview Marina Music Park • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Magoo - Ages 18+",
+      "venue_line": "Saturn - Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Badvril at The Nick Wednesday 10/21",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Feud Presented by Shipt Same Day Delivery",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Feud | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

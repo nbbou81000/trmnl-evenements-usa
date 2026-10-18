@@ -1,27 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-17T12:39:09.014Z",
+  "updated_at": "2026-10-18T12:56:25.473Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Jackson State Tigers Football vs. Florida A&M Rattlers Football",
-      "venue_line": "Mississippi Veterans Memorial Stadium • Jackson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Kevin Gates",
-      "venue_line": "Brandon Amphitheater • Brandon",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -197,6 +177,26 @@
       "day_number": "12",
       "date_iso": "2026-11-12",
       "title": "MarchFourth",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Switchfoot - Forever Now Tour",
+      "venue_line": "City Hall Live • Brandon",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Mississippi Homecoming - Ryan Cooper Live at Duling Hall",
       "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",

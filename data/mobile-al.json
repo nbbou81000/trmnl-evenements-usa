@@ -1,57 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-17T12:39:10.683Z",
+  "updated_at": "2026-10-18T12:56:27.407Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Postponed till March 20, 2027: Amber Wallin",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Only Locals Comedy Showcase",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Crawling (A Tribute To Early Linkin Park) &  Nirvanna (Tribute To Nirvana)",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Jo Koy: Koy Meets World Tour",
-      "venue_line": "Saenger Theatre Mobile • Mobile",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "HALLOWEEN BASH – Pop Punk Emo Night Mobile by PunkNites",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -199,6 +149,56 @@
       "title": "Crescent Comedy Workshop",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$2",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Crescent Comedy Chaos",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$9",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Scary Stories To Tell At The Crescent: An Open Mic For Ghost Stories",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$2",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Extreme Dwarfanator Wrestling",
+      "venue_line": "The Electric Piano Parlor • Mobile",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "MAC SABBATH",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$33–$68",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Nosferatu  Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$39",
       "type_key": "misc",
       "type_label": "Other"
     }

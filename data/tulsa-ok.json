@@ -1,77 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-17T12:39:05.006Z",
+  "updated_at": "2026-10-18T12:56:21.569Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Chris Kattan",
-      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "FC Tulsa vs. Oakland Roots SC",
-      "venue_line": "ONEOK Field • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tulsa Oilers - Hockey vs. Allen Americans",
-      "venue_line": "BOK Center • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tulsa Oilers Vs Allen Americans - Game 1",
-      "venue_line": "BOK Center • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cody Hibbard",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Lil Kim (21 and Over)",
-      "venue_line": "Hard Rock Live Tulsa • Catoosa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Chris Kattan",
-      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Ralph Barbosa",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Blue October",
+      "venue_line": "Tulsa Theater • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Theresa Caputo (21 and Over)",
+      "venue_line": "The Cove at River Spirit Casino Resort • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Ralph Barbosa",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Lords of Acid w/ Princess Superstar",
+      "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

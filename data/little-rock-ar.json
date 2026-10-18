@@ -1,17 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-17T12:39:05.449Z",
+  "updated_at": "2026-10-18T12:56:21.991Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Gavin Adcock: The Day I Hang It Up Tour 2026",
-      "venue_line": "First Security Amphitheater • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +191,16 @@
       "price_label": "$25–$154",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Simmons Bank Championship: Sunday Admission",
+      "venue_line": "Pleasant Valley Country Club • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

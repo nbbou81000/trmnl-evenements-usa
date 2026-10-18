@@ -1,67 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-17T12:38:51.426Z",
+  "updated_at": "2026-10-18T12:56:07.303Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cincinnati Bearcats Mens Basketball vs. University of Illinois (Exhib)",
-      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "AFI",
-      "venue_line": "Bogart's • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mike Dawes",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bobby Bare Jr. of Guided by Voices, Hello June",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cincinnati Noir",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mango Tree, Elijah Batson, Moe Reen",
-      "venue_line": "The Southgate House Revival - The Lounge • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-21",
       "title": "GODSMACK - The Rise of Rock World Tour 2026",
       "venue_line": "PNC PAVILION • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "JBM Promtions & Memorial Hall present The Linda Ronstadt Experience",
+      "venue_line": "Memorial Hall • Cincinnati",
+      "price_label": "$27–$44",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "TreeHouse! + Queen City Silver Stars + Rockstead",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Brand New",
+      "venue_line": "MegaCorp Pavilion • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Cincinnati Bearcats Women's Volleyball vs. Kansas State University Volleyball",
+      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Disney Descendants: Vibes Hi-Fidelity Concert Earplugs",
+      "venue_line": "Heritage Bank Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "venue_line": "Heritage Bank Center • Cincinnati",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

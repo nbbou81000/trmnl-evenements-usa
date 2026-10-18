@@ -1,57 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-17T12:38:57.082Z",
+  "updated_at": "2026-10-18T12:56:13.376Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Nebraska Cornhuskers Womens Volleyball vs. Purdue Boilermakers Womens Volleyball",
-      "venue_line": "Bob Devaney Sports Center • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Lincoln Stars vs. Sioux City Musketeers",
-      "venue_line": "Ice Box • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "PBR: Ram Challenger Series",
-      "venue_line": "Pinnacle Bank Arena • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Boogie T w/ SubDocta",
-      "venue_line": "Royal Grove • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mr. and Miss Fire & Brimstone 2026",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$22–$64",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -101,16 +51,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Juvenile’s Boiling Point Album Release Tour w/ The 400 Degreez Band",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$34–$119",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -201,6 +141,66 @@
       "price_label": "$27–$52",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Nebraska Cornhuskers Womens Soccer vs. UCLA Bruins Womens Soccer",
+      "venue_line": "Barbara Hibner Soccer Stadium • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Chris Stapleton's All-American Road Show",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "SunSquabi, Dark Oceanz Live",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$34–$119",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Silver Ticket Karaoke",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Ella Langley: The Dandelion Tour",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Lincoln Stars vs. Omaha Lancers",
+      "venue_line": "Ice Box • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

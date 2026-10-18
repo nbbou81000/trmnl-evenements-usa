@@ -1,27 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-17T12:39:07.287Z",
+  "updated_at": "2026-10-18T12:56:23.761Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bobby Stone Film Series: The Bride of Frankenstein",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bobby Stone Film Series: The Bride of Frankenstein",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Chattanooga Moccasins Football vs. VMI Keydets Football",
+      "venue_line": "Finley Stadium Davenport Field • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Funeral Portrait: A Ghoulish Gathering In Suffocate City",
+      "venue_line": "The Signal - Concert Hall • Chattanooga",
+      "price_label": "$38–$174",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

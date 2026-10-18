@@ -1,67 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-17T12:39:11.912Z",
+  "updated_at": "2026-10-18T12:56:28.683Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Colorado State University Rams Womens Volleyball vs. Utah State Aggies Womens Volleyball",
-      "venue_line": "Moby Arena • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Toughest Monster Truck Tour",
-      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Northern Colorado Bears Football vs. DUPLICATE Cal Poly Mustangs Football",
-      "venue_line": "Nottingham Field • Greeley",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Celtic Thunder",
-      "venue_line": "Union Colony Civic Center • Greeley",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Theo Katzman",
-      "venue_line": "Washington's • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Theo Katzman",
-      "venue_line": "Washington's • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Lissie",
+      "venue_line": "Aggie Theater • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Colorado State University Rams Womens Volleyball vs. Gonzaga Bulldogs Womens Volleyball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Blippi The Musical",
+      "venue_line": "Union Colony Civic Center • Greeley",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Colorado State University Rams Mens Basketball vs. Idaho Vandals Mens Basketball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Colorado Eagles vs. Calgary Wranglers",
+      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Colorado State University Rams Womens Volleyball vs. Boise State Broncos Womens Volleyball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

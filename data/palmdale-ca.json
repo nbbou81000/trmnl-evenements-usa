@@ -1,27 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-17T12:39:23.034Z",
+  "updated_at": "2026-10-18T12:56:40.104Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "FREE SHOW: HORROR NERD COMEDY- COMEDIANS TAKING ON THE MOST ICONIC MOVIES",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "NOCHE DE GÓTICOS: THE SMITHS VS. THE CURE VS. DEPECHE MODE",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$11",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -199,6 +179,26 @@
       "title": "RED DIVINE / HEXENGARTEN / IMPLICIT / AIR-GAP",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "CLUB CULTURA DJ NIGHT - CUMBIA, REGGAETON, ROCK EN ESPANOL, LATIN EDM AND MORE!",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "FREE SHOW: CLOUD TYPES / TOMBSTONES IN THEIR EYES / MERCURY TRANSFER",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

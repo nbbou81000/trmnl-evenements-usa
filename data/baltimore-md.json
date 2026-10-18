@@ -1,97 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-17T12:38:38.431Z",
+  "updated_at": "2026-10-18T12:55:54.357Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Maryland Renaissance Festival",
-      "venue_line": "Maryland Renaissance Festival • Annapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Disney On Ice presents Spotlight Magic!",
-      "venue_line": "CFG Bank Arena • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Navy Midshipmen Mens Basketball vs. UMBC Retrievers Mens Basketball",
-      "venue_line": "Alumni Hall - MD • Annapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Disney On Ice presents Spotlight Magic!",
-      "venue_line": "CFG Bank Arena • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Disney On Ice presents Spotlight Magic!",
-      "venue_line": "CFG Bank Arena • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Pain Of Truth",
-      "venue_line": "Baltimore Soundstage • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Cannons: The Everything Glows Tour",
-      "venue_line": "Nevermore Hall • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Boney James",
-      "venue_line": "Rams Head On Stage • Annapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "August Wilson's \"Two Trains Running\" (PREVIEW)",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "PeelingFlesh",
+      "venue_line": "Baltimore Soundstage • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "August Wilson's \"Two Trains Running\" (PREVIEW)",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "August Wilson's \"Two Trains Running\" (PREVIEW)",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "The Living Tombstone",
+      "venue_line": "Nevermore Hall • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "James Austin Johnson",
+      "venue_line": "Rams Head On Stage • Annapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

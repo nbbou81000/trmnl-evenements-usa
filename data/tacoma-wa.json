@@ -1,117 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-17T12:39:25.124Z",
+  "updated_at": "2026-10-18T12:56:42.435Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Rick Glassman",
-      "venue_line": "Tacoma Comedy Club • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Seattle Thunderbirds vs. Spokane Chiefs",
-      "venue_line": "accesso ShoWare Center • Kent",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Damon Williams",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$29–$41",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "WFC 199: World Fighting Championships",
-      "venue_line": "Emerald Queen Casino • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Symphony Tacoma: Fanfare for Our Nation",
-      "venue_line": "Pantages Theater • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Seattle Sounders FC vs. CF Montréal",
-      "venue_line": "Lumen Field • Seattle",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Rick Glassman",
-      "venue_line": "Tacoma Comedy Club • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Clock-Out Lounge Presents: Nekromantix w/ Rezurex",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Ahee w/ Mport",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Damon Williams",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$29–$41",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Tinlicker",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -198,6 +88,116 @@
       "date_iso": "2026-10-20",
       "title": "Celtic Thunder",
       "venue_line": "Federal Way PAEC • Federal Way",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Free spooky movie night- Cemetery Man (1996)",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "WAMU Theater Amplified Access: Rise Against (Not an Event Ticket)",
+      "venue_line": "WAMU Theater • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Rise Against: Ricochet 2026",
+      "venue_line": "WAMU Theater • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "REZN",
+      "venue_line": "Baba Yaga • Seattle",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "The Blasting Company",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Trash Talk with Chris Crayzie",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "$13",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Celtic Thunder",
+      "venue_line": "Federal Way PAEC • Federal Way",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Sunset Rollercoaster",
+      "venue_line": "Showbox SODO • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Julia Wolf w/ Bee Blackwell",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Disney On Ice presents Jump In",
+      "venue_line": "accesso ShoWare Center • Kent",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Michael Franti Trio - Heartstrings & Dynamite",
+      "venue_line": "Pantages Theater • Tacoma",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

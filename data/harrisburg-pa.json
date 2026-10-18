@@ -1,37 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-17T12:38:35.964Z",
+  "updated_at": "2026-10-18T12:55:52.118Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Defiant",
-      "venue_line": "Capital City Music Hall Lower Level • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Hershey Bears vs. Providence Bruins - Pink the Rink",
-      "venue_line": "GIANT Center • Hershey",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "wXPN Welcomes: Melvin Seals and JGB",
-      "venue_line": "XL Live • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -197,6 +167,36 @@
       "day_number": "30",
       "date_iso": "2026-10-30",
       "title": "Concert Crave Presents: I Love R&B Party",
+      "venue_line": "Capital City Music Hall • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Van Wirsing",
+      "venue_line": "XL Live • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Clue",
+      "venue_line": "Hershey Theatre • Hershey",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Dead",
       "venue_line": "Capital City Music Hall • Harrisburg",
       "price_label": "Price not available",
       "type_key": "music",

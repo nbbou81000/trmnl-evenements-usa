@@ -1,27 +1,7 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-17T12:39:20.346Z",
+  "updated_at": "2026-10-18T12:56:37.463Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Stockton Thunder vs. Oceanside HC",
-      "venue_line": "Adventist Health Arena • Stockton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Alicia Villarreal - Bendita Locura Tour 2026",
-      "venue_line": "Bob Hope Theatre • Stockton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "11",
+      "date_iso": "2026-12-11",
+      "title": "Stockton Thunder vs. Topeka Scarecrows",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "11",
+      "date_iso": "2026-12-11",
+      "title": "A Drag Queen Christmas",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

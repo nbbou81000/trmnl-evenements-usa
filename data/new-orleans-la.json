@@ -1,107 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-17T12:39:07.708Z",
+  "updated_at": "2026-10-18T12:56:24.180Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Alejandro Canales Trio with Dylan Torrance and Simon Lott",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bingo Loco",
-      "venue_line": "The Joy Theater • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "ELEW \"The Top Professor\" & Herlin Riley featuring Max Moran",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$58",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The Dean Martin Story",
-      "venue_line": "Jefferson Perf Arts Center • Metairie",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Margaret Cho Presents Charlene Kaye: Tiger Daughter",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "ELEW \"The Top Professor\" & Herlin Riley featuring Max Moran",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$58",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bingo Loco",
-      "venue_line": "The Joy Theater • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Q's 65th Birthday Party",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$25",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Sábado Gigante Hosted by Don Sevilla with VDJ Emotion & DJ Danny",
-      "venue_line": "New Orleans Jazz Market • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "J & The Causeways (Late Start Post Fest)",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -199,6 +99,106 @@
       "title": "FANTASY NON FICTION with TASHI DELAY & LISBON GIRLS",
       "venue_line": "Santos Bar • New Orleans",
       "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "The Grammy Winning Hot 8 Brass Band",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "SubTeRRaNeAn SoNgWriTer NiGhT w/ Natasha Sanchez, Shawn Bourg, Shawn Gwin & Micah McKee",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$3",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Charmaine Neville Band",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Machine Girl",
+      "venue_line": "Civic Theatre • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "MagNifico - John Magnie (Lil Queenie & The Percolators)",
+      "venue_line": "Chickie Wah Wah • New Orleans",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "19",
+      "date_iso": "2026-10-19",
+      "title": "Charmaine Neville Band",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Soccer Mommy & Snail Mail",
+      "venue_line": "The Joy Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Comedy Beast",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$8",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "A Benefit Concert for Wendell Brunious presented by Jazz Foundation of America",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "FELICITY",
+      "venue_line": "NO DICE • New Orleans",
+      "price_label": "$17",
       "type_key": "music",
       "type_label": "Music"
     }

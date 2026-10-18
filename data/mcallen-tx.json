@@ -1,57 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-17T12:39:03.416Z",
+  "updated_at": "2026-10-18T12:56:19.856Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Fiesta De Palmas 2026 - Presented By The City Of Mcallen",
-      "venue_line": "McAllen Convention Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Beer Around The World 2026 - Fiesta De Palmas McAllen TX",
-      "venue_line": "McAllen Performing Arts Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mariachazo - Mariachi Vargas de Tecatitlan & Nuevo Tecatitlan Mariachi",
-      "venue_line": "McAllen Performing Arts Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mon Laferte - Femme Fatale Tour",
-      "venue_line": "Payne Arena • Hidalgo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Bobby Pulido",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Adelitas Way - Home School Valedictorian",
+      "venue_line": "Payne Arena • Hidalgo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Rio Grande Valley Vipers vs. Austin Spurs",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "SIN BANDERA - ESCENAS US TOUR",
+      "venue_line": "Payne Arena • Hidalgo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Adrián Uribe: 50 y Pico Tour",
+      "venue_line": "McAllen Performing Arts Center • McAllen",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Una Noche De Leyendas - Conjunto Primavera, La Firma, Banda Machos,Cadetes de Linares",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,51 +1,11 @@
 {
   "city_label": "Boston, MA",
-  "updated_at": "2026-10-17T12:38:28.301Z",
+  "updated_at": "2026-10-18T12:55:43.342Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Slapshot",
-      "venue_line": "Big Night Live • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Boston College Eagles Football vs. Pittsburgh Panthers Football",
-      "venue_line": "Alumni Stadium • Chestnut Hill",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "KIDZ BOP Daytime Dance Party",
-      "venue_line": "Paradise Rock Club presented by Citizens • Boston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Harvard Crimson Football vs. Holy Cross Crusaders Football",
-      "venue_line": "Harvard Stadium • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Wicked (Touring)",
       "venue_line": "Citizens Opera House • Boston",
       "price_label": "Price not available",
@@ -53,19 +13,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Late Nite Catechism: Til Death Do Us Part",
-      "venue_line": "Charles Playhouse Theater 2 • Boston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Operation Mincemeat (Touring)",
       "venue_line": "Emerson Colonial Theatre • Boston",
       "price_label": "Price not available",
@@ -73,9 +23,29 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "New England Patriots v New York Jets",
+      "venue_line": "Gillette Stadium • Foxborough",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Late Nite Catechism: Til Death Do Us Part",
+      "venue_line": "Charles Playhouse Theater 2 • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "To Kill a Mockingbird (Touring)",
       "venue_line": "Huntington Theatre • Boston",
       "price_label": "Price not available",
@@ -83,79 +53,39 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Akaash Singh: Generational Triumph Tour",
-      "venue_line": "The Wilbur • Boston",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "TRVE CVLT TRIVIA",
+      "venue_line": "Middle East - Corner/Bakery • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Wicked (Touring)",
+      "venue_line": "Citizens Opera House • Boston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Luke Barrozo ",
-      "venue_line": "Middle East - Corner/Bakery • Cambridge",
-      "price_label": "$1",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Matt Shore Does Songs at You: A Comedy Music Album Release Show",
-      "venue_line": "Middle East - Upstairs • Cambridge",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Boston University Womens Hockey vs. Colgate University Women's Hockey",
-      "venue_line": "Agganis Arena • Boston",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Operation Mincemeat (Touring)",
+      "venue_line": "Emerson Colonial Theatre • Boston",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Boston College Eagles Hockey vs. St. Cloud State Huskies Hockey",
-      "venue_line": "Conte Forum • Chestnut Hill",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Merrimack Warriors Hockey vs. Minnesota State Mankato Mavericks Hockey",
-      "venue_line": "Lawler Arena • North Andover",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "UMass Lowell River Hawks Hockey vs. Arizona State Sun Devils Hockey",
-      "venue_line": "Tsongas Center • Lowell",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
       "title": "Olivia Rodrigo: The Unraveled Tour",
       "venue_line": "TD Garden • Boston",
       "price_label": "Price not available",
@@ -163,42 +93,112 @@
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Mo Lowda & the Humble w/ Surf Hat",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "for KING & COUNTRY",
+      "venue_line": "Boch Center Wang Theatre • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Allison Russell (18 and Over)",
       "venue_line": "Royale Boston • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Sylvan Esso",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Sienna Spiro: My House Tour",
       "venue_line": "Citizens House of Blues Boston • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Sidewalk Driver, Louder Joy, Lipsmear, Blindspot",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Screeching Weasel, The Queers ",
       "venue_line": "Middle East - Downstairs • Cambridge",
-      "price_label": "$33",
+      "price_label": "$53",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "ANN HAMPTON CALLAWAY - HERE'S TO LIFE",
-      "venue_line": "Scullers Jazz Club • Boston",
-      "price_label": "$42–$60",
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Callen, Lucas Lusher, Nico Welsh",
+      "venue_line": "Middle East - Upstairs • Cambridge",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Yaktak",
+      "venue_line": "Sonia • Cambridge",
+      "price_label": "$85",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "To Kill a Mockingbird (Touring)",
+      "venue_line": "Huntington Theatre • Boston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "LAUREN SANDERSON: COME SAY SUM TOUR",
+      "venue_line": "Brighton Music Hall presented by Citizens • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Howley",
+      "venue_line": "Crystal Ballroom at Somerville Theatre • Somerville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Carly Pearce w/ Belle Frantz",
+      "venue_line": "The Sinclair Music Hall • Cambridge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "18",
+      "date_iso": "2026-10-18",
+      "title": "Brand New",
+      "venue_line": "Roadrunner-Boston • Boston",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,77 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-17T12:38:31.612Z",
+  "updated_at": "2026-10-18T12:55:46.684Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Providence College Friars Mens Basketball vs. Pittsburgh Panthers Mens Basketball",
-      "venue_line": "Amica Mutual Pavilion • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Providence College Men's Basketball",
-      "venue_line": "Amica Mutual Pavilion • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Knumears w/ Catalyst & Loveletter",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Rhode Island FC vs. Pittsburgh Riverhounds SC",
-      "venue_line": "Centreville Bank Stadium • Pawtucket",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "New England Revolution vs. Chicago Fire FC",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "Thunder From Down Under",
-      "venue_line": "Bally's Event Center • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "17",
-      "date_iso": "2026-10-17",
-      "title": "The Far",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "18",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Providence College Friars Hockey vs. UMass Lowell River Hawks Hockey",
+      "venue_line": "Schneider Arena • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Rhode Island Rams Football vs. Albany Great Danes Football",
+      "venue_line": "Centreville Bank Stadium • Pawtucket",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Halloscream: Dance Party",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "John Mulaney",
+      "venue_line": "Ryan Center • Kingston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Pulse",
+      "venue_line": "Six String Grill and Stage • Foxboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "New England Revolution vs. Red Bull New York",
+      "venue_line": "Gillette Stadium • Foxborough",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Halloween Line Dancing",
+      "venue_line": "Six String Grill and Stage • Foxboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }
