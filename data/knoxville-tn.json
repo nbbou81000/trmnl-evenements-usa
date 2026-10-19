@@ -1,27 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-18T12:56:23.333Z",
+  "updated_at": "2026-10-19T16:07:08.111Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "The Miraculous Journey Of Edward Tulane (CBT)",
-      "venue_line": "Clarence Brown LAB Theatre, Univ of Tennessee • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Bijou Imagination Series: The Snowy Day and Other Stories",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-28",
       "title": "The Red Clay Strays",
       "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Nurse Blake: But Did You Die? Tour",
+      "venue_line": "Bijou Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Indigo Girls with Special Guest Linda Perry",
+      "venue_line": "Tennessee Theatre • Knoxville",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

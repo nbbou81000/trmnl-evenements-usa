@@ -1,97 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-18T12:56:10.998Z",
+  "updated_at": "2026-10-19T16:06:56.419Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Lenny Pearce",
-      "venue_line": "Palace Theatre-MN • St. Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Minnesota Wild vs. Columbus Blue Jackets",
-      "venue_line": "Grand Casino Arena • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Catch Your Breath - Not Broken Enough Tour",
-      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Disney Worlds Collide Concert Tour",
-      "venue_line": "Target Center • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Medium Build w/ Bella White",
-      "venue_line": "First Avenue • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Albert Cummings - 21+",
-      "venue_line": "James Ballentine VFW Post 246 • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Off Book: The Improvised Musical",
-      "venue_line": "Fitzgerald Theater • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "U.S. Bank Stadium Tour",
-      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "J. D. Pride Youth Football",
-      "venue_line": "U.S. Bank Stadium • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -198,6 +108,96 @@
       "date_iso": "2026-10-22",
       "title": "Haydn and Liszt with Minnesota Orchestra",
       "venue_line": "Orchestra Hall-MN • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Wrecks - Finally : OUTSIDE Tour",
+      "venue_line": "Varsity Theater • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "LAKEVIEW - WRECK MY NIGHT TOUR",
+      "venue_line": "Amsterdam Bar & Hall • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Chris Botti",
+      "venue_line": "Dakota Jazz Club • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Minnesota Gophers Mens Hockey vs. University of North Dakota Hockey",
+      "venue_line": "3M Arena at Mariucci • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "St. Thomas Tommies Womens Volleyball vs. University of North Dakota Womens Volleyball",
+      "venue_line": "Schoenecker Arena • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Outlander In Concert: Echoes Through the Highlands",
+      "venue_line": "State Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Sound of Music (Touring)",
+      "venue_line": "Orpheum Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Palace (18 and Over with Valid Government ID)",
+      "venue_line": "First Avenue • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Sammy Rae and The Friends with Melt (18+ Event)",
+      "venue_line": "Palace Theatre-MN • St. Paul",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

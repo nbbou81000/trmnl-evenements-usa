@@ -1,67 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-18T12:56:30.401Z",
+  "updated_at": "2026-10-19T16:07:14.869Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Popejoy Hall • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "New Mexico Lobos Mens Basketball vs. Washington State Cougars Mens Basketball",
-      "venue_line": "The Pit (University Arena) • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Arsenic and Old Lace",
-      "venue_line": "Albuquerque Little Theatre • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "New Mexico Goatheads vs. Idaho Steelheads",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "New Mexico Goatheads VS Idaho Steelheads",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Popejoy Hall • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Cradle of Filth - Majestic In Death II",
+      "venue_line": "Sunshine Theatre • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "New Mexico Goatheads vs. Rapid City Rush",
+      "venue_line": "Rio Rancho Events Center • Rio Rancho",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "New Mexico Goatheads VS Rapid City Rush",
+      "venue_line": "Rio Rancho Events Center • Rio Rancho",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Chevel Shepherd- Sponsored by The Salvation Army",
+      "venue_line": "Kiva Auditorium at the Albuquerque Convention Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Rocky Horror Show",
+      "venue_line": "Albuquerque Little Theatre • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Slander w/ No Signal",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

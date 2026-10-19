@@ -1,37 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-18T12:56:06.040Z",
+  "updated_at": "2026-10-19T16:06:51.862Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "USA Hockey National Team Development Program vs. Dubuque Fighting Saints",
-      "venue_line": "USA Hockey Arena • Plymouth",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Red Leather  , The Romance, Northern Lights",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "The Last Waltz - 50 Year Anniversary Tour featuring CHEST FEVER The Official Revival of THE BAND",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$24–$189",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-26",
       "title": "Michigan Wolverines Mens Soccer vs. Washington Huskies Mens Soccer",
       "venue_line": "UM Soccer Stadium • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$3",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "USA Hockey National Team Development Program vs. Muskegon Lumberjacks",
+      "venue_line": "USA Hockey Arena • Plymouth",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

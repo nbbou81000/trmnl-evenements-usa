@@ -1,17 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-18T12:56:21.569Z",
+  "updated_at": "2026-10-19T16:07:06.441Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Exitwounds and Nailed Shut",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-25",
       "title": "Lords of Acid w/ Princess Superstar",
       "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "AFI",
+      "venue_line": "Cain's Ballroom • Tulsa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

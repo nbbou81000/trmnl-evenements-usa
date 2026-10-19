@@ -1,27 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-18T12:56:13.376Z",
+  "updated_at": "2026-10-19T16:06:58.492Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Nebraska Cornhuskers Womens Soccer vs. Illinois Fighting Illini Womens Soccer",
-      "venue_line": "Barbara Hibner Soccer Stadium • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Danielle Nicole",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$39",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-30",
       "title": "Lincoln Stars vs. Omaha Lancers",
       "venue_line": "Ice Box • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "PETROCK: A Spooky Smooth Night of Music",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$35–$62",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Nebraska Cornhuskers Football vs. Washington Huskies Football",
+      "venue_line": "Nebraska Memorial Stadium • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

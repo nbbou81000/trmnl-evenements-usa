@@ -1,6 +1,6 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-10-18T12:56:32.679Z",
+  "updated_at": "2026-10-19T16:07:16.970Z",
   "events": [
     {
       "day_label": "FRI",
@@ -8,26 +8,6 @@
       "date_iso": "2026-10-02",
       "title": "Dragon Lights 2026 Season Pass",
       "venue_line": "Wilbur D. May Arboretum • Reno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Gabriel Rutledge",
-      "venue_line": "Club Underground • Reno",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Laugh Factory",
-      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-24",
       "title": "Souls of Mischief, Palmtree, MC Frend, DJ Bay Hef, Dalto",
       "venue_line": "Club Underground • Reno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Laugh Factory",
+      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Dem Huyen Thoai",
+      "venue_line": "Silver Legacy Casino Reno • Reno",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

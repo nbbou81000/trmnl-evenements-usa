@@ -1,27 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-18T12:55:47.153Z",
+  "updated_at": "2026-10-19T16:06:34.686Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Little Big Town - For The Art Of It Tour",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-24",
       "title": "Mamma Mia! (Touring)",
       "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Voyage - Celebrating The Music of Journey",
+      "venue_line": "Aria Ballroom at MGM Springfield • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Killers of Kill Tony",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-18T12:56:27.407Z",
+  "updated_at": "2026-10-19T16:07:12.005Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "🎶 SONG4SONG MUSIC — LAST SONG COMPETITION 🎶  ",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "GREAT LAKE SWIMMERS",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -38,7 +18,7 @@
       "date_iso": "2026-10-20",
       "title": "The Filthy Heathens",
       "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$19",
+      "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "$39",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$39",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Jacob Brock and His Night Mares",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-18T12:56:41.399Z",
+  "updated_at": "2026-10-19T16:07:25.238Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Oregon Ducks Volleyball vs. Rutgers Womens Volleyball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Kristin Key",
-      "venue_line": "McDonald Theatre • Eugene",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "The Blasting Company plays Over The Garden Wall",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$47",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-31",
       "title": "Oregon Ducks Football vs. Northwestern Wildcats Football",
       "venue_line": "Autzen Stadium • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Oregon Ducks Volleyball vs. University of Iowa Volleyball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Oregon Women's Basketball vs. University of Hawaii Warriors Women's Basketball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Oregon Ducks Men's Basketball vs. University of Montana Grizzlies Mens Basketball",
+      "venue_line": "Matthew Knight Arena • Eugene",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-18T12:56:36.467Z",
+  "updated_at": "2026-10-19T16:07:20.683Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "bodie, Hopeful.",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$26–$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Los Tigres del Norte",
-      "venue_line": "Fresno Fairgrounds • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -46,7 +26,7 @@
       "day_label": "THU",
       "day_number": "22",
       "date_iso": "2026-10-22",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Womens Volleyball",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Volleyball",
       "venue_line": "Save Mart Center • Fresno",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -56,7 +36,7 @@
       "day_label": "THU",
       "day_number": "22",
       "date_iso": "2026-10-22",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Volleyball",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Womens Volleyball",
       "venue_line": "Save Mart Center • Fresno",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -78,7 +58,7 @@
       "date_iso": "2026-10-23",
       "title": "Microwave & Free Throw: North America 2026",
       "venue_line": "Tioga Sequoia Brewery  • Fresno",
-      "price_label": "$36–$147",
+      "price_label": "$36",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +179,26 @@
       "title": "Foreigner - 21+",
       "venue_line": "Table Mountain Casino • Friant",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Eaglemania",
+      "venue_line": "Warnors Theatre • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Cumbiatron | The Cumbia Rave",
+      "venue_line": "Mezcal Lounge • Fresno",
+      "price_label": "$11",
       "type_key": "music",
       "type_label": "Music"
     }

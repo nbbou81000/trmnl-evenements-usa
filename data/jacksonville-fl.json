@@ -1,27 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-18T12:56:00.609Z",
+  "updated_at": "2026-10-19T16:06:46.812Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Florida Gators v Baylor Bears Men's Basketball",
-      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Clutch: US Fall Tour",
-      "venue_line": "FIVE • Jacksonville",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Dear Jacksonville: A Love Letter - 21 Years in the Making",
+      "venue_line": "Ritz Theatre • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "GWAR",
+      "venue_line": "FIVE • Jacksonville",
+      "price_label": "$53–$82",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

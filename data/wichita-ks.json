@@ -1,37 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-18T12:56:14.691Z",
+  "updated_at": "2026-10-19T16:06:59.844Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Wichita State Shockers Womens Volleyball vs. Rice Owls Womens Volleyball",
-      "venue_line": "Charles Koch Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Wichita Thunder vs. Tahoe Knight Monsters",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Wichita Thunder vs. Tahoe Knight Monsters",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Toast - The Best of Bread",
+      "venue_line": "The Cotillion • Wichita",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Kat Hasty",
+      "venue_line": "Wave • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sunflower Merry Mart",
+      "venue_line": "Exhibition Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

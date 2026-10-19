@@ -1,17 +1,7 @@
 {
   "city_label": "Billings, MT",
-  "updated_at": "2026-10-18T12:56:33.491Z",
+  "updated_at": "2026-10-19T16:07:17.756Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Billings Cattle Punchers vs Idaho Falls Spud Kings",
-      "venue_line": "Signal Peak Energy Arena • Billings",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -151,6 +141,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "17",
+      "date_iso": "2026-12-17",
+      "title": "Billings Cattle Punchers vs. Ogden Mustangs",
+      "venue_line": "Signal Peak Energy Arena • Billings",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

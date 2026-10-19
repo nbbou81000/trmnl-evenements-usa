@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-10-18T12:56:09.649Z",
+  "updated_at": "2026-10-19T16:06:55.164Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Jurassic Quest | Allen County War Memorial Coliseum | Fort Wayne, IN 2026",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Jurassic Quest | Allen County War Memorial Coliseum | Fort Wayne, IN 2026",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "SIX",
+      "venue_line": "Embassy Theatre • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "SIX",
+      "venue_line": "Embassy Theatre • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

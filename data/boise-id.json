@@ -1,37 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-18T12:56:29.978Z",
+  "updated_at": "2026-10-19T16:07:14.454Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "MIMOSAS AND MUSIC BINGO",
-      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
-      "price_label": "$10",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "The 39 Steps",
-      "venue_line": "Boise Little Theater • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "ANALOG DOG, Rudy, Los Syringas",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -198,9 +168,39 @@
       "date_iso": "2026-10-23",
       "title": "KNOX, Emi Grace",
       "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$28–$225",
+      "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Past The Light , Seasonless (Salt Lake City), The Raven Index ",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Broadway In Boise Presents & JULIET",
+      "venue_line": "Morrison Center for the Performing Arts • Boise",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The 39 Steps",
+      "venue_line": "Boise Little Theater • Boise",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

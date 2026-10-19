@@ -1,37 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-18T12:56:07.303Z",
+  "updated_at": "2026-10-19T16:06:53.110Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "FC Cincinnati vs. Columbus Crew",
-      "venue_line": "TQL Stadium • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "King's X",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "LayLow, Mud Whale , 97 Flood, Luckyshot, Fluster ",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$17",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-22",
       "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
       "venue_line": "Heritage Bank Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Unpopular Opinions Night (21+)",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "BOOP! The Musical (Touring)",
+      "venue_line": "Aronoff Center-Procter & Gamble Hall • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Vitamin String Quartet & Girl Named Tom",
+      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

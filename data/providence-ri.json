@@ -1,17 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-18T12:55:46.684Z",
+  "updated_at": "2026-10-19T16:06:34.238Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "New England Patriots v New York Jets",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -97,6 +87,16 @@
       "day_number": "24",
       "date_iso": "2026-10-24",
       "title": "Providence College Friars Mens Basketball vs. Georgia Tech Yellow Jackets Mens Basketball",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Providence College Men's Basketball vs. Georgia Tech Yellow Jackets Mens Basketball",
       "venue_line": "Amica Mutual Pavilion • Providence",
       "price_label": "Price not available",
       "type_key": "sports",

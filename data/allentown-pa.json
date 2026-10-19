@@ -1,27 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-18T12:55:51.531Z",
+  "updated_at": "2026-10-19T16:06:38.169Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "THROWN",
-      "venue_line": "Archer Music Hall • Allentown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "The Michael Jackson History Show",
-      "venue_line": "The Wind Creek Event Center • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-30",
       "title": "Emo Night Karaoke - 18+",
       "venue_line": "Arrow • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Rumours of Fleetwood Mac",
+      "venue_line": "The Wind Creek Event Center • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Dio Rules - Tribute To Rainbow, Black Sabbath And Dio",
+      "venue_line": "Penn's Peak • Jim Thorpe",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

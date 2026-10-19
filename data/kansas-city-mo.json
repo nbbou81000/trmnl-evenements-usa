@@ -1,17 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-18T12:56:11.445Z",
+  "updated_at": "2026-10-19T16:06:56.843Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Kansas City Chiefs v Los Angeles Chargers",
-      "venue_line": "Arrowhead Stadium • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-25",
       "title": "PBR Teams: Outlaw Days",
       "venue_line": "T-Mobile Center • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Kansas City Current vs. Washington Spirit",
+      "venue_line": "CPKC Stadium • Kansas City",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

@@ -1,27 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-18T12:56:13.820Z",
+  "updated_at": "2026-10-19T16:06:58.907Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Stanley Simmons",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
-      "venue_line": "Vibrant Music Hall • Waukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -196,6 +176,26 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
+      "title": "Des Moines Buccaneers vs. Youngstown Phantoms",
+      "venue_line": "MidAmerican Energy Company RecPlex • West Des Moines",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Aries Spears",
+      "venue_line": "Vibrant Music Hall • Waukee",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
       "title": "Des Moines Buccaneers vs. Youngstown Phantoms",
       "venue_line": "MidAmerican Energy Company RecPlex • West Des Moines",
       "price_label": "Price not available",

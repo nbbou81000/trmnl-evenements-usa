@@ -1,27 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-18T12:56:26.405Z",
+  "updated_at": "2026-10-19T16:07:11.174Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Hocus Pocus Drag Brunch",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$25–$37",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Jo Koy: Koy Meets World Tour",
-      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Dark & Scary",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$16",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Jonnie W",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$27",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

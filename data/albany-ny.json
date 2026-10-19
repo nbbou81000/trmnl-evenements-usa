@@ -1,27 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-18T12:55:46.070Z",
+  "updated_at": "2026-10-19T16:06:33.820Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Siena Saints Mens Basketball vs. Syracuse University Men's Basketball",
-      "venue_line": "MVP Arena • Albany",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "The Band Memo",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -197,6 +177,26 @@
       "day_number": "25",
       "date_iso": "2026-10-25",
       "title": "Texas Hippie Coalition",
+      "venue_line": "Empire Underground • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "The Palace Theatre Albany • Albany",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Beauty School Dropout",
       "venue_line": "Empire Underground • Albany",
       "price_label": "Price not available",
       "type_key": "music",

@@ -1,27 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-18T12:56:37.008Z",
+  "updated_at": "2026-10-19T16:07:21.142Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Fortune Feimster",
-      "venue_line": "Bakersfield Fox Theater • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "18",
-      "date_iso": "2026-10-18",
-      "title": "Megan Woods: The Truth Tour - Bakersfield, CA",
-      "venue_line": "Victory Outreach Bakersfield BOLD • Bakersfield ",
-      "price_label": "$21–$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "19",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-07",
       "title": "PUFF PUFF PASS TOUR: SNOOP DOGG",
       "venue_line": "Dignity Health Arena • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Bakersfield Condors vs. Calgary Wranglers",
+      "venue_line": "Dignity Health Arena • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Anne Wilson",
+      "venue_line": "Dignity Health Theater • Bakersfield",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
