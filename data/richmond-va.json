@@ -1,17 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-19T16:06:41.285Z",
+  "updated_at": "2026-10-20T14:02:09.419Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Andrew McMahon w/ Ivory Layne",
-      "venue_line": "The Broadberry • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Chesterfield Cheerleader League (CCL) Spectacular",
+      "venue_line": "VSU Multi-Purpose Center • Petersburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

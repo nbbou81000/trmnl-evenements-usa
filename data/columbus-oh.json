@@ -1,57 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-19T16:06:52.283Z",
+  "updated_at": "2026-10-20T14:02:21.175Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Happy Hour w/ Emily Syring Trio at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$2",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "True Loves w/ M Ross Perkins at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "First To Eleven",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "William Elliott Whitmore w/ The Goldenrods",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Holywatr",
-      "venue_line": "Newport Music Hall • Columbus",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -106,7 +56,7 @@
       "day_label": "TUE",
       "day_number": "20",
       "date_iso": "2026-10-20",
-      "title": "The Band Memo",
+      "title": "The Band Memo w/ Orange Sky Revolution",
       "venue_line": "Rumba Cafe • Columbus",
       "price_label": "$19",
       "type_key": "music",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "MJT w/ Shapes at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Odie Leigh is Alone w/ Abbie McAllister",
+      "venue_line": "Rumba Cafe • Columbus",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Silly Goose w/ Cheem",
+      "venue_line": "A&R Music Bar • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Rod Wave: Don't Look Down Tour",
+      "venue_line": "Schottenstein Center • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Blade Rave",
+      "venue_line": "Skully's Music Diner • Columbus",
+      "price_label": "$21–$27",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

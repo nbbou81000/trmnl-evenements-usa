@@ -1,37 +1,7 @@
 {
   "city_label": "Washington, DC",
-  "updated_at": "2026-10-19T16:06:40.352Z",
+  "updated_at": "2026-10-20T14:02:08.582Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Maryland Terrapins Womens Basketball vs. Virginia Tech Hokies Womens Basketball",
-      "venue_line": "Xfinity Center - MD • College Park",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "ivri",
-      "venue_line": "The Atlantis • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "The Sage • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "THE DAMNED - FINAL DAMNATION 50",
+      "venue_line": "9:30 CLUB • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Wizards v Bucks (Home Opener Rally Towel - First 15K Fans)",
+      "venue_line": "Capital One Arena • Washington",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Wizards VIP Packages: 10/21/2026",
+      "venue_line": "Capital One Arena • Washington",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-10-19T16:06:45.580Z",
+  "updated_at": "2026-10-20T14:02:14.310Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,9 +23,19 @@
       "type_label": "Other"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Music Discovery Series Performance",
+      "venue_line": "Woodruff Arts Center • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
       "title": "Tours: Truist Park",
       "venue_line": "Truist Park • Atlanta",
       "price_label": "Price not available",
@@ -33,174 +43,164 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Neoni - HOW TO KILL A FAIRYTALE TOUR - CHAPTER 2",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Arch Enemy/The Black Dahlia Murder: Wrath Across North America 2026",
+      "venue_line": "The Masquerade - Heaven • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "LØLØ - God Forbid a Girl Goes on Tour",
+      "venue_line": "The Masquerade - Hell • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
       "venue_line": "The Masquerade - Purgatory • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Sorry Ghost: The Insufferably Indie Tour",
-      "venue_line": "The Masquerade  - Altar • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Garage - 1180 Peachtree St: Black Violin",
-      "venue_line": "Atlanta Symphony Hall • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Black Violin: The Be Free Tour",
-      "venue_line": "Atlanta Symphony Hall • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Unhinged & Immoral Podcast Live at Eddie's Attic",
-      "venue_line": "Eddie's Attic • Decatur",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Chad Gray: 30 Years of Madnesss",
-      "venue_line": "Buckhead Theatre • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "JOURNEY - Final Frontier Tour (An Evening With)",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Teddy Swims: The UGLY Tour",
       "venue_line": "State Farm Arena • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Vince Staples - Cry Baby Tour",
-      "venue_line": "Tabernacle Presented by iTHINK Financial • Atlanta",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Dr. Jekyll and Mr. Hyde (1920) with Ken Double",
+      "venue_line": "Fox Theatre - Atlanta • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "YHWH Nailgun",
-      "venue_line": "Aisle 5 • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Maddie Zahm",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Rapsody",
       "venue_line": "Vinyl • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "YHWH Nailgun",
-      "venue_line": "Aisle 5 • Atlanta",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "Bulwark LIVE: The Good Fight Tour",
+      "venue_line": "The Eastern-GA • Atlanta",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Bassvictim w/ Thoom",
-      "venue_line": "Variety Playhouse • Atlanta",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "The Linda Lindas w/ Grace Bowers",
+      "venue_line": "Terminal West • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "bunii",
-      "venue_line": "Terminal West • Atlanta",
+      "day_label": "TUE",
+      "day_number": "20",
+      "date_iso": "2026-10-20",
+      "title": "The Residents \"ESKIMO LIVE\"",
+      "venue_line": "Buckhead Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Tours: Truist Park",
+      "venue_line": "Truist Park • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "DYING FETUS & SANGUISUGABOGG",
+      "venue_line": "The Masquerade - Heaven • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Oso Oso",
+      "venue_line": "The Masquerade - Purgatory • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Goodbye June | TROUBLE FOR ALL 2026 TOUR",
+      "venue_line": "The Masquerade  - Altar • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Close Your Eyes",
+      "venue_line": "Variety Playhouse • Atlanta",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Atlanta Braves NLCS Home Game 4",
-      "venue_line": "Truist Park • Atlanta",
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Slow Accordion",
+      "venue_line": "Eddie's Attic • Decatur",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Atlanta Braves NLCS Home Game 4 * Premium Seating *",
-      "venue_line": "Truist Park • Atlanta",
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Oliver Wood",
+      "venue_line": "Eddie's Attic • Decatur",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Music Discovery Series Performance",
-      "venue_line": "Woodruff Arts Center • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Music Discovery Series Performance",
-      "venue_line": "Woodruff Arts Center • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

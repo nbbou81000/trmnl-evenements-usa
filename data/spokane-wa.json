@@ -1,17 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-19T16:07:26.488Z",
+  "updated_at": "2026-10-20T14:02:56.961Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Nothing Shameful - Album Release Show ft. Hayes Noble",
+      "venue_line": "The District • Spokane",
+      "price_label": "$33–$61",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

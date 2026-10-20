@@ -1,6 +1,6 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-19T16:06:43.871Z",
+  "updated_at": "2026-10-20T14:02:12.398Z",
   "events": [
     {
       "day_label": "WED",
@@ -87,6 +87,16 @@
       "day_number": "24",
       "date_iso": "2026-10-24",
       "title": "The Grand Massacre International Halloween Party",
+      "venue_line": "The Grand GSO • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "De La Ghetto",
       "venue_line": "The Grand GSO • Greensboro",
       "price_label": "Price not available",
       "type_key": "music",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Prelude Dining - Lucy Darling",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
     }
   ]
 }

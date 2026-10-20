@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-19T16:06:33.383Z",
+  "updated_at": "2026-10-20T14:02:01.154Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,16 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Nate Gross Band and Blues Is Dead",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -181,6 +171,16 @@
       "price_label": "$23–$26",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
+      "venue_line": "NY State Fairgrounds • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SAT",

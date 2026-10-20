@@ -1,6 +1,6 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-19T16:06:34.238Z",
+  "updated_at": "2026-10-20T14:02:02.094Z",
   "events": [
     {
       "day_label": "WED",
@@ -116,6 +116,16 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
+      "title": "Providence College Friars Hockey vs. UMass Lowell River Hawks Hockey",
+      "venue_line": "Schneider Arena • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
       "title": "Providence Bruins vs. Utica Comets",
       "venue_line": "Amica Mutual Pavilion • Providence",
       "price_label": "Price not available",
@@ -131,16 +141,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Providence College Friars Hockey vs. UMass Lowell River Hawks Hockey",
-      "venue_line": "Schneider Arena • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

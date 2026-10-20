@@ -1,6 +1,6 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-19T16:06:59.844Z",
+  "updated_at": "2026-10-20T14:02:29.071Z",
   "events": [
     {
       "day_label": "TUE",
@@ -31,16 +31,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Magic of Motown",
-      "venue_line": "Mary Jane Teall Theater at Century II • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
+      "venue_line": "Heartland Credit Union Arena • Park City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

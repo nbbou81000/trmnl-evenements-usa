@@ -1,17 +1,7 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-19T16:07:00.266Z",
+  "updated_at": "2026-10-20T14:02:29.475Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Wheel Of Fortune Live!",
-      "venue_line": "Fargo Theatre • Fargo",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Deuces Wild! Dueling Pianos",
+      "venue_line": "Fargo Theatre • Fargo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

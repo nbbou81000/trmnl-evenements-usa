@@ -1,17 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-19T16:06:39.926Z",
+  "updated_at": "2026-10-20T14:02:08.018Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "UConn Huskies Womens Basketball vs. Texas Longhorns Womens Basketball",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Rodrigo y Gabriela",
+      "venue_line": "Academy of Music Theatre - MA • Northampton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

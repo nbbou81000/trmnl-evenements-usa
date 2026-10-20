@@ -1,47 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-10-19T16:07:01.187Z",
+  "updated_at": "2026-10-20T14:02:30.405Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Kels w/ Ella Maddux",
-      "venue_line": "AM/FM Dallas • Dallas",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Sleep Club, Life After Youth, Como La Flor",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$22–$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Specialized Karaoke Night with RUEN",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Token w/ Clark D",
-      "venue_line": "Club Dada • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Mon Laferte - Femme Fatale Tour",
+      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Dallas Symphony Orchestra Presents Rachmaninoff and Schubert",
+      "venue_line": "Morton Meyerson Symphony Center • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "FIFTH THIRD GARAGE: Dallas Stars v Winnipeg Jets",
+      "venue_line": "American Airlines Center • Dallas",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Dallas Stars vs. Winnipeg Jets",
+      "venue_line": "American Airlines Center • Dallas",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,57 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-19T16:07:09.017Z",
+  "updated_at": "2026-10-20T14:02:38.615Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "SubTeRRaNeAn SoNgWriTer NiGhT w/ Natasha Sanchez, Shawn Bourg, Shawn Gwin & Micah McKee",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$3",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Charmaine Neville Band",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Machine Girl",
-      "venue_line": "Civic Theatre • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "MagNifico - John Magnie (Lil Queenie & The Percolators)",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Charmaine Neville Band",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +151,56 @@
       "price_label": "$16",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
+      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Adonis Rose Live at Jazz Ascona: The Music of Gregg Hill featuring Phillip Manuel",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Snarky Puppy - Somni US Tour '26",
+      "venue_line": "The Joy Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Comedy Gumbeaux",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$13–$67",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Black Joe Lewis & JD Simo With Luther Dickinson",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$34",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,47 +1,7 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-10-19T16:07:23.651Z",
+  "updated_at": "2026-10-20T14:02:54.031Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Lil Pete: Real Is Back Tour",
-      "venue_line": "Constellation Room • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "The Jet Stone Conspiracy Presents: Welcome to America - Night Three",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Chinchilla",
-      "venue_line": "Pacific Electric • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Los Angeles Coliseum Historic Tours",
-      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "DoKnow & DaHawmies Comedy Tour",
+      "venue_line": "Irvine Improv • Irvine",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Drag Show: \"Wild Wednesdays\" @ Hamburger Mary's Long Beach",
+      "venue_line": "Hamburger Mary's - Long Beach • Long Beach",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Joe Fenti",
+      "venue_line": "Brea Improv • Brea",
+      "price_label": "$31–$102",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Upsell: Mezzanine Bleachers - Not A Ticket",
+      "venue_line": "The Regent Theater • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

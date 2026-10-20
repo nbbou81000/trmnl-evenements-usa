@@ -1,17 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-19T16:06:44.741Z",
+  "updated_at": "2026-10-20T14:02:13.330Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Paul Bielatowicz's Nosferatu Undead",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Disney On Ice presents Magic of Family",
+      "venue_line": "North Charleston Coliseum • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SAT",

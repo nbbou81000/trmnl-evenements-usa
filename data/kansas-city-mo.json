@@ -1,17 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-19T16:06:56.843Z",
+  "updated_at": "2026-10-20T14:02:25.972Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Kyle Hume",
-      "venue_line": "recordBar • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Kansas City",
+      "venue_line": "Gem Theater • Kansas City",
+      "price_label": "$59–$277",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

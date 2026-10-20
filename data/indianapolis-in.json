@@ -1,17 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-10-19T16:06:54.762Z",
+  "updated_at": "2026-10-20T14:02:23.781Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Prostitute",
-      "venue_line": "HI-FI Indy and HI-FI Annex • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-23",
       "title": "Creed Fisher",
       "venue_line": "8 Seconds Saloon • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Gasolina: Reggaeton Party",
+      "venue_line": "The Vogue • Indianapolis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

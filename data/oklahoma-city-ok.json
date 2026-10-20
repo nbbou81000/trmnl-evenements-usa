@@ -1,17 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-19T16:07:06.036Z",
+  "updated_at": "2026-10-20T14:02:35.443Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Black Country, New Road",
-      "venue_line": "The Jones Assembly • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -76,7 +66,7 @@
       "day_label": "THU",
       "day_number": "22",
       "date_iso": "2026-10-22",
-      "title": "Prof w/ Norman Sann",
+      "title": "Culture Wars",
       "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
       "price_label": "Price not available",
       "type_key": "music",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Oklahoma Sooners Womens Basketball vs. Southern Nazarene Crimson Storm Women's Basketball",
+      "venue_line": "Lloyd Noble Center • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SUN",

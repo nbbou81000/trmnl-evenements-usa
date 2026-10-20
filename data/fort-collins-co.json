@@ -1,6 +1,6 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-19T16:07:13.229Z",
+  "updated_at": "2026-10-20T14:02:43.005Z",
   "events": [
     {
       "day_label": "THU",
@@ -113,6 +113,16 @@
       "type_label": "Other"
     },
     {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Digable Planets",
+      "venue_line": "Aggie Theater • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "MON",
       "day_number": "2",
       "date_iso": "2026-11-02",
@@ -188,16 +198,6 @@
       "date_iso": "2026-11-06",
       "title": "Colorado Eagles vs. Calgary Wranglers",
       "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "7",
-      "date_iso": "2026-11-07",
-      "title": "Colorado State University Rams Womens Volleyball vs. Boise State Broncos Womens Volleyball",
-      "venue_line": "Moby Arena • Fort Collins",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

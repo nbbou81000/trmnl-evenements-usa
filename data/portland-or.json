@@ -1,67 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-19T16:07:24.442Z",
+  "updated_at": "2026-10-20T14:02:54.837Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "JULIA WOLF - 94/7 ELYSIAN BREWING SPACE DUST SESSIONS",
-      "venue_line": "Star Theater • Portland",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Square Dancing with Probably Poly String Band and Caller Andy Grummon / KARAOKE @ 9:30",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Malcolm Todd: Do That Again Tour",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Malcolm Todd: Do That Again Tour",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Blondshell w/ Starcleaner Reunion",
-      "venue_line": "McMenamins Crystal Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "KARAOKE FROM HELL",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$8",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -146,16 +86,6 @@
       "day_label": "WED",
       "day_number": "21",
       "date_iso": "2026-10-21",
-      "title": "Stratøs with Brandonlee Cierley",
-      "venue_line": "Jack London Revue • Portland",
-      "price_label": "$26–$206",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
       "title": "Digable Planets (21 and Over)",
       "venue_line": "Revolution Hall - Portland • Portland",
       "price_label": "Price not available",
@@ -199,6 +129,76 @@
       "title": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
       "venue_line": "Jack London Revue • Portland",
       "price_label": "$21–$173",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Laura Ramoso: The Calm Down Tour",
+      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Laura Ramoso",
+      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Demon Hunter",
+      "venue_line": "Hawthorne Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "SAW: The Musical (Touring)",
+      "venue_line": "Alberta Abbey • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "ETANA",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "India Ramey and The Waymores with Pati Rojas Band",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Dinosaur Jr w/ Stef Chura",
+      "venue_line": "Revolution Hall - Portland • Portland",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

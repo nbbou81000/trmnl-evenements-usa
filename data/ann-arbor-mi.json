@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-19T16:06:51.862Z",
+  "updated_at": "2026-10-20T14:02:20.750Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Blind Pig Comedy",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$3",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Blind Pig Comedy",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -116,6 +96,16 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
+      "title": "Michigan Wolverines Football vs. Indiana Hoosiers Football",
+      "venue_line": "Michigan Stadium • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
       "title": "Trapt",
       "venue_line": "The Token Lounge • Westland",
       "price_label": "$30–$127",
@@ -131,16 +121,6 @@
       "price_label": "$20",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Michigan Wolverines Football vs. Indiana Hoosiers Football",
-      "venue_line": "Michigan Stadium • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Line Dance Lessons at Diamondback Music Hall",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$13–$21",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Halfway To Yesterday, STATIC LACE, Levona, Nobody Wins",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

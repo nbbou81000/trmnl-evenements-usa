@@ -1,27 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-19T16:06:32.038Z",
+  "updated_at": "2026-10-20T14:01:59.856Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "John Cameron Mitchell: Hedwig 25th Anniversary Movie Tour",
-      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "PPG Paints Arena Tours",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-23",
       "title": "All Them Witches - 21 Shows / 21 Days",
       "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Steph Tolev",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$31–$102",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Barnatan Plays Beethoven with The Pittsburgh Symphony Orchestra",
+      "venue_line": "Heinz Hall • Pittsburgh",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

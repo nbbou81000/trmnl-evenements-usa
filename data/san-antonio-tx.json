@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-19T16:07:02.437Z",
+  "updated_at": "2026-10-20T14:02:31.688Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,26 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Nekrogoblikon",
-      "venue_line": "The Rock Box • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Leonid & Friends",
-      "venue_line": "Aztec Theatre • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -198,9 +178,29 @@
       "date_iso": "2026-10-23",
       "title": "Day of the Dead River Parade at Hard Rock Cafe",
       "venue_line": "Hard Rock Cafe - San Antonio • San Antonio",
-      "price_label": "$682–$908",
+      "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Like Roses",
+      "venue_line": "The Rock Box • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Speed x Sunami",
+      "venue_line": "Paper Tiger • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

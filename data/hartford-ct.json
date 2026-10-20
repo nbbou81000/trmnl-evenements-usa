@@ -1,17 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-19T16:06:34.686Z",
+  "updated_at": "2026-10-20T14:02:02.536Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "UConn Huskies Womens Basketball vs. Texas Longhorns Womens Basketball",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-24",
       "title": "Killers of Kill Tony",
       "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Mamma Mia! (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

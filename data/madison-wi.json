@@ -1,17 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-19T16:06:56.000Z",
+  "updated_at": "2026-10-20T14:02:25.070Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour with Colton Bowlin",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-24",
       "title": "Spooky New World",
       "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Sammy Rae & The Friends - the GET DOWN!",
+      "venue_line": "The Sylvee • Madison",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

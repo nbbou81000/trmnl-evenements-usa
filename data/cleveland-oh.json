@@ -1,87 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-19T16:06:52.705Z",
+  "updated_at": "2026-10-20T14:02:21.591Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Nerd Night",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "The Brook & The Bluff: The Werewolf Tour - MOVED TO CAMBRIDGE ROOM",
-      "venue_line": "House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "The Brook & The Bluff: The Werewolf Tour",
-      "venue_line": "The Cambridge Room at House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "Rocket Arena • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "Rocket Arena • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "PRAYERS, DEVORA, CHRIZ AMAYA, Deadweight Date",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$37–$90",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "The Tubs, Mopar Stars, Perverts Again",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Osees",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "SHIT SHOW KARAOKE",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Rene Vaca 2026 Tour",
+      "venue_line": "House of Blues Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Body+Mind And Balance",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$13–$25",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Julia Cole",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Bent String",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Jo Koy",
+      "venue_line": "Keybank State Theatre-Playhouse Square Center • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Jim Florentine",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$25–$46",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Vincent Neil Emerson",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

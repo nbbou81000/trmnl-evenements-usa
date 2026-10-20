@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-10-19T16:07:01.592Z",
+  "updated_at": "2026-10-20T14:02:30.823Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Legacy of the Longhorn",
-      "venue_line": "Cowtown Coliseum • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Brincos Dieras - El Desmadre Continua Tour 18+",
+      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

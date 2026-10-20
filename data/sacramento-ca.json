@@ -1,37 +1,7 @@
 {
   "city_label": "Sacramento, CA",
-  "updated_at": "2026-10-19T16:07:20.270Z",
+  "updated_at": "2026-10-20T14:02:50.486Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Taylor Tomlinson: Tries Out New Ideas",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Scary Movie (2000)",
-      "venue_line": "Crest Theater • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Taylor Tomlinson: Tries Out New Ideas",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-22",
       "title": "Gary Clark Jr.",
       "venue_line": "Channel 24 • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Country In The Park 2",
+      "venue_line": "Heart Health Park at Cal Expo • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Sacramento Kings vs. Portland Trail Blazers",
+      "venue_line": "Golden 1 Center • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Everclear - Lucky 7 Tour",
+      "venue_line": "Ace of Spades • Sacramento",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

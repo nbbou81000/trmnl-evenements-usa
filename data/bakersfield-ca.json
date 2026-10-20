@@ -1,17 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-19T16:07:21.142Z",
+  "updated_at": "2026-10-20T14:02:51.327Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour - Sacramento, CA",
-      "venue_line": "Trinity Life Center • Sacramento",
-      "price_label": "$20–$122",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "NUTCRACKER! Magical Christmas Ballet",
+      "venue_line": "Bakersfield Fox Theater • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

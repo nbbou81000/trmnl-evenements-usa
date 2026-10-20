@@ -1,6 +1,6 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-19T16:06:46.410Z",
+  "updated_at": "2026-10-20T14:02:15.196Z",
   "events": [
     {
       "day_label": "FRI",
@@ -148,6 +148,16 @@
       "date_iso": "2026-12-11",
       "title": "A Charlie Brown Christmas - Live On Stage!",
       "venue_line": "Columbia County Performing Arts Center • Evans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "18",
+      "date_iso": "2026-12-18",
+      "title": "Paul Hughes Celebrates Christmas with Frank, Nat & Dean",
+      "venue_line": "Hardin Auditorium • Evans",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

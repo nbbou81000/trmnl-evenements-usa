@@ -1,6 +1,6 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-19T16:06:53.920Z",
+  "updated_at": "2026-10-20T14:02:22.872Z",
   "events": [
     {
       "day_label": "WED",
@@ -41,6 +41,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Kent State Golden Flashes Football vs. Akron Zips Football",
+      "venue_line": "Dix Stadium • Kent",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -91,16 +101,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Kent State Golden Flashes Football vs. Akron Zips Football",
-      "venue_line": "Dix Stadium • Kent",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

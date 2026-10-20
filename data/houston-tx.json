@@ -1,37 +1,7 @@
 {
   "city_label": "Houston, TX",
-  "updated_at": "2026-10-19T16:07:02.020Z",
+  "updated_at": "2026-10-20T14:02:31.265Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "The Wldlfe",
-      "venue_line": "The Bronze Peacock at House of Blues Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Sarper Güven",
-      "venue_line": "Punch Line Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "JOON",
-      "venue_line": "Warehouse Live Midtown • Houston",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-22",
       "title": "Houston Cougars Womens Soccer vs. TCU Horned Frogs Womens Soccer",
       "venue_line": "Carl Lewis International Complex • Houston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Black Country, New Road",
+      "venue_line": "White Oak Music Hall - Downstairs • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Jackie Evans",
+      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Visit Neptune",
+      "venue_line": "The End - Houston • Houston",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

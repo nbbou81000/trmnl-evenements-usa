@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-19T16:07:24.044Z",
+  "updated_at": "2026-10-20T14:02:54.428Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "FREE SHOW: HOUSE OF DECEPTION: A LIVE GAME OF SECRETS, STRATEGY & BETRAYAL",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +189,16 @@
       "title": "FREE SHOW: CERO VIEJO / 1967 / ZERO GIVEN",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "TRSH Gone Fishin' Tour with Adjust The Sails, Dear Maryanne, Dear Cincinnati",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$26",
       "type_key": "music",
       "type_label": "Music"
     }

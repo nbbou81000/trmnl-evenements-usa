@@ -1,27 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-19T16:06:56.419Z",
+  "updated_at": "2026-10-20T14:02:25.509Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "The Army, The Navy",
-      "venue_line": "Fine Line Music Cafe • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Rav - Ages 18+",
-      "venue_line": "7th Street Entry • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "U.S. Bank Stadium Tour",
+      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Minnesota Gophers Mens Hockey vs. University of North Dakota Hockey",
+      "venue_line": "3M Arena at Mariucci • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

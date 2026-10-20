@@ -1,27 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-19T16:07:14.454Z",
+  "updated_at": "2026-10-20T14:02:44.305Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Broadway In Boise 2026-2027 Season Ticket Packages",
-      "venue_line": "Morrison Center for the Performing Arts • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "19",
-      "date_iso": "2026-10-19",
-      "title": "Jay Webb - The HOMESICK Tour ",
-      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "20",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Broadway In Boise Presents & JULIET",
+      "venue_line": "Morrison Center for the Performing Arts • Boise",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "IDAHO STEELHEADS VS ALLEN AMERICANS",
+      "venue_line": "Idaho Central Arena • Boise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

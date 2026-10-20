@@ -1,6 +1,6 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-19T16:06:39.035Z",
+  "updated_at": "2026-10-20T14:02:07.134Z",
   "events": [
     {
       "day_label": "FRI",
@@ -156,6 +156,16 @@
       "day_label": "FRI",
       "day_number": "6",
       "date_iso": "2026-11-06",
+      "title": "The United States Army Field Band: Six-string Soldiers",
+      "venue_line": "Scranton Cultural Center • Scranton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
       "title": "Journey",
       "venue_line": "Mohegan Sun Arena at Casey Plaza • Wilkes Barre",
       "price_label": "Price not available",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "8",
-      "date_iso": "2026-11-08",
-      "title": "Paul Anka - You Are My Destiny Tour",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }
