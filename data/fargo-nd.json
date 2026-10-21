@@ -1,17 +1,7 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-20T14:02:29.475Z",
+  "updated_at": "2026-10-21T14:18:26.724Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "David Sedaris",
-      "venue_line": "Fargo Theatre • Fargo",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -197,6 +187,16 @@
       "day_number": "28",
       "date_iso": "2026-11-28",
       "title": "Deuces Wild! Dueling Pianos",
+      "venue_line": "Fargo Theatre • Fargo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "29",
+      "date_iso": "2026-11-29",
+      "title": "Emo Orchestra With The Spill Canvas - An Evening Of Emo",
       "venue_line": "Fargo Theatre • Fargo",
       "price_label": "Price not available",
       "type_key": "music",

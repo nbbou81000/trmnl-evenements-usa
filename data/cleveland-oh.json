@@ -1,67 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-20T14:02:21.591Z",
+  "updated_at": "2026-10-21T14:18:17.644Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
-      "venue_line": "House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Tallah, Fight From Within, Kodama, Chalked, Burial Grounds, Inether",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Mastodon w/ Deafheaven",
-      "venue_line": "Agora Theatre • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Lyrical Rhythms",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Mike Dawes",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Secret Society Comedy Presents: One More Joke",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +141,66 @@
       "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Wolfman Jack",
+      "venue_line": "Beachland Tavern • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Cleveland Ballet presents Giselle",
+      "venue_line": "Connor Palace - Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "SOIREE OF THE STALLIONS",
+      "venue_line": "The Mercury Music Lounge • Lakewood",
+      "price_label": "$14",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Lauren Alaina: The Stages Tour",
+      "venue_line": "House of Blues Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Plini w/ Night Verses",
+      "venue_line": "Globe Iron • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Cleveland Ballet presents Giselle",
+      "venue_line": "Connor Palace - Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

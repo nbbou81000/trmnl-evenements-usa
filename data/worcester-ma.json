@@ -1,17 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-20T14:02:07.602Z",
+  "updated_at": "2026-10-21T14:18:01.760Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Castle Rat w/ Unto Others",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -71,6 +61,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Holy Cross Crusaders Football vs. Bucknell Bison Football",
+      "venue_line": "Fitton Field • Worcester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

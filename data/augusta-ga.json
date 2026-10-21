@@ -1,6 +1,6 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-20T14:02:15.196Z",
+  "updated_at": "2026-10-21T14:18:10.283Z",
   "events": [
     {
       "day_label": "FRI",
@@ -161,6 +161,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "19",
+      "date_iso": "2026-12-19",
+      "title": "Harlem Globetrotters: Rivalry Tour",
+      "venue_line": "USC Aiken Convocation Center • Aiken",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,87 +1,7 @@
 {
   "city_label": "Orlando, FL",
-  "updated_at": "2026-10-20T14:02:16.959Z",
+  "updated_at": "2026-10-21T14:18:12.408Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Running Punks",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Noch Down Occam’s Razor EP Release with Special Guests M with Eye and Alligator Death Roll",
-      "venue_line": "Will's Pub • Orlando",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "FREE Horror Trivia (Halloween Horror Nights Edition)",
-      "venue_line": "Conduit • Winter Park",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Stryper",
-      "venue_line": "House of Blues Orlando • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "DEAD SUGAR WITH SPECIAL GUEST MAGI",
-      "venue_line": "West End Trading Company • Sanford",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Buena Vista Social Club (Touring) - Recommended for Ages 8 and Over",
-      "venue_line": "Dr. Phillips Performing Arts Center • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Billy Joel Legacy",
-      "venue_line": "Plaza Live - Orlando • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Indie 900 Jam",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Teddy Swims: The UGLY Tour",
+      "venue_line": "Kia Center • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Number Twelve Looks Like You, Kaonashi, and Differences",
+      "venue_line": "Conduit • Winter Park",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Blue Man Group",
+      "venue_line": "ICON Park • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Jeff Arcuri: Fresh Cut (21+ Event)",
+      "venue_line": "Funny Bone Comedy Club - Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "UCF Knights Womens Soccer vs. Cincinnati Bearcats Women's Soccer",
+      "venue_line": "UCF Soccer and Track Complex • Orlando",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "SKA SPECTACULAR WITH DOUBLE JOINTED BAND, TWENTY SOMETHING SUMMER AND BOMB THE ALGORITHM",
+      "venue_line": "West End Trading Company • Sanford",
+      "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Buena Vista Social Club (Touring) - Recommended for Ages 8 and Over",
+      "venue_line": "Dr. Phillips Performing Arts Center • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Thursday Thinks Trivia",
+      "venue_line": "Dirty Laundry • Orlando",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

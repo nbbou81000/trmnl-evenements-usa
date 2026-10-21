@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-20T14:02:39.910Z",
+  "updated_at": "2026-10-21T14:18:38.139Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Great Lake Swimmers w/ Mary Bragg",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -197,6 +187,16 @@
       "day_number": "13",
       "date_iso": "2026-11-13",
       "title": "Mississippi Homecoming - Ryan Cooper Live at Duling Hall",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Cigarettes @ Sunset w/ Yesterday's Clothes",
       "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",

@@ -1,17 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-20T14:02:03.521Z",
+  "updated_at": "2026-10-21T14:17:56.930Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Daughtry - 20 Years Unplugged Tour",
-      "venue_line": "The Paramount in concert with Northwell • Huntington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-24",
       "title": "Once Upon a One More Time",
       "venue_line": "Smithtown Center for the Performing Arts • Smithttown",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "123 Andres",
+      "venue_line": "Ridgefield Playhouse • Ridgefield",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

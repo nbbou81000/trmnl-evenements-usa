@@ -1,57 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-20T14:02:22.033Z",
+  "updated_at": "2026-10-21T14:18:18.122Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Crowder LIVE! - Liberty Township, OH",
-      "venue_line": "Princeton Pike Church • Liberty Township",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Crowder",
-      "venue_line": "Princeton Pike Church of God • Liberty Township",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "An Evening of Alton Brown",
-      "venue_line": "Taft Theatre • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "BOOP! The Musical (Touring)",
-      "venue_line": "Aronoff Center-Procter & Gamble Hall • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Sugar w/ J. Robbins",
-      "venue_line": "MegaCorp Pavilion • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Joe Stamm Band, Wes Shipp",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Eric McM",
+      "venue_line": "The Southgate House Revival - The Lounge • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour with Colton Bowlin",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Bingo Loco (21 and Over)",
+      "venue_line": "MegaCorp Pavilion • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Xavier Musketeers Mens Basketball",
+      "venue_line": "Cintas Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

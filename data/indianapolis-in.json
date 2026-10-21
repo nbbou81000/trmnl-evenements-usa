@@ -1,47 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-10-20T14:02:23.781Z",
+  "updated_at": "2026-10-21T14:18:20.040Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Kim's Convenience",
-      "venue_line": "Indiana Repertory Theatre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Failure",
-      "venue_line": "The Vogue • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Failure (21 and Over)",
-      "venue_line": "Vogue Theatre - IN • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-23",
       "title": "Gasolina: Reggaeton Party",
       "venue_line": "The Vogue • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Gasolina: Reggaeton Party - 21+",
+      "venue_line": "Vogue Theatre - IN • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Kim's Convenience",
+      "venue_line": "Indiana Repertory Theatre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Ali Siddiq: The Custom Fit Tour",
+      "venue_line": "Clowes Memorial Hall • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Julia Cole",
+      "venue_line": "HI-FI Indy and HI-FI Annex • Indianapolis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

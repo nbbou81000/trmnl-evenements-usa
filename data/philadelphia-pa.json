@@ -1,77 +1,7 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-10-20T14:01:59.399Z",
+  "updated_at": "2026-10-21T14:17:51.834Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Motherless , Porcupine ,  L.M.I.",
-      "venue_line": "Nikki Lopez Philly • Philadelphia",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Mushroomhead and Fear Factory - All Ages (under 16 with adult)",
-      "venue_line": "Keswick Theatre • Glenside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Addams Family (Touring)",
-      "venue_line": "Walnut Street Theatre • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
-      "venue_line": "Walnut Street Theatre • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Yard Sale Girls LIVE!",
-      "venue_line": "Punch Line Philly • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "JPEGMAFIA: the Experimental Rap Tour",
-      "venue_line": "The Fillmore Philadelphia • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Snuts",
-      "venue_line": "The Foundry • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "The Addams Family (Touring)",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Periphery - A Pale White Dot US Tour",
+      "venue_line": "The Fillmore Philadelphia • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Girl from the North Country",
+      "venue_line": "Arden Theatre Company • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Insane Clown Posse",
+      "venue_line": "Franklin Music Hall • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Philadelphia 76ers vs. Cleveland Cavaliers",
+      "venue_line": "Xfinity Mobile Arena • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Mike Dawes (21 and Over)",
+      "venue_line": "Ardmore Music Hall • Ardmore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

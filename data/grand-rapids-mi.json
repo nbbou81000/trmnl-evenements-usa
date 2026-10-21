@@ -1,57 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-20T14:02:20.339Z",
+  "updated_at": "2026-10-21T14:18:16.279Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "IAN SWEET + Meg Elsier + Cheap Emotion",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Brook & The Bluff - The Werewolf Tour",
-      "venue_line": "The Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "AFI w/ Choir Boy",
-      "venue_line": "Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Brook & The Bluff - The Werewolf Tour",
-      "venue_line": "Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Tip Top Tuesday Comedy",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -156,7 +106,7 @@
       "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
-      "title": "Chloe Kimes wsg Red Thyme Duo",
+      "title": "Chloe Kimes wsg Rowdy Fingers",
       "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
       "price_label": "$18",
       "type_key": "music",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Skies Revolt + Still.Teddy + Glassfield + From The Fleet",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$17",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Mean Green, Thundergoat, Supergrudge, Psython",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "The Battleground 2K26 Michigan Wolverines Vs. Houston Cougars",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Grand Rapids Ballet: Broken Wings",
+      "venue_line": "Peter Martin Wege Theatre • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Psychoblab Studios Presents: Drink and Draw",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

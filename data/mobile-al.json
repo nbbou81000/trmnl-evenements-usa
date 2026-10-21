@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-20T14:02:41.735Z",
+  "updated_at": "2026-10-21T14:18:40.026Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Sonic Live In Concert",
-      "venue_line": "Saenger Theatre Mobile • Mobile",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Filthy Heathens",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +181,26 @@
       "price_label": "$19",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "THE EMO SOCIETY    ",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Sunday Funniez Comedy Showcase",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14–$39",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

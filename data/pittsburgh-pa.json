@@ -1,57 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-20T14:01:59.856Z",
+  "updated_at": "2026-10-21T14:17:52.327Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "PPG Paints Arena Tours",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Tedeschi Trucks Band: Future Soul 2026 Tour",
-      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Oh He Dead (21+)",
-      "venue_line": "Spirit Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Jesse Welles w/ Hudson Freeman",
-      "venue_line": "Stage AE • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Melvin Seals and JGB (18 and Over)",
-      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +149,56 @@
       "title": "Barnatan Plays Beethoven with The Pittsburgh Symphony Orchestra",
       "venue_line": "Heinz Hall • Pittsburgh",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Giselle w/ Pittsburgh Ballet Theatre",
+      "venue_line": "Benedum Center • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Rod Wave: Don't Look Down Tour",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Smokey Robinson: Legacy of Love Tour",
+      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Wheel of Fortune Live!",
+      "venue_line": "Stage AE • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Joe Stamm Band w/ Josh Travis",
+      "venue_line": "Club Cafe • Pittsburgh",
+      "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
     }

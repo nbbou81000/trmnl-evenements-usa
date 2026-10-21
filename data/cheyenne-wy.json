@@ -1,6 +1,6 @@
 {
   "city_label": "Cheyenne, WY",
-  "updated_at": "2026-10-20T14:02:48.119Z",
+  "updated_at": "2026-10-21T14:18:47.166Z",
   "events": [
     {
       "day_label": "THU",
@@ -101,6 +101,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "19",
+      "date_iso": "2026-12-19",
+      "title": "The Sunkicks: Home for the Holidays",
+      "venue_line": "Cheyenne Civic Center • Cheyenne",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "19",
+      "date_iso": "2026-12-19",
+      "title": "The Sunkicks: Home for the Holidays",
+      "venue_line": "Cheyenne Civic Center • Cheyenne",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

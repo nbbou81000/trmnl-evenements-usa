@@ -1,37 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-20T14:02:56.961Z",
+  "updated_at": "2026-10-21T14:18:57.171Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
-      "venue_line": "Bing Crosby Theater • Spokane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Daniel Sloss",
-      "venue_line": "Bing Crosby Theatre • Spokane",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Jay Webb - The HOMESICK Tour ",
-      "venue_line": "The District • Spokane",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +169,36 @@
       "title": "Nothing Shameful - Album Release Show ft. Hayes Noble",
       "venue_line": "The District • Spokane",
       "price_label": "$33–$61",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Goonies in Concert w/ Spokane Symphony",
+      "venue_line": "The Fox - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Eastern Washington Eagles Football vs. Montana Grizzlies Football",
+      "venue_line": "Roos Field • Cheney",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
+      "venue_line": "Martin Woldson Theater at the Fox • Spokane",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

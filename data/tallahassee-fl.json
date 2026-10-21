@@ -1,6 +1,6 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-10-20T14:02:18.261Z",
+  "updated_at": "2026-10-21T14:18:13.837Z",
   "events": [
     {
       "day_label": "THU",
@@ -46,6 +46,16 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
+      "title": "Florida State Seminoles Mens Basketball vs. LSU Tigers Mens Basketball",
+      "venue_line": "Donald L. Tucker Center • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
       "title": "Florida A&M Rattlers vs. Arkansas-Pine Bluff Golden Lions Football",
       "venue_line": "FAMU Bragg Memorial Stadium • Tallahassee",
       "price_label": "Price not available",
@@ -58,16 +68,6 @@
       "date_iso": "2026-10-24",
       "title": "WWE NXT Live",
       "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Florida State Seminoles Mens Basketball vs. LSU Tigers Mens Basketball",
-      "venue_line": "Donald L. Tucker Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -103,11 +103,11 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Florida State Seminoles Mens Basketball vs. Troy Trojans Mens Basketball",
-      "venue_line": "Donald L. Tucker Center • Tallahassee",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Club Seats - FSU MBB vs Troy",
+      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -116,8 +116,8 @@
       "day_label": "FRI",
       "day_number": "6",
       "date_iso": "2026-11-06",
-      "title": "Club Seats - FSU MBB vs Troy",
-      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
+      "title": "Florida State Seminoles Mens Basketball vs. Troy Trojans Mens Basketball",
+      "venue_line": "Donald L. Tucker Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -186,8 +186,8 @@
       "day_label": "TUE",
       "day_number": "17",
       "date_iso": "2026-11-17",
-      "title": "Florida State Seminoles Mens Basketball vs. Ball State Cardinals Mens Basketball",
-      "venue_line": "Donald L. Tucker Center • Tallahassee",
+      "title": "Club Seats - FSU MBB vs Ball State",
+      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -196,8 +196,8 @@
       "day_label": "TUE",
       "day_number": "17",
       "date_iso": "2026-11-17",
-      "title": "Club Seats - FSU MBB vs Ball State",
-      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
+      "title": "Florida State Seminoles Mens Basketball vs. Ball State Cardinals Mens Basketball",
+      "venue_line": "Donald L. Tucker Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

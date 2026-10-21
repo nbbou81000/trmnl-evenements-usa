@@ -1,17 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-20T14:02:28.120Z",
+  "updated_at": "2026-10-21T14:18:25.176Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Toxhards",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Story So Far w/ The Starting Line",
+      "venue_line": "Val Air Ballroom • West Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

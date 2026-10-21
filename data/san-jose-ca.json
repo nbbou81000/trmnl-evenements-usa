@@ -1,17 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-20T14:02:50.023Z",
+  "updated_at": "2026-10-21T14:18:49.164Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Jerry Douglas Band",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +189,16 @@
       "title": "Black Flag",
       "venue_line": "Felton Music Hall • Felton",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Moe's Alley Presents: Lyrics Born \"The LB Baby Tour\" w/ Alwa Gordon + DJ Kikkoman",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$30",
       "type_key": "music",
       "type_label": "Music"
     }

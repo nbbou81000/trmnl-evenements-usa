@@ -1,97 +1,7 @@
 {
   "city_label": "Denver, CO",
-  "updated_at": "2026-10-20T14:02:42.163Z",
+  "updated_at": "2026-10-21T14:18:40.528Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "This Wild Life",
-      "venue_line": "Marquis • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Daði Freyr: Too Much, Not Enough",
-      "venue_line": "Summit Music Hall • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Zac Brown Band w/ Grace Potter",
-      "venue_line": "Red Rocks Amphitheatre • Morrison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Shoshana Bean",
-      "venue_line": "Paramount Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Knox w/ Emi Grace",
-      "venue_line": "Ogden Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Buell Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Stanley Simmons",
-      "venue_line": "Goosetown Tavern • Denver",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Palace (16 and Over)",
-      "venue_line": "Mission Ballroom • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Derya Yildirim & Grup Simsek with Thee Marloes",
-      "venue_line": "Ophelia's Electric Soapbox • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +109,96 @@
       "title": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King - ages 16+",
       "venue_line": "Cervantes Masterpiece Ballroom • Denver",
       "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Muna w/ Hemlocke Springs",
+      "venue_line": "Red Rocks Amphitheatre • Morrison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Skillet: Comatose 20 Years, Still Screaming Tour",
+      "venue_line": "Fillmore Auditorium (Denver) • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "venue_line": "Paramount Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Paramount Theatre Club Seating: Daniel Sloss",
+      "venue_line": "Paramount Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Alejo x 3NA: NERVES AV with Mike Wallis, Snilk and Myk0ra",
+      "venue_line": "Ophelia's Electric Soapbox • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Ceremony",
+      "venue_line": "Marquis • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Macklemore",
+      "venue_line": "Red Rocks Amphitheatre • Morrison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Beauty And The Beast (Touring)",
+      "venue_line": "Buell Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Joe Fenti",
+      "venue_line": "Denver Improv • Denver",
+      "price_label": "$31–$49",
       "type_key": "misc",
       "type_label": "Other"
     }

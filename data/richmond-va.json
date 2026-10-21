@@ -1,37 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-20T14:02:09.419Z",
+  "updated_at": "2026-10-21T14:18:03.705Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Living Tombstone",
-      "venue_line": "The National • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Gillian Welch & David Rawlings",
-      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Gillian Welch & David Rawlings",
-      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Richmond Symphony",
+      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Avery Anna w/ Jaid Joice",
+      "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Earl Sweatshirt w/ MIKE",
+      "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

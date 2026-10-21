@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-20T14:02:31.688Z",
+  "updated_at": "2026-10-21T14:18:29.154Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,26 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Standoperos: La Tã³Mbola",
-      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "San Antonio Spurs vs. Oklahoma City Thunder",
-      "venue_line": "Frost Bank Center • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "WED",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Speed x Sunami",
+      "venue_line": "Paper Tiger • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Arnez J",
+      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

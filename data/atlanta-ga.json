@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-10-20T14:02:14.310Z",
+  "updated_at": "2026-10-21T14:18:09.183Z",
   "events": [
     {
       "day_label": "THU",
@@ -21,116 +21,6 @@
       "price_label": "$58–$73",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Music Discovery Series Performance",
-      "venue_line": "Woodruff Arts Center • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Tours: Truist Park",
-      "venue_line": "Truist Park • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Arch Enemy/The Black Dahlia Murder: Wrath Across North America 2026",
-      "venue_line": "The Masquerade - Heaven • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "LØLØ - God Forbid a Girl Goes on Tour",
-      "venue_line": "The Masquerade - Hell • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
-      "venue_line": "The Masquerade - Purgatory • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Teddy Swims: The UGLY Tour",
-      "venue_line": "State Farm Arena • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Dr. Jekyll and Mr. Hyde (1920) with Ken Double",
-      "venue_line": "Fox Theatre - Atlanta • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Rapsody",
-      "venue_line": "Vinyl • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Bulwark LIVE: The Good Fight Tour",
-      "venue_line": "The Eastern-GA • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Linda Lindas w/ Grace Bowers",
-      "venue_line": "Terminal West • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Residents \"ESKIMO LIVE\"",
-      "venue_line": "Buckhead Theatre • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -198,6 +88,116 @@
       "date_iso": "2026-10-21",
       "title": "Oliver Wood",
       "venue_line": "Eddie's Attic • Decatur",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Like Father",
+      "venue_line": "Alliance Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "WNBA Finals: Golden State Valkyries At Atlanta Dream - Game 3",
+      "venue_line": "State Farm Arena • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "The Ring in Concert w/ Georgia Symphony Orchestra",
+      "venue_line": "Fox Theatre - Atlanta • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Karina Rykman",
+      "venue_line": "Aisle 5 • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Chanpan - autogratis North American Tour",
+      "venue_line": "Vinyl • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Karina Rykman",
+      "venue_line": "Aisle 5 • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "horsegiirL",
+      "venue_line": "The Eastern-GA • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "21",
+      "date_iso": "2026-10-21",
+      "title": "Dope Lemon",
+      "venue_line": "Buckhead Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Tours: Truist Park",
+      "venue_line": "Truist Park • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "PeelingFlesh",
+      "venue_line": "The Masquerade - Heaven • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Texas Is the Reason",
+      "venue_line": "The Masquerade - Hell • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

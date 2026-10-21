@@ -1,67 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-20T14:02:54.837Z",
+  "updated_at": "2026-10-21T14:18:54.607Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy and Peter",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "THIEFS",
-      "venue_line": "Jack London Revue • Portland",
-      "price_label": "$26–$206",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Saint Levant",
-      "venue_line": "McMenamins Crystal Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Shaboozey - Outlaws Never Die Tour",
-      "venue_line": "Moda Center • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Gary Clark Jr.",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Julia Wolf",
-      "venue_line": "Wonder Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +139,66 @@
       "title": "Dinosaur Jr w/ Stef Chura",
       "venue_line": "Revolution Hall - Portland • Portland",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "JETTIZON with Rage Against The Regime (RATM tribute), & Bria Damage",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Lenny Pearce",
+      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Portland Thorns FC vs. North Carolina Courage",
+      "venue_line": "Providence Park • Portland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Guys & Dolls",
+      "venue_line": "Winningstad Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "JOSHUA JOSUE - CHICANO REVUE",
+      "venue_line": "Jack London Revue • Portland",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "VIOLET GROHL BE SWEET TO ME TOUR with Suzy Clue",
+      "venue_line": "Star Theater • Portland",
+      "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
     }

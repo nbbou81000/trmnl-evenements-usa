@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-20T14:02:01.154Z",
+  "updated_at": "2026-10-21T14:17:53.803Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,16 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Prince Daddy and the Hyena",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -98,7 +88,7 @@
       "date_iso": "2026-10-23",
       "title": "Holywatr: Deo Gratias Tour",
       "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$32–$119",
+      "price_label": "$33",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -171,6 +161,16 @@
       "price_label": "$23–$26",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
+      "venue_line": "NY State Fairgrounds • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SAT",

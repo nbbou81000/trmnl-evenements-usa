@@ -1,17 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-20T14:02:29.071Z",
+  "updated_at": "2026-10-21T14:18:26.260Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Dark Divine",
-      "venue_line": "Wave • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -26,7 +16,7 @@
       "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
-      "title": "Wichita Thunder vs. Tulsa Oilers",
+      "title": "Wichita Thunder v Tulsa Oilers",
       "venue_line": "INTRUST Bank Arena • Wichita",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Sunflower Merry Mart",
+      "venue_line": "Exhibition Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

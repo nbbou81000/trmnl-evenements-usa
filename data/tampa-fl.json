@@ -1,17 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-10-20T14:02:17.400Z",
+  "updated_at": "2026-10-21T14:18:12.861Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "CLUTCH: US Fall Tour",
-      "venue_line": "The Ritz Ybor • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-23",
       "title": "Cake",
       "venue_line": "Ruth Eckerd Hall • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "HOL! (18 and Over)",
+      "venue_line": "The Ritz Ybor • Tampa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

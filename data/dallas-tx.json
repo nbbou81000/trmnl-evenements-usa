@@ -1,87 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-10-20T14:02:30.405Z",
+  "updated_at": "2026-10-21T14:18:27.687Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "20 Years of Nekrogoblikon with Special Guests Aborted",
-      "venue_line": "The Echo Lounge & Music Hall • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Paledusk, Headwreck, Slow Degrade, blind lace",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Test Your Mic",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "FIFTH THIRD GARAGE: Dallas Stars v Boston Bruins",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Dallas Stars vs. Boston Bruins",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "KXT Presents - Hermanos Gutiérrez",
-      "venue_line": "South Side Ballroom • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Black Country, New Road",
-      "venue_line": "Longhorn Ballroom & Backyard Amphitheater • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Ax and the Hatchetmen",
-      "venue_line": "Granada Theater - TX • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "MICO - Running From A Feeling Tour",
+      "venue_line": "The Echo Lounge & Music Hall • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Edgehill",
+      "venue_line": "AM/FM Dallas • Dallas",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Dan + Shay: The Young Tour",
+      "venue_line": "Dos Equis Pavilion • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "TK Kirkland",
+      "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Lucy Darling: As You Wish",
+      "venue_line": "Wyly Theatre • Dallas",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Standoperos: La Tómbola",
+      "venue_line": "Addison Improv • Addison",
+      "price_label": "$50–$396",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Dante Gebel - World Tour Despedida 2026",
+      "venue_line": "Majestic Theatre Dallas • Dallas",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Basic Printer, Spirit of Bear",
+      "venue_line": "Three Links Deep Ellum • Dallas",
+      "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

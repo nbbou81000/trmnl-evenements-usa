@@ -1,6 +1,6 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-20T14:02:14.751Z",
+  "updated_at": "2026-10-21T14:18:09.660Z",
   "events": [
     {
       "day_label": "FRI",
@@ -133,6 +133,16 @@
       "type_label": "Arts & Theater"
     },
     {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Badfish w/ Beach Fly",
+      "venue_line": "Victory North • Savannah",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
@@ -187,16 +197,6 @@
       "day_number": "6",
       "date_iso": "2026-11-06",
       "title": "Savannah Ghost Pirates vs. Greenville Swamp Rabbits",
-      "venue_line": "Enmarket Arena • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "8",
-      "date_iso": "2026-11-08",
-      "title": "Savannah Ghost Pirates vs. Orlando Solar Bears",
       "venue_line": "Enmarket Arena • Savannah",
       "price_label": "Price not available",
       "type_key": "sports",

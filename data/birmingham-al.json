@@ -1,47 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-20T14:02:40.342Z",
+  "updated_at": "2026-10-21T14:18:38.655Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
-      "venue_line": "Coca-Cola Amphitheater • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Dax - The Anger Management Tour",
-      "venue_line": "Iron City • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Won’t Stay Dead with Turpie & Cursed Coast",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Late Night Songwriters Night at The Nick with Fire Camino, Galatic Goth, Victor Alexander",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -96,7 +56,7 @@
       "day_label": "WED",
       "day_number": "21",
       "date_iso": "2026-10-21",
-      "title": "Badvril at The Nick Wednesday 10/21",
+      "title": "Badvril with BoLee  at The Nick Wednesday 10/21",
       "venue_line": "The Nick • Birmingham",
       "price_label": "$9",
       "type_key": "music",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dallas Wax",
+      "venue_line": "The Fennec - Main Stage • Birmingham",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Lucille Klement, Kaleb Scherer + Lucid at The Nick, doors 7pm",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Bonerama",
+      "venue_line": "All Good Beverage Co • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Lahar, Crash, Lunar Parque at The Nick 10/23",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

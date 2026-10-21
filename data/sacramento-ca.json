@@ -1,77 +1,7 @@
 {
   "city_label": "Sacramento, CA",
-  "updated_at": "2026-10-20T14:02:50.486Z",
+  "updated_at": "2026-10-21T14:18:49.696Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Bluey's Big Play",
-      "venue_line": "SAFE Credit Union Performing Arts Center • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Taylor Tomlinson: Tries Out New Ideas",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Candyman (1992)",
-      "venue_line": "Crest Theater • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Dinosaur Jr. - Fall Tour 2026 with special guest Stef Chura",
-      "venue_line": "Ace of Spades • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "SOLD OUT! Left It In The River Tour with Jamie MacDonald - Sacramento, CA",
-      "venue_line": "Creekside Christian Church • Elk Grove",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Doja Cat - Tour Ma Vie World Tour",
-      "venue_line": "Golden 1 Center • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Taylor Tomlinson: Tries Out New Ideas",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-23",
       "title": "Everclear - Lucky 7 Tour",
       "venue_line": "Ace of Spades • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Chris Estrada",
+      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "George Clanton w/ Ryan Hemsworth",
+      "venue_line": "Goldfield Trading Post - Roseville • Roseville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Harry Potter and the Goblet of Fire (TM) In Concert",
+      "venue_line": "SAFE Credit Union Performing Arts Center • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Rock of Ages",
+      "venue_line": "Woodland Opera House • Woodland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Engelbert Humperdinck with Special Guest Star Crystal Gayle",
+      "venue_line": "The Venue at Thunder Valley Casino Resort • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Christopher Titus: Doomed To Repeat",
+      "venue_line": "Crest Theater • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Modest Mouse",
+      "venue_line": "Channel 24 • Sacramento",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

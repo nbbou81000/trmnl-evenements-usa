@@ -1,37 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-20T14:02:53.036Z",
+  "updated_at": "2026-10-21T14:18:52.649Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Ontario Reign vs. Calgary Wranglers",
-      "venue_line": "Toyota Arena-CA • Ontario",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "Yaamava' Resort & Casino at San Manuel • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Juanes North America Tour 2026",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -128,7 +98,7 @@
       "date_iso": "2026-10-23",
       "title": "Godfrey",
       "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$34–$52",
+      "price_label": "$34",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -199,6 +169,36 @@
       "title": "Moses Storm",
       "venue_line": "Corona Improv • Corona",
       "price_label": "$31",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Tradición, Arte y Pasión: Mariachi Los Camperos",
+      "venue_line": "Fox Performing Arts Center • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Godfrey",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$0",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
+      "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     }

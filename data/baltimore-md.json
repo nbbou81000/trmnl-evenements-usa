@@ -1,37 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-20T14:02:09.011Z",
+  "updated_at": "2026-10-21T14:18:03.230Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "PeelingFlesh",
-      "venue_line": "Baltimore Soundstage • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "August Wilson's \"Two Trains Running\" (PREVIEW)",
-      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -196,8 +166,38 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
-      "title": "Singalong Broadway!",
-      "venue_line": "M&T Bank Exchange • Baltimore",
+      "title": "Morgan State Bears Football vs. Howard University Bison Football",
+      "venue_line": "Hughes Stadium • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Navy Midshipmen Football vs. North Texas Mean Green Football",
+      "venue_line": "Navy Marine Corps Memorial Stadium • Annapolis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Jordan Jensen",
+      "venue_line": "Baltimore Soundstage • Baltimore",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

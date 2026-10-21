@@ -1,17 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-20T14:02:35.443Z",
+  "updated_at": "2026-10-21T14:18:33.398Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Aaron Branch - Ages 18+",
-      "venue_line": "Bricktown Comedy Club • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -197,6 +187,16 @@
       "day_number": "25",
       "date_iso": "2026-10-25",
       "title": "Oklahoma City Thunder vs. LA Clippers",
+      "venue_line": "Paycom Center • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Oklahoma City Thunder vs. Phoenix Suns",
       "venue_line": "Paycom Center • Oklahoma City",
       "price_label": "Price not available",
       "type_key": "sports",

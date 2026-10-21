@@ -1,47 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-20T14:02:38.615Z",
+  "updated_at": "2026-10-21T14:18:36.749Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Soccer Mommy & Snail Mail",
-      "venue_line": "The Joy Theater • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Comedy Beast",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$8",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "A Benefit Concert for Wendell Brunious presented by Jazz Foundation of America",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "FELICITY",
-      "venue_line": "NO DICE • New Orleans",
-      "price_label": "$17",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +161,46 @@
       "price_label": "$34",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "RNB NIGHT with MISS MEXIA, ARI B, DREAMIE DAZE",
+      "venue_line": "Gasa Gasa • New Orleans",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "Adonis Rose Live at Jazz Ascona: The Music of Gregg Hill featuring Phillip Manuel",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "PeelingFlesh",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The 3rd Annual Fat Cats' Ball",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$134",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

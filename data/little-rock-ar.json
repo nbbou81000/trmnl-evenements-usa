@@ -1,17 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-20T14:02:36.331Z",
+  "updated_at": "2026-10-21T14:18:34.327Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Rocky Horror Picture Show Spooktacular Tour with Nell Campbell\t\t",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Straight No Chaser",
+      "venue_line": "Reynolds Performance Hall • Conway",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

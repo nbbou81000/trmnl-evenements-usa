@@ -1,17 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-10-20T14:02:29.923Z",
+  "updated_at": "2026-10-21T14:18:27.187Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Sioux Falls Stampede vs. Lincoln Stars",
-      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Poe's Midnight Society at ICON",
+      "venue_line": "Icon Events & Dada Gastropub • Sioux Falls",
+      "price_label": "$50",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

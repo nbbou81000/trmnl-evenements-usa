@@ -1,67 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-20T14:02:21.175Z",
+  "updated_at": "2026-10-21T14:18:17.198Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Hot Freaks",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "DISPATCH FAMILY VALUE PACK-CBJ VS. TORONTO MAPLE LEAFS",
-      "venue_line": "Nationwide Arena • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "CBJ V. TORONTO MAPLE LEAFS",
-      "venue_line": "Nationwide Arena • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "WOLPH at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Red Leather",
-      "venue_line": "A&R Music Bar • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "The Band Memo w/ Orange Sky Revolution",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +139,66 @@
       "title": "Blade Rave",
       "venue_line": "Skully's Music Diner • Columbus",
       "price_label": "$21–$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Earlybirds Club - Ages 21+",
+      "venue_line": "Newport Music Hall • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ohio State Buckeyes Women's Hockey vs. Colgate University Women's Hockey",
+      "venue_line": "Ohio State University Ice Rink • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Julia Cole",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ohio State Buckeyes Mens Hockey vs. Augustana University Hockey",
+      "venue_line": "Schottenstein Center • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "John Boerstler & Friends ft. Steve Sweney / Phil Clark / Aaron Scott at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$2",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Phree - A tribute to Phish - at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$20",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-10-20T14:02:30.823Z",
+  "updated_at": "2026-10-21T14:18:28.174Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Test Your Mic",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Music of John Denver",
-      "venue_line": "Casa Manana • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-23",
       "title": "Brincos Dieras - El Desmadre Continua Tour 18+",
       "venue_line": "The Pavilion at Toyota Music Factory • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Boy Harsher",
+      "venue_line": "Tannahill's Music Hall & Lounge • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Finesse Mitchell",
+      "venue_line": "Punch Line Irving • Irving",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

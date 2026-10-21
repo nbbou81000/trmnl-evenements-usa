@@ -1,37 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-20T14:02:25.972Z",
+  "updated_at": "2026-10-21T14:18:22.640Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Skillet",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Michigander",
-      "venue_line": "recordBar • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "20",
-      "date_iso": "2026-10-20",
-      "title": "Medium Build Presents The King of Having Fun on Tour",
-      "venue_line": "Madrid Theatre • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "21",
@@ -199,6 +169,36 @@
       "title": "UAU 2026 FANCON [Playlist #Your Youth] in Kansas City",
       "venue_line": "Gem Theater • Kansas City",
       "price_label": "$59–$277",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Lauren Sanderson",
+      "venue_line": "Encore at Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Icon for Hire: Scripted 15 Year Anniversary Tour",
+      "venue_line": "recordBar • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Plini - An Unnameable Desire North American Tour",
+      "venue_line": "Madrid Theatre • Kansas City",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

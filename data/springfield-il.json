@@ -1,6 +1,6 @@
 {
   "city_label": "Springfield, IL",
-  "updated_at": "2026-10-20T14:02:19.496Z",
+  "updated_at": "2026-10-21T14:18:15.305Z",
   "events": [
     {
       "day_label": "FRI",
@@ -17,6 +17,16 @@
       "day_number": "12",
       "date_iso": "2026-12-12",
       "title": "Bert Kreischer",
+      "venue_line": "Sangamon Auditorium • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "19",
+      "date_iso": "2026-12-19",
+      "title": "Jerry Seinfeld",
       "venue_line": "Sangamon Auditorium • Springfield",
       "price_label": "Price not available",
       "type_key": "arts",
