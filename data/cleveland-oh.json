@@ -1,77 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-21T14:18:17.644Z",
+  "updated_at": "2026-10-22T14:17:33.645Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "DemsFightinWords, Ratblood",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Pumpkin Bingo!",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "NiNi, Seven Kingdoms",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Joe Hunter & Tim Matson",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Midnight Rental presents Secret Movie Night",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$13",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Nik Parr & The Selfless Lovers",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "SHIT SHOW KARAOKE",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -91,6 +21,16 @@
       "price_label": "$13–$25",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "22",
+      "date_iso": "2026-10-22",
+      "title": "NiNi, Seven Kingdoms",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "THU",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Genitorturers, Nathan James, Two Dead Roses",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$29–$82",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Into The Blue",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Smiths etc",
+      "venue_line": "Beachland Tavern • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Hed Cheez, Stephe DK, Porch Party",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Rellick, Under High Street, Apostle Jones",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$15–$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "REMI-NISCE 2000's 2010's Party",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Cheyenne, WY",
-  "updated_at": "2026-10-21T14:18:47.166Z",
+  "updated_at": "2026-10-22T14:17:59.745Z",
   "events": [
     {
       "day_label": "THU",
@@ -81,6 +81,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "3",
+      "date_iso": "2026-12-03",
+      "title": "Glenn Miller Orchestra",
+      "venue_line": "Cheyenne Civic Center • Cheyenne",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",

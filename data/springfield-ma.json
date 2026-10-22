@@ -1,37 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-21T14:18:02.219Z",
+  "updated_at": "2026-10-22T14:17:20.016Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Mamma Mia! (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Melvin Seals",
-      "venue_line": "Infinity Hall - Hartford • Hartford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-27",
       "title": "Dracula",
       "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Beetlejuice Jr.",
+      "venue_line": "Academy of Music Theatre - MA • Northampton",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

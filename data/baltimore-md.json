@@ -1,57 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-21T14:18:03.230Z",
+  "updated_at": "2026-10-22T14:17:20.858Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "August Wilson's \"Two Trains Running\" (PREVIEW)",
-      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "The Living Tombstone",
-      "venue_line": "Nevermore Hall • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "James Austin Johnson",
-      "venue_line": "Rams Head On Stage • Annapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -96,6 +46,16 @@
       "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
+      "title": "August Wilson's \"Two Trains Running\" ",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
       "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
       "venue_line": "Chesapeake Employers Insurance Arena • Baltimore",
       "price_label": "Price not available",
@@ -111,16 +71,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "August Wilson's \"Two Trains Running\" ",
-      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
     },
     {
       "day_label": "FRI",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Nineteen 62 Club at CFG Bank Arena - Journey",
+      "venue_line": "CFG Bank Arena • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Fearless Club At CFG Bank Arena - Journey",
+      "venue_line": "CFG Bank Arena • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "JOURNEY - Final Frontier Tour (An Evening With)",
+      "venue_line": "CFG Bank Arena • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Singalong Broadway!",
+      "venue_line": "M&T Bank Exchange • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "August Wilson's \"Two Trains Running\" ",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

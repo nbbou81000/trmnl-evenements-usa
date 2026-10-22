@@ -1,37 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-21T14:18:16.725Z",
+  "updated_at": "2026-10-22T14:17:32.686Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Lauren Sanderson, XKYLER ",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$30–$118",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Lauren Sanderson",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Line Dance Lessons at Diamondback Music Hall",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$11–$21",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +171,36 @@
       "price_label": "$14",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Michigan Wolverines Womens Basketball vs. Rochester Christian Womens Basketball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Sweet Spot, WIPEOUT, petalwave, nopèsetic",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Sweet Spot",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

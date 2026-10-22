@@ -1,17 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-21T14:18:52.649Z",
+  "updated_at": "2026-10-22T14:18:04.628Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Ben Bankas",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Bobby Dee Presents: Los Tiranos Del Norte",
+      "venue_line": "Stage Red • Fontana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

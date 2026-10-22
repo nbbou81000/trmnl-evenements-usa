@@ -1,17 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-21T14:18:50.705Z",
+  "updated_at": "2026-10-22T14:18:02.895Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Switchfoot w/ Anberlin",
-      "venue_line": "Bakersfield Fox Theater • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Bakersfield Condors vs. San Diego Gulls",
+      "venue_line": "Dignity Health Arena • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

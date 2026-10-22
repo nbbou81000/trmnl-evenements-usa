@@ -1,17 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-21T14:18:07.546Z",
+  "updated_at": "2026-10-22T14:17:24.520Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Mastodon",
-      "venue_line": "Piedmont Hall • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -26,7 +16,7 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
-      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits - Wrestling Night",
+      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits",
       "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Greensboro Swarm vs. Long Island Nets",
       "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Twin City Thunderbirds Vs Blue Ridge Bobcats",
+      "venue_line": "Winston-Salem Fairgrounds • Winston Salem",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

@@ -1,17 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-21T14:17:56.930Z",
+  "updated_at": "2026-10-22T14:17:15.470Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Evan Honer: It???s An Even Longer Road Tour",
-      "venue_line": "District Music Hall • Norwalk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-25",
       "title": "123 Andres",
       "venue_line": "Ridgefield Playhouse • Ridgefield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Dear Evan Hansen",
+      "venue_line": "John W Engeman Theater • Northport",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

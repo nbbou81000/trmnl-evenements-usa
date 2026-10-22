@@ -1,17 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-21T14:18:06.922Z",
+  "updated_at": "2026-10-22T14:17:24.051Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Mastodon",
-      "venue_line": "Piedmont Hall • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -66,7 +56,7 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
-      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits - Wrestling Night",
+      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits",
       "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Prelude Dining - Lucy Darling",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

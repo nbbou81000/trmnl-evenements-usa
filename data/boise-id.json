@@ -1,27 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-21T14:18:42.831Z",
+  "updated_at": "2026-10-22T14:17:56.007Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Taste Of Chaos",
-      "venue_line": "Revolution Concert House & Event Center • Garden City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Broadway In Boise Presents & JULIET",
-      "venue_line": "Morrison Center for the Performing Arts • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +181,26 @@
       "price_label": "$21",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "THE TAYLOR PARTY: TAYLOR SWIFT NIGHT",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Broadway In Boise Presents & JULIET",
+      "venue_line": "Morrison Center for the Performing Arts • Boise",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

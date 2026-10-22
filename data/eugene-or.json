@@ -1,17 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-21T14:18:55.704Z",
+  "updated_at": "2026-10-22T14:18:07.301Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Diggin' Dirt",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -199,6 +189,16 @@
       "title": "Skeleton Crewe",
       "venue_line": "WOW Hall • Eugene",
       "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Railroad Earth",
+      "venue_line": "McDonald Theatre • Eugene",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

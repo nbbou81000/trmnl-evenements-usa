@@ -1,27 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-21T14:18:23.625Z",
+  "updated_at": "2026-10-22T14:17:39.038Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Dark Divine",
-      "venue_line": "Regency - MO • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Arsenic and Old Lace",
-      "venue_line": "Springfield Little Theatre • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "Leanne Morgan",
+      "venue_line": "Great Southern Bank Arena • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Triumph: The Rock & Roll Machine Reloaded Tour",
+      "venue_line": "Great Southern Bank Arena • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

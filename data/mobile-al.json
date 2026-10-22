@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-21T14:18:40.026Z",
+  "updated_at": "2026-10-22T14:17:53.474Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Crescent Comedy Workshop",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Crescent Comedy Chaos",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -199,6 +179,26 @@
       "title": "Sunday Funniez Comedy Showcase",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$14–$39",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "DAIKAIJU",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Crescent Comedy Workshop",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$2",
       "type_key": "misc",
       "type_label": "Other"
     }

@@ -1,17 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-21T14:17:59.877Z",
+  "updated_at": "2026-10-22T14:17:18.203Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Beauty School Dropout",
-      "venue_line": "Arrow • Allentown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "LA CASITA EXPERIENCE: HALLOWEEN EDITION - 21+",
+      "venue_line": "Archer Music Hall • Allentown",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

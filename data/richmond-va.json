@@ -1,17 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-21T14:18:03.705Z",
+  "updated_at": "2026-10-22T14:17:21.285Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Undertale Symphony",
-      "venue_line": "Altria Theater • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -197,6 +187,16 @@
       "day_number": "26",
       "date_iso": "2026-10-26",
       "title": "Earl Sweatshirt w/ MIKE",
+      "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Jackson Dean",
       "venue_line": "The National • Richmond",
       "price_label": "Price not available",
       "type_key": "music",

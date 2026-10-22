@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-21T14:18:36.257Z",
+  "updated_at": "2026-10-22T14:17:50.088Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Billy Strings",
-      "venue_line": "Tivoli Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -199,6 +189,16 @@
       "title": "Neko Case: Neon Midnight Green Tour",
       "venue_line": "The Signal - Concert Hall • Chattanooga",
       "price_label": "$52–$70",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Cigarettes @ Sunset",
+      "venue_line": "The Parlour at The Signal • Chattanooga",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

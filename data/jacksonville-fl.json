@@ -1,17 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-21T14:18:10.824Z",
+  "updated_at": "2026-10-22T14:17:27.215Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Golden Girls: The Laughs Continue",
-      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -138,7 +128,7 @@
       "date_iso": "2026-10-25",
       "title": "Flaw",
       "venue_line": "Eclipse • Jacksonville",
-      "price_label": "$20–$67",
+      "price_label": "$23–$56",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-29",
       "title": "The Carpenters Songbook - A Live Celebration **Moved to Terry Theater",
       "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "CeCe Winans - COME WORSHIP! Tour",
+      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

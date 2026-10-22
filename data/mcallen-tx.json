@@ -1,17 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-21T14:18:32.050Z",
+  "updated_at": "2026-10-22T14:17:46.376Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Dante Gebel - World Tour Despedida 2026",
-      "venue_line": "McAllen Performing Arts Center • McAllen",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Una Noche De Leyendas - Conjunto Primavera, La Firma, Banda Machos,Cadetes de Linares",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

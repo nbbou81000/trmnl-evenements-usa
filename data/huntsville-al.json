@@ -1,17 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-21T14:18:39.116Z",
+  "updated_at": "2026-10-22T14:17:52.642Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Cindy Kaza",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$40–$60",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "$27",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "So Good! The Neil Diamond Experience starring Robert Neary",
+      "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

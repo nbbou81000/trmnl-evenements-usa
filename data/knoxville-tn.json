@@ -1,17 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-21T14:18:35.784Z",
+  "updated_at": "2026-10-22T14:17:49.669Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Tennessee Volunteers Volleyball vs. Kentucky Wildcats Women's Volleyball",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Nurse Blake: But Did You Die? Tour",
+      "venue_line": "Bijou Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

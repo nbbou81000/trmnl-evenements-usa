@@ -1,27 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-21T14:18:57.171Z",
+  "updated_at": "2026-10-22T14:18:08.540Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "2026 Inland Northwest Sports Hall of Fame Induction",
-      "venue_line": "Numerica Veterans Arena • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Charles Wesley Godwin - Christian Name Tour",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$36–$126",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -199,6 +179,26 @@
       "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
       "venue_line": "Martin Woldson Theater at the Fox • Spokane",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Black Jacket Symphony",
+      "venue_line": "The Fox - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "It's A 2000s (Halloween) Party: Spokane (10/31)",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "$28–$39",
       "type_key": "music",
       "type_label": "Music"
     }

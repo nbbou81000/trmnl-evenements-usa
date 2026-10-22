@@ -1,77 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-21T14:18:23.142Z",
+  "updated_at": "2026-10-22T14:17:38.630Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "WNBA Finals Watch Party",
-      "venue_line": "Atomic Lounge • St. Louis",
-      "price_label": "$0",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Knocked Loose & Denzel Curry",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "RUSH: Fifty Something",
-      "venue_line": "Enterprise Center • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Sueco",
-      "venue_line": "The Hawthorn • St. Louis",
-      "price_label": "$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Michigander",
-      "venue_line": "Off Broadway • Saint Louis",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Michigander",
-      "venue_line": "Off Broadway • St. Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Failure with special guests Quannnic - The Rising Skyline Tour",
-      "venue_line": "Delmar Hall • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -88,7 +18,7 @@
       "date_iso": "2026-10-22",
       "title": "Pain of Truth",
       "venue_line": "Pop's Concert Venue • Sauget",
-      "price_label": "$41–$64",
+      "price_label": "$46–$64",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -166,21 +96,21 @@
       "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
-      "title": "St. Louis Billikens Mens Basketball vs. Bradley Braves Mens Basketball",
-      "venue_line": "Chaifetz Arena • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
       "title": "Wynonna Judd - The Hard Truth Tour",
       "venue_line": "Stifel Theatre • Saint Louis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "St. Louis Billikens Mens Basketball vs. Bradley Braves Mens Basketball",
+      "venue_line": "Chaifetz Arena • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -199,6 +129,76 @@
       "title": "Alex Petraborg",
       "venue_line": "Pop's Concert Venue • Sauget",
       "price_label": "$16–$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ari Matti",
+      "venue_line": "Helium Comedy Club - St. Louis • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Maria Bamford",
+      "venue_line": "The Sheldon Concert Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "DECEIVED by Johnna Wright and Patty Jamieson, Directed by Sharon Hunter",
+      "venue_line": "The Gaslight Theater • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Maria Bamford",
+      "venue_line": "Sheldon Concert Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Three Dog Night",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Cash Money & No Limit Tour",
+      "venue_line": "Enterprise Center • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ludo",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

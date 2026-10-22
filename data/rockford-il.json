@@ -1,27 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-21T14:18:14.798Z",
+  "updated_at": "2026-10-22T14:17:31.032Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Club Coronado for Jeff Dunham",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Jeff Dunham: Inappropriate Contact",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -197,6 +177,26 @@
       "day_number": "8",
       "date_iso": "2026-11-08",
       "title": "Rockford IceHogs vs. Iowa Wild",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Rockford IceHogs vs. Milwaukee Admirals",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Rockford IceHogs vs. Manitoba Moose",
       "venue_line": "BMO Center • Rockford",
       "price_label": "Price not available",
       "type_key": "sports",

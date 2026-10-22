@@ -1,17 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-10-21T14:18:27.187Z",
+  "updated_at": "2026-10-22T14:17:41.976Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Kansas",
-      "venue_line": "Washington Pavilion of Arts & Science • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "$50",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Goosebumps: The Musical",
+      "venue_line": "Orpheum Theater Sioux Falls - SD • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

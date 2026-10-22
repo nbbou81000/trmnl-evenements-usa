@@ -1,17 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-21T14:18:19.041Z",
+  "updated_at": "2026-10-22T14:17:34.921Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Behind the Scream A Live Conversation with David Arquette",
-      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Eyes of the Nile: Tribute to Iron Maiden",
+      "venue_line": "Goodyear Theater • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

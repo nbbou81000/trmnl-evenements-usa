@@ -1,17 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-21T14:18:33.870Z",
+  "updated_at": "2026-10-22T14:17:47.935Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Kyle Hume",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -197,6 +187,16 @@
       "day_number": "27",
       "date_iso": "2026-10-27",
       "title": "Tulsa Oilers - Hockey vs. Allen Americans",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Tulsa Oilers Vs Allen Americans - Game 2 (DAY GAME)",
       "venue_line": "BOK Center • Tulsa",
       "price_label": "Price not available",
       "type_key": "sports",

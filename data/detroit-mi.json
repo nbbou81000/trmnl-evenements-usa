@@ -1,57 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-10-21T14:18:15.804Z",
+  "updated_at": "2026-10-22T14:17:31.879Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "John Cameron Mitchell: Hedwig 25th Anniversary Movie Tour",
-      "venue_line": "The Fillmore Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "UniverSoul Circus",
-      "venue_line": "Across from the Aretha Franklin Amphitheatre Universoul Circus • Detroit",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "The Bobby Lees",
-      "venue_line": "TSDMAAC (Crypt) • Detroit",
-      "price_label": "$12–$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Jeremy Pelt",
-      "venue_line": "Aretha's Jazz Cafe • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Kickstand Productions Presents Vincent Neil Emerson",
-      "venue_line": "The Loving Touch • Ferndale",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +151,56 @@
       "price_label": "$23",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Bassem Youssef: The Belly of the Beast Tour",
+      "venue_line": "The Fillmore Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "YYNOT - Classic RUSH Tribute and Prog Rock Originals, Triple Black, Pound Town Prophet",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$19–$189",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Bottomless Soda&Popcorn Rewind Ultimate 2000s Rave 18+Not Event Ticket",
+      "venue_line": "Saint Andrew's Hall • Detroit",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Rewind: 2000s Halloween Rave (18+)",
+      "venue_line": "Saint Andrew's Hall • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Whethan (18 and Over)",
+      "venue_line": "Majestic Theatre-MI • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-21T14:18:38.139Z",
+  "updated_at": "2026-10-22T14:17:51.761Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Snarky Puppy",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-14",
       "title": "Cigarettes @ Sunset w/ Yesterday's Clothes",
       "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Ashley McBryde",
+      "venue_line": "Thalia Mara Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

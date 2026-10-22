@@ -1,47 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-21T14:17:53.282Z",
+  "updated_at": "2026-10-22T14:17:12.781Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Swan Lake by the United European Ballet Company",
-      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Rochester Americans vs Utica Comets",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Rochester Americans vs. Utica Comets",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
-      "venue_line": "Kodak Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -201,6 +161,46 @@
       "price_label": "$12–$14",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Flagman w/ Sumpp at Bug Jar",
+      "venue_line": "The Bug Jar • Rochester",
+      "price_label": "$18–$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Alicia Keys' Hell's Kitchen",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Rochester Americans vs Cleveland Monsters",
+      "venue_line": "Blue Cross Arena • Rochester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Rochester Americans vs. Cleveland Monsters",
+      "venue_line": "Blue Cross Arena • Rochester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

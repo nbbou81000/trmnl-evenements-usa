@@ -1,87 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-21T14:18:36.749Z",
+  "updated_at": "2026-10-22T14:17:50.539Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Grayson Brockamp and Seth Finch",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "CupcakKe",
-      "venue_line": "House of Blues New Orleans  • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "New Orleans Pelicans vs. Indiana Pacers",
-      "venue_line": "Smoothie King Center • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Robert Taylor Smith & Spoonfed Jr.",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Delfeayo Marsalis & the Uptown Jazz Orchestra",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Cardinal Bloom - Burn the House Tour with The Band Solstice",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "21",
-      "date_iso": "2026-10-21",
-      "title": "Delfeayo Marsalis & the Uptown Jazz Orchestra",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "22",
@@ -199,6 +119,86 @@
       "title": "The 3rd Annual Fat Cats' Ball",
       "venue_line": "Howlin' Wolf • New Orleans",
       "price_label": "$134",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
+      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Mahmoud Chouki New World Ensemble",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$47",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Roald Dahl's Matilda The Musical JR.",
+      "venue_line": "Jefferson Perf Arts Center • Metairie",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "Rivertown Theaters for the Performing Arts • Kenner",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Sap's 'Erasure Tour' with Sludge Mother, and El Jumbotron",
+      "venue_line": "Gasa Gasa • New Orleans",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Mac Sabbath",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$34",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Hot In Herre: 2000s Dance Party",
+      "venue_line": "The Joy Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Snake Eyes: Improvised Stand-Up Comedy",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$13",
       "type_key": "misc",
       "type_label": "Other"
     }
