@@ -1,47 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-22T14:17:24.993Z",
+  "updated_at": "2026-10-23T14:00:36.169Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Limbo at The Refinery presents: Macelyn Batten",
-      "venue_line": "The Refinery • Charleston",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Disney On Ice presents Magic of Family",
-      "venue_line": "North Charleston Coliseum • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Watch What Happens Live with Andy Cohen",
-      "venue_line": "North Charleston Performing Arts Center • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Blake Whiten - Something to Say Tour",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "The Rocky Horror Picture Show w/ LIVE Shadowcast",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Porch Light - Ages 21+",
+      "venue_line": "Charleston Pour House • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "John Cameron Mitchell: Hedwig 25th Anniversary Movie Tour",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Rumours of Fleetwood Mac",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

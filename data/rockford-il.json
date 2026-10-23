@@ -1,27 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-22T14:17:31.032Z",
+  "updated_at": "2026-10-23T14:00:41.748Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Q98.5 & 96.7 The Eagle Flannel Jam - Country Confidential + Rock",
-      "venue_line": "Hard Rock Live Rockford • Rockford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Josh Gates",
-      "venue_line": "Coronado Theatre • Rockford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -46,9 +26,9 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
-      "title": "With A Vengeance, So Called Saints , Pikes Peak ",
+      "title": "With A Vengeance, Pikes Peak ",
       "venue_line": "The Apollo Theatre Ac • Belvidere",
-      "price_label": "$15–$69",
+      "price_label": "$18–$69",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -197,6 +177,26 @@
       "day_number": "14",
       "date_iso": "2026-11-14",
       "title": "Rockford IceHogs vs. Manitoba Moose",
+      "venue_line": "BMO Center • Rockford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Rockford Symphony Orchestra: Mozart Requiem",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Rockford IceHogs vs. Chicago Wolves",
       "venue_line": "BMO Center • Rockford",
       "price_label": "Price not available",
       "type_key": "sports",

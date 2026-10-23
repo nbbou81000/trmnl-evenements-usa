@@ -1,47 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-10-22T14:17:42.846Z",
+  "updated_at": "2026-10-23T14:00:53.310Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "TK Kirkland",
-      "venue_line": "Punch Line Irving • Irving",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Music of John Denver",
-      "venue_line": "Casa Manana • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "PBR Stockyards Showcase",
-      "venue_line": "Cowtown Coliseum • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Maria Jose + Moenia Us Tour 2026",
-      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Sick New World Festival Forth Worth",
+      "venue_line": "Texas Motor Speedway • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Sick New World",
+      "venue_line": "Texas Motor Speedway • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Red Steagall Cowboy Gathering",
+      "venue_line": "Cowtown Coliseum • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Ed Sheeran",
+      "venue_line": "AT&T Stadium • Arlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

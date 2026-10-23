@@ -1,27 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-22T14:17:51.761Z",
+  "updated_at": "2026-10-23T14:01:02.010Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Ghoulwill Bash 2026",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Sonic Live In Concert",
-      "venue_line": "City Hall Live • Brandon",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-15",
       "title": "Ashley McBryde",
       "venue_line": "Thalia Mara Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Ashley McBryde w/ Cole Goodwin",
+      "venue_line": "Duling Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "Filmore w/ Special Guests Chris Daniel and Jackie Lee",
+      "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

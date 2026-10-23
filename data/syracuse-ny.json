@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-22T14:17:13.243Z",
+  "updated_at": "2026-10-23T14:00:24.810Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,26 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Rehash",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Nik Parr & The Selfless Lovers",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -201,6 +181,26 @@
       "price_label": "$32",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Dale Jones",
+      "venue_line": "Funny Bone Comedy Club - Syracuse • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Andrew Dice Clay",
+      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

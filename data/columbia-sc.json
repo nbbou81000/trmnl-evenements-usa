@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-22T14:17:25.449Z",
+  "updated_at": "2026-10-23T14:00:36.595Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Soccer Mommy & Snail Mail",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Debbie Rogers Cheer Classic",
+      "venue_line": "Colonial Life Arena • Columbia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

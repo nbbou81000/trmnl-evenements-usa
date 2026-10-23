@@ -1,27 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-22T14:17:48.376Z",
+  "updated_at": "2026-10-23T14:00:58.662Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Dorothy Moore: Diamond and Gold Concert",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "CAIN Live and In Worship Tour with special guest Leeland - Little Rock, AR",
-      "venue_line": "Geyer Springs First Baptist Church • Little Rock",
-      "price_label": "$25–$167",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Daniel Donato’s Cosmic Country",
+      "venue_line": "The Hall • Little Rock",
+      "price_label": "$23–$53",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Hot Wheels Monster Trucks™ Live Glow-N-Fire",
+      "venue_line": "Simmons Bank Arena • North Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

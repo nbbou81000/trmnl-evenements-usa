@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-22T14:17:43.667Z",
+  "updated_at": "2026-10-23T14:00:54.130Z",
   "events": [
     {
       "day_label": "FRI",
@@ -9,96 +9,6 @@
       "title": "La Flor Escondida: Hard Rock Cafe San Antonio's Selena Speakeasy",
       "venue_line": "Hard Rock Cafe - San Antonio • San Antonio",
       "price_label": "$84",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "A Haunting Thriller: LIVE Michael Jackson Tribute",
-      "venue_line": "Hard Rock Cafe - San Antonio • San Antonio",
-      "price_label": "$15–$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Charlie Berens",
-      "venue_line": "Charline McCombs Empire Theatre • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Artikal Sound System w/ Cydeways",
-      "venue_line": "Paper Tiger • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Liz Miele",
-      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "FOOS GONE WILD: The FOOS GONE WILD Tour 2026",
-      "venue_line": "Aztec Theatre • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Gringos",
-      "venue_line": "Paper Tiger • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Young Miko - Late Checkout Tour",
-      "venue_line": "Freeman Coliseum • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Don Omar \"The Last King World Tour\"",
-      "venue_line": "Frost Bank Center • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "San Antonio Stock Show & Rodeo Haunted Hayrides",
-      "venue_line": "San Antonio Stock Show & Rodeo Fairgrounds • San Antonio",
-      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Arnez J",
+      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Arnez J",
+      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "San Antonio Stock Show & Rodeo Haunted Hayrides",
+      "venue_line": "San Antonio Stock Show & Rodeo Fairgrounds • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Music of The Beatles for Kids ft. The Rock and Roll Playhouse",
+      "venue_line": "Stable Hall • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Drag Me to Brunch at Hard Rock Cafe San Antonio!",
+      "venue_line": "Hard Rock Cafe - San Antonio • San Antonio",
+      "price_label": "$18",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Ballet San Antonio",
+      "venue_line": "H-E-B Performance Hall • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Incarnate Word Cardinals Football vs. McNeese State Cowboys Football",
+      "venue_line": "Gayle and Tom Benson Stadium • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Top Rank Boxing Navarrete v Foster",
+      "venue_line": "Frost Bank Center • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Bert Kreischer",
+      "venue_line": "Majestic Theatre San Antonio • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

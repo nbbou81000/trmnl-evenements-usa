@@ -1,17 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-22T14:17:15.052Z",
+  "updated_at": "2026-10-23T14:00:26.624Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Arcángel - La 8va Maravilla World Tour",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Desi Banks",
+      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

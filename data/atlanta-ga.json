@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-10-22T14:17:25.873Z",
+  "updated_at": "2026-10-23T14:00:37.023Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,9 +23,19 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Music Discovery Series Performance",
+      "venue_line": "Woodruff Arts Center • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
       "title": "Tours: Truist Park",
       "venue_line": "Truist Park • Atlanta",
       "price_label": "Price not available",
@@ -33,109 +43,129 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "PeelingFlesh",
-      "venue_line": "The Masquerade - Heaven • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "8 Rooms of Terror Experience",
+      "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Texas Is the Reason",
-      "venue_line": "The Masquerade - Hell • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "8 Rooms of Terror Experience",
+      "venue_line": "Selfie Paradise Museum • Douglasville",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Up Tempo Teen Night - America @ 250: Rhapsody in Blue",
-      "venue_line": "Woodruff Arts Center • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Buddha Trixie",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Inhuman Condition",
       "venue_line": "The Masquerade - Purgatory • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "SOMBR - You Are The Reason Tour",
-      "venue_line": "State Farm Arena • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Flwr Chyld & Friends",
+      "venue_line": "The Masquerade - Hell • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Cheshire Cat Cafe",
-      "venue_line": "Black Box Theater •  Atlanta",
-      "price_label": "$6",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Mastodon w/ Deafheaven",
-      "venue_line": "The Eastern-GA • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Rat Utopia Experiment",
+      "venue_line": "The Masquerade  - Altar • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Hip Abduction w/ SensaMotion",
-      "venue_line": "Terminal West • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Georgia Tech Yellow Jackets Womens Volleyball vs. Pittsburgh Panthers Womens Volleyball",
+      "venue_line": "McCamish Pavilion • Atlanta",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Ryan Devlin Quartet",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Will Varley w/ Beans on Toast",
       "venue_line": "Eddie's Attic • Decatur",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Kennesaw State Owls Football vs. Liberty University Flames Football",
-      "venue_line": "Fifth Third Bank Stadium • Kennesaw",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Will Varley",
+      "venue_line": "Eddie's Attic • Decatur",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "8 Rooms of Terror Experience",
+      "venue_line": "Selfie Paradise Museum • Douglasville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "CeCe Winans - COME WORSHIP! Tour",
+      "venue_line": "Gas South Arena • Duluth",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dracula: Prelude Dinner at 5:30 PM Add- On",
+      "venue_line": "Gas South Theater • Duluth",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dracula: A Ballet to Die For - (Gwinnett Ballet Theatre)",
+      "venue_line": "Gas South Theater • Duluth",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
       "title": "Like Father",
       "venue_line": "Alliance Theatre • Atlanta",
       "price_label": "Price not available",
@@ -143,64 +173,34 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Katt Williams On Book Tour!",
-      "venue_line": "Tabernacle Presented by iTHINK Financial • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "JOSH THOMAS: JIGGLE, JIGGLE",
+      "venue_line": "Buckhead Theatre • Atlanta",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Brand New",
-      "venue_line": "Fox Theatre - Atlanta • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Skyline Lounge - Dan and Phil",
+      "venue_line": "Cobb Energy Performing Arts Centre • Atlanta",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Rhapsody in Blue with the ASO",
-      "venue_line": "Atlanta Symphony Hall • Atlanta",
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dan and Phil: Hard Launch World Tour",
+      "venue_line": "Cobb Energy Performing Arts Centre • Atlanta",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Stryper",
-      "venue_line": "Center Stage Theater • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Peter Bjorn and John",
-      "venue_line": "Vinyl • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Benjamin Tod",
-      "venue_line": "Variety Playhouse • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

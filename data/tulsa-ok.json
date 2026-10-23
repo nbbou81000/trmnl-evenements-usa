@@ -1,47 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-22T14:17:47.935Z",
+  "updated_at": "2026-10-23T14:00:58.254Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Ralph Barbosa",
-      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Authority Zero w/ Counterpunch",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Extreme Dwarfanator Wrestling (21+ Event)",
-      "venue_line": "Whiskey 918 • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Wynonna Judd (21 and Over)",
-      "venue_line": "The Cove at River Spirit Casino Resort • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Tauren Wells",
+      "venue_line": "Tulsa Theater • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Tulsa Oilers - Hockey vs. Wichita Thunder",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Tulsa Oilers Vs Wichita Thunder - Game 3",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Dylan Wheeler",
+      "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

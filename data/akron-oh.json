@@ -1,17 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-22T14:17:34.921Z",
+  "updated_at": "2026-10-23T14:00:45.508Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Journey Tribute - by E5C4P3",
-      "venue_line": "Hartville Kitchen • Hartville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-30",
       "title": "Eyes of the Nile: Tribute to Iron Maiden",
       "venue_line": "Goodyear Theater • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "That Arena Rock Show",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

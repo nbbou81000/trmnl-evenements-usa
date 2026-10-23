@@ -1,117 +1,7 @@
 {
   "city_label": "Denver, CO",
-  "updated_at": "2026-10-22T14:17:53.915Z",
+  "updated_at": "2026-10-23T14:01:04.042Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Skillet: Comatose 20 Years, Still Screaming Tour",
-      "venue_line": "Fillmore Auditorium (Denver) • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
-      "venue_line": "Paramount Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Paramount Theatre Club Seating: Daniel Sloss",
-      "venue_line": "Paramount Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Alejo x 3NA: NERVES AV with Mike Wallis, Snilk and Myk0ra",
-      "venue_line": "Ophelia's Electric Soapbox • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Ceremony",
-      "venue_line": "Marquis • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Macklemore",
-      "venue_line": "Red Rocks Amphitheatre • Morrison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Buell Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Joe Fenti",
-      "venue_line": "Denver Improv • Denver",
-      "price_label": "$31–$49",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "$5 Thursdays!",
-      "venue_line": "La Rumba • Denver",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Glitch Mob - Ages 16+",
-      "venue_line": "Cervantes Masterpiece Ballroom • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "JHONNY RIVERA",
-      "venue_line": "Stampede • Aurora",
-      "price_label": "$71–$117",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -176,7 +66,7 @@
       "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
-      "title": "Colorado Avalanche vs. Tampa Bay Lightning",
+      "title": "Colorado Avalanche v Tampa Bay Lightning",
       "venue_line": "Ball Arena • Denver",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Firebird with Cleo Parker Robinson Dance & John Williams Horn Concerto",
+      "venue_line": "Boettcher Hall • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Beauty And The Beast (Touring)",
+      "venue_line": "Buell Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "SiM - HOOMAN WORLD TOUR - POSTPONED",
+      "venue_line": "Oriental Theater • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Tacarra Williams",
+      "venue_line": "Denver Improv • Denver",
+      "price_label": "$25",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "The Fretliners w/ Wood Belly",
+      "venue_line": "Bluebird Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jackson Dean (18 and Over)",
+      "venue_line": "Grizzly Rose - CO • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Jackson Dean",
+      "venue_line": "Grizzly Rose • Denver",
+      "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dead Floyd: TWO-DAY TICKETS",
+      "venue_line": "Ophelia's Electric Soapbox • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Dead Floyd",
+      "venue_line": "Ophelia's Electric Soapbox • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Odd Mob (16 and Over)",
+      "venue_line": "Mission Ballroom • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Medium Build w/ Bella White",
+      "venue_line": "Gothic Theatre • Englewood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

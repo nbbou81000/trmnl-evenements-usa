@@ -1,97 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-22T14:17:11.921Z",
+  "updated_at": "2026-10-23T14:00:23.453Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Beauty School Dropout",
-      "venue_line": "Spirit Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Pittsburgh Penguins vs. Florida Panthers",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Candlebox - Can't Quit You Tour, Fall 2026",
-      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Steph Tolev",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$31–$102",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Michael Jackson HIStory Show (Garth Field as Jackson)",
-      "venue_line": "Byham Theater • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Jordan Jensen",
-      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "mICROgOBLET X unrecovery",
-      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Low Cut Connie with Special Guest Brian Dunne",
-      "venue_line": "Mr Smalls Theatre • Millvale",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Claudio Simonetti's Goblin",
-      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -198,6 +108,96 @@
       "date_iso": "2026-10-23",
       "title": "Pink Talking Fish (21 and Over)",
       "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "My Hero Academia in Concert",
+      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Duquesne Dukes Football vs. Wagner Seahawks Football",
+      "venue_line": "Rooney Athletic Field • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Giselle w/ Pittsburgh Ballet Theatre",
+      "venue_line": "Benedum Center • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Robert Morris University Colonials Football vs Mercyhurst",
+      "venue_line": "Joe Walton Stadium • Moon Township",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Earlybirds Club (21 and Over)",
+      "venue_line": "Stage AE • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Steph Tolev",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$31–$102",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Pittsburgh Penguins vs. Nashville Predators",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Pittsburgh Riverhounds SC vs Birmingham Legion FC",
+      "venue_line": "F.N.B. Stadium • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Noel Paul Stookey of Peter Paul & Mary",
+      "venue_line": "Carnegie Library Music Hall of Homestead • Homestead",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

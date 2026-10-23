@@ -1,27 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-22T14:17:19.568Z",
+  "updated_at": "2026-10-23T14:00:30.999Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Disney On Ice presents Spotlight Magic!",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Lil Skies w/ Killakam",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-30",
       "title": "Motionless In White - The Sweat And Blood Tour",
       "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Holy Cross Crusaders Hockey vs. Bentley Falcons Hockey",
+      "venue_line": "Hart Recreation Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Disco Biscuits - FRIDAY",
+      "venue_line": "Palladium-MA • Worcester",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

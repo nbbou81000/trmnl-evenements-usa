@@ -1,47 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-22T14:17:50.088Z",
+  "updated_at": "2026-10-23T14:01:00.352Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Crowder LIVE! - Hixson, TN",
-      "venue_line": "Abba's House • Hixson",
-      "price_label": "$25–$45",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Crowder",
-      "venue_line": "Abba's House • Hixson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "37th Annual IBMA Bluegrass Music Awards",
-      "venue_line": "Soldiers and Sailors Memorial Auditorium • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "RATBOYS - When the Sun Explodes Tour 2026",
-      "venue_line": "The Parlour at The Signal • Chattanooga",
-      "price_label": "$32",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +161,46 @@
       "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Neko Case",
+      "venue_line": "The Signal • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Chattanooga Moccasins Football vs. Mercer Bears Football",
+      "venue_line": "Finley Stadium Davenport Field • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Amber Autry: Happy Holler Tour",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Amber Autry: Happy Holler Tour",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

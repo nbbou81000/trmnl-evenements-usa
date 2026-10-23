@@ -1,17 +1,7 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-10-22T14:17:30.166Z",
+  "updated_at": "2026-10-23T14:00:40.904Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "2026 FAMU Homecoming Concert",
-      "venue_line": "FAMU Al Lawson Jr. Multipurpose Center • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "The Revivalists",
+      "venue_line": "Adderley Amphitheater at Cascades Park • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

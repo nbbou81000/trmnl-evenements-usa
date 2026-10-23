@@ -1,37 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-22T14:17:40.296Z",
+  "updated_at": "2026-10-23T14:00:50.789Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Old Forester Bourbon Experience",
-      "venue_line": "The Ingersoll • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Thomas Rhett: The Soundtrack to Life Tour",
-      "venue_line": "Casey's Center • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Thomas Rhett: The Soundtrack to Life Tour",
-      "venue_line": "Casey's Center • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Daughtry - 20 Years Unplugged Tour",
+      "venue_line": "Hoyt Sherman Place • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Diles Que No Me Maten",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Hot Freaks w/ Thesaurus Rex",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

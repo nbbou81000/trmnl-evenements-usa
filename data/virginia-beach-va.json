@@ -1,57 +1,7 @@
 {
   "city_label": "Virginia Beach, VA",
-  "updated_at": "2026-10-22T14:17:21.690Z",
+  "updated_at": "2026-10-23T14:00:33.089Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Brad Williams: The Tall Tales Tour",
-      "venue_line": "Harrison Opera House • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Overture Lounge - Brad Williams",
-      "venue_line": "Harrison Opera House • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "BLACKSTAGE LIVE PRESENTS - REEL RENAISSANCE - VIP - 2-DAY TICKET",
-      "venue_line": "American Theatre • Hampton",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "BLACKSTAGE LIVE PRESENTS - REEL RENAISSANCE - GA - 2-DAY TICKET",
-      "venue_line": "American Theatre • Hampton",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "REEL RENAISSANCE: Drink Package - Add on to GA Ticket",
-      "venue_line": "American Theatre • Hampton",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Old Dominion Monarchs Womens Basketball vs. Christopher Newport Captains Womens Basketball",
+      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Earl Sweatshirt w/ MIKE",
+      "venue_line": "The Norva • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Hudson Westbrook",
+      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "DaBaby",
+      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Norfolk Admirals vs. Greensboro Gargoyles",
+      "venue_line": "Scope Arena • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

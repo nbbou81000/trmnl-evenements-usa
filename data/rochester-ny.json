@@ -1,17 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-22T14:17:12.781Z",
+  "updated_at": "2026-10-23T14:00:24.303Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Andrew Dice Clay",
-      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Alicia Keys' Hell's Kitchen",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

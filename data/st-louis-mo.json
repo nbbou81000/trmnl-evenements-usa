@@ -1,77 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-22T14:17:38.630Z",
+  "updated_at": "2026-10-23T14:00:49.126Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "St. Louis Blues vs. Vegas Golden Knights",
-      "venue_line": "Enterprise Center • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Pain of Truth",
-      "venue_line": "Pop's Concert Venue • Sauget",
-      "price_label": "$46–$64",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Parkway School District All-District Choir Concert",
-      "venue_line": "Family Arena • Saint Charles",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "DECEIVED by Johnna Wright and Patty Jamieson, Directed by Sharon Hunter",
-      "venue_line": "The Gaslight Theater • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Woman Evolve Presents The Rogue Route with Sarah Jakes Roberts",
-      "venue_line": "Stifel Theatre • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "SHAWN JAMES \"FLEW TOO CLOSE TO THE SUN TOUR\"",
-      "venue_line": "Delmar Hall • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "AFI",
-      "venue_line": "The Pageant • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Halludoween 2026 Hoodie",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Josh Turner: This Country Music Thing Tour",
+      "venue_line": "River City Casino & Hotel • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
+      "venue_line": "Family Arena • Saint Charles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Samples at Atomic",
+      "venue_line": "Atomic Lounge • St. Louis",
+      "price_label": "$0–$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "LOVER/FRIEND VOL 008",
+      "venue_line": "Atomic Garage • St. Louis",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ari Matti",
+      "venue_line": "Helium Comedy Club - St. Louis • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Bands Of America - Saturday Prelims",
+      "venue_line": "The Dome at America's Center • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

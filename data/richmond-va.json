@@ -1,17 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-22T14:17:21.285Z",
+  "updated_at": "2026-10-23T14:00:32.678Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Ashley McBryde",
-      "venue_line": "The National • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-28",
       "title": "Jackson Dean",
       "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Hudson Westbrook",
+      "venue_line": "Virginia Credit Union LIVE! • Richmond",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

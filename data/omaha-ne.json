@@ -1,47 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-22T14:17:39.453Z",
+  "updated_at": "2026-10-23T14:00:49.985Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Omaha Volleyball vs. NDSU",
-      "venue_line": "Baxter Arena • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Kristin Key",
-      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Mexican Slum Rats",
-      "venue_line": "Slowdown • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Creighton Bluejays Womens Volleyball vs. UConn Women's Volleyball",
-      "venue_line": "RYAN CENTER/DJ SOKOL ARENA • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -196,6 +156,46 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Orpheum Theater - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Orpheum Theater - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Pre-Show Happy Hour: Gasolina Party - Not A Concert Ticket*",
+      "venue_line": "Steelhouse Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Gasolina Party - 18+",
+      "venue_line": "Steelhouse Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
       "title": "Death Becomes Her (Touring)",
       "venue_line": "Orpheum Theater - Omaha • Omaha",
       "price_label": "Price not available",

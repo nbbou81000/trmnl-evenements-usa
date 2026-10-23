@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-22T14:18:07.301Z",
+  "updated_at": "2026-10-23T14:01:17.230Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour - Eugene, OR",
-      "venue_line": "First Baptist Church of Eugene • Eugene",
-      "price_label": "$30–$122",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Stinkfoot Orchestra featuring Napoleon Murphy Brock",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Mdou Moctar (solo)",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Gabriel Iglesias: The 1976 Tour",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-10-22T14:17:31.879Z",
+  "updated_at": "2026-10-23T14:00:42.533Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour with Colton Bowlin",
-      "venue_line": "The Fillmore Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "UniverSoul Circus",
-      "venue_line": "Across from the Aretha Franklin Amphitheatre Universoul Circus • Detroit",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Genitorturers Live + Lewd Tour featuring support from Nathan James + True Devil and Tiffadelic",
-      "venue_line": "Small's • Hamtramck",
-      "price_label": "$29–$82",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "DJ Shadow",
-      "venue_line": "Royal Oak Music Theatre • Royal Oak",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Lights Out The UFO Experience with Andy Parker • Angeles",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$21–$158",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Oakland University Women's Soccer vs. Wright State Women's Soccer",
-      "venue_line": "Oakland Soccer Field • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Shadows Of The 60's",
+      "venue_line": "Andiamo Celebrity Showroom • Warren",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Noise Pollution - The AC/DC Experience",
+      "venue_line": "Emerald Theatre • Mount Clemens",
+      "price_label": "$28–$257",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "JOHNNYSWIM: Greetings from Georgica Pond",
+      "venue_line": "Flagstar Strand Theatre for the Performing Arts • Pontiac",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Acraze - Ages 18+",
+      "venue_line": "Magic Stick • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Phil Hanley",
+      "venue_line": "Mark Ridley's Comedy Castle • Royal Oak",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "UniverSoul Circus",
+      "venue_line": "Across from the Aretha Franklin Amphitheatre Universoul Circus • Detroit",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

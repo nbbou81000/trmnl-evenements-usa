@@ -1,17 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-22T14:17:50.948Z",
+  "updated_at": "2026-10-23T14:01:01.170Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "LSU Tigers Womens Basketball vs. UNT Dallas Trailblazers Womens Basketball",
-      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +191,16 @@
       "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "LSU Tigers Womens Basketball vs. Texas Southern Tigers Womens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

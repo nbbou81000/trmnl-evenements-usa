@@ -1,107 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-22T14:17:50.539Z",
+  "updated_at": "2026-10-23T14:01:00.768Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "CLUTCH: US Fall Tour",
-      "venue_line": "House of Blues New Orleans  • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Bardcore Night: Medieval and Renaissance Dancing",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$16",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Adonis Rose Live at Jazz Ascona: The Music of Gregg Hill featuring Phillip Manuel",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Snarky Puppy - Somni US Tour '26",
-      "venue_line": "The Joy Theater • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Comedy Gumbeaux",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$13–$67",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Black Joe Lewis & JD Simo With Luther Dickinson",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "RNB NIGHT with MISS MEXIA, ARI B, DREAMIE DAZE",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Adonis Rose Live at Jazz Ascona: The Music of Gregg Hill featuring Phillip Manuel",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +101,106 @@
       "price_label": "$13",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "JUNO DUNES with CHILL BUDDY & CIARA ELISE",
+      "venue_line": "Santos Bar • New Orleans",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "**Sold Out** Kels",
+      "venue_line": "Chickie Wah Wah • New Orleans",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Mahmoud Chouki New World Ensemble",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$47",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
+      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Roald Dahl's Matilda The Musical JR.",
+      "venue_line": "Jefferson Perf Arts Center • Metairie",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Giulia Coba",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "We Came As Romans",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Hannibal Buress -- Comedy Special Taping",
+      "venue_line": "Civic Theatre • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Matt Fraser",
+      "venue_line": "The Fillmore New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "CeCe Winans - COME WORSHIP! Tour",
+      "venue_line": "Smoothie King Center • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

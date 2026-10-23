@@ -1,157 +1,7 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-10-22T14:17:57.749Z",
+  "updated_at": "2026-10-23T14:01:07.832Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Chase Field Stadium Tours",
-      "venue_line": "Chase Field • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Suffs (Touring)",
-      "venue_line": "Phoenix Theatre - Hormel Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "British Invasion",
-      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Annie (Touring)",
-      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Suffs (Touring)",
-      "venue_line": "Phoenix Theatre - Hormel Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Ballet Arizona - Romeo and Juliet",
-      "venue_line": "Phoenix Symphony Hall • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "DWEEZIL ZAPPA DZ20: LIKE FATHER, LIKE SON",
-      "venue_line": "Celebrity Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "AUTOMATIC",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "AMBLE",
-      "venue_line": "Crescent Ballroom • Phoenix",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Thee Sinseers: Love Stories Tour",
-      "venue_line": "The Van Buren • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Automatic",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Loterã­A Thursdays",
-      "venue_line": "Thunderbird Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Kyle Gordon",
-      "venue_line": "The Rebel Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "LATIN NIGHT WITH DJ RECO",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -199,6 +49,156 @@
       "title": "Halloween Spooktacular Hot Air Balloon Festival",
       "venue_line": "Salt River Fields at Talking Stick • Scottsdale",
       "price_label": "$20–$25",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Bingo Loco: Halloween ",
+      "venue_line": "Marquee Theatre • Tempe",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "DJ BOOMER // SOUL / FUNK / WORLD / HIP-HOP",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Gorillaz - The Mountain Tour",
+      "venue_line": "Mortgage Matchup Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "British Invasion",
+      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Annie (Touring)",
+      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "HOVVDY",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Suffs (Touring)",
+      "venue_line": "Phoenix Theatre - Hormel Theatre • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Hovvdy",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Michael Blaustein",
+      "venue_line": "Celebrity Theatre • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Ballet Arizona - Romeo and Juliet",
+      "venue_line": "Phoenix Symphony Hall • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Teenage Wasteland",
+      "venue_line": "Showroom at Casino Arizona • Scottsdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Max Diaz",
+      "venue_line": "Nile Theater • Mesa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Shanghai Ballet",
+      "venue_line": "Chandler Center for the Arts • Chandler",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "FRIDAY TAROT READINGS w/KEANNA",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
     }

@@ -1,7 +1,17 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-22T14:18:08.540Z",
+  "updated_at": "2026-10-23T14:01:18.480Z",
   "events": [
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Spokane Public Schools Football - University vs Ferris",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -11,6 +21,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "23",
+      "date_iso": "2026-10-23",
+      "title": "Spokane Public Schools Football - Mead vs Lewis & Clark",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "FRI",
@@ -46,6 +66,26 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
+      "title": "Spokane Public Schools Girls Soccer - Chesterton vs Rogers",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Spokane Public Schools Football - Lakewood vs North Central",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
       "title": "Spokane Chiefs vs. Portland Winterhawks",
       "venue_line": "Numerica Veterans Arena • Spokane",
       "price_label": "Price not available",
@@ -69,6 +109,26 @@
       "title": "Bingo Loco: Name That Song (10/24 Halloween Edition)",
       "venue_line": "Knitting Factory - Spokane • Spokane",
       "price_label": "$42",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Burpees 4 Boobies: All Women's HYROX Fundraiser",
+      "venue_line": "Spokane Convention Center • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Spokane Public Schools Girls Soccer - Deer Park vs North Central",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -116,6 +176,16 @@
       "day_label": "WED",
       "day_number": "28",
       "date_iso": "2026-10-28",
+      "title": "Spokane Public Schools Girls Soccer - Rogers vs North Central",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
       "title": "Pouya",
       "venue_line": "Knitting Factory - Spokane • Spokane",
       "price_label": "Price not available",
@@ -123,84 +193,14 @@
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fright Night",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$53",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Spokane Chiefs vs. Medicine Hat Tigers",
-      "venue_line": "Numerica Veterans Arena • Spokane",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Nothing Shameful - Album Release Show ft. Hayes Noble",
-      "venue_line": "The District • Spokane",
-      "price_label": "$33–$61",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Goonies in Concert w/ Spokane Symphony",
-      "venue_line": "The Fox - Spokane • Spokane",
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Spokane Public Schools Football - Pullman vs North Central",
+      "venue_line": "ONE Spokane Stadium • Spokane",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Eastern Washington Eagles Football vs. Montana Grizzlies Football",
-      "venue_line": "Roos Field • Cheney",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
-      "venue_line": "Martin Woldson Theater at the Fox • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Black Jacket Symphony",
-      "venue_line": "The Fox - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It's A 2000s (Halloween) Party: Spokane (10/31)",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$28–$39",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

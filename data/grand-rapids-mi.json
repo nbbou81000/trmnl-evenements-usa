@@ -1,27 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-22T14:17:32.291Z",
+  "updated_at": "2026-10-23T14:00:42.944Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Austin Snell",
-      "venue_line": "Intersection - Elevation • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Phabies + Ohly + Kate Pillsbury",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -199,6 +179,26 @@
       "title": "The Blue Herons + The Great Black Night + Vida Eterna",
       "venue_line": "The Pyramid Scheme • Grand Rapids",
       "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "All Them Witches w/ Emma Ruth Rundle",
+      "venue_line": "Intersection • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Slay The Vote 2.0",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

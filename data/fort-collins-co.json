@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-22T14:17:54.763Z",
+  "updated_at": "2026-10-23T14:01:04.846Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Colorado State University Rams Womens Soccer vs. Boise State Broncos Womens Soccer",
-      "venue_line": "CSU Soccer Field • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -76,6 +66,16 @@
       "day_label": "WED",
       "day_number": "28",
       "date_iso": "2026-10-28",
+      "title": "Colorado State University Rams Womens Basketball vs. Chadron State Eagles Womens Basketball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
       "title": "Colorado Eagles vs. Charlotte Checkers",
       "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
       "price_label": "Price not available",
@@ -121,6 +121,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Colorado State University Rams Womens Basketball vs. Lindenwood Lions Womens Basketball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "MON",
@@ -188,16 +198,6 @@
       "date_iso": "2026-11-06",
       "title": "Colorado State University Rams Mens Basketball vs. Idaho Vandals Mens Basketball",
       "venue_line": "Moby Arena • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "6",
-      "date_iso": "2026-11-06",
-      "title": "Colorado Eagles vs. Calgary Wranglers",
-      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

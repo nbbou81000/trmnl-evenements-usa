@@ -1,97 +1,7 @@
 {
   "city_label": "Miami, FL",
-  "updated_at": "2026-10-22T14:17:27.939Z",
+  "updated_at": "2026-10-23T14:00:38.710Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Dear Maryanne, MooseCreek Park, and Excuse Me, Who Are You? in Miami",
-      "venue_line": "Churchill's Pub •  Miami",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Yung Gravy: The Joyrider Tour",
-      "venue_line": "Revolution Live • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Premios Billboard De La Musica Latina",
-      "venue_line": "James L Knight Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Arts Ballet Theatre of Florida: Dracula",
-      "venue_line": "Aventura Arts & Cultural Center • Aventura",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Slow Burn Theatre Co: Come From Away",
-      "venue_line": "Amaturo Theater at Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "ALVARO DIAZ - OMAKASE TOUR",
-      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Anuel - Billboard Official Afterparty",
-      "venue_line": "LIV Nightclub Miami • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -199,6 +109,96 @@
       "title": "A Wilhelm Scream in Miami",
       "venue_line": "Churchill's Pub •  Miami",
       "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Nbps Presents The Mystery Of Edwin Drood: A Musical By Rupert Holmes",
+      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Scene Queen: METALICIOUS",
+      "venue_line": "Revolution Live • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Yissy Garcia Trio",
+      "venue_line": "Thomson Plaza for the Arts • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Miami City Ballet",
+      "venue_line": "Au-Rene Theater at the Broward Center • Fort Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Miami City Ballet: American Rhythms (Fall Mix)",
+      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Slow Burn Theatre Co: Come From Away",
+      "venue_line": "Amaturo Theater at Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Chayanne - Bailemos Otra Vez Tour",
+      "venue_line": "Kaseya Center • Miami",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Adrian Uribe: 50 y Pico Tour",
+      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "House of Heavy in Miami",
+      "venue_line": "Lincoln's Beard • Miami",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,17 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-22T14:17:37.230Z",
+  "updated_at": "2026-10-23T14:00:47.670Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
-      "venue_line": "Orpheum Theater • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Annie",
+      "venue_line": "Capitol Theater - Overture Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SUN",

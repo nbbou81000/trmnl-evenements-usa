@@ -1,17 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-22T14:17:48.824Z",
+  "updated_at": "2026-10-23T14:00:59.095Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Memphis Tigers Football vs. East Carolina Pirates Football",
-      "venue_line": "Simmons Bank Liberty Stadium • Memphis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-29",
       "title": "Buddy Guy",
       "venue_line": "Soundstage at Graceland • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Pure Prairie League, Atlanta Rhythm Section, Firefall",
+      "venue_line": "Cannon Center for the Performing Arts • Memphis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

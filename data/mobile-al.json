@@ -1,17 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-22T14:17:53.474Z",
+  "updated_at": "2026-10-23T14:01:03.620Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Stagner's Showcase feat. Justin Stagner & Friends",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$21–$50",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -136,7 +126,7 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "Nosferatu  Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
+      "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$39",
       "type_key": "misc",
@@ -199,6 +189,16 @@
       "title": "Crescent Comedy Workshop",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$2",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Crescent Comedy Chaos",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$9",
       "type_key": "misc",
       "type_label": "Other"
     }

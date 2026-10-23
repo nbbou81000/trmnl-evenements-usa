@@ -1,17 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-22T14:17:39.038Z",
+  "updated_at": "2026-10-23T14:00:49.562Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Arsenic and Old Lace",
-      "venue_line": "Springfield Little Theatre • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-28",
       "title": "Triumph: The Rock & Roll Machine Reloaded Tour",
       "venue_line": "Great Southern Bank Arena • Springfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "1",
+      "date_iso": "2026-12-01",
+      "title": "Catch Your Breath w/ TX2",
+      "venue_line": "Regency - MO • Springfield",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

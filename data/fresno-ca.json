@@ -1,37 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-22T14:18:02.505Z",
+  "updated_at": "2026-10-23T14:01:12.519Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Oregon State Beavers Womens Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Cheekface with special guest Waitress",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$10–$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Gonzaga Bulldogs Womens Volleyball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Mom Jeans., Harrison Gordon, Sobs",
+      "venue_line": "Tioga Sequoia Brewery  • Fresno",
+      "price_label": "$42",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "38 Special",
+      "venue_line": "Warnors Theatre • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

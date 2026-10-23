@@ -1,27 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-22T14:17:40.711Z",
+  "updated_at": "2026-10-23T14:00:51.192Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Iowa Hawkeyes Womens Volleyball vs. USC Trojans Womens Volleyball",
-      "venue_line": "Xtream Arena • Coralville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Sugarland",
-      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-17",
       "title": "Iowa Hawkeyes Womens Volleyball vs. Illinois Fighting Illini Womens Volleyball",
       "venue_line": "Xtream Arena • Coralville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Andy Grammer",
+      "venue_line": "The Englert Theatre • Iowa City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Cedar Rapids Roughriders vs. Sioux City Musketeers",
+      "venue_line": "IMON Ice • Cedar Rapids",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

@@ -1,17 +1,7 @@
 {
   "city_label": "Lubbock, TX",
-  "updated_at": "2026-10-22T14:17:45.349Z",
+  "updated_at": "2026-10-23T14:00:55.882Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Randy Travis w/ James Dupre",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -71,16 +61,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Aaron Lewis and the Stateliners",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "THU",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Charlie Brown Christmas (Touring)",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "John Crist",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-22T14:17:49.669Z",
+  "updated_at": "2026-10-23T14:00:59.931Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "October 22, 2026 - Loft & TriStar Club Premium Seating",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Koe Wetzel: The Night Champion World Tour",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Willow Avalon: Pink Pocket Pistol Tour",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -46,7 +16,7 @@
       "day_label": "FRI",
       "day_number": "23",
       "date_iso": "2026-10-23",
-      "title": "An Evening With The Dirty Guv'nahs: 20th Anniversary Tour",
+      "title": "THE DIRTY GUV'NAHS: 20th Anniversary Tour",
       "venue_line": "Bijou Theatre • Knoxville",
       "price_label": "Price not available",
       "type_key": "music",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-28",
       "title": "Nurse Blake: But Did You Die? Tour",
       "venue_line": "Bijou Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Indigo Girls with Special Guest Linda Perry",
+      "venue_line": "Tennessee Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Sheena McCall Young People's Concert: Carnival",
+      "venue_line": "Knoxville Civic Auditorium • Knoxville",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

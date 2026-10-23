@@ -1,37 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-22T14:17:18.203Z",
+  "updated_at": "2026-10-23T14:00:29.647Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Bronx Wanderers",
-      "venue_line": "State Theatre- Easton • Easton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "The Beat Goes On: Tribute to Cher",
-      "venue_line": "The Wind Creek Event Center • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "22",
-      "date_iso": "2026-10-22",
-      "title": "Deana Carter",
-      "venue_line": "Penn's Peak • Jim Thorpe",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "23",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Haunted Illusions",
+      "venue_line": "State Theatre- Easton • Easton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "SAVING ABLE PERFORMING ON ARTIES BAR AND GRILL HALLOWEEN NIGHT BASH AN",
+      "venue_line": "Artie's Bar and Grill • Frenchtown",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Peter Scavello Performing with Saving Able On Arties Bar and Grill Hal",
+      "venue_line": "Artie's Bar and Grill • Frenchtown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
