@@ -1,37 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-23T14:01:01.170Z",
+  "updated_at": "2026-10-24T13:03:35.239Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Killer Queen",
-      "venue_line": "L'Auberge Casino & Hotel Baton Rouge  • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Nanny - Maw (Comedy Show)",
-      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
-      "price_label": "$28–$157",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "JUICY Halloween :: A 2000’s Night of Nostalgia",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$21",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Red Clay Strays",
+      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "LSU Tigers Mens Basketball vs. Texas Southern Tigers Mens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Bryan Martin w/ Thomas Cain",
+      "venue_line": "Texas Club • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

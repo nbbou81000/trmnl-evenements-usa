@@ -1,17 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-23T14:00:58.662Z",
+  "updated_at": "2026-10-24T13:03:32.109Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "OLE 60: OFF THE GRID TOUR",
-      "venue_line": "First Security Amphitheater • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Hot Wheels Monster Trucks™ Live Glow-N-Fire",
       "venue_line": "Simmons Bank Arena • North Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Central Arkansas Bears Football vs. West Georgia Wolves Football",
+      "venue_line": "Estes Stadium • Conway",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

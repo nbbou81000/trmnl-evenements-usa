@@ -1,67 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-23T14:00:58.254Z",
+  "updated_at": "2026-10-24T13:03:31.662Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ralph Barbosa",
-      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Tulsa Golden Hurricane Football vs. Army Black Knights Football",
-      "venue_line": "H.A. Chapman Stadium • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "American Aquarium",
-      "venue_line": "Cain's Ballroom • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
-      "venue_line": "BOK Center • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Dial Up - 90's Party (21 and Over)",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ralph Barbosa",
-      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-29",
       "title": "Dylan Wheeler",
       "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Tulsa Oilers - Hockey vs. Wichita Thunder",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Tulsa Oilers Vs Wichita Thunder - Game 4",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Pop Punk Nite w/ Van Full of Nuns",
+      "venue_line": "Cain's Ballroom • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Through Being Cool presents EMO HALLOWEEN with The Dom Telonges (18 and Over)",
+      "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Red Stripes",
+      "venue_line": "Vanguard - OK • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Warrant with Firehouse (21 and Over)",
+      "venue_line": "Hard Rock Live Tulsa • Catoosa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

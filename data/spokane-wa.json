@@ -1,67 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-23T14:01:18.480Z",
+  "updated_at": "2026-10-24T13:03:54.662Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Spokane Public Schools Football - University vs Ferris",
-      "venue_line": "ONE Spokane Stadium • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Spokane Chiefs vs. Portland Winterhawks",
-      "venue_line": "Numerica Veterans Arena • Spokane",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Spokane Public Schools Football - Mead vs Lewis & Clark",
-      "venue_line": "ONE Spokane Stadium • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Emo Nite",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "(Cancelled) Andre Nickatina Live at The District",
-      "venue_line": "The District • Spokane",
-      "price_label": "$66–$73",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "THE SACRAMENT OF SIN: HALLOWEEN PARTY (FREE EVENT)",
-      "venue_line": "The District • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Spokane Public Schools Football - Gonzaga Prep vs Lewis & Clark",
+      "venue_line": "ONE Spokane Stadium • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Fright Night",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "$53",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Spokane Chiefs vs. Medicine Hat Tigers",
+      "venue_line": "Numerica Veterans Arena • Spokane",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Nothing Shameful - Album Release Show ft. Hayes Noble",
+      "venue_line": "The District • Spokane",
+      "price_label": "$33–$61",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Goonies in Concert w/ Spokane Symphony",
+      "venue_line": "The Fox - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Eastern Washington Eagles Football vs. Montana Grizzlies Football",
+      "venue_line": "Roos Field • Cheney",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

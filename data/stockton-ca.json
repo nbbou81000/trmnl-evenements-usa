@@ -1,17 +1,7 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-23T14:01:13.343Z",
+  "updated_at": "2026-10-24T13:03:49.067Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Stockton Thunder vs. Fresno Falcons",
-      "venue_line": "Adventist Health Arena • Stockton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "12",
+      "date_iso": "2026-12-12",
+      "title": "Stockton Thunder vs. Topeka Scarecrows",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

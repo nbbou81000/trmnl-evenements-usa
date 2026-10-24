@@ -1,47 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-23T14:00:50.381Z",
+  "updated_at": "2026-10-24T13:03:22.645Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Nebraska Cornhuskers Womens Basketball vs. Wayne State Wildcats Womens Basketball",
-      "venue_line": "Pinnacle Bank Arena • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Lincoln Stars vs. Muskegon Lumberjacks",
-      "venue_line": "Ice Box • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Trick Police, Paisty Jenny",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$14–$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "TVBOO",
-      "venue_line": "Royal Grove • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "BLITZKID: Modern Hel Tour 2026 with Silksun & Absence+Alchemy",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$23–$64",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Nebraska Women's Basketball vs San Jose State - TIME SUBJECT TO CHANGE",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Nebraska Cornhuskers Mens Basketball vs. Le Moyne Dolphins Mens Basketball",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Claudio Simonetti's Goblin Performing Tenebre",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$59–$80",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

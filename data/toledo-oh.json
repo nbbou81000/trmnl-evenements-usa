@@ -1,17 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-23T14:00:45.107Z",
+  "updated_at": "2026-10-24T13:03:16.740Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Tracy Lawrence",
-      "venue_line": "Stranahan Theatre • Toledo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -149,8 +139,8 @@
       "title": "Christmas On Tour",
       "venue_line": "Huntington Center • Toledo",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -169,8 +159,8 @@
       "title": "Christmas On Tour",
       "venue_line": "Huntington Center • Toledo",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "MON",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-18",
       "title": "Toledo Walleye vs. Rapid City Rush",
       "venue_line": "Huntington Center • Toledo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Toledo Rockets Football vs. Bowling Green Falcons Football",
+      "venue_line": "Glass Bowl Stadium • Toledo",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

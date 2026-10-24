@@ -1,57 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-23T14:00:48.572Z",
+  "updated_at": "2026-10-24T13:03:20.709Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Spy",
-      "venue_line": "The Rino • North Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Thomas Rhett: The Soundtrack to Life Tour",
-      "venue_line": "Morton Amphitheater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "PBR Teams: Outlaw Days",
-      "venue_line": "T-Mobile Center • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Palace w/ Rollo Doherty",
-      "venue_line": "The Truman - Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Caleb Hearon & Waxahatchee Present: Yeehaw! A Benefit for Kansas City",
-      "venue_line": "Uptown Theater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-30",
       "title": "GEESE",
       "venue_line": "The Midland Theatre - MO • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Zack Fox (DJ Set)",
+      "venue_line": "Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Rewind: 2000s Halloween Rave - Ages 18+",
+      "venue_line": "The Truman - Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "REZN - Cycles in the Infinite Dream Tour",
+      "venue_line": "Encore at Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Sporting Kansas City vs. FC Dallas",
+      "venue_line": "Children's Mercy Park • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "SOMBR - You Are The Reason Tour",
+      "venue_line": "T-Mobile Center • Kansas City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

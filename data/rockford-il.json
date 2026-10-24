@@ -1,27 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-23T14:00:41.748Z",
+  "updated_at": "2026-10-24T13:03:12.719Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Sugarland: Ride or Die Tour",
-      "venue_line": "BMO Center • Rockford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Elías Medina",
-      "venue_line": "Hard Rock Live Rockford • Rockford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Cirque Musica Holiday Wonderland",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Club Coronado for Cirque Musica Holiday Wonderland",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

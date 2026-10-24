@@ -1,17 +1,7 @@
 {
   "city_label": "Santa Rosa, CA",
-  "updated_at": "2026-10-23T14:01:14.227Z",
+  "updated_at": "2026-10-24T13:03:49.983Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Dustin Lynch",
-      "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -151,6 +141,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Tainted Love",
+      "venue_line": "Mystic Theatre • Petaluma",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",

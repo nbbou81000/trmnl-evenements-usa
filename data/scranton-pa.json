@@ -1,47 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-23T14:00:30.517Z",
+  "updated_at": "2026-10-24T13:02:59.557Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Wilkes-Barre/Scranton Penguins vs. Belleville Senators",
-      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Mystic Pizza",
-      "venue_line": "Scranton Cultural Center • Scranton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ashley McBryde: Into The Wild Tour",
-      "venue_line": "F.M. Kirby Center • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Broadway in Scranton Season Subscription: FRIDAY EVENINGS",
-      "venue_line": "Scranton Cultural Center • Scranton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Paul Anka - You Are My Destiny Tour",
+      "venue_line": "F.M. Kirby Center • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Wilkes-Barre/Scranton Penguins vs. Utica Comets",
+      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Froggy 101 Guitars & Stars presented by Burke's Gun Shop",
+      "venue_line": "Scranton Cultural Center • Scranton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Arrested Development",
+      "venue_line": "F.M. Kirby Center • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,97 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-23T14:01:11.649Z",
+  "updated_at": "2026-10-24T13:03:47.073Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Disney On Ice presents Find Your Hero",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Marlon Wayans",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$62–$132",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "UB40",
-      "venue_line": "Mountain Winery • Saratoga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Stanford Cardinal Football vs. North Carolina State Wolfpack Football",
-      "venue_line": "Stanford Stadium • Stanford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Bronco",
-      "venue_line": "San Jose Civic • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Protomartyr, Accessory",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$35–$524",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Black Flag",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Moe's Alley Presents: Lyrics Born \"The LB Baby Tour\" w/ Alwa Gordon + DJ Kikkoman",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Marlon Wayans",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$62–$132",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Blitzkid, Them Creatures",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$28–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Disney On Ice presents Find Your Hero",
+      "venue_line": "SAP Center at San Jose • San Jose",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "BALTHVS",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Moe's Alley Presents: Zepparella (Saturday Night Show)",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Marlon Wayans",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$62",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$25–$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Thomas and Percy's Halloween Party(TM)",
+      "venue_line": "Roaring Camp Railroads • Felton",
+      "price_label": "$27–$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Disney On Ice presents Find Your Hero",
+      "venue_line": "SAP Center at San Jose • San Jose",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

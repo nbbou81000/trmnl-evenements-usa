@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-23T14:00:23.867Z",
+  "updated_at": "2026-10-24T13:02:52.367Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,106 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Niagara Purple Eagles Hockey vs. Union College Garnet Chargers Hockey",
-      "venue_line": "Dwyer Arena • Niagara University",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Andrew Dice Clay",
-      "venue_line": "Shea's Buffalo Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Sweeney Todd",
-      "venue_line": "Shea's 710 Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Zodiaque Dance Company 52nd Season Fall Concert",
-      "venue_line": "UB Center for the Arts - Drama Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Walker and Royce",
-      "venue_line": "Electric City • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jimkata (18+ Event)",
-      "venue_line": "Buffalo Iron Works • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Fri. 10/23/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Highwaymen Live! A Musical Tribute",
-      "venue_line": "Seneca Niagara Resort & Casino Bears Den • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Invincible: A Glorious Tribute to Michael Jackson",
-      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Kevin Nealon",
-      "venue_line": "Helium Comedy Club - Buffalo • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SAT",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Sat. 10/24/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Highwaymen Live! A Musical Tribute",
+      "venue_line": "Seneca Niagara Resort & Casino Bears Den • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Wheel Of Fortune Live!",
+      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Sweeney Todd",
+      "venue_line": "Shea's 710 Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Zodiaque Dance Company 52nd Season Fall Concert",
+      "venue_line": "UB Center for the Arts - Drama Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Wheel Of Fortune Live!",
+      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Mon. 10/26/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "André-Philippe Gagnon - Greatest Hits",
+      "venue_line": "The Avalon Theatre At Niagara Fallsview Casino Resort • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Hell's Kitchen (Touring)",
+      "venue_line": "Shea's Buffalo Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Tue. 10/27/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

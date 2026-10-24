@@ -1,37 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-23T14:00:31.419Z",
+  "updated_at": "2026-10-24T13:03:00.483Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Hartford Wolfpack vs. Providence Bruins",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "UConn Huskies Football vs. UMass Minutemen Football",
-      "venue_line": "Rentschler Field • East Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Mamma Mia! (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Prewn",
+      "venue_line": "The Drake - Amherst • Amherst",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "UMass Minutemen Hockey vs. Harvard Crimson Hockey",
+      "venue_line": "Mullins Center • Amherst",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Springfield Thunderbirds vs. Providence Bruins",
+      "venue_line": "MassMutual Center • Springfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

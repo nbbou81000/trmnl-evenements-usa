@@ -1,37 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-23T14:00:26.624Z",
+  "updated_at": "2026-10-24T13:02:55.174Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Story So Far",
-      "venue_line": "Dome at Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Quinnipiac Bobcats Mens Ice Hockey vs. Army Black Knights Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Punchis Punchis (18 and Over)",
-      "venue_line": "Toads Place - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -196,6 +166,36 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
+      "title": "Desi Banks",
+      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Desi Banks",
+      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Rocky In Concert",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Desi Banks",
       "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
       "price_label": "Price not available",

@@ -1,107 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-23T14:01:14.643Z",
+  "updated_at": "2026-10-24T13:03:50.439Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "WWE Friday Night SmackDown",
-      "venue_line": "Toyota Arena • Ontario",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Oktoberfest at HCM",
-      "venue_line": "Haven City Market • Rancho Cucamonga",
-      "price_label": "$106",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Darkwave Records Presents: Riverside After Dark - Garden Room @ RMA",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Bingo Loco: Halloween (21+)",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Godfrey",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$34",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Moses Storm",
-      "venue_line": "Corona Improv • Corona",
-      "price_label": "$31",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Foreigner (21+)",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Godfrey",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$34–$52",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Moses Storm",
-      "venue_line": "Corona Improv • Corona",
-      "price_label": "$31",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -148,7 +48,7 @@
       "date_iso": "2026-10-24",
       "title": "Godfrey",
       "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$0",
+      "price_label": "$34",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -201,6 +101,106 @@
       "price_label": "$31",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Godfrey",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$34",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Young Frankenstein",
+      "venue_line": "Lewis Family Playhouse • Rancho Cucamonga",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Godfrey",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$34–$52",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Moses Storm",
+      "venue_line": "Corona Improv • Corona",
+      "price_label": "$31",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Mon Laferte (21+ event)",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Animal Collective",
+      "venue_line": "The Fox Theater-Pomona • Pomona",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Mom Jeans",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Damitas Histeria (En Español)",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$56",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Fastball",
+      "venue_line": "The Fox Theater-Pomona • Pomona",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

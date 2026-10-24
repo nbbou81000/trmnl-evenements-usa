@@ -1,27 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-23T14:00:27.483Z",
+  "updated_at": "2026-10-24T13:02:56.195Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Hawthorne Heights - 20 th anniversary of If Only You Were Lonely",
-      "venue_line": "Aura • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Damnationland",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-05",
       "title": "WWE Road To Survivor Series: WarGames",
       "venue_line": "Cross Insurance Arena  • Portland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Marc Maron: Yammering into the Void Tour",
+      "venue_line": "State Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Maine Celtics vs. Westchester Knicks",
+      "venue_line": "Portland Expo • Portland",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

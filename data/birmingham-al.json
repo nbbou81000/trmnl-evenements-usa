@@ -1,97 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-23T14:01:02.419Z",
+  "updated_at": "2026-10-24T13:03:36.675Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Hocus Pocus",
-      "venue_line": "Alabama Theatre • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Leanne Morgan Official BJCC Ticket+ Hotel Packages",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Leanne Morgan: THE TIME OF OUR LIVES TOUR",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Requiem",
-      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Birmingham Bulls v. Evansville Thunderbolts",
-      "venue_line": "Pelham Civic Complex • Pelham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Dallas Wax",
-      "venue_line": "The Fennec - Main Stage • Birmingham",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Lucille Klement, Kaleb Scherer + Lucid at The Nick, doors 7pm",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Bonerama",
-      "venue_line": "All Good Beverage Co • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Lahar, Crash, Lunar Parque at The Nick 10/23",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Cameron Whitcomb - Kingdom of Fear Tour",
+      "venue_line": "Iron City • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Songwriters night at The Nick",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Fraxiom w/ ipawd",
+      "venue_line": "Saturn - Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "CAIN",
+      "venue_line": "Leslie S Wright Fine Arts Center • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "FattMack X Big Yavo",
+      "venue_line": "Iron City • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Rocky Horror Masquerade Ball",
+      "venue_line": "Avondale Brewery • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Practical Magic",
+      "venue_line": "Alabama Theatre • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Filmore",
+      "venue_line": "All Good Beverage Co • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Birmingham Bulls v. Athens Rock Lobsters",
+      "venue_line": "Pelham Civic Complex • Pelham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

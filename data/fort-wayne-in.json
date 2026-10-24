@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-10-23T14:00:46.826Z",
+  "updated_at": "2026-10-24T13:03:18.789Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Spells & Slashers Double Feature",
-      "venue_line": "Embassy Theatre • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Fab Four",
-      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -197,6 +177,26 @@
       "day_number": "12",
       "date_iso": "2026-11-12",
       "title": "Purdue Fort Wayne Mastodons vs. Western Michigan Broncos Men's Basketball",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Little Feat",
+      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Fort Wayne Komets vs. Toledo Walleye",
       "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
       "price_label": "Price not available",
       "type_key": "sports",

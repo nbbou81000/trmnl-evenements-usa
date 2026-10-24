@@ -1,67 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-23T14:00:32.260Z",
+  "updated_at": "2026-10-24T13:03:01.405Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "August Wilson's \"Two Trains Running\" ",
-      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
-      "venue_line": "Chesapeake Employers Insurance Arena • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Get the Led Out",
-      "venue_line": "The Lyric - Baltimore • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Blade Rave",
-      "venue_line": "Nevermore Hall • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Shrek Rave",
-      "venue_line": "Baltimore Soundstage • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -156,16 +96,6 @@
       "day_label": "SAT",
       "day_number": "24",
       "date_iso": "2026-10-24",
-      "title": "Singalong Broadway!",
-      "venue_line": "M&T Bank Exchange • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
       "title": "August Wilson's \"Two Trains Running\" ",
       "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
       "price_label": "Price not available",
@@ -196,6 +126,76 @@
       "day_label": "SUN",
       "day_number": "25",
       "date_iso": "2026-10-25",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Baltimore Ravens v Cincinnati Bengals",
+      "venue_line": "M&T Bank Stadium • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "August Wilson's \"Two Trains Running\" ",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "SIX (Touring)",
+      "venue_line": "Hippodrome at France-Merrick Performing Arts Center • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "August Wilson's \"Two Trains Running\" ",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Earl Sweatshirt & MIKE : Home on the Range Tour 2026",
+      "venue_line": "Nevermore Hall • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
       "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
       "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
       "price_label": "Price not available",

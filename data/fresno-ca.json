@@ -1,47 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-23T14:01:12.519Z",
+  "updated_at": "2026-10-24T13:03:48.136Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Microwave & Free Throw: North America 2026",
-      "venue_line": "Tioga Sequoia Brewery  • Fresno",
-      "price_label": "$36",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "BLITZKID Modern Hel Tour 2026",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$27–$71",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "There Will Be Bass",
-      "venue_line": "Mezcal Lounge • Fresno",
-      "price_label": "$11",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -116,7 +76,7 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
-      "title": "Havok , Hellripper, Slackjaw, Xoth",
+      "title": "Havok , Slackjaw, Xoth",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$32–$35",
       "type_key": "music",
@@ -197,6 +157,46 @@
       "day_number": "31",
       "date_iso": "2026-10-31",
       "title": "38 Special",
+      "venue_line": "Warnors Theatre • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Fresno State Bulldogs Football vs. Oregon State Beavers Football",
+      "venue_line": "Valley Children's Stadium • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "MILLIONAIRE$ HALL-O-SCENE plus Solely Veil, Blade Trip",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$26–$42",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "YG: THE GENTLEMEN'S CLUB TOUR",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The Psychedelic Furs With Special Guests We Are Scientists",
       "venue_line": "Warnors Theatre • Fresno",
       "price_label": "Price not available",
       "type_key": "music",

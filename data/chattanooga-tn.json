@@ -1,27 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-23T14:01:00.352Z",
+  "updated_at": "2026-10-24T13:03:34.284Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Bobby Stone Film Series: Vertigo",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Bobby Stone Film Series: Vertigo",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -116,9 +96,9 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "The Funeral Portrait: A Ghoulish Gathering In Suffocate City",
-      "venue_line": "The Signal - Concert Hall • Chattanooga",
-      "price_label": "$38–$174",
+      "title": "The Funeral Portrait",
+      "venue_line": "The Signal • Chattanooga",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -126,9 +106,9 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "The Funeral Portrait",
-      "venue_line": "The Signal • Chattanooga",
-      "price_label": "Price not available",
+      "title": "The Funeral Portrait: A Ghoulish Gathering In Suffocate City",
+      "venue_line": "The Signal - Concert Hall • Chattanooga",
+      "price_label": "$38–$174",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -141,6 +121,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Neko Case",
+      "venue_line": "The Signal • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -159,16 +149,6 @@
       "title": "Cigarettes @ Sunset",
       "venue_line": "The Parlour at The Signal • Chattanooga",
       "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "6",
-      "date_iso": "2026-11-06",
-      "title": "Neko Case",
-      "venue_line": "The Signal • Chattanooga",
-      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Keb' Mo'",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Bowling for Soup",
+      "venue_line": "The Signal - Concert Hall • Chattanooga",
+      "price_label": "$49–$81",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-23T14:00:51.192Z",
+  "updated_at": "2026-10-24T13:03:23.716Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jeff Dunham",
-      "venue_line": "Xtream Arena • Coralville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "BoDeans",
-      "venue_line": "The Englert Theatre • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -196,6 +176,26 @@
       "day_label": "FRI",
       "day_number": "20",
       "date_iso": "2026-11-20",
+      "title": "Cedar Rapids Roughriders vs. Sioux City Musketeers",
+      "venue_line": "IMON Ice • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "The Beaker Brothers Band",
+      "venue_line": "The Englert Theatre • Iowa City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
       "title": "Cedar Rapids Roughriders vs. Sioux City Musketeers",
       "venue_line": "IMON Ice • Cedar Rapids",
       "price_label": "Price not available",

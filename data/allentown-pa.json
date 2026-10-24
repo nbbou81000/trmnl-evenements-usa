@@ -1,47 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-23T14:00:29.647Z",
+  "updated_at": "2026-10-24T13:02:58.575Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Rehash",
-      "venue_line": "Arrow • Allentown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Cinderella w/ United European Ballet Company",
-      "venue_line": "State Theatre- Easton • Easton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Price Is Right Live - On Stage",
-      "venue_line": "The Wind Creek Event Center • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Man In Black: Tribute To Johnny Cash",
-      "venue_line": "Penn's Peak • Jim Thorpe",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -91,16 +51,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "KIDZ BOP Daytime Dance Party",
-      "venue_line": "Archer Music Hall • Allentown",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SUN",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Phoenix Within Performing with Saving Able On Arties Bar and Grill",
+      "venue_line": "Artie's Bar and Grill • Frenchtown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Odd Men Out Performing with Saving Able On the Arties Bar and Grill Ha",
+      "venue_line": "Artie's Bar and Grill • Frenchtown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Who On Earth Performing with Saving Able On the Arties Bar and Grill H",
+      "venue_line": "Artie's Bar and Grill • Frenchtown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lehigh Mountain Hawks Football vs. Bucknell Bison Football",
+      "venue_line": "Goodman Stadium • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lafayette College Leopards Football vs. Villanova Wildcats Football",
+      "venue_line": "Fisher Stadium • Easton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

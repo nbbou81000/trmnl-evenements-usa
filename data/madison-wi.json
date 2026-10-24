@@ -1,77 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-23T14:00:47.670Z",
+  "updated_at": "2026-10-24T13:03:19.712Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Brett Goldstein: Sex, Death & Small Talk",
-      "venue_line": "Orpheum Theater • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Madison Capitols vs. Waterloo Black Hawks",
-      "venue_line": "Legacy20 Arena at Deforest Yards • Deforest",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Wisconsin Badgers Womens Volleyball vs. Washington Huskies Womens Volleyball",
-      "venue_line": "UW Field House • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Fruit Bats",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "DICE",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "ALLEYCVT",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "FNÜ & BP LAR at Roxxy",
-      "venue_line": "Roxxy • Madison",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Ben Folds & A Piano",
+      "venue_line": "Orpheum Theater • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Prince Daddy and the Hyena w/ Combat and Walter Etc.",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Greg Freeman",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "American Aquarium",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Wisconsin Badgers Mens Basketball vs. Oklahoma State Cowboys Mens Basketball",
+      "venue_line": "Kohl Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "The Tallest Man On Earth",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Wisconsin Badgers Womens Basketball vs. Wisconsin Eau Claire Blugolds Womens Basketball",
+      "venue_line": "Kohl Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

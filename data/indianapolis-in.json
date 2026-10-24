@@ -1,117 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-10-23T14:00:46.376Z",
+  "updated_at": "2026-10-24T13:03:18.309Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "PARKING PASS Pacers vs Mavericks",
-      "venue_line": "Virginia Avenue Parking Garage • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Indiana Pacers vs. Dallas Mavericks",
-      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Lauren Sanderson w/ XKYLAR",
-      "venue_line": "HI-FI Indy and HI-FI Annex • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Nateland Live: A Good Clean Comedy Show",
-      "venue_line": "Clowes Memorial Hall • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Indy Fuel vs Toledo Walleye",
-      "venue_line": "Fishers Event Center • Fishers",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "STING 3.0 Tour",
-      "venue_line": "Old National Centre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Shawn James - Flew Too Close to the Sun Tour",
-      "venue_line": "Turntable • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Shawn James - Flew Too Close to the Sun Tour (18+ Event)",
-      "venue_line": "Turntable • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Creed Fisher",
-      "venue_line": "8 Seconds Saloon • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Gasolina: Reggaeton Party",
-      "venue_line": "The Vogue • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Gasolina: Reggaeton Party - 21+",
-      "venue_line": "Vogue Theatre - IN • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Emo Nite (Ages 18+)",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Spencer Crandall",
+      "venue_line": "8 Seconds Saloon • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Indy Fuel vs Cincinnati Cyclones",
+      "venue_line": "Fishers Event Center • Fishers",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Outlander in Concert",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Josh Gates Haunted Expeditions Live!",
+      "venue_line": "Clowes Memorial Hall • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Far From Ignant",
+      "venue_line": "Turntable • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "GENITORTURERS \"LIVE + LEWD TOUR\"",
+      "venue_line": "Turntable • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "GENITORTURERS \"LIVE + LEWD TOUR\"",
+      "venue_line": "Turntable • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Neoni",
+      "venue_line": "HI-FI Indy and HI-FI Annex • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "PARKING PASS Pacers vs 76ers",
+      "venue_line": "Virginia Avenue Parking Garage • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-23T14:01:02.828Z",
+  "updated_at": "2026-10-24T13:03:37.147Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Huntsville Havoc Vs. Pensacola Ice Flyers",
-      "venue_line": "Von Braun Center Propst Arena • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Pat McGann",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$27",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
-      "venue_line": "VBC Mars Music Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Billy Strings",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Sonic Live in Concert",
-      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "THE GET UP & HUSTLE TOUR",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$27–$46",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -199,6 +139,66 @@
       "title": "So Good! The Neil Diamond Experience starring Robert Neary",
       "venue_line": "VBC Mars Music Hall • Huntsville",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Randy Feltface: Gimmick",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$33–$46",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "KARLOUS MILLER",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$40–$53",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jim Parkers Songwriters Series",
+      "venue_line": "Von Braun Center Playhouse • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Huntsville Havoc Vs. Macon Mayhem",
+      "venue_line": "Von Braun Center Propst Arena • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "KARLOUS MILLER",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$40–$53",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "KARLOUS MILLER",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$40–$53",
       "type_key": "music",
       "type_label": "Music"
     }

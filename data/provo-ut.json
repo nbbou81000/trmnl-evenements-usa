@@ -1,27 +1,7 @@
 {
   "city_label": "Provo, UT",
-  "updated_at": "2026-10-23T14:01:05.749Z",
+  "updated_at": "2026-10-24T13:03:40.461Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Addams Family",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Pride and Prejudice",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -197,6 +177,26 @@
       "day_number": "30",
       "date_iso": "2026-10-30",
       "title": "Pride and Prejudice",
+      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Addams Family",
+      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Addams Family",
       "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
       "price_label": "Price not available",
       "type_key": "arts",

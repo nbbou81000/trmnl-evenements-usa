@@ -1,47 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-23T14:00:57.846Z",
+  "updated_at": "2026-10-24T13:03:31.210Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Oklahoma Sooners Softball vs. USAO Drovers Softball",
-      "venue_line": "Love's Field • Norman",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Mom Jeans",
-      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Failure",
-      "venue_line": "Beer City Music Hall • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Barenaked Ladies",
-      "venue_line": "Showplace Theatre at Riverwind Casino • Norman",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Oklahoma Sooners Football vs. South Carolina Gamecocks Football",
+      "venue_line": "Oklahoma Memorial Stadium • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Ryan Bingham w/ The Texas Gentlemen",
+      "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "PJ Morton",
+      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Oklahoma Sooners Mens Basketball vs. East Texas A&M Lions Mens Basketball",
+      "venue_line": "Lloyd Noble Center • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,47 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-23T14:00:25.751Z",
+  "updated_at": "2026-10-24T13:02:54.225Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jim Jefferies",
-      "venue_line": "The VETS • Providence",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Evan Honer",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jimmy Kenny & the Pirate Beach Band",
-      "venue_line": "Six String Grill and Stage • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jimmy Kenny and the Pirate Beach Band Â the Ultimate Party Tribute T",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -199,6 +159,46 @@
       "title": "JOURNEY - Final Frontier Tour (An Evening With)",
       "venue_line": "Amica Mutual Pavilion • Providence",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "LIGHTS OUT, Chainlacing, & Beth Kaplan and Her Band",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "High on Fire",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$39",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Long Stories, New Pollution, Robert Bushinsky, & Dëmonstration Tapes",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Vick Vapors, Holy Water, Craow, your iolaus, & Vudu Sister",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$22",
       "type_key": "music",
       "type_label": "Music"
     }

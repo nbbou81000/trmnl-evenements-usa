@@ -1,37 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-23T14:00:51.603Z",
+  "updated_at": "2026-10-24T13:03:24.217Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Wichita Thunder vs. Tulsa Oilers - Hockey",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Wichita Thunder v Tulsa Oilers",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Amanda Perez w/ Frankie J",
-      "venue_line": "The Cotillion • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Sunflower Slam",
+      "venue_line": "Convention Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Be Like Blippi Tour!",
+      "venue_line": "Orpheum Theatre - Wichita KS • Wichita",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Be Like Blippi Tour!",
+      "venue_line": "Wichita Orpheum Theatre • Wichita",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-23T14:00:59.095Z",
+  "updated_at": "2026-10-24T13:03:32.652Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "We Came As Romans",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Mid-South Monarchs vs. Baton Rouge Kingfish",
-      "venue_line": "Landers Center  • Southaven",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Mid-South Monarchs vs. Columbus River Dragons",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

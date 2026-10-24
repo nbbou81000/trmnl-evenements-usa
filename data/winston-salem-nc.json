@@ -1,17 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-23T14:00:35.719Z",
+  "updated_at": "2026-10-24T13:03:05.509Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Koe Wetzel: The Night Champion World Tour",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Greensboro Swarm vs. Long Island Nets",
       "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Twin City Thunderbirds Vs Blue Ridge Bobcats",
+      "venue_line": "Winston-Salem Fairgrounds • Winston Salem",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

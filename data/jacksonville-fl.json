@@ -1,57 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-23T14:00:38.294Z",
+  "updated_at": "2026-10-24T13:03:08.424Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "K-Pop Warriors",
-      "venue_line": "Prime Osborn Convention Center • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "George Wallace",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jax Symphony: Music of the Knights",
-      "venue_line": "Jacksonville Center for the Performing Arts - Jacoby Hall • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": " Fear Circus",
-      "venue_line": "Prime Osborn Convention Center • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "George Wallace",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Riot Ten",
+      "venue_line": "Decca Live • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Jacksonville Icemen vs Atlanta Gladiators - Halloween",
+      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Jacksonville Jaguars vs. Indianapolis Colts",
+      "venue_line": "EverBank Stadium  • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Jacksonville Icemen vs Savannah Ghost Pirates - School Day",
+      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Watsky x Infinity 10th Anniversary Screening Tour",
+      "venue_line": "Ritz Theatre • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

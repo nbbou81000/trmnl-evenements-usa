@@ -1,37 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-23T14:00:36.595Z",
+  "updated_at": "2026-10-24T13:03:06.515Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "South Carolina Gamecocks Womens Basketball vs. Benedict Tigers Womens Basketball",
-      "venue_line": "Colonial Life Arena • Columbia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "MOJO BROOKZZ: OUTTA POCKET TOUR",
-      "venue_line": "Township Auditorium • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Kidd G: The Forever Bender Tour",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Univ of South Carolina Gamecocks Football vs. Texas A&M Aggies Football",
+      "venue_line": "Williams-Brice Stadium • Columbia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "University of South Carolina Gamecocks Mens Basketball vs. Southeast Missouri State Mens Basketball",
+      "venue_line": "Colonial Life Arena • Columbia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Bands Not Bans - 18+",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,47 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-23T14:00:37.445Z",
+  "updated_at": "2026-10-24T13:03:07.447Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
-      "venue_line": "Savannah International Trade & Convention Center • Savannah",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
-      "venue_line": "Savannah International Trade & Convention Center • Savannah",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Savannah Ghost Pirates vs. South Carolina Stingrays",
-      "venue_line": "Enmarket Arena • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
-      "venue_line": "Savannah International Trade & Convention Center • Savannah",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Savannah Ghost Pirates vs. Orlando Solar Bears",
+      "venue_line": "Enmarket Arena • Savannah",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Lakeview",
+      "venue_line": "District Live • Savannah",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Savannah Ghost Pirates vs. Trois-Rivières Lions",
+      "venue_line": "Enmarket Arena • Savannah",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "A Magical Cirque Christmas (Touring)",
+      "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

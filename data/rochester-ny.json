@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-23T14:00:24.303Z",
+  "updated_at": "2026-10-24T13:02:52.836Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "RIT Tigers Men's Hockey vs. Rensselaer Polytechnic Engineers Mens Hockey",
-      "venue_line": "Gene Polisseni Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Stayin' Alive: One Night of the Bee Gees",
-      "venue_line": "Kodak Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Medusa Quartet",
+      "venue_line": "Lovin' Cup • Rochester",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Midwinter - Haunt Me Forever Tour",
+      "venue_line": "The Montage Music Hall • Rochester",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

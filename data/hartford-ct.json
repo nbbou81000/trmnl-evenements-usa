@@ -1,57 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-23T14:00:26.182Z",
+  "updated_at": "2026-10-24T13:02:54.698Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Story So Far",
-      "venue_line": "Dome at Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Hartford Wolfpack vs. Providence Bruins",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "UConn Huskies Football vs. UMass Minutemen Football",
-      "venue_line": "Rentschler Field • East Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Mamma Mia! (Touring)",
-      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Lil Skies",
-      "venue_line": "Webster Underground • Hartford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Dracula",
+      "venue_line": "Hartford Stage • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Jeff Allen",
+      "venue_line": "Funny Bone Comedy Club - Hartford • Manchester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "BABYCHIEFDOIT ???Haunted Traphouse???",
+      "venue_line": "Webster Theatre • Hartford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Rumours of Fleetwood Mac",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

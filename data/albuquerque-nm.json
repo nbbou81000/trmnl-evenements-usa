@@ -1,37 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-23T14:01:06.623Z",
+  "updated_at": "2026-10-24T13:03:41.404Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Leonid & Friends",
-      "venue_line": "Kiva Auditorium at the Albuquerque Convention Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Sunn 0]]]",
-      "venue_line": "El Rey - NM • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Nelly",
-      "venue_line": "Isleta Casino and Resort • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-31",
       "title": "Crazy Train - Americas Ozzy Tribute",
       "venue_line": "Route 66 Casino • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Rocky Horror Show",
+      "venue_line": "Albuquerque Little Theatre • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "It???s A 2000???s (Halloween) Party: Albuquerque - Ages 18+",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "WAGE WAR - EMERGENCY BROADCAST TOUR\r\nWAGE WAR - EMERGENCY BROADCAST TOUR",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

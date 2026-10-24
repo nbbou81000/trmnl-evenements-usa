@@ -1,167 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-23T14:01:10.800Z",
+  "updated_at": "2026-10-24T13:03:46.138Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Toga Party Band Happy Hour",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Toga Party Band Happy Hour (21+ Event)",
-      "venue_line": "Belly Up Tavern • Solana Beach",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Dead Poet Society x Honey Revenge",
-      "venue_line": "House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Aquabats!",
-      "venue_line": "The Observatory North Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Kyle Gordon",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Madeon presents Victory Live",
-      "venue_line": "The Rady Shell at Jacobs Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Chris Estrada",
-      "venue_line": "The American Comedy Co. • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "San Diego State Aztecs Mens Basketball vs. USC Trojans Men's Basketball",
-      "venue_line": "Viejas Arena at Aztec Bowl San Diego State University • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Megan Woods: The Truth tour",
-      "venue_line": "FAITH CHAPEL • Spring Valley",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "San Diego Opera Presents: RIGOLETTO ",
-      "venue_line": "San Diego Civic Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "TEN - US Showcase Tour",
-      "venue_line": "Humphreys Concerts By the Bay • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Mutate presents Restricted",
-      "venue_line": "SOMA - Mainstage • San Diego",
-      "price_label": "$52",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Chris Estrada",
-      "venue_line": "The American Comedy Co. • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Kishi Bashi - Sonderlust 10th Anniversary Tour w/ Geographer",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$38",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Snakehips",
-      "venue_line": "Nova SD • San Diego",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +41,166 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "The Wldlfe",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Chris Estrada",
+      "venue_line": "The American Comedy Co. • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "City Ballet Of San Diego Presents: American Icons",
+      "venue_line": "Balboa Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "San Diego Opera Presents: RIGOLETTO ",
+      "venue_line": "San Diego Civic Theatre • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "America - The Happy Trails Tour",
+      "venue_line": "Humphreys Concerts By the Bay • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "San Diego FC vs Seattle Sounders FC",
+      "venue_line": "Snapdragon Stadium • San Diego",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+      "venue_line": "North Island Credit Union Amphitheatre • Chula Vista",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Malcolm Todd: Do That Again Tour",
+      "venue_line": "Petco Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Spooky Feels: A Halloween Indie Rock + Electronic Dance Party - 18+",
+      "venue_line": "The Observatory North Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "beabadoobee: The Powerlines Tour",
+      "venue_line": "Viejas Arena at Aztec Bowl San Diego State University • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Switchfoot with Anberlin - Forever Now Tour",
+      "venue_line": "The Sound • Del Mar",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "WAR - 50th Anniversary Greatest Hits Tour",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$91–$159",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "WAR (21+ Event)",
+      "venue_line": "Belly Up Tavern • Solana Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Oingo Boingo Former Members w/ The Untouchables",
+      "venue_line": "Music Box - San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "City of the Sun (21 and Over)",
+      "venue_line": "Casbah-San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Chris Estrada",
+      "venue_line": "The American Comedy Co. • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

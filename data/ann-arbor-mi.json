@@ -1,47 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-23T14:00:43.338Z",
+  "updated_at": "2026-10-24T13:03:14.823Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "HARBOUR",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Michigan Wolverines Hockey vs. Western Michigan Broncos Hockey",
-      "venue_line": "Yost Arena • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "YYNOT - Classic RUSH Tribute and Prog Rock Originals, Triple Black, Pound Town Prophet",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$19–$189",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Travis Porter - 2000's Hip-Hop Rewind",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$54–$79",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -78,7 +38,7 @@
       "date_iso": "2026-10-24",
       "title": "Blade Rave",
       "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$34–$46",
+      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +161,46 @@
       "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "lilyisthatyou",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Ten Years Gone - Tribute to Led Zeppelin",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$12–$96",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Halloween Gone Wild",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$20–$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Michigan Wolverines Womens Volleyball vs. Indiana Hoosiers Womens Volleyball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

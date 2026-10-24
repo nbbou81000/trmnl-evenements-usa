@@ -1,37 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-10-23T14:00:50.789Z",
+  "updated_at": "2026-10-24T13:03:23.255Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ballet Des Moines Presents Ghost Stories",
-      "venue_line": "Hoyt Sherman Place • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "1964 The Tribute",
-      "venue_line": "The Ingersoll • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ranch Hands - Cowboylesque - Ages 21+",
-      "venue_line": "Val Air Ballroom • West Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -197,6 +167,36 @@
       "day_number": "3",
       "date_iso": "2026-11-03",
       "title": "Hot Freaks w/ Thesaurus Rex",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Drake Bulldogs Mens Basketball vs. Central College Dutch Mens Basketball",
+      "venue_line": "Drake Knapp Center • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Pigeons Playing Ping Pong w/ Dizgo",
+      "venue_line": "Wooly's • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Doctors of Comedy",
       "venue_line": "xBk Live • Des Moines",
       "price_label": "Price not available",
       "type_key": "misc",

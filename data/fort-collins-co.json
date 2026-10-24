@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-23T14:01:04.846Z",
+  "updated_at": "2026-10-24T13:03:39.503Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Colorado Eagles vs. Bakersfield Condors",
-      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Yheti b2b Toadface with Dank Frank",
-      "venue_line": "Aggie Theater • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -197,6 +177,26 @@
       "day_number": "6",
       "date_iso": "2026-11-06",
       "title": "Colorado State University Rams Mens Basketball vs. Idaho Vandals Mens Basketball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Colorado Eagles vs. Calgary Wranglers",
+      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Colorado State University Rams Womens Volleyball vs. Boise State Broncos Womens Volleyball",
       "venue_line": "Moby Arena • Fort Collins",
       "price_label": "Price not available",
       "type_key": "sports",

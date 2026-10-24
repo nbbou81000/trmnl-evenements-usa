@@ -1,37 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-10-23T14:01:04.444Z",
+  "updated_at": "2026-10-24T13:03:39.023Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Colorado College Tigers Hockey vs. Air Force",
-      "venue_line": "Ed Robson Arena • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Monster Jam",
-      "venue_line": "Broadmoor World Arena • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ghetto Psycho Tour featuring King Iso, Taebo Tha Truth, Matt Phoenix,",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour - Colorado Springs, CO",
+      "venue_line": "New Life Church • Colorado Springs",
+      "price_label": "$30–$122",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "KOLBY COOPER",
+      "venue_line": "Whiskey Rose • Colorado Springs",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Colorado College Tigers Hockey vs. Minnesota Duluth",
+      "venue_line": "Ed Robson Arena • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

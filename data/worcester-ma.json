@@ -1,37 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-23T14:00:30.999Z",
+  "updated_at": "2026-10-24T13:03:00.030Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Periphery w/ Ne Obliviscaris",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Disney On Ice presents Spotlight Magic!",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Holy Cross Crusaders Hockey vs. Sacred Heart Pioneers Hockey",
-      "venue_line": "Hart Recreation Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -197,6 +167,36 @@
       "day_number": "30",
       "date_iso": "2026-10-30",
       "title": "The Disco Biscuits - FRIDAY",
+      "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Little Lies - New England's Premier Fleetwood Mac Tribute",
+      "venue_line": "Off The Rails Music Venue • Worcester",
+      "price_label": "$31–$82",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Whose Live Anyway?",
+      "venue_line": "Hanover Theatre • Worcester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Disco Biscuits - SATURDAY",
       "venue_line": "Palladium-MA • Worcester",
       "price_label": "Price not available",
       "type_key": "music",

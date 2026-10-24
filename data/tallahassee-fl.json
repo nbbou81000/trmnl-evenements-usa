@@ -1,27 +1,7 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-10-23T14:00:40.904Z",
+  "updated_at": "2026-10-24T13:03:11.452Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "2026 Rattler Strike Band Festival",
-      "venue_line": "FAMU Bragg Memorial Stadium • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "2026 FAMU Homecoming Greek Step Show",
-      "venue_line": "FAMU Al Lawson Jr. Multipurpose Center • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Club Seats - FSU MBB vs Wisconsin Green Bay",
+      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Florida State Seminoles Mens Basketball vs. Wisconsin Green Bay Phoenix Mens Basketball",
+      "venue_line": "Donald L. Tucker Center • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

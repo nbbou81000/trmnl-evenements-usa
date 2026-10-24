@@ -1,57 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-23T14:00:59.931Z",
+  "updated_at": "2026-10-24T13:03:33.734Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Gavin Adcock w/ Pecos and The Rooftops",
-      "venue_line": "Knoxville Coliseum • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "THE DIRTY GUV'NAHS: 20th Anniversary Tour",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Open House",
-      "venue_line": "The 808 • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "LIL WAYNE: 20 YEARS OF CARTER CLASSICS",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "October 23, 2026 - Loft & TriStar Club Premium Seating",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Tennessee Vols Mens Basketball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Covenant Health Classic - Baylor School v. Knoxville Catholic",
+      "venue_line": "Covenant Health Park • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Knoxville Ice Bears vs. Fayetteville Marksmen",
+      "venue_line": "Knoxville Civic Coliseum • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "90s Rave",
+      "venue_line": "The 808 • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-23T14:00:30.080Z",
+  "updated_at": "2026-10-24T13:02:59.060Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Rewind: 2000s Halloween Rave",
-      "venue_line": "Capital City Music Hall • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "L7: The Last Hurrah Tour 2026",
-      "venue_line": "XL Live • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -197,6 +177,26 @@
       "day_number": "1",
       "date_iso": "2026-11-01",
       "title": "Hershey Bears vs. Wilkes Barre Scranton Penguins -Hockey Fights Cancer",
+      "venue_line": "GIANT Center • Hershey",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Clue",
+      "venue_line": "Hershey Theatre • Hershey",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Hershey Bears vs. Hartford Wolf Pack",
       "venue_line": "GIANT Center • Hershey",
       "price_label": "Price not available",
       "type_key": "sports",

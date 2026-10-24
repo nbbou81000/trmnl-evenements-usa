@@ -1,46 +1,16 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-23T14:01:18.879Z",
+  "updated_at": "2026-10-24T13:03:55.100Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Cat Fanciers' of Hawaii Cat Show",
+      "venue_line": " Blaisdell Hawaii Suites • Honolulu",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Steel Pulse - Reggae Against Racism Tour",
-      "venue_line": "Tom Moffatt Waikiki Shell • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Rick Springfield",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$117–$172",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SAT",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Ka'au Crater Boys - The Second Chapter",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$34–$57",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Hawaii Holiday Craft & Gift Fair - FRIDAY",
+      "venue_line": "Neal S Blaisdell Exhibition Hall • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

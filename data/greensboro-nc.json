@@ -1,37 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-23T14:00:35.292Z",
+  "updated_at": "2026-10-24T13:03:05.009Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Koe Wetzel: The Night Champion World Tour",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Prelude Dining - Nikki Glaser",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Nikki Glaser: The Stunning Tour",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -197,6 +167,36 @@
       "day_number": "31",
       "date_iso": "2026-10-31",
       "title": "Prelude Dining - Lucy Darling",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lucy Darling: Halloween Spooktacular",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "5:30PM Pre-Show Talkback with Carisa Hendrix",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Premium Lounge - Lucy Darling",
       "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
       "price_label": "Price not available",
       "type_key": "misc",

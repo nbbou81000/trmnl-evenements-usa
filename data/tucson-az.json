@@ -1,67 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-23T14:01:07.430Z",
+  "updated_at": "2026-10-24T13:03:42.339Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Arizona Wildcats Mens Basketball vs. Eastern Washington Eagles Mens Basketball",
-      "venue_line": "McKale Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Latin Sizzle : Tucson Symphony Orchestra",
-      "venue_line": "Linda Ronstadt Music Hall • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Road to Dusk Battle of the Bands @ 191 Toole",
-      "venue_line": "191 Toole • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Who's Tommy (Touring)",
-      "venue_line": "Centennial Hall • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Gabriel Iglesias: The 1976 Tour",
-      "venue_line": "Tucson Arena • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Dweezil Zappa DZ20: Like Father, Like Son @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -196,8 +136,68 @@
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
+      "title": "Arizona Wildcats Womens Basketball vs. CSU Monterey Bay Otters Womens Basketball",
+      "venue_line": "McKale Center • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
       "title": "Mom Jeans @ Rialto Theatre",
       "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Earshot New Music Readings",
+      "venue_line": "Crowder Hall - University of Arizona • Tucson",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Gregorian: Pure Chants Tour @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "AFI @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "OUT IN FRONT : Still Out Of Place Tour pt. 2",
+      "venue_line": "The Rock • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Jefferson Lives!",
+      "venue_line": "Holsclaw Hall • Tucson",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

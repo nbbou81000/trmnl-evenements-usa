@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-23T14:00:24.810Z",
+  "updated_at": "2026-10-24T13:02:53.291Z",
   "events": [
     {
       "day_label": "SUN",
@@ -9,116 +9,6 @@
       "title": "The Song & Dance Season Pass - Summer/Fall",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$208",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
-      "venue_line": "NY State Fairgrounds • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
-      "venue_line": "NY State Fairgrounds • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Holywatr: Deo Gratias Tour",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Syracuse Crunch vs. Rochester Americans",
-      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Dale Jones",
-      "venue_line": "Funny Bone Comedy Club - Syracuse • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Bored Teachers: \"Is It Friday Yet?!\" Comedy Tour",
-      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "BIG SHRIMP w/s/g Joe Marcinek Band",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Ladies of the 80's Night Out",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$15–$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Dale Jones",
-      "venue_line": "Funny Bone Comedy Club - Syracuse • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Likkle Riddim : Trick Or Freak",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$23–$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
-      "venue_line": "NY State Fairgrounds • Syracuse",
-      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Method Man and Redman",
+      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Boy Jr.'s Halloween Vampire Ball",
+      "venue_line": "Funk N' Waffles • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Bearly Dead - Trib. To The Grateful Dead",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "24",
+      "date_iso": "2026-10-24",
+      "title": "Dale Jones",
+      "venue_line": "Funny Bone Comedy Club - Syracuse • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
+      "venue_line": "NY State Fairgrounds • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Jurassic Quest – Syracuse, NY | New York State Fairgrounds",
+      "venue_line": "NY State Fairgrounds • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Jazz Jam",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Ne Obliviscaris",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Open mic hosted by Attamizk & friends",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "TONI ROMITI w/s/g DJ Caleb & More!",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "DEAD NIGHT w/ Pearly Baker's Best",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

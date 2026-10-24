@@ -1,67 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-23T14:00:36.169Z",
+  "updated_at": "2026-10-24T13:03:06.038Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "The Hip Abduction",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Sexy Unique Podcast",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Disney On Ice presents Magic of Family",
-      "venue_line": "North Charleston Coliseum • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Watch What Happens Live with Andy Cohen",
-      "venue_line": "North Charleston Performing Arts Center • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
-      "venue_line": "Credit One Stadium  • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Sexy Unique Podcast",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "CeCe Winans - COME WORSHIP! Tour",
+      "venue_line": "North Charleston Coliseum • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Sonic Live in Concert",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "SC Ballet Presents Dracula",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Hex Appeal: All Killer No Filler - 18+",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "South Carolina Stingrays vs. Savannah Ghost Pirates",
+      "venue_line": "North Charleston Coliseum • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "David Sedaris",
+      "venue_line": "Gaillard Center • Charleston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

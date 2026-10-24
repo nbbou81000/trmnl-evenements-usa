@@ -1,47 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-23T14:00:25.329Z",
+  "updated_at": "2026-10-24T13:02:53.763Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Deveria",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Los Lobos",
-      "venue_line": "Hart Theatre at The Egg • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Whose Live Anyway?",
-      "venue_line": "Troy Savings Music Hall • Troy",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Built To Spill Fall 2026 Tour",
-      "venue_line": "Empire Live • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-30",
       "title": "Judah & the Lion",
       "venue_line": "Empire Live • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Albany Great Danes Football vs. Campbell Fighting Camels Football",
+      "venue_line": "Bob Ford Field Tom & Mary Casey Stadium • Albany",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Union College Garnet Chargers Hockey vs. Rensselaer Polytechnic Engineers Mens Hockey",
+      "venue_line": "M&T Bank Center • Schenectady",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "It's A 2000's (Halloween) Party: Albany",
+      "venue_line": "Empire Live • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Ally Venable",
+      "venue_line": "Empire Underground • Albany",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

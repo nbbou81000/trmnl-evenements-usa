@@ -1,27 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-23T14:00:45.508Z",
+  "updated_at": "2026-10-24T13:03:17.205Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "MTP Presents: Evil Dead The Musical",
-      "venue_line": "John, James and Clara Knight Stage • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Neil Zaza: One Dark Night",
-      "venue_line": "Goodyear Theater • Akron",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -136,6 +116,16 @@
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
+      "title": "Akron Zips Mens Basketball vs. Youngstown State Penguins Mens Basketball",
+      "venue_line": "James Rhodes Arena • Akron",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
       "title": "The Bodyguard (Touring)",
       "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
       "price_label": "Price not available",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-30",
       "title": "That Arena Rock Show",
       "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Emo Night Ft. Flicker//Fade Live Band Emo Night",
+      "venue_line": "The Auricle • Canton",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,37 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-23T14:00:49.985Z",
+  "updated_at": "2026-10-24T13:03:22.164Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Creighton Bluejays Womens Volleyball vs. Providence College Women's Volleyball",
-      "venue_line": "RYAN CENTER/DJ SOKOL ARENA • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "Exhibition: Creighton Bluejays vs Minnesota Golden Gophers",
-      "venue_line": "CHI Health Center Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "23",
-      "date_iso": "2026-10-23",
-      "title": "ZACH MILLER",
-      "venue_line": "Barnato • Omaha",
-      "price_label": "$22–$39",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "24",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Omaha Men's Soccer vs. Kansas City",
+      "venue_line": "Caniglia Field • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Orpheum Theater - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Omaha Lancers vs. Lincoln Stars",
+      "venue_line": "Liberty First Credit Union Arena • Ralston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }
