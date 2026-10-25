@@ -1,57 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-24T13:02:52.836Z",
+  "updated_at": "2026-10-25T13:30:38.310Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Hocus Pocus: The Taste-A-Long® Experience",
-      "venue_line": "Kodak Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "RIT Tigers Men's Hockey vs. Rensselaer Polytechnic Engineers Mens Hockey",
-      "venue_line": "Gene Polisseni Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Smilo & the Ghost",
-      "venue_line": "Lovin' Cup • Rochester",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Tough Old Bird, Ivy's Home",
-      "venue_line": "The Bug Jar • Rochester",
-      "price_label": "$12–$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "House Party: A sweaty love-letter to the 2010s rager.",
-      "venue_line": "The Montage Music Hall • Rochester",
-      "price_label": "$17–$23",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +151,56 @@
       "price_label": "$28",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Alicia Keys' Hell's Kitchen",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Jeff Dunham: Inappropriate Contact",
+      "venue_line": "Kodak Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Rochester Americans vs Hartford Wolf Pack",
+      "venue_line": "Blue Cross Arena • Rochester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Rochester Americans vs. Hartford Wolfpack",
+      "venue_line": "Blue Cross Arena • Rochester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Alicia Keys' Hell's Kitchen",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

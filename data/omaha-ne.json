@@ -1,37 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-24T13:03:22.164Z",
+  "updated_at": "2026-10-25T13:31:05.176Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Omaha Volleyball vs. North Dakota",
-      "venue_line": "Baxter Arena • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Omaha Lancers vs. Tri-City Storm",
-      "venue_line": "Liberty First Credit Union Arena • Ralston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Thomas Rhett: The Soundtrack to Life Tour",
-      "venue_line": "CHI Health Center Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Donny Benet w/ OTNES",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Fool House | Official Caesars Ticket + Hotel Packages",
+      "venue_line": "Whiskey Roadhouse-Horseshoe Council Bluffs Casino • Council Bluffs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Fool House - The Ultimate 90's Party: Wow! That's What I Call 90's",
+      "venue_line": "Whiskey Roadhouse-Horseshoe Council Bluffs Casino • Council Bluffs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

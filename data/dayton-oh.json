@@ -1,37 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-24T13:03:17.664Z",
+  "updated_at": "2026-10-25T13:31:01.251Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Dayton Flyers Football v. San Diego",
-      "venue_line": "Welcome Stadium • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Dayton Flyers Men's Basketball v. Morehead State (Exh.)",
-      "venue_line": "University of Dayton Arena • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "The Carpenters Songbook - A Live Celebration",
-      "venue_line": "Schuster PAC • Dayton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-14",
       "title": "Dayton Flyers Men's Basketball v. Cincinnati",
       "venue_line": "University of Dayton Arena • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Dayton Flyers Men's Basketball v. Central Michigan",
+      "venue_line": "University of Dayton Arena • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Wright State Raiders Women's Basketball vs. Marshall Thundering Herd Womens Basketball",
+      "venue_line": "Wright State University Nutter Center • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Wright State Raiders Mens Basketball vs. Malone University Men's Basketball",
+      "venue_line": "Wright State University Nutter Center • Dayton",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

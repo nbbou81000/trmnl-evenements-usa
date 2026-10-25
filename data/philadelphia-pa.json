@@ -1,91 +1,11 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-10-24T13:02:51.397Z",
+  "updated_at": "2026-10-25T13:30:37.017Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "The Rock & Roll Playhouse Presents: Pink Pony Halloween Party!",
-      "venue_line": "Brooklyn Bowl Philadelphia • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Big Wig Halloween Brunch: The Ultimate Drag Experience",
-      "venue_line": "Punch Line Philly • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Philadelphia Flyers vs. Anaheim Ducks",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Post Game Slap Shot - MUST HAVE TICKET TO GAME",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "High 5 Tunnel - MUST HAVE TICKET TO GAME",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Blue Line Buddies - MUST HAVE TICKET TO GAME",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Primepoint Social Pass - MUST HAVE TICKET TO GAME",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Flyers Pregame Tours - MUST HAVE TICKET TO GAME",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
       "title": "The Great Gatsby (Touring)",
       "venue_line": "Academy of Music - PA • Philadelphia",
       "price_label": "Price not available",
@@ -93,9 +13,19 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "The Dead Alchemists , Shakedown South Street Volume 3",
+      "venue_line": "Nikki Lopez Philly • Philadelphia",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
       "title": "The Addams Family (Touring)",
       "venue_line": "Walnut Street Theatre • Philadelphia",
       "price_label": "Price not available",
@@ -103,9 +33,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
       "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
       "venue_line": "Walnut Street Theatre • Philadelphia",
       "price_label": "Price not available",
@@ -113,9 +43,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
       "title": "Girl from the North Country",
       "venue_line": "Arden Theatre Company • Philadelphia",
       "price_label": "Price not available",
@@ -123,49 +53,19 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Villanova Wildcats Football vs. Lehigh Mountain Hawks Football",
-      "venue_line": "Villanova Stadium • Villanova",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Girl from the North Country",
-      "venue_line": "Arden Theatre Company • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Son of Sleezer",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Son of SLEEZER Night 2!",
       "venue_line": "Nikki Lopez Philly • Philadelphia",
-      "price_label": "$0",
+      "price_label": "$26",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Maz Jobrani",
-      "venue_line": "Punch Line Philly • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
       "title": "The Great Gatsby (Touring)",
       "venue_line": "Academy of Music - PA • Philadelphia",
       "price_label": "Price not available",
@@ -173,34 +73,134 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Movements w/ Balance & Composure",
-      "venue_line": "Franklin Music Hall • Philadelphia",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Dysfunctional Family Comedy Show",
+      "venue_line": "Punch Line Philly • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Skeleton Crewe Quintet (21+ Event)",
+      "venue_line": "Ardmore Music Hall • Ardmore",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Abbie Gamboa - Have You Ever Looked Around Tour",
+      "venue_line": "Brooklyn Bowl Philadelphia • Philadelphia",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Philadelphia 76ers vs. Milwaukee Bucks",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Philadelphia 76ers vs. Detroit Pistons",
       "venue_line": "Xfinity Mobile Arena • Philadelphia",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Philadelphia Union vs. New England Revolution",
-      "venue_line": "Subaru Park • Chester",
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Osees",
+      "venue_line": "Union Transfer • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Maddie Zahm - Everything All The Time Tour ",
+      "venue_line": "The Foundry • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "25",
+      "date_iso": "2026-10-25",
+      "title": "Bruce Cockburn - All Ages (under 16 with adult)",
+      "venue_line": "Keswick Theatre • Glenside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Arch Enemy + The Black Dahlia Murder: Wrath Across North America 2026",
+      "venue_line": "Theatre of Living Arts • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Punch Line Philly Open Mic Night",
+      "venue_line": "Punch Line Philly Callback Bar • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Glenn Miller Orchestra- All Ages (under 16 with adult)",
+      "venue_line": "Keswick Theatre • Glenside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "After",
+      "venue_line": "The Foundry • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Philadelphia Eagles vs. Dallas Cowboys",
+      "venue_line": "Lincoln Financial Field • Philadelphia",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Andy Boay of Tonstartssbandht with The Playful Bunch and Eezy Feeling",
+      "venue_line": "Nikki Lopez Philly • Philadelphia",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

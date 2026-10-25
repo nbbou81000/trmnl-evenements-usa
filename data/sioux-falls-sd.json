@@ -1,17 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-10-24T13:03:25.206Z",
+  "updated_at": "2026-10-25T13:31:07.729Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Zac Brown Band w/ Brothers Osborne",
-      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Sioux Falls Stampede vs. Fargo Force",
+      "venue_line": "Denny Sanford PREMIER Center • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,117 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-24T13:03:50.439Z",
+  "updated_at": "2026-10-25T13:31:29.987Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Young Frankenstein",
-      "venue_line": "Lewis Family Playhouse • Rancho Cucamonga",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Moses Storm",
-      "venue_line": "Corona Improv • Corona",
-      "price_label": "$31",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Tradición, Arte y Pasión: Mariachi Los Camperos",
-      "venue_line": "Fox Performing Arts Center • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Godfrey",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$34",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Bobby Dee Presents: Los Tiranos Del Norte",
-      "venue_line": "Stage Red • Fontana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "YG: THE GENTLEMEN'S CLUB TOUR",
-      "venue_line": "Toyota Arena • Ontario",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Foreigner (21+)",
-      "venue_line": "Yaamava Theater • Highland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Moses Storm",
-      "venue_line": "Corona Improv • Corona",
-      "price_label": "$31",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Godfrey",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$34",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Its The Great Pumpkin Charlie Brown",
+      "venue_line": "The Fox Theater-Pomona • Pomona",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Used",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Joey Cerone",
+      "venue_line": "Corona Improv • Corona",
+      "price_label": "$31",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Don Omar \"The Last King World Tour\"",
+      "venue_line": "Toyota Arena • Ontario",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Tom Jones (21+)",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Escape",
+      "venue_line": "NOS Events Center • San Bernardino",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Escape",
+      "venue_line": "NOS Events Center • San Bernardino",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Lenny Pearce - Toddler Rave World Tour",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Ontario Reign vs. Tucson Roadrunners",
+      "venue_line": "Toyota Arena-CA • Ontario",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Brooks Wheelan",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$25–$77",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

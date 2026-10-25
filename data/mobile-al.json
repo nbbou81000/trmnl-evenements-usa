@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-24T13:03:38.077Z",
+  "updated_at": "2026-10-25T13:31:18.933Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "The Souled Out Comedy Show",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14–$39",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Mobile Roast League: Comedians Fight With Words!",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -71,6 +51,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "MGM LETT - FREE SHOW - 18+ Only",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$3",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -201,6 +191,16 @@
       "price_label": "$32–$38",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "WRAITHBEARER / UNION251 / LESSFAITH / INNERWOUNDS",
+      "venue_line": "Alabama Music Box • Mobile",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

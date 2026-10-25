@@ -1,27 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-24T13:03:37.147Z",
+  "updated_at": "2026-10-25T13:31:18.145Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Pat McGann",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$27",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Billy Strings",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -201,6 +181,26 @@
       "price_label": "$40–$53",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "KARLOUS MILLER",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$40–$53",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "A Celtic Christmas by A Taste of Ireland",
+      "venue_line": "VBC Mark C Smith Concert Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

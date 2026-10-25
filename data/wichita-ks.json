@@ -1,17 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-24T13:03:24.217Z",
+  "updated_at": "2026-10-25T13:31:06.874Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "An Evening of Gospel Music with William Murphy III",
-      "venue_line": "Wichita Orpheum Theatre • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "9th Annual Cuffs and Axes Charity Boxing Classic",
+      "venue_line": "Heartland Credit Union Arena • Park City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

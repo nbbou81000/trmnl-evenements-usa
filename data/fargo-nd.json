@@ -1,17 +1,7 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-10-24T13:03:24.755Z",
+  "updated_at": "2026-10-25T13:31:07.334Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Throne MMA",
-      "venue_line": "Scheels Arena • Fargo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -196,6 +186,16 @@
       "day_label": "FRI",
       "day_number": "11",
       "date_iso": "2026-12-11",
+      "title": "Fargo Force vs Des Moines Buccaneers",
+      "venue_line": "Scheels Arena • Fargo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "12",
+      "date_iso": "2026-12-12",
       "title": "Fargo Force vs Des Moines Buccaneers",
       "venue_line": "Scheels Arena • Fargo",
       "price_label": "Price not available",

@@ -1,67 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-24T13:03:08.424Z",
+  "updated_at": "2026-10-25T13:30:53.202Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "The Reset Experience",
-      "venue_line": "Ritz Theatre • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "George Wallace",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Jax Symphony: Music of the Knights",
-      "venue_line": "Jacksonville Center for the Performing Arts - Jacoby Hall • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "The 16th Annual TOFA Awards",
-      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "George Wallace",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "It's A 2000's (Halloween) Party: Jacksonville - Ages 18+",
-      "venue_line": "Decca Live • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "All Elite Wrestling Dynamite presents Blood & Guts",
+      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Doktor Kaboom!",
+      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Ben Bankas",
+      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jacksonville Icemen vs Florida Everblades",
+      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Ben Bankas",
+      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "JAX SYMPHONY: MAHLER'S NINTH",
+      "venue_line": "Jacksonville Center for the Performing Arts - Jacoby Hall • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

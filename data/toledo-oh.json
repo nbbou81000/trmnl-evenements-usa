@@ -1,17 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-24T13:03:16.740Z",
+  "updated_at": "2026-10-25T13:30:59.958Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Toledo Rockets Football vs. Western Michigan Broncos Football",
-      "venue_line": "Glass Bowl Stadium • Toledo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-18",
       "title": "Toledo Rockets Football vs. Bowling Green Falcons Football",
       "venue_line": "Glass Bowl Stadium • Toledo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Bowling Green Falcons Hockey vs. Augustana Vikings Mens Hockey",
+      "venue_line": "Slater Family Ice Arena • Bowling Green",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

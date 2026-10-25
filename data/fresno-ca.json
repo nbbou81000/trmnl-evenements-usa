@@ -1,17 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-24T13:03:48.136Z",
+  "updated_at": "2026-10-25T13:31:27.863Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "BAD BUNNY HALLOWEEN",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$8",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -199,6 +189,16 @@
       "title": "The Psychedelic Furs With Special Guests We Are Scientists",
       "venue_line": "Warnors Theatre • Fresno",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Prince Daddy And The Hyena, Teen Suicide, Combat, Walter Etc.",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$32–$35",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,27 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-24T13:03:32.109Z",
+  "updated_at": "2026-10-25T13:31:13.974Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Central Arkansas Bears Football vs. Texas Rio Grande Valley Vaqueros Football",
-      "venue_line": "Estes Stadium • Conway",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Arkansas Black Hall of Fame Induction Ceremony & Show",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-07",
       "title": "Central Arkansas Bears Football vs. West Georgia Wolves Football",
       "venue_line": "Estes Stadium • Conway",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Hot Wheels Monster Trucks™ Live Glow-N-Fire",
+      "venue_line": "Simmons Bank Arena • North Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Hot Wheels Monster Trucks™ Live Glow-N-Fire",
+      "venue_line": "Simmons Bank Arena • North Little Rock",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

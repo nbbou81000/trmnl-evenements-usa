@@ -1,87 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-24T13:03:17.205Z",
+  "updated_at": "2026-10-25T13:31:00.378Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Kent State Golden Flashes Football vs. Akron Zips Football",
-      "venue_line": "Dix Stadium • Kent",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Puppy Pals Live- The Action-Packed Comedic Stunt Dog Show",
-      "venue_line": "Goodyear Theater • Akron",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Akron Zips Mens Soccer vs. Xavier Musketeers Mens Soccer",
-      "venue_line": "FirstEnergy Stadium - Cub Cadet Field • Akron",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Armored MMA",
-      "venue_line": "Canton Civic Center • Canton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "MTP Presents: Evil Dead The Musical",
-      "venue_line": "John, James and Clara Knight Stage • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "Fake News - A Tribute to Huey Lewis",
-      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "The Masque",
-      "venue_line": "Akron Civic Theatre • Akron",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "24",
-      "date_iso": "2026-10-24",
-      "title": "The Fab Four - The Ultimate Tribute",
-      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "25",
@@ -198,6 +118,86 @@
       "date_iso": "2026-10-30",
       "title": "Emo Night Ft. Flicker//Fade Live Band Emo Night",
       "venue_line": "The Auricle • Canton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "MTP Presents: Evil Dead The Musical",
+      "venue_line": "John, James and Clara Knight Stage • Akron",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "Akron Civic Theatre • Akron",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Thurston Howell: Your Premier Yacht Rock Spectacular!",
+      "venue_line": "Goodyear Theater • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "MTP Presents: Evil Dead The Musical",
+      "venue_line": "John, James and Clara Knight Stage • Akron",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "William Shatner Live On-Stage w/ Star Trek II: The Wrath of Khan",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "STING 3.0 Tour",
+      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Akron Zips Womens Basketball vs. South Alabama Jaguars Womens Basketball",
+      "venue_line": "James Rhodes Arena • Akron",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "STING 3.0 Tour",
+      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
