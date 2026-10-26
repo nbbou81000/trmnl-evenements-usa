@@ -1,77 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-25T13:30:37.459Z",
+  "updated_at": "2026-10-26T15:43:38.093Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Giselle w/ Pittsburgh Ballet Theatre",
-      "venue_line": "Benedum Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Hocus Pocus Drag Brunch",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Barnatan Plays Beethoven with The Pittsburgh Symphony Orchestra",
-      "venue_line": "Heinz Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Justin Silva",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$31–$83",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The Lowest Pair wsg Julianna Warner",
-      "venue_line": "Club Cafe • Pittsburgh",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Little Big Town - For The Art Of It Tour",
-      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Flamin' Groovies",
-      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-28",
       "title": "Robert Morris University Women's Basketball vs. Saint Bonaventure(Exh)",
       "venue_line": "UPMC Events Center • Moon Township",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Riff Raff (21+)",
+      "venue_line": "Spirit Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "UpDating",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$43–$114",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Hadestown (Touring)",
+      "venue_line": "Benedum Center • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Sammy Rae and The Friends w/ Melt",
+      "venue_line": "Stage AE • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Periphery - A Pale White Dot US Tour",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Pittsburgh Penguins vs. Utah Mammoth",
+      "venue_line": "PPG Paints Arena • Pittsburgh",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

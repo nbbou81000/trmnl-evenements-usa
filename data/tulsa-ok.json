@@ -1,37 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-25T13:31:13.529Z",
+  "updated_at": "2026-10-26T15:44:11.787Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Garth Brooks - Blame It All On My Roots Arena Tour",
-      "venue_line": "BOK Center • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Lords of Acid w/ Princess Superstar",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "AFI",
-      "venue_line": "Cain's Ballroom • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -197,6 +167,36 @@
       "day_number": "5",
       "date_iso": "2026-11-05",
       "title": "Southall",
+      "venue_line": "Cain's Ballroom • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Three Days Grace - Alienation Tour ",
+      "venue_line": "BOK Center • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Gary Allan",
+      "venue_line": "Hard Rock Hotel & Casino - Tulsa • Catoosa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Rock N' Folk N' Chili Cook-Off - Kids 12 and under are free!",
       "venue_line": "Cain's Ballroom • Tulsa",
       "price_label": "Price not available",
       "type_key": "music",

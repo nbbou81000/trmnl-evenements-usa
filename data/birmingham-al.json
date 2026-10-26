@@ -1,57 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-25T13:31:17.730Z",
+  "updated_at": "2026-10-26T15:44:15.925Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The Phantom of the Opera (1925) - Silent Film Classic",
-      "venue_line": "Alabama Theatre • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "4th Sunday w/ Taylor Hollingsworth Free Show Happy Hour 5pm-7pm at The Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The Rogue Route | Official BJCC Ticket + Hotel Packages",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Woman Evolve Presents The Rogue Route with Sarah Jakes Roberts",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Buckets at The Nick October 25th",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Birmingham Bulls v. Knoxville Ice Bears",
+      "venue_line": "Pelham Civic Complex • Pelham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Samford University Bulldogs Football vs. Wofford College Terriers Football",
+      "venue_line": "Pete Hanna Center • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Red Clay Strays | Official BJCC Ticket + Hotel Packages. ",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Red Clay Strays",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "So Good! The Neil Diamond Experience starring Robert Neary",
+      "venue_line": "The Lyric Theatre • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

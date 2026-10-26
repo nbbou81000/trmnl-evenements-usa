@@ -1,47 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-25T13:30:48.494Z",
+  "updated_at": "2026-10-26T15:43:48.203Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Registix Reserve Access (Not A Game Ticket) - Buccaneers at Panthers",
-      "venue_line": "Bank of America Stadium • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Carolina Panthers v Tampa Bay Buccaneers",
-      "venue_line": "Bank of America Stadium • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Jai'Len Josey: The Serial Romantic Tour",
-      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Sueco",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-29",
       "title": "Acoustic Alchemy",
       "venue_line": "Middle C Jazz • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Jackiem Joyner",
+      "venue_line": "Middle C Jazz • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Diva Royale Drag Queen Show (18+ Event)",
+      "venue_line": "The Scorpio • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "UNC Charlotte 49ers Football vs. Tulane Green Wave Football",
+      "venue_line": "Jerry Richardson Stadium • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Bruce Cockburn with Livingston Taylor",
+      "venue_line": "The Carolina • Charlotte",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

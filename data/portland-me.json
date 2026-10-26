@@ -1,27 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-25T13:30:41.680Z",
+  "updated_at": "2026-10-26T15:43:41.800Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Maine Mariners vs. Worcester Railers",
-      "venue_line": "Cross Insurance Arena • Portland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Maine Mariners vs Worcester Railers",
-      "venue_line": "Cross Insurance Arena  • Portland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-07",
       "title": "Emo Night Portland",
       "venue_line": "Aura • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Maine Celtics vs. Westchester Knicks",
+      "venue_line": "Portland Expo • Portland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Fruit Bats",
+      "venue_line": "State Theatre • Portland",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

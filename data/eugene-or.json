@@ -1,37 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-25T13:31:32.453Z",
+  "updated_at": "2026-10-26T15:44:30.225Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Oregon Ducks Men's Basketball vs. Stanford Cardinal Mens Basketball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Paul Cauthen w/ Leon Majcen",
-      "venue_line": "McDonald Theatre • Eugene",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Slow Pulp",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -201,6 +171,36 @@
       "price_label": "$26",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Oregon Ducks Volleyball vs. Nebraska Cornhuskers Womens Volleyball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$15–$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Oregon Ducks Volleyball vs. Northwestern Wildcats Women's Volleyball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

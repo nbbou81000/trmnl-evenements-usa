@@ -1,37 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-25T13:30:50.002Z",
+  "updated_at": "2026-10-26T15:43:49.527Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Greensboro Gargoyles vs Greenville Swamp Rabbits - Howl-O-Ween",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Sonic Live In Concert",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Premium Lounge - Sonic Live in Concert",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-05",
       "title": "Extreme Dwarfanator Wrestling",
       "venue_line": "American Legion I.T. Mann Post 87 • High Point",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Greensboro Gargoyles vs Maine Mariners - Wizard Weekend",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Greensboro Swarm vs. Long Island Nets",
+      "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Quincy Roberts Presents 2026 Elite Muscle Classic",
+      "venue_line": "Piedmont Hall • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

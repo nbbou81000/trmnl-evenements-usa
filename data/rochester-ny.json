@@ -1,6 +1,6 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-25T13:30:38.310Z",
+  "updated_at": "2026-10-26T15:43:38.935Z",
   "events": [
     {
       "day_label": "WED",
@@ -77,6 +77,16 @@
       "day_number": "31",
       "date_iso": "2026-10-31",
       "title": "HALLOWEEN at BUG JAR ft. Tabby / Bad Bloom / Riverbed / The Salinas",
+      "venue_line": "The Bug Jar • Rochester",
+      "price_label": "$12–$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Leaking Head / Spooky Visions / Eclectic Blend",
       "venue_line": "The Bug Jar • Rochester",
       "price_label": "$12–$14",
       "type_key": "music",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "6",
-      "date_iso": "2026-11-06",
-      "title": "Alicia Keys' Hell's Kitchen",
-      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     }
   ]
 }

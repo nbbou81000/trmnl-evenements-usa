@@ -1,27 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-25T13:30:44.611Z",
+  "updated_at": "2026-10-26T15:43:44.778Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Mystic Pizza",
-      "venue_line": "Scranton Cultural Center • Scranton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Broadway in Scranton Season Subscription: SUNDAY MATINEES",
-      "venue_line": "Scranton Cultural Center • Scranton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -197,6 +177,26 @@
       "day_number": "15",
       "date_iso": "2026-11-15",
       "title": "Wilkes-Barre/Scranton Penguins vs. Lehigh Valley Phantoms",
+      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Menopause The Musical",
+      "venue_line": "Scranton Cultural Center • Scranton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Wilkes-Barre/Scranton Penguins vs. Milwaukee Admirals",
       "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
       "price_label": "Price not available",
       "type_key": "sports",

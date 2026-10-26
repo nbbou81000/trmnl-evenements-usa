@@ -1,27 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-25T13:31:05.589Z",
+  "updated_at": "2026-10-26T15:44:04.113Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "GOLDEN: A K-Pop Kids Party!",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$27–$52",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Nebraska Cornhuskers Womens Soccer vs. UCLA Bruins Womens Soccer",
-      "venue_line": "Barbara Hibner Soccer Stadium • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Ventura Boulevard: A Tom Petty Celebration",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$27–$39",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "NSAA Girls Volleyball Championship -Friday- D2, C1, A - Semifinals",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

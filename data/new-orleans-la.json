@@ -1,127 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-25T13:31:16.085Z",
+  "updated_at": "2026-10-26T15:44:14.214Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Sunday Youth Music Labs",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Roald Dahl's Matilda The Musical JR.",
-      "venue_line": "Jefferson Perf Arts Center • Metairie",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Nickel-A-Dance: A Tribute to Jelly Roll Morton with Steve Pistorius and the Southern Syncopators",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Fais Do-Do With Bruce Daigrepont Cajun Band",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Minx Burlesque ",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$19–$108",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The New Orleans Jazz Vipers",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Brad Walker Quartet with Stanton Moore",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Piss Yo' Pants Sundays hosted by Mark Caesar",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$19",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Brad Walker Quartet with Stanton Moore",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The Grammy Winning Hot 8 Brass Band",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -138,6 +18,16 @@
       "date_iso": "2026-10-26",
       "title": "PROF",
       "venue_line": "The Joy Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Boy Harsher (18+ Event)",
+      "venue_line": "Republic New Orleans • New Orleans",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -176,7 +66,7 @@
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
-      "title": "Mike Zito Band with Special Guests June Yamagishi & Jovin Webb",
+      "title": "Mike Zito Band & Special Guest June Yamagishi & Opener Band Jovin Webb",
       "venue_line": "New Orleans Jazz Market • New Orleans",
       "price_label": "Price not available",
       "type_key": "music",
@@ -201,6 +91,116 @@
       "price_label": "$27",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
+      "venue_line": "Lakefront Arena • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Roland Guerin's PROG: Funk",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Flying Mojito Bros",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "James Rivers Tribute with Peter Cho",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Cameron Whitcomb - Kingdom of Fear Tour",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "New Orleans Pelicans vs. Denver Nuggets",
+      "venue_line": "Smoothie King Center • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
+      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Mike Zito Band with Special Guests Jason Ricci & Jovin Webb",
+      "venue_line": "New Orleans Jazz Market • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "The Uptown Jazz Orchestra with Terrence Taplin",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$53",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Atlanta Rhythm Section",
+      "venue_line": "The Joy Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Stoned vs. Drunk vs. Sober: A Standup Comedy Competition",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$16",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

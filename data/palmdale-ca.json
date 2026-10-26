@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-25T13:31:31.259Z",
+  "updated_at": "2026-10-26T15:44:29.035Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "FREE SHOW: THE SCHISMS / LOST TAPES / NARCOTICA / URGENT CARE",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -199,6 +189,16 @@
       "title": "SKANKSGIVING: Vol 2",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$24–$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "FREE SHOW: BONE CROWN / BLACK EMPATHY / THE RAGE BELOW / FLOOD IN THE LIBRARY",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

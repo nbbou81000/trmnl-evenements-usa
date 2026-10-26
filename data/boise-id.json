@@ -1,57 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-25T13:31:21.448Z",
+  "updated_at": "2026-10-26T15:44:19.683Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Broadway In Boise Presents & JULIET",
-      "venue_line": "Morrison Center for the Performing Arts • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Pigeons Playing Ping Pong w/ Sqwerv",
-      "venue_line": "Treefort Music Hall • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Broadway In Boise Presents & JULIET",
-      "venue_line": "Morrison Center for the Performing Arts • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Catch Your Breath - Not Broken Enough Tour",
-      "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Amarillo By Morning",
-      "venue_line": "Nampa Civic Center • Nampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +148,56 @@
       "date_iso": "2026-11-02",
       "title": "Black Jacket Symphony",
       "venue_line": "Nampa Civic Center • Nampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
+      "venue_line": "Nampa Civic Center • Nampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "IDAHO STEELHEADS VS RAPID CITY RUSH",
+      "venue_line": "Idaho Central Arena • Boise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Katie Pruitt -  Fools for the Fleeting Tour",
+      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
+      "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The Tallest Man on Earth",
+      "venue_line": "Treefort Music Hall • Boise",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Aces w/ Gatlin",
+      "venue_line": "Treefort Music Hall • Boise",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

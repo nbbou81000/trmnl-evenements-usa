@@ -1,27 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-25T13:30:44.143Z",
+  "updated_at": "2026-10-26T15:43:44.331Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Alton Brown",
-      "venue_line": "Appell Center for the Performing Arts • York",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "The Phil Collins Story",
-      "venue_line": "Hershey Theatre • Hershey",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Moral",
+      "venue_line": "Capital City Music Hall Lower Level • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Noises Off",
+      "venue_line": "Kulkarni Theatre at Penn State Harrisburg • Middletown",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

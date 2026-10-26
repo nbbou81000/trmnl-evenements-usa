@@ -1,17 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-25T13:31:33.696Z",
+  "updated_at": "2026-10-26T15:44:31.423Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Burpees 4 Boobies: All Women's HYROX Fundraiser",
-      "venue_line": "Spokane Convention Center • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -199,6 +189,16 @@
       "title": "Katie Pruitt -  Fools for the Fleeting Tour",
       "venue_line": "The District • Spokane",
       "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Icon For Hire: Scripted 15 Year Anniversary Tour",
+      "venue_line": "The District • Spokane",
+      "price_label": "$35",
       "type_key": "music",
       "type_label": "Music"
     }

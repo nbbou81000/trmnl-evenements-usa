@@ -1,17 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-25T13:30:40.825Z",
+  "updated_at": "2026-10-26T15:43:40.975Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Rodrigo y Gabriela",
-      "venue_line": "College Street Music Hall • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-03",
       "title": "Clara La San",
       "venue_line": "Toad's Place • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Clara La San",
+      "venue_line": "Toads Place - CT • New Haven",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

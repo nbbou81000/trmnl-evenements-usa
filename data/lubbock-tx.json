@@ -1,17 +1,7 @@
 {
   "city_label": "Lubbock, TX",
-  "updated_at": "2026-10-25T13:31:11.151Z",
+  "updated_at": "2026-10-26T15:44:09.488Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Bert Kreischer",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -196,6 +186,16 @@
       "day_label": "FRI",
       "day_number": "20",
       "date_iso": "2026-11-20",
+      "title": "Waitress (Touring)",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
       "title": "Waitress (Touring)",
       "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
       "price_label": "Price not available",

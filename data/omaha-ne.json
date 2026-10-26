@@ -1,27 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-25T13:31:05.176Z",
+  "updated_at": "2026-10-26T15:44:03.716Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Jeff Allen",
-      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Ryan Bingham and The Texas Gentlemen - Still Gettin' Away With It Tour",
-      "venue_line": "Steelhouse Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-31",
       "title": "Fool House - The Ultimate 90's Party: Wow! That's What I Call 90's",
       "venue_line": "Whiskey Roadhouse-Horseshoe Council Bluffs Casino • Council Bluffs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Daughtry - 20 Years Unplugged Tour",
+      "venue_line": "The Astro Theater • La Vista",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "It's A 2000's (Halloween) Party - 21+",
+      "venue_line": "Steelhouse Omaha • Omaha",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

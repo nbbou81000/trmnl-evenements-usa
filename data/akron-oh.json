@@ -1,37 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-25T13:31:00.378Z",
+  "updated_at": "2026-10-26T15:43:59.459Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "MTP Presents: Evil Dead The Musical",
-      "venue_line": "John, James and Clara Knight Stage • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Snow White & the Seven Dwarfs by The United European Ballet",
-      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Ali Siddiq: The Custom Fit Tour",
-      "venue_line": "Akron Civic Theatre • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-02",
       "title": "STING 3.0 Tour",
       "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Akron Zips Football vs. Ohio Bobcats Football",
+      "venue_line": "InfoCision Stadium - Summa Field • Akron",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Wild Thread Presents: Shelter by Eric Mansfield",
+      "venue_line": "Wild Oscar's • Akron",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Kem",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,37 +1,7 @@
 {
   "city_label": "Virginia Beach, VA",
-  "updated_at": "2026-10-25T13:30:47.405Z",
+  "updated_at": "2026-10-26T15:43:47.355Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "PBJ: Sounds of Adventure",
-      "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Norfolk Admirals vs. Trois-Rivières Lions",
-      "venue_line": "Scope Arena • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Virginia Symphony: John Williams & Spielberg",
-      "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-03",
       "title": "Holywatr: Deo Gratias Tour",
       "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Old Dominion Monarchs Mens Basketball vs. Regent University Royals Mens Basketball",
+      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Old Dominion Monarchs Womens Basketball vs. Virginia State Trojans Womens Basketball",
+      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Little Big Town - For The Art Of It Tour",
+      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

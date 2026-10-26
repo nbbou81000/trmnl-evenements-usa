@@ -1,17 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-25T13:31:06.874Z",
+  "updated_at": "2026-10-26T15:44:05.362Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Blue October",
-      "venue_line": "Orpheum Theatre - Wichita KS • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "9th Annual Cuffs and Axes Charity Boxing Classic",
       "venue_line": "Heartland Credit Union Arena • Park City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Wichita Thunder vs. Tulsa Oilers - Hockey",
+      "venue_line": "INTRUST Bank Arena • Wichita",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

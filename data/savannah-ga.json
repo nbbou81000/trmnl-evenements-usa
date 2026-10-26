@@ -1,42 +1,12 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-10-25T13:30:52.363Z",
+  "updated_at": "2026-10-26T15:43:51.659Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
-      "venue_line": "Savannah International Trade & Convention Center • Savannah",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Jurassic Quest – Savannah, GA | Savannah Convention Center",
-      "venue_line": "Savannah International Trade & Convention Center • Savannah",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
       "title": "The Wiz (Touring)",
-      "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "26-27 Broadway in Savannah Season",
       "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
       "price_label": "Price not available",
       "type_key": "arts",
@@ -197,6 +167,36 @@
       "day_number": "24",
       "date_iso": "2026-11-24",
       "title": "2026 Allstate SEC Volleyball Championships: Final",
+      "venue_line": "Enmarket Arena • Savannah",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "25",
+      "date_iso": "2026-11-25",
+      "title": "Jersey Boys (Touring)",
+      "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Savannah Hoops Shootout",
+      "venue_line": "Enmarket Arena • Savannah",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Savannah Hoops Shootout",
       "venue_line": "Enmarket Arena • Savannah",
       "price_label": "Price not available",
       "type_key": "sports",

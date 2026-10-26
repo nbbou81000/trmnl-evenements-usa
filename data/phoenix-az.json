@@ -1,127 +1,7 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-10-25T13:31:23.123Z",
+  "updated_at": "2026-10-26T15:44:21.232Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Ballet Arizona - Romeo and Juliet",
-      "venue_line": "Phoenix Symphony Hall • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Arizona Cardinals v Denver Broncos",
-      "venue_line": "State Farm Stadium • Glendale",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Halloween Spooktacular Hot Air Balloon Festival",
-      "venue_line": "Salt River Fields at Talking Stick • Scottsdale",
-      "price_label": "$17–$22",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Ballet Arizona - Romeo and Juliet",
-      "venue_line": "Phoenix Symphony Hall • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Twilight Puff & Paint",
-      "venue_line": "Thunderbird Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Sara Evans",
-      "venue_line": "Chandler Center for the Arts • Chandler",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "MAGENTA WAVE",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Magenta Wave",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Malcolm Todd: Do That Again Tour",
-      "venue_line": "Arizona Financial Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Great Lake Swimmers (21+ Event)",
-      "venue_line": "Last Exit Live • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "26",
@@ -197,6 +77,126 @@
       "day_number": "26",
       "date_iso": "2026-10-26",
       "title": "KATIE PRUITT - FOOLS FOR THE FLEETING TOUR - Ages 21+",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "26",
+      "date_iso": "2026-10-26",
+      "title": "Frog",
+      "venue_line": "The Rebel Lounge • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Chase Field Stadium Tours",
+      "venue_line": "Chase Field • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Knocked Loose w/ Denzel Curry",
+      "venue_line": "Mesa Amphitheatre • Mesa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "The Nightmare Before Christmas in Concert",
+      "venue_line": "Orpheum Theatre - Phoenix • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "DIAMOND: The Neil Diamond Tribute",
+      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "BLESSING OFFOR - HEART SO REAL TOUR PT. 2",
+      "venue_line": "Crescent Ballroom • Phoenix",
+      "price_label": "$29–$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Cardinal Bloom - Burn the House Tour",
+      "venue_line": "Last Exit Live • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Water for Elephants (Touring)",
+      "venue_line": "ASU Gammage • Tempe",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "POOTIECAT'S QUEER MIX & MINGLE",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "AUSTIN GIORGIO",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "27",
+      "date_iso": "2026-10-27",
+      "title": "Austin Giorgio",
       "venue_line": "Valley Bar • Phoenix",
       "price_label": "Price not available",
       "type_key": "music",

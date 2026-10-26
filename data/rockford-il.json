@@ -1,17 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-25T13:30:56.658Z",
+  "updated_at": "2026-10-26T15:43:55.801Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Mushroomhead, Fear Factory, NINE TREASURES ",
-      "venue_line": "The Apollo Theatre Ac • Belvidere",
-      "price_label": "$20–$68",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -199,6 +189,16 @@
       "title": "Emo Night LIVE  ",
       "venue_line": "The Apollo Theatre Ac • Belvidere",
       "price_label": "$14–$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Montez De Durango & Patrulla 81 - 3 Decadas",
+      "venue_line": "Hard Rock Live Rockford • Rockford",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

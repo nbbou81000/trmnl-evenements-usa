@@ -1,17 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-25T13:31:16.504Z",
+  "updated_at": "2026-10-26T15:44:14.631Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "25",
-      "date_iso": "2026-10-25",
-      "title": "Baton Rouge Kingfish vs. Mid-South Monarchs",
-      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -66,7 +56,7 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "White Trash Bash  /Frank Fletcher Band",
+      "title": "I -10 Bound Band Halloween Party",
       "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
       "price_label": "$0–$64",
       "type_key": "music",
@@ -197,6 +187,16 @@
       "day_number": "8",
       "date_iso": "2026-11-08",
       "title": "LSU Tigers Womens Volleyball vs. Oklahoma Sooners Women Volleyball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "LSU Tigers Mens Basketball vs. Louisiana Tech Bulldogs Mens Basketball",
       "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "sports",
