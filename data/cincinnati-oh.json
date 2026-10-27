@@ -1,37 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-26T15:43:58.615Z",
+  "updated_at": "2026-10-27T15:04:50.969Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "CRADLE OF FILTH: Majestic In Death II w/ BLACKBRAID an Black Satellite",
-      "venue_line": "Bogart's • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
-      "venue_line": "Taft Theatre • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Orleans The Final Tour",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -199,6 +169,36 @@
       "title": "Blake Tyler",
       "venue_line": "Lori's Roadhouse • West Chester",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Rocky In Concert: 50th Anniversary",
+      "venue_line": "Taft Theatre • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Gravedancer's Ball/  A Night of The Living Dead w/Ramble On Bros",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Trauma Illinois Pink Motel Album Release w/Lombardy",
+      "venue_line": "The Southgate House Revival - Revival Room • Newport",
+      "price_label": "$21",
       "type_key": "music",
       "type_label": "Music"
     }

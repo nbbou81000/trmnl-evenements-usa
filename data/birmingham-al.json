@@ -1,27 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-26T15:44:15.925Z",
+  "updated_at": "2026-10-27T15:05:10.819Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Birmingham Bandstand (Open Mic) at the Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$5",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "PUP: TOUR 2026 - Ages 16+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-31",
       "title": "So Good! The Neil Diamond Experience starring Robert Neary",
       "venue_line": "The Lyric Theatre • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Heaven & Hell: The Resurrection",
+      "venue_line": "The Fennec - Main Stage • Birmingham",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "All Get Out - The Upstairs at Avondale",
+      "venue_line": "Avondale Brewing Co. • Birmingham",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

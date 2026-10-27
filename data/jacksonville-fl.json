@@ -1,6 +1,6 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-10-26T15:43:52.489Z",
+  "updated_at": "2026-10-27T15:04:43.683Z",
   "events": [
     {
       "day_label": "THU",
@@ -103,6 +103,16 @@
       "type_label": "Sports"
     },
     {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Standing Room Only - Jacksonville Jaguars v Indianapolis Colts",
+      "venue_line": "EverBank Stadium  • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
       "day_label": "TUE",
       "day_number": "3",
       "date_iso": "2026-11-03",
@@ -188,16 +198,6 @@
       "date_iso": "2026-11-06",
       "title": "Marcus Miller",
       "venue_line": "Florida Theatre Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "6",
-      "date_iso": "2026-11-06",
-      "title": "Will Downing",
-      "venue_line": "Ritz Theatre • Jacksonville",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

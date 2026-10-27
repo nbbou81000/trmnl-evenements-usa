@@ -1,6 +1,6 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-26T15:43:43.902Z",
+  "updated_at": "2026-10-27T15:04:33.778Z",
   "events": [
     {
       "day_label": "FRI",
@@ -41,6 +41,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lehigh Mountain Hawks Football vs. Bucknell Bison Football",
+      "venue_line": "Goodman Stadium • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lafayette College Leopards Football vs. Villanova Wildcats Football",
+      "venue_line": "Fisher Stadium • Easton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -101,26 +121,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lehigh Mountain Hawks Football vs. Bucknell Bison Football",
-      "venue_line": "Goodman Stadium • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lafayette College Leopards Football vs. Villanova Wildcats Football",
-      "venue_line": "Fisher Stadium • Easton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

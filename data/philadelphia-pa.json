@@ -1,57 +1,7 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-10-26T15:43:37.630Z",
+  "updated_at": "2026-10-27T15:04:26.596Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Arch Enemy + The Black Dahlia Murder: Wrath Across North America 2026",
-      "venue_line": "Theatre of Living Arts • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Punch Line Philly Open Mic Night",
-      "venue_line": "Punch Line Philly Callback Bar • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Glenn Miller Orchestra- All Ages (under 16 with adult)",
-      "venue_line": "Keswick Theatre • Glenside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "After",
-      "venue_line": "The Foundry • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Philadelphia Eagles vs. Dallas Cowboys",
-      "venue_line": "Lincoln Financial Field • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +148,56 @@
       "date_iso": "2026-10-27",
       "title": "Sukhishvili Georgian National Ballet - All Ages (under 16 with adult)",
       "venue_line": "Keswick Theatre • Glenside",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "The Great Gatsby (Touring)",
+      "venue_line": "Academy of Music - PA • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "20 Years of Nekrogoblikon with Special Guests Aborted",
+      "venue_line": "Brooklyn Bowl Philadelphia • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "The Great Gatsby (Touring)",
+      "venue_line": "Academy of Music - PA • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "The Addams Family (Touring)",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

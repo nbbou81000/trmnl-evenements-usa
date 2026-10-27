@@ -1,37 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-26T15:43:38.093Z",
+  "updated_at": "2026-10-27T15:04:27.118Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Neoni",
-      "venue_line": "Thunderbird Cafe & Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "PPG Paints Arena Tours",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Gary Vider",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$5–$77",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Hadestown (Touring)",
+      "venue_line": "Benedum Center • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Marcedes Carroll & Doc Elliot wsg/ Emily Lehr",
+      "venue_line": "Club Cafe • Pittsburgh",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

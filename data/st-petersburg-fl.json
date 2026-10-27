@@ -1,27 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-26T15:43:54.530Z",
+  "updated_at": "2026-10-27T15:04:46.008Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Dan and Phil",
-      "venue_line": "Ruth Eckerd Hall • Clearwater",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Milwaukee Brewers at Tampa Bay Rays: World Series (Home Game 1)",
-      "venue_line": "Tropicana Field • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Hamilton (Touring)",
+      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Commercial Music Ensemble Concert:  Program A",
+      "venue_line": "USF Barness Recital Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

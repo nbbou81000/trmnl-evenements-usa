@@ -1,17 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-26T15:43:59.045Z",
+  "updated_at": "2026-10-27T15:04:51.441Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Old Crow Medicine Show w/ The Steel Wheels",
-      "venue_line": "Stranahan Theatre • Toledo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-20",
       "title": "Toledo Walleye vs. Rapid City Rush",
       "venue_line": "Huntington Center • Toledo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Bowling Green Falcons Hockey vs. Augustana Vikings Mens Hockey",
+      "venue_line": "Slater Family Ice Arena • Bowling Green",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

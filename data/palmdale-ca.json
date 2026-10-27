@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-26T15:44:29.035Z",
+  "updated_at": "2026-10-27T15:05:26.002Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "FREE SHOW: CASTLE / THE CIMMERIAN / BONESAW",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -48,7 +38,7 @@
       "date_iso": "2026-10-31",
       "title": "Emo Nightmare",
       "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$19–$29",
+      "price_label": "$24–$29",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -197,6 +187,16 @@
       "day_number": "22",
       "date_iso": "2026-11-22",
       "title": "FREE SHOW: BONE CROWN / BLACK EMPATHY / THE RAGE BELOW / FLOOD IN THE LIBRARY",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "25",
+      "date_iso": "2026-11-25",
+      "title": "FREE SHOW: HIP-HOP AND R&B NIGHT WITH DJ TURKEYLEG & DJ WABBIT",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$0",
       "type_key": "music",

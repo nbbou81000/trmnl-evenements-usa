@@ -1,47 +1,7 @@
 {
   "city_label": "Orlando, FL",
-  "updated_at": "2026-10-26T15:43:53.709Z",
+  "updated_at": "2026-10-27T15:04:45.084Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "The Moss Park Strings",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Year Of The Knife  with St. Clovis, Retina, Self Inflicted Wound, and Coldest Blood",
-      "venue_line": "Will's Pub • Orlando",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Mommy Knows Best",
-      "venue_line": "Conduit • Winter Park",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "QT Mondays",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -199,6 +159,46 @@
       "title": "Close Your Eyes",
       "venue_line": "Plaza Live - Orlando • Orlando",
       "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Rav \"Exopocalpyse Tour\" w/ Teller Bank$ & Fatboi Sharif in Orlando",
+      "venue_line": "Conduit • Winter Park",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Blue Man Group",
+      "venue_line": "ICON Park • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "UCF Knights Mens Soccer vs. Georgia State Panthers Men's Soccer",
+      "venue_line": "UCF Soccer and Track Complex • Orlando",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Thursday Thinks Trivia",
+      "venue_line": "Dirty Laundry • Orlando",
+      "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
     }

@@ -1,6 +1,6 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-10-26T15:43:47.772Z",
+  "updated_at": "2026-10-27T15:04:38.015Z",
   "events": [
     {
       "day_label": "TUE",
@@ -86,6 +86,16 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
+      "title": "Old Dominion Monarchs Football vs. Marshall Thundering Herd Football",
+      "venue_line": "Kornblau Field at S.B. Ballard Stadium • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
       "title": "Rocky Horror Picture Show - with Shadow Cast - Classic Movie Nights!",
       "venue_line": "American Theatre • Hampton",
       "price_label": "Price not available",
@@ -111,16 +121,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Old Dominion Monarchs Football vs. Marshall Thundering Herd Football",
-      "venue_line": "Kornblau Field at S.B. Ballard Stadium • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

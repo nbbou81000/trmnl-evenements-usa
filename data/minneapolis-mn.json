@@ -1,17 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-26T15:44:02.028Z",
+  "updated_at": "2026-10-27T15:04:54.670Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "The Longest Johns",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -186,8 +176,18 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "Minnesota Gophers Mens Hockey vs. Penn State Nittany Lions Mens Hockey",
-      "venue_line": "3M Arena at Mariucci • Minneapolis",
+      "title": "Minnesota Orchestra presents Vertigo in Concert",
+      "venue_line": "Orchestra Hall-MN • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Minnesota Timberwolves vs. LA Clippers",
+      "venue_line": "Target Center • Minneapolis",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -196,11 +196,11 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "Minnesota Orchestra presents Vertigo in Concert",
-      "venue_line": "Orchestra Hall-MN • Minneapolis",
+      "title": "Minnesota Gophers Mens Hockey vs. Penn State Nittany Lions Mens Hockey",
+      "venue_line": "3M Arena at Mariucci • Minneapolis",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

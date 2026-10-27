@@ -1,67 +1,7 @@
 {
   "city_label": "Austin, TX",
-  "updated_at": "2026-10-26T15:44:08.270Z",
+  "updated_at": "2026-10-27T15:05:01.993Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "EMEI - Night at the Opera Tour",
-      "venue_line": "Scoot Inn • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Blue Monday w/ Blue Mist Band",
-      "venue_line": "Antone's Nightclub • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
-      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Daniel Sloss",
-      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Hovvdy w/ Emma Ogier",
-      "venue_line": "The Mohawk-Austin • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Dave Chappelle Karmageddon",
-      "venue_line": "Moody Center ATX • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -156,21 +96,21 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
-      "title": "Texas Longhorns Womens Basketball vs. Eastern New Mexico Greyhounds Womens Basketball",
-      "venue_line": "Moody Center ATX • Austin",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
       "title": "Ali Wong",
       "venue_line": "Bass Concert Hall • Austin",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Texas Longhorns Womens Basketball vs. Eastern New Mexico Greyhounds Womens Basketball",
+      "venue_line": "Moody Center ATX • Austin",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "THU",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Freaky Deaky 2026 - Friday 18+",
+      "venue_line": "Travis County Expo Center • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The War And Treaty",
+      "venue_line": "Scoot Inn • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Pat Green - Ages 17 & under admitted with a parent or guardian ONLY",
+      "venue_line": "Haute Spot Event Venue • Cedar Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "NoDak Palooza",
+      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Goodbye June w/ Cole Barnhill",
+      "venue_line": "3TEN ACL Live • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Club 90s Presents Thrillerween",
+      "venue_line": "Emo's Austin • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

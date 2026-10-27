@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-26T15:44:25.730Z",
+  "updated_at": "2026-10-27T15:05:22.219Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "WWE Souvenir Ticket",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "WWE Monday Night RAW",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -46,16 +26,6 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Colorado State University Rams Womens Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
       "title": "Fresno State Bulldogs Womens Volleyball vs. Colorado State",
       "venue_line": "Save Mart Center • Fresno",
       "price_label": "Price not available",
@@ -66,7 +36,17 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
-      "title": "Havok , Slackjaw, Xoth",
+      "title": "Fresno State Bulldogs Womens Volleyball vs. Colorado State University Rams Womens Volleyball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Havok , Slackjaw, Xoth, Thrallr",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$32–$35",
       "type_key": "music",
@@ -199,6 +179,26 @@
       "title": "Prince Daddy And The Hyena, Teen Suicide, Combat, Walter Etc.",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$32–$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "THE SPINS:  MAC MILLER PARTY",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$8",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "WE ARE YOUNG: 2010s PARTY!",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$8–$11",
       "type_key": "music",
       "type_label": "Music"
     }

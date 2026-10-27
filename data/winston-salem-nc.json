@@ -1,6 +1,6 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-26T15:43:49.932Z",
+  "updated_at": "2026-10-27T15:04:40.567Z",
   "events": [
     {
       "day_label": "THU",
@@ -26,21 +26,21 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "NCA&T Homecoming Concert",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
       "title": "Wake Forest Demon Deacons Football vs. Virginia Cavaliers Football",
       "venue_line": "Allegacy Federal Credit Union Stadium • Winston Salem",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "NCA&T Homecoming Concert",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SUN",

@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-26T15:43:39.314Z",
+  "updated_at": "2026-10-27T15:04:28.539Z",
   "events": [
     {
       "day_label": "SUN",
@@ -9,26 +9,6 @@
       "title": "The Song & Dance Season Pass - Summer/Fall",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$208",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "DEAD NIGHT w/ Pearly Baker's Best",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Improvised Dungeons & Dragons : Halloween Edition",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$16",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -197,6 +177,26 @@
       "day_number": "2",
       "date_iso": "2026-11-02",
       "title": "Syracuse University Men's Basketball vs. New Haven Chargers",
+      "venue_line": "JMA Wireless Dome  • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "MONDAY 'DEAD NIGHT feat. Ship of Phools",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Syracuse University Women's Basketball vs. Sacred Heart Pioneers",
       "venue_line": "JMA Wireless Dome  • Syracuse",
       "price_label": "Price not available",
       "type_key": "sports",

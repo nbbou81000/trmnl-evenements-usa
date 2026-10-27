@@ -1,27 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-26T15:44:02.874Z",
+  "updated_at": "2026-10-27T15:04:55.614Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Saint Louis Billikens Women's Basketball vs. Bradley Braves Womens Basketball",
-      "venue_line": "Chaifetz Arena • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Sammy Rae & The Friends - the GET DOWN!",
-      "venue_line": "The Pageant • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -201,6 +181,26 @@
       "price_label": "$16",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Micro Wrestling",
+      "venue_line": "The Hawthorn • St. Louis",
+      "price_label": "$34–$53",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-26T15:44:27.797Z",
+  "updated_at": "2026-10-27T15:05:24.637Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Animal Collective",
-      "venue_line": "The Fox Theater-Pomona • Pomona",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

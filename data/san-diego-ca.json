@@ -1,67 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-26T15:44:24.088Z",
+  "updated_at": "2026-10-27T15:05:20.211Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Dr. Jekyll & Mr. Hyde (1920) Played by David Marsh",
-      "venue_line": "Balboa Theatre • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "BLESSING OFFOR - HEART SO REAL TOUR PT. 2",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Hayden Everett (21 and Over)",
-      "venue_line": "Casbah-San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Michael Franti Trio - Heartstrings & Dynamite w/ The Wheeland Brothers (acoustic)",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$50–$191",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Michael Franti",
-      "venue_line": "Belly Up Tavern • Solana Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -146,16 +86,6 @@
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
-      "title": "Tom Jones: Come Gather Round Tour",
-      "venue_line": "The Rady Shell at Jacobs Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
       "title": "Patrick Wolf (21 and Over)",
       "venue_line": "Casbah-San Diego • San Diego",
       "price_label": "Price not available",
@@ -196,6 +126,76 @@
       "day_label": "TUE",
       "day_number": "27",
       "date_iso": "2026-10-27",
+      "title": "Snapdragon Stadium Tours",
+      "venue_line": "Snapdragon Stadium • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Jake Cornell",
+      "venue_line": "House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Austin Giorgio",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "San Diego State Aztecs Mens Basketball vs. Long Beach State Men's Basketball",
+      "venue_line": "Viejas Arena at Aztec Bowl San Diego State University • San Diego",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Jim Hensons Labyrinth: In Concert 40th Anniversary",
+      "venue_line": "The Magnolia • El Cajon",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Howie Day, Matthew Phillips",
+      "venue_line": "Belly Up • Solana Beach",
+      "price_label": "$38–$65",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "Improvement Movement (21 and Over)",
+      "venue_line": "Casbah-San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
       "title": "Snapdragon Stadium Tours",
       "venue_line": "Snapdragon Stadium • San Diego",
       "price_label": "Price not available",

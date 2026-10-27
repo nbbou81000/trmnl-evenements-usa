@@ -1,6 +1,6 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-26T15:43:41.371Z",
+  "updated_at": "2026-10-27T15:04:30.895Z",
   "events": [
     {
       "day_label": "WED",
@@ -126,6 +126,16 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
+      "title": "Stony Brook Seawolves Football vs. Sacred Heart Pioneers Football",
+      "venue_line": "Kenneth P. LaValle Stadium • Stony Brook",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
       "title": "Quinnipiac Bobcats Mens Ice Hockey vs. Providence College Friars Hockey",
       "venue_line": "M&T Bank Arena • Hamden",
       "price_label": "Price not available",
@@ -161,16 +171,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Stony Brook Seawolves Football vs. Sacred Heart Pioneers Football",
-      "venue_line": "Kenneth P. LaValle Stadium • Stony Brook",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",

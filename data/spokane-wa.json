@@ -1,47 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-26T15:44:31.423Z",
+  "updated_at": "2026-10-27T15:05:28.865Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Spokane Public Schools Girls Soccer - Deer Park vs North Central",
-      "venue_line": "ONE Spokane Stadium • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Steven Curtis Chapman",
-      "venue_line": "The Fox - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Skillet: Comatose 20 Years, Still Screaming Tour Line",
-      "venue_line": "Northern Quest Resort and Casino • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Skillet: Comatose 20 Years, Still Screaming Tour Line",
-      "venue_line": "Northern Quest Casino • Airway Heights",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -199,6 +159,46 @@
       "title": "Icon For Hire: Scripted 15 Year Anniversary Tour",
       "venue_line": "The District • Spokane",
       "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Rival Sons - Domestic Bliss Tour",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Tauren Wells",
+      "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Michael Carbonaro",
+      "venue_line": "BECU Live Outdoor Venue • Airway Heights",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Daily Bread - Vanishing Point Tour",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "$122",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,17 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-26T15:44:04.113Z",
+  "updated_at": "2026-10-27T15:04:57.119Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Chris Stapleton's All-American Road Show",
-      "venue_line": "Pinnacle Bank Arena • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -138,7 +128,7 @@
       "date_iso": "2026-11-03",
       "title": "Claudio Simonetti's Goblin Performing Tenebre",
       "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$59–$80",
+      "price_label": "$59–$69",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -196,7 +186,17 @@
       "day_label": "FRI",
       "day_number": "6",
       "date_iso": "2026-11-06",
-      "title": "NSAA Girls Volleyball Championship -Friday- D2, C1, A - Semifinals",
+      "title": "NSAA Girls Volleyball Championship -Friday- All Classes - Semifinals",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Nebraska Cornhuskers Womens Basketball vs. Western Illinois Leathernecks Womens Basketball",
       "venue_line": "Pinnacle Bank Arena • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",

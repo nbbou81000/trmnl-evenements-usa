@@ -1,37 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-10-26T15:43:54.123Z",
+  "updated_at": "2026-10-27T15:04:45.543Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Dan and Phil",
-      "venue_line": "Ruth Eckerd Hall • Clearwater",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Milwaukee Brewers at Tampa Bay Rays: World Series (Home Game 1)",
-      "venue_line": "Tropicana Field • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Dinosaur World Live!",
-      "venue_line": "Dinosaur World - Florida • Plant City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -199,6 +169,36 @@
       "title": "SOLD OUT! Josiah Queen: The Damascus Road Experience - Trinity, FL",
       "venue_line": "Generations Christian Church • Trinity",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Josiah Queen",
+      "venue_line": "Generations Christian Church • Trinity",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Hamilton (Touring)",
+      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Clara La San",
+      "venue_line": "The Ritz Ybor • Tampa",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

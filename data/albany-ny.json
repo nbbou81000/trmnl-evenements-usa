@@ -1,27 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-26T15:43:39.755Z",
+  "updated_at": "2026-10-27T15:04:29.010Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "The Rocky Horror Picture Show",
-      "venue_line": "The Palace Theatre Albany • Albany",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Beauty School Dropout",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-06",
       "title": "Midwinter - Haunt Me Forever Tour",
       "venue_line": "Empire Underground • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Kylie Morgan's Healed Cowgirl Tour",
+      "venue_line": "Frog Alley Brewing Co. • Schenectady",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Dweezil Zappa DZ20: Like Father, Like Son",
+      "venue_line": "The Palace Theatre Albany • Albany",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

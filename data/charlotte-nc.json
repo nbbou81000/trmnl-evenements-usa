@@ -1,37 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-26T15:43:48.203Z",
+  "updated_at": "2026-10-27T15:04:38.497Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Charlotte Hornets vs. Washington Wizards",
-      "venue_line": "Spectrum Center • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "AJ McLean presents Alexander James : The Better Man Tour",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Skilla Baby: The Price of Fame Tour",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-30",
       "title": "Bruce Cockburn with Livingston Taylor",
       "venue_line": "The Carolina • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Renaissance Orchestra",
+      "venue_line": "The Fillmore Charlotte • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Ethan Regan: Young Regan Tour",
+      "venue_line": "Neighborhood Theatre Main Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "It's A 2000's (Halloween) Party: Charlotte(18+)",
+      "venue_line": "The Underground • Charlotte",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

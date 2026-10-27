@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-26T15:43:38.524Z",
+  "updated_at": "2026-10-27T15:04:27.620Z",
   "events": [
     {
       "day_label": "FRI",
@@ -8,16 +8,6 @@
       "date_iso": "2026-10-02",
       "title": "UB Distinguished Speakers Series Subscription",
       "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Mon. 10/26/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-30",
       "title": "Hell's Kitchen (Touring)",
       "venue_line": "Shea's Buffalo Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Sweeney Todd",
+      "venue_line": "Shea's 710 Theatre • Buffalo",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

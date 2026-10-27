@@ -1,17 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-26T15:44:31.788Z",
+  "updated_at": "2026-10-27T15:05:29.323Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Mike Lewis Big Band",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$34–$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -191,6 +181,16 @@
       "price_label": "$25–$30",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Cirque du Soleil: Auana",
+      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SAT",

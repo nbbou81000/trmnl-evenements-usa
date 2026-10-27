@@ -1,6 +1,6 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-10-26T15:44:01.174Z",
+  "updated_at": "2026-10-27T15:04:53.754Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,46 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Brewers World Series Watch Party: Game 3",
-      "venue_line": "American Family Field • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Milwaukee Bucks vs. Indiana Pacers",
-      "venue_line": "Fiserv Forum • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Spite w/ Stick To Your Guns",
-      "venue_line": "The Rave-Eagles Club • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Wolfman Jack",
-      "venue_line": "Shank Hall • Milwaukee",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "TUE",
@@ -199,6 +159,46 @@
       "title": "Angel",
       "venue_line": "Shank Hall • Milwaukee",
       "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Milwaukee",
+      "venue_line": "Broadway Theatre Center • Milwaukee",
+      "price_label": "$59–$277",
       "type_key": "music",
       "type_label": "Music"
     }

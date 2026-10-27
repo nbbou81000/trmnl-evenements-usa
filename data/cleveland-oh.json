@@ -1,57 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-26T15:43:58.179Z",
+  "updated_at": "2026-10-27T15:04:50.487Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Nerd Night",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Cleveland Cavaliers vs. Minnesota Timberwolves",
-      "venue_line": "Rocket Arena • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "With A Vengeance",
-      "venue_line": "The Cambridge Room at House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Make Em Laugh Mondays",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$7",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "26",
-      "date_iso": "2026-10-26",
-      "title": "Telehealth w/ Dr. Fang & The Bats",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "27",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
+      "title": "SHIT SHOW KARAOKE",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "THIRTEENTH ANNUAL(ISH) PEABODY'S DAY",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "TIPSY TRIVIA (HORROR MOVIES)",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Ultimate Alt Rock Sampler Halloween Cover Show",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$15",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Iron Maidens w/ Olathia",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
