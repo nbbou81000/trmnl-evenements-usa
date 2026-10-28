@@ -1,77 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-10-27T15:04:59.861Z",
+  "updated_at": "2026-10-28T15:40:58.659Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Honey Revenge x Dead Poet Society",
-      "venue_line": "House of Blues Dallas  • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Test Your Mic",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "FIFTH THIRD GARAGE: Dallas Stars v New Jersey Devils",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Dallas Stars vs. New Jersey Devils",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "EMEI - Night at the Opera Tour",
-      "venue_line": "The Echo Lounge & Music Hall • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Almost Monday",
-      "venue_line": "AM/FM Dallas • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Sorry Ghost",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Loni Love",
+      "venue_line": "Addison Improv • Addison",
+      "price_label": "$31–$260",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "C Rich",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Madeon presents Victory Live",
+      "venue_line": "South Side Ballroom • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Dossey, JonoJono, Gluestick",
+      "venue_line": "Three Links Deep Ellum • Dallas",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "2slimey",
+      "venue_line": "Trees • Dallas",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Ten (16 and Under with Parent or Legal Guardian)",
+      "venue_line": "The Studio at the Bomb Factory • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Alejandro Escovedo",
+      "venue_line": "The Kessler • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

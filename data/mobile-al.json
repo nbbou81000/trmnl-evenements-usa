@@ -1,6 +1,6 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-27T15:05:12.371Z",
+  "updated_at": "2026-10-28T15:41:10.039Z",
   "events": [
     {
       "day_label": "WED",
@@ -19,16 +19,6 @@
       "title": "Crescent Comedy Chaos",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Scary Stories To Tell At The Crescent: An Open Mic For Ghost Stories",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$2",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -68,7 +58,7 @@
       "date_iso": "2026-10-30",
       "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
       "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$39",
+      "price_label": "$31",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -78,7 +68,7 @@
       "date_iso": "2026-10-31",
       "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
       "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$39",
+      "price_label": "$31",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -146,16 +136,6 @@
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
-      "title": "RHETT MILLER OF OLD 97'S",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
       "title": "The Brook & The Bluff",
       "venue_line": "Soul Kitchen • Mobile",
       "price_label": "$36–$166",
@@ -201,6 +181,26 @@
       "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Slow Degrade  ",
+      "venue_line": "Soul Kitchen • Mobile",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "XXX Comedy Show: A Late-Night Return to 1970s Grindhouse Comedy",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14–$39",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

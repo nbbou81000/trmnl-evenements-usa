@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-27T15:04:28.539Z",
+  "updated_at": "2026-10-28T15:40:29.116Z",
   "events": [
     {
       "day_label": "SUN",
@@ -13,16 +13,6 @@
       "type_label": "Other"
     },
     {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Friends Of The Central Library Author Series: Abby Jimenez",
-      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
       "day_label": "WED",
       "day_number": "28",
       "date_iso": "2026-10-28",
@@ -31,16 +21,6 @@
       "price_label": "$13–$25",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Drag Bingo : Senior Citizen Edition",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
     },
     {
       "day_label": "THU",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Slaughter To Prevail: North America 2026 Leg 2 - Ages 16 + Admitted with ID - Under 16 with Adult",
+      "venue_line": "Sharkey's Bar and Grill • Liverpool",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Boots at the Brewery | Line Dancing",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$13–$25",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

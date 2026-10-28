@@ -1,17 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-27T15:05:22.697Z",
+  "updated_at": "2026-10-28T15:41:19.826Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Bluey's Big Play - The Stage Show",
-      "venue_line": "Dignity Health Theater • Bakersfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Becky Robinson",
+      "venue_line": "Bakersfield Fox Theater • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

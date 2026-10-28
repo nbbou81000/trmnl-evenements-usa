@@ -1,47 +1,7 @@
 {
   "city_label": "Sacramento, CA",
-  "updated_at": "2026-10-27T15:05:21.679Z",
+  "updated_at": "2026-10-28T15:41:18.996Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Knox",
-      "venue_line": "Ace of Spades • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Craft",
-      "venue_line": "Crest Theater • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Poly Díaz (En Español)",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Lyle Lovett",
-      "venue_line": "Harris Center for the Arts • Folsom",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +158,46 @@
       "date_iso": "2026-10-30",
       "title": "Catch Your Breath - Not Broken Enough Tour",
       "venue_line": "Channel 24 • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Sophie Buddle",
+      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Y&T's Halloween Bash",
+      "venue_line": "Quarry Park Amphitheater • Rocklin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Foreigner: Celebrating Fifty Years with 38 Special",
+      "venue_line": "The Venue at Thunder Valley Casino Resort • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "R&B ONLY 18+",
+      "venue_line": "Ace of Spades • Sacramento",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

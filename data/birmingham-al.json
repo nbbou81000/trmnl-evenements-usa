@@ -1,37 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-27T15:05:10.819Z",
+  "updated_at": "2026-10-28T15:41:08.752Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Moth Open Mic StorySLAM: MAGIC - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Cameron Whitcomb - Kingdom of Fear Tour",
-      "venue_line": "Iron City • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Songwriters night at The Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Drag Night at The Nick Halloween",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$12",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Southern Music Research Center Fundraiser",
+      "venue_line": "Lakeview Marina Music Park • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Piano Series Concert 1 Angel Stanislav Wang",
+      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

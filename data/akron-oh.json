@@ -1,27 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-10-27T15:04:51.926Z",
+  "updated_at": "2026-10-28T15:40:50.975Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Akron Zips Mens Basketball vs. Youngstown State Penguins Mens Basketball",
-      "venue_line": "James Rhodes Arena • Akron",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Bodyguard (Touring)",
-      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-05",
       "title": "Kem",
       "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Wild Thread Presents: Shelter by Eric Mansfield",
+      "venue_line": "Wild Oscar's • Akron",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Rodgers & Co",
+      "venue_line": "John, James and Clara Knight Stage • Akron",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

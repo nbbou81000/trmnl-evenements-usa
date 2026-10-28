@@ -1,67 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-27T15:04:50.969Z",
+  "updated_at": "2026-10-28T15:40:50.095Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Cinderella by The United European Ballet Company",
-      "venue_line": "Taft Theatre • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "NKU DECA Ensemble and Jazz Ensemble",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Jady: The Nosebleeds Tour w/ colby! and Cantelle",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Sammy Rae & The Friends - the GET DOWN!",
-      "venue_line": "Bogart's • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Cincinnati Bearcats Mens Basketball vs Oakland University (Exhibition)",
-      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Phillip Phillips",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -199,6 +139,66 @@
       "title": "Trauma Illinois Pink Motel Album Release w/Lombardy",
       "venue_line": "The Southgate House Revival - Revival Room • Newport",
       "price_label": "$21",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "FC Cincinnati vs. Philadelphia Union",
+      "venue_line": "TQL Stadium • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Cincinnati Bearcats College Football vs. Utah Football",
+      "venue_line": "Nippert Stadium • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Amity Affliction: HOUSE OF CARDS 2026",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Haunted Fest",
+      "venue_line": "MegaCorp Pavilion • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "CLUTCH: US Fall Tour",
+      "venue_line": "The Andrew J Brady Music Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Kansas",
+      "venue_line": "Hard Rock Cincinnati Ballroom • Cincinnati",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

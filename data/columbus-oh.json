@@ -1,27 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-27T15:04:49.909Z",
+  "updated_at": "2026-10-28T15:40:49.219Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Bluewater Kings Band (FREE SHOWCASE) at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$2",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Number Twelve Looks Like You",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-30",
       "title": "Mushroomhead w/ Fear Factory",
       "venue_line": "The KING of CLUBS - Columbus • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Haunted Fest Columbus",
+      "venue_line": "KEMBA Live! • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Damned w/ Flamin Groovies",
+      "venue_line": "Newport Music Hall • Columbus",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

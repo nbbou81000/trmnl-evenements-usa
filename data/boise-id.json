@@ -1,6 +1,6 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-27T15:05:15.102Z",
+  "updated_at": "2026-10-28T15:41:12.778Z",
   "events": [
     {
       "day_label": "WED",
@@ -18,7 +18,7 @@
       "date_iso": "2026-10-28",
       "title": "Nahko and Medicine for the People  HOKA - 10th Anniversary Tour",
       "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$44–$116",
+      "price_label": "$44",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -97,7 +97,7 @@
       "day_number": "31",
       "date_iso": "2026-10-31",
       "title": "Plini - An Unnameable Desire North American Tour",
-      "venue_line": "Knitting Factory - Boise • Boise",
+      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
       "price_label": "$18–$35",
       "type_key": "music",
       "type_label": "Music"
@@ -173,11 +173,21 @@
       "type_label": "Music"
     },
     {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "LAST , Shadow and Claw, Larkspur",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
-      "title": "IDAHO STEELHEADS VS RAPID CITY RUSH",
-      "venue_line": "Idaho Central Arena • Boise",
+      "title": "Boise State Broncos Men's Basketball vs. West Coast Baptist",
+      "venue_line": "ExtraMile Arena • Boise",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -186,21 +196,11 @@
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
-      "title": "Katie Pruitt -  Fools for the Fleeting Tour",
-      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Tallest Man on Earth",
-      "venue_line": "Treefort Music Hall • Boise",
+      "title": "IDAHO STEELHEADS VS RAPID CITY RUSH",
+      "venue_line": "Idaho Central Arena • Boise",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

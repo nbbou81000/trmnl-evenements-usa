@@ -1,6 +1,6 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-27T15:04:31.912Z",
+  "updated_at": "2026-10-28T15:40:32.350Z",
   "events": [
     {
       "day_label": "WED",
@@ -68,16 +68,6 @@
       "date_iso": "2026-11-01",
       "title": "Hocus Pocus: Taste A Long",
       "venue_line": "BNH Stage • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Ana Castela Boston | After Party | November 1st",
-      "venue_line": "Centro Night Club • Lawrence",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Taylorville - A Tribute to Taylor Swift",
+      "venue_line": "Nashua Center For the Arts • Nashua",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

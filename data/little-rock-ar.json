@@ -1,27 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-27T15:05:06.453Z",
+  "updated_at": "2026-10-28T15:41:04.764Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "5:30 PM Pre Show Talkback",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Lucy Darling: Simply Darling",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "GWAR",
+      "venue_line": "The Hall • Little Rock",
+      "price_label": "$40–$64",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Akeem Ali",
+      "venue_line": "The Hall - Little Rock • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

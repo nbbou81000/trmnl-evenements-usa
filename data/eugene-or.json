@@ -1,17 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-27T15:05:27.491Z",
+  "updated_at": "2026-10-28T15:41:24.412Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Everclear",
-      "venue_line": "McDonald Theatre • Eugene",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -197,6 +187,16 @@
       "day_number": "8",
       "date_iso": "2026-11-08",
       "title": "Oregon Ducks Volleyball vs. Northwestern Wildcats Women's Volleyball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Oregon Ducks Men's Basketball vs. Mississippi Valley State Delta Devils Mens Basketball",
       "venue_line": "Matthew Knight Arena • Eugene",
       "price_label": "Price not available",
       "type_key": "sports",

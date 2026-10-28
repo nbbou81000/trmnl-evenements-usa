@@ -1,17 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-27T15:04:58.503Z",
+  "updated_at": "2026-10-28T15:40:57.359Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Ryan Bingham w/ The Texas Gentlemen",
-      "venue_line": "The Cotillion • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -197,6 +187,16 @@
       "day_number": "7",
       "date_iso": "2026-11-07",
       "title": "Wichita Thunder vs. Tulsa Oilers - Hockey",
+      "venue_line": "INTRUST Bank Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Wichita Thunder vs. Tulsa Oilers",
       "venue_line": "INTRUST Bank Arena • Wichita",
       "price_label": "Price not available",
       "type_key": "sports",

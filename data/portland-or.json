@@ -1,97 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-10-27T15:05:26.443Z",
+  "updated_at": "2026-10-28T15:41:23.552Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Catch Your Breath",
-      "venue_line": "Roseland Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Robbie and Peter",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Mon Laferte - Femme Fatale Tour",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "NO(W) BEAUTY",
-      "venue_line": "Jack London Revue • Portland",
-      "price_label": "$26–$206",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "BLITZKID: Modern Hel Tour 2026 with Hideous Monster",
-      "venue_line": "Dante's • Portland",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Mon Laferte - Femme Fatale Tour",
-      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King - Ages 18+",
-      "venue_line": "McMenamins Crystal Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "bunii",
-      "venue_line": "Wonder Ballroom • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Joy Oladokun",
-      "venue_line": "Aladdin Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -116,9 +26,19 @@
       "day_label": "WED",
       "day_number": "28",
       "date_iso": "2026-10-28",
+      "title": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brookyln Del and the Revelators and Temple Grandin",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "28",
+      "date_iso": "2026-10-28",
       "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
       "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$14–$20",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -173,16 +93,6 @@
       "type_label": "Music"
     },
     {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Whiskey Wednesday with Brookyln Del and the Revelators and Temple Grandin",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Michael Lewis",
+      "venue_line": "Arlene Schnitzer Concert Hall • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+      "venue_line": "Veterans Memorial Coliseum • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Caitlin Peluffo",
+      "venue_line": "Helium Comedy Club - Portland • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "SAW: The Musical (Touring)",
+      "venue_line": "Alberta Abbey • Portland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Haunt \"The Ghost Tour\" LIVE at McMenamins Mission Theater (Portland, OR)",
+      "venue_line": "McMenamins Mission Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Medium Build",
+      "venue_line": "Roseland Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Halloween Barn Dance with Silk & Steel",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "BALTHVS (21+ Event)",
+      "venue_line": "The Get Down Music Venue • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Protomartyr w/ Accessory",
+      "venue_line": "Aladdin Theater • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

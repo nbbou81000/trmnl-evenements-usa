@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-27T15:04:27.620Z",
+  "updated_at": "2026-10-28T15:40:28.190Z",
   "events": [
     {
       "day_label": "FRI",
@@ -8,36 +8,6 @@
       "date_iso": "2026-10-02",
       "title": "UB Distinguished Speakers Series Subscription",
       "venue_line": "UB Center for the Arts - Mainstage Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "André-Philippe Gagnon - Greatest Hits",
-      "venue_line": "The Avalon Theatre At Niagara Fallsview Casino Resort • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Hell's Kitchen (Touring)",
-      "venue_line": "Shea's Buffalo Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Tue. 10/27/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-30",
       "title": "Sweeney Todd",
       "venue_line": "Shea's 710 Theatre • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Fri. 10/30/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Strangelove: The Depeche Mode Experience",
+      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Hell's Kitchen (Touring)",
+      "venue_line": "Shea's Buffalo Theatre • Buffalo",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

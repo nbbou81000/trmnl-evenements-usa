@@ -1,37 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-27T15:04:29.963Z",
+  "updated_at": "2026-10-28T15:40:30.558Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "UConn Huskies Mens Basketball vs. Purdue Boilermakers Mens Basketball",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Price Is Right Live - Stage Show",
-      "venue_line": "Palace Theatre Waterbury-CT • Waterbury",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-02",
       "title": "UConn Huskies Mens Basketball vs. Gardner Webb Bulldogs Mens Basketball",
       "venue_line": "PeoplesBank Arena • Hartford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Chief Keef Live 2026",
+      "venue_line": "Dome at Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Disney Worlds Collide Concert Tour",
+      "venue_line": "PeoplesBank Arena • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Springfield Thunderbirds vs. Hershey Bears",
+      "venue_line": "MassMutual Center • Springfield",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

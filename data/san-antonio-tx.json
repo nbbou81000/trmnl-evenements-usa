@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-27T15:05:01.543Z",
+  "updated_at": "2026-10-28T15:40:59.966Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,36 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Saosin",
-      "venue_line": "Vibes Event Center • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "San Antonio Spurs vs. Sacramento Kings",
-      "venue_line": "Frost Bank Center • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Satx Open Mic",
-      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "WED",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "BRICK CONVENTION | LEGO Fan Expo | San Antonio, TX",
+      "venue_line": "Freeman Expo Hall • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Drag Me to Brunch at Hard Rock Cafe San Antonio!",
+      "venue_line": "Hard Rock Cafe - San Antonio • San Antonio",
+      "price_label": "$18",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Incarnate Word Cardinals Football vs. Northwestern State Demons Football",
+      "venue_line": "Gayle and Tom Benson Stadium • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

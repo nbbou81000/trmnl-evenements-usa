@@ -1,27 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-10-27T15:04:38.015Z",
+  "updated_at": "2026-10-28T15:40:38.293Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Old Dominion Monarchs Womens Basketball vs. Christopher Newport Captains Womens Basketball",
-      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Earl Sweatshirt w/ MIKE",
-      "venue_line": "The Norva • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Whiskey Glasses Nashville: Morgan Wallen Tribute",
+      "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Matt Mathews",
+      "venue_line": "Rivers Casino Portsmouth Event Center • Portsmouth",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

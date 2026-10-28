@@ -1,97 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-27T15:04:27.118Z",
+  "updated_at": "2026-10-28T15:40:27.719Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "PPG Paints Arena Tours",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Sleeping with Sirens w/ Rain City Drive",
-      "venue_line": "Stage AE • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Machine Girl",
-      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Robert Morris University Colonials Mens Basketball vs. Canisius (Exh)",
-      "venue_line": "UPMC Events Center • Moon Township",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Hadestown (Touring)",
-      "venue_line": "Benedum Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Living Tombstone - The Multiplayer Tour",
-      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Little Barrie with Special Guest Norside",
-      "venue_line": "Club Cafe • Pittsburgh",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Elanor Moss",
-      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Daniel Donato’s Cosmic Country",
-      "venue_line": "Mr Smalls Theatre • Millvale",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -199,6 +109,96 @@
       "title": "Marcedes Carroll & Doc Elliot wsg/ Emily Lehr",
       "venue_line": "Club Cafe • Pittsburgh",
       "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Century III",
+      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Pittsburgh Symphony Orchestra presents Harry Potter and the Deathly Hallows Part 1",
+      "venue_line": "Heinz Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Haunted Fest Pittsburgh",
+      "venue_line": "Stage AE • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Marcus D. Wiley",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$28",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Robert Morris University Colonials Mens Hockey vs. Air Force",
+      "venue_line": "Clearview Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Dylan Gossett & Charles Wesley Godwin",
+      "venue_line": "Citizens Live at The Wylie • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Hadestown (Touring)",
+      "venue_line": "Benedum Center • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Halloweekend",
+      "venue_line": "The Funhouse at Mr. Smalls • Millvale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Lotus",
+      "venue_line": "Mr Smalls Theatre • Millvale",
+      "price_label": "$44",
       "type_key": "music",
       "type_label": "Music"
     }

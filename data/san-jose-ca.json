@@ -1,47 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-27T15:05:21.206Z",
+  "updated_at": "2026-10-28T15:41:18.548Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "San Jose Sharks vs. Buffalo Sabres",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "W.A.S.P. - 1984 TO HEADLESS",
-      "venue_line": "San Jose Civic • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Great Lake Swimmers",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Moe's Alley Presents: Wine Lips w/ Buddy Wynkoop",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -146,9 +106,9 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
-      "title": "Mdou Moctar",
+      "title": "Mdou Moctar, Strange Vine",
       "venue_line": "The Ritz • San Jose",
-      "price_label": "$31–$521",
+      "price_label": "$34–$524",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Bluey's Big Play",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Stanford Cardinal Womens Volleyball vs. California Golden Bears Womens Volleyball",
+      "venue_line": "Maples Pavilion • Stanford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Pablo Francisco",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$31–$83",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Moenia + Maria Jose Us Tour 2026",
+      "venue_line": "San Jose Civic • San Jose",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-27T15:04:50.487Z",
+  "updated_at": "2026-10-28T15:40:49.649Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Wrecks - Finally : OUTSIDE Tour",
-      "venue_line": "House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "In Her Own Words w/ Every Avenue",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "L7",
-      "venue_line": "Globe Iron • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Lyrical Rhythms",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$7",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Quenton Rubin Band",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Secret Society Comedy Presents: One More Joke",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "GS Harper, Kristine Jackson, Rick Z: From Inspiration to Original",
+      "venue_line": "Treelawn Social Club • Cleveland",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "BACKSTAGE PASS",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$13",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+      "venue_line": "Huntington Convention Center of Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+      "venue_line": "Huntington Convention Center of Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+      "venue_line": "Huntington Convention Center of Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Cleveland Monsters vs. Milwaukee Admirals",
+      "venue_line": "Rocket Arena • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-10-27T15:05:00.331Z",
+  "updated_at": "2026-10-28T15:40:59.097Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Legacy of the Longhorn",
-      "venue_line": "Cowtown Coliseum • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Test Your Mic",
-      "venue_line": "Arlington Improv • Arlington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Music of John Denver",
-      "venue_line": "Casa Manana • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-30",
       "title": "Rocky Horror Sing-Along Drag Show",
       "venue_line": "Punch Line Irving • Irving",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Beethoven???s Pastoral",
+      "venue_line": "Bass Performance Hall • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Stockyards Championship Rodeo",
+      "venue_line": "Cowtown Coliseum • Fort Worth",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Lewis Belt",
+      "venue_line": "Arlington Improv • Arlington",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

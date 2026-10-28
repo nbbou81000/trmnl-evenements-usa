@@ -1,6 +1,6 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-27T15:05:15.549Z",
+  "updated_at": "2026-10-28T15:41:13.204Z",
   "events": [
     {
       "day_label": "WED",
@@ -31,16 +31,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "New Mexico Goatheads vs. Rapid City Rush",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
     },
     {
       "day_label": "FRI",
@@ -81,16 +71,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "New Mexico Goatheads vs. Rapid City Rush",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
     },
     {
       "day_label": "SAT",
@@ -186,21 +166,41 @@
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
-      "title": "New Mexico Goatheads vs. Allen Americans",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
       "title": "New Mexico Goatheads VS Allen Americans",
       "venue_line": "Rio Rancho Events Center • Rio Rancho",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "UB40",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Popejoy Hall • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "CAIN: Live and In Worship with special guest bodie",
+      "venue_line": "Kiva Auditorium at the Albuquerque Convention Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

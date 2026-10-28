@@ -1,82 +1,12 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-10-27T15:04:53.754Z",
+  "updated_at": "2026-10-28T15:40:52.752Z",
   "events": [
     {
       "day_label": "FRI",
       "day_number": "11",
       "date_iso": "2026-09-11",
       "title": "China Lights Wisconsin 2026 Season Pass",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Brewers World Series Watch Party: Game 4",
-      "venue_line": "American Family Field • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": " Nosferatu Undead",
-      "venue_line": "Shank Hall • Milwaukee",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "China Lights Wisconsin 2026",
-      "venue_line": "Boerner Botanical Gardens • Hales Corners",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Parables Tour with Father Mike Schmitz",
-      "venue_line": "Miller High Life Theatre • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Old Crow Medicine Show",
-      "venue_line": "Riverside Theater - WI • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "China Lights Wisconsin 2026",
       "venue_line": "Boerner Botanical Gardens • Hales Corners",
       "price_label": "Price not available",
       "type_key": "misc",
@@ -201,6 +131,76 @@
       "price_label": "$59–$277",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Sweeping Promises",
+      "venue_line": "Cactus Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Shakey Graves w/ Wild Pink",
+      "venue_line": "Turner Hall Ballroom • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Delicate Steve",
+      "venue_line": "Shank Hall • Milwaukee",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "New Constellations",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "ROZ",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "China Lights Wisconsin 2026",
+      "venue_line": "Boerner Botanical Gardens • Hales Corners",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

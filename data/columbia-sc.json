@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-10-27T15:04:41.708Z",
+  "updated_at": "2026-10-28T15:40:41.510Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "CupcakKe",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -161,6 +151,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "PROJECT FINEST: The Homecoming Finale",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SUN",

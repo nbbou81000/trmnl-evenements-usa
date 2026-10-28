@@ -1,17 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-27T15:04:29.488Z",
+  "updated_at": "2026-10-28T15:40:30.104Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Rhode Island Rams Mens Basketball vs. Southern New Hampshire Penmen Mens Basketball",
-      "venue_line": "Ryan Center • Kingston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -197,6 +187,16 @@
       "day_number": "2",
       "date_iso": "2026-11-02",
       "title": "Providence College Friars Mens Basketball vs. Maine Black Bears Mens Basketball",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Providence College Men's Basketball VS University of Maine",
       "venue_line": "Amica Mutual Pavilion • Providence",
       "price_label": "Price not available",
       "type_key": "sports",

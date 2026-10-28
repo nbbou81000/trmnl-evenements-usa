@@ -1,27 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-27T15:05:07.047Z",
+  "updated_at": "2026-10-28T15:41:05.197Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Iron & Wine",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Monty Python's Spamalot (Touring)",
+      "venue_line": "The Orpheum Theatre Memphis • Memphis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

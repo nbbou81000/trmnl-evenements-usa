@@ -1,67 +1,7 @@
 {
   "city_label": "Orlando, FL",
-  "updated_at": "2026-10-27T15:04:45.084Z",
+  "updated_at": "2026-10-28T15:40:44.820Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Running Punks",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "SAP, Sludge Mother, and Easterlin in Orlando",
-      "venue_line": "Will's Pub • Orlando",
-      "price_label": "$23",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Clownvis Presley in Orlando",
-      "venue_line": "Conduit • Winter Park",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "CeCe Winans - COME WORSHIP! Tour",
-      "venue_line": "Addition Financial Arena • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Dan and Phil: Hard Launch World Tour",
-      "venue_line": "Hard Rock Live Orlando • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Indie 900 Jam",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +141,66 @@
       "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Young Miko - Late Checkout Tour",
+      "venue_line": "Kia Center • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Skilla Baby: The Price of Fame Tour",
+      "venue_line": "The Beacham • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Skilla Baby: The Price of Fame Tour",
+      "venue_line": "The Beacham • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "WILL'S DIE-IN",
+      "venue_line": "Will's Pub • Orlando",
+      "price_label": "$15",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "ROA",
+      "venue_line": "Hard Rock Live Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Cirque du Soleil: Drawn to Life",
+      "venue_line": "Walt Disney World • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

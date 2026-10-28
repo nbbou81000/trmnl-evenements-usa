@@ -1,57 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-27T15:04:54.670Z",
+  "updated_at": "2026-10-28T15:40:53.692Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Thundercat: Distracted AF Tour",
-      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Minneapolis",
-      "venue_line": "Music Box Theatre • Minneapolis",
-      "price_label": "$59–$277",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "All Them Witches (18 and Over with Valid Government ID)",
-      "venue_line": "First Avenue • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Ringer NBA Show: Group Chat",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Dresden Dolls (18+ with Valid Government ID)",
-      "venue_line": "Palace Theatre-MN • St. Paul",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Parables Tour with Father Mike Schmitz",
+      "venue_line": "Roy Wilkins Auditorium • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Algorithm is Gonna Get You",
+      "venue_line": "Dudley Riggs Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "THE HUNCHBACK OF NOTRE DAME silent film with LIVE ORCHESTRA",
+      "venue_line": "Luminary Arts Center • Minneapolis",
+      "price_label": "$28",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Tallest Man on Earth",
+      "venue_line": "Palace Theatre-MN • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "An Evening W/ Charlie Parr Ft. Dave King - Rooming House Album Release",
+      "venue_line": "State Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

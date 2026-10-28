@@ -1,17 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-27T15:04:30.432Z",
+  "updated_at": "2026-10-28T15:40:31.013Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Price Is Right Live - Stage Show",
-      "venue_line": "Palace Theatre Waterbury-CT • Waterbury",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-03",
       "title": "Clara La San",
       "venue_line": "Toads Place - CT • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Brass Against",
+      "venue_line": "Space Ballroom • Hamden",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

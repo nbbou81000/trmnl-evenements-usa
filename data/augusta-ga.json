@@ -1,6 +1,6 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-27T15:04:43.214Z",
+  "updated_at": "2026-10-28T15:40:42.984Z",
   "events": [
     {
       "day_label": "FRI",
@@ -101,6 +101,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Moneybagg Yo",
+      "venue_line": "Bell Auditorium • Augusta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",

@@ -1,27 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-27T15:04:56.531Z",
+  "updated_at": "2026-10-28T15:40:55.513Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Death Becomes Her (Touring)",
-      "venue_line": "Orpheum Theater - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Sweeping Promises",
-      "venue_line": "Slowdown • Omaha",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-31",
       "title": "It's A 2000's (Halloween) Party - 21+",
       "venue_line": "Steelhouse Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Pre-Show Happy Hour: It's A 2000's (Halloween) Party - Not A Ticket*",
+      "venue_line": "Steelhouse Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Emo Nite (18 and Over)",
+      "venue_line": "The Waiting Room - NE • Omaha",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,17 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-27T15:04:29.010Z",
+  "updated_at": "2026-10-28T15:40:29.633Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Holywatr: Deo Gratias Tour",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-06",
       "title": "Dweezil Zappa DZ20: Like Father, Like Son",
       "venue_line": "The Palace Theatre Albany • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Blue October",
+      "venue_line": "Hart Theatre at The Egg • Albany",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,47 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-27T15:04:55.614Z",
+  "updated_at": "2026-10-28T15:40:54.641Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "St. Louis Blues vs. Montreal Canadiens",
-      "venue_line": "Enterprise Center • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Wednesday 13: Shocktober Blood Tour",
-      "venue_line": "Pop's Concert Venue • Sauget",
-      "price_label": "$34–$58",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Open Mic Night",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Dolly Show",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -199,6 +159,46 @@
       "title": "Micro Wrestling",
       "venue_line": "The Hawthorn • St. Louis",
       "price_label": "$34–$53",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Donny Benét",
+      "venue_line": "Delmar Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Ryan Bingham and The Texas Gentlemen - Still Gettin' Away With It Tour",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Ish Ensemble",
+      "venue_line": "Atomic Lounge • St. Louis",
+      "price_label": "$0–$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "St. Louis City SC vs. San Diego FC",
+      "venue_line": "Energizer Park • Saint Louis",
+      "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     }

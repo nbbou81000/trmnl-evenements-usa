@@ -1,37 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-27T15:04:46.008Z",
+  "updated_at": "2026-10-28T15:40:45.672Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Alice Cooper",
-      "venue_line": "Ruth Eckerd Hall • Clearwater",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Hamilton (Touring)",
-      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Milwaukee Brewers at Tampa Bay Rays: World Series (Home Game 2)",
-      "venue_line": "Tropicana Field • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -66,7 +36,7 @@
       "day_label": "WED",
       "day_number": "28",
       "date_iso": "2026-10-28",
-      "title": "Milwaukee Brewers at Tampa Bay Rays: World Series (Home Game 3, If Necessary)",
+      "title": "Milwaukee Brewers at Tampa Bay Rays: World Series (Home Game 3)",
       "venue_line": "Tropicana Field • Saint Petersburg",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -198,6 +168,36 @@
       "date_iso": "2026-10-30",
       "title": "Commercial Music Ensemble Concert:  Program A",
       "venue_line": "USF Barness Recital Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Haunted Fest",
+      "venue_line": "Spa Beach Park at St. Pete Pier • Saint Petersburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Sonic Live In Concert",
+      "venue_line": "Mahaffey Theater • St Petersburg",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Hairball",
+      "venue_line": "Ruth Eckerd Hall • Clearwater",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

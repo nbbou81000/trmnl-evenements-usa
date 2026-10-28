@@ -1,27 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-27T15:05:29.323Z",
+  "updated_at": "2026-10-28T15:41:26.196Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Jeff Bernat",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$41–$51",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Jeff Bernat",
-      "venue_line": "Blue Note - HI • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Tales of Haunted Hawai'i Halloween",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$41–$57",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Hawaii Holiday Craft & Gift Fair - SUNDAY",
+      "venue_line": "Neal S Blaisdell Exhibition Hall • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

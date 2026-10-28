@@ -1,27 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-27T15:04:54.219Z",
+  "updated_at": "2026-10-28T15:40:53.199Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Wisconsin Badgers Mens Basketball vs. Oklahoma State Cowboys Mens Basketball",
-      "venue_line": "Kohl Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Tallest Man On Earth",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Halloween Hangover III",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Winyah",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

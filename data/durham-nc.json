@@ -1,97 +1,7 @@
 {
   "city_label": "Durham, NC",
-  "updated_at": "2026-10-27T15:04:39.468Z",
+  "updated_at": "2026-10-28T15:40:39.703Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "North Carolina Tar Heels Mens Soccer vs. William and Mary Tribe Mens Soccer",
-      "venue_line": "Dorrance Field • Chapel Hill",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "EsDeeKid - Council House Rat Tour",
-      "venue_line": "The Ritz • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "BECK: RIDE LONESOME TOUR",
-      "venue_line": "DPAC • Durham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "North Carolina Tar Heels Mens Basketball vs. UNC Charlotte 49ers Mens Basketball",
-      "venue_line": "Dean E Smith Center • Chapel Hill",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Carolina Hurricanes vs. Boston Bruins",
-      "venue_line": "Lenovo Center • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Victoria Monét: Frequency Of Love Tour",
-      "venue_line": "Red Hat Amphitheater • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Curtain Call From Beyond: Theatre Haunts & History",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "North Carolina Tar Heels Mens Soccer vs. North Carolina State Wolfpack Mens Soccer",
+      "venue_line": "Dorrance Field • Chapel Hill",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Lynne Koplitz",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$27–$82",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "North Carolina Tar Heels Womens Volleyball vs. Syracuse University Womens Volleyball",
+      "venue_line": "Carmichael Arena • Chapel Hill",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "North Carolina State Wolfpack Womens Volleyball vs. SMU Mustangs Womens Volleyball",
+      "venue_line": "Reynolds Coliseum • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Earl Sweatshirt & MIKE  Home on the Range Tour 2026",
+      "venue_line": "The Ritz • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "DPAC • Durham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Carolina Ballet presents Dracula",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Julien Baker w/ Tombstone Poetry",
+      "venue_line": "Cat's Cradle • Carrboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

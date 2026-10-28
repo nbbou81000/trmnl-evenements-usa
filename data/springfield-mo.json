@@ -1,27 +1,7 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-27T15:04:56.060Z",
+  "updated_at": "2026-10-28T15:40:55.071Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Missouri State Bears Football vs. Sam Houston State Bearkats Football",
-      "venue_line": "Robert W. Plaster Stadium • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Beetlejuice (Touring)",
-      "venue_line": "Juanita K. Hammons Hall • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -198,6 +178,26 @@
       "date_iso": "2026-12-03",
       "title": "Gary Owen",
       "venue_line": "Gillioz Theatre • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "4",
+      "date_iso": "2026-12-04",
+      "title": "The Lion King (Touring)",
+      "venue_line": "Juanita K. Hammons Hall • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "5",
+      "date_iso": "2026-12-05",
+      "title": "The Lion King (Touring)",
+      "venue_line": "Juanita K. Hammons Hall • Springfield",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

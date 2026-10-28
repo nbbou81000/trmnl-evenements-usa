@@ -1,27 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-27T15:05:08.023Z",
+  "updated_at": "2026-10-28T15:41:06.108Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Tennessee Lady Volunteers Women's Basketball vs. Florida A&M Rattlers Womens Basketball",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Buddy Guy 90",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Bear Grillz",
+      "venue_line": "The 808 • Knoxville",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

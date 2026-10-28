@@ -1,87 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-10-27T15:05:08.953Z",
+  "updated_at": "2026-10-28T15:41:07.033Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Comedy Beast",
-      "venue_line": "Howlin' Wolf • New Orleans",
-      "price_label": "$8",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Mike Zito Band & Special Guest June Yamagishi & Opener Band Jovin Webb",
-      "venue_line": "New Orleans Jazz Market • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Roland Guerin's PROG: Funk",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Playlunch",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
-      "venue_line": "Lakefront Arena • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Roland Guerin's PROG: Funk",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "27",
-      "date_iso": "2026-10-27",
-      "title": "Flying Mojito Bros",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "28",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "New Orleans Pelicans vs. Sacramento Kings",
+      "venue_line": "Smoothie King Center • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
+      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Rocky Horror Picture Show (minors must be accompanied by a guardian)",
+      "venue_line": "Mahalia Jackson Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "DONALD HARRISON'S QUANTUM LEAP MUSIC FEST MILES & TRANE TRIBUTE",
+      "venue_line": "New Orleans Jazz Market • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Harold Battiste Birthday Tribute with Jesse McBride & the Next Generation",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "Rivertown Theaters for the Performing Arts • Kenner",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Osees ft. Brigid Dawson with Traps PS",
+      "venue_line": "Civic Theatre • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Comedy Gumbeaux",
+      "venue_line": "Howlin' Wolf • New Orleans",
+      "price_label": "$13–$67",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }
