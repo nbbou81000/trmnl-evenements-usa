@@ -1,17 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-28T15:41:24.412Z",
+  "updated_at": "2026-10-29T15:47:51.158Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Steely Dead",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -86,7 +76,7 @@
       "day_label": "TUE",
       "day_number": "3",
       "date_iso": "2026-11-03",
-      "title": "Mystery Skulls & Fox Stevenson",
+      "title": "Fox Stevenson & Mystery Skulls",
       "venue_line": "WOW Hall • Eugene",
       "price_label": "$36",
       "type_key": "music",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Louie The Singer",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

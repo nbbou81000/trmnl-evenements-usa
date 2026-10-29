@@ -1,57 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-28T15:40:49.219Z",
+  "updated_at": "2026-10-29T15:47:15.231Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Mario Kart Band Halloween!",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Like Roses",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Dead Man's Cell Phone",
-      "venue_line": "OSU Black Box Theatre • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Beat",
-      "venue_line": "Palace Theatre Columbus • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Zauntee: God Remembers Tour",
-      "venue_line": "Skully's Music Diner • Columbus",
-      "price_label": "$26–$80",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -199,6 +149,56 @@
       "title": "The Damned w/ Flamin Groovies",
       "venue_line": "Newport Music Hall • Columbus",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "UniverSoul Circus",
+      "venue_line": "Universoul Circus - Columbus - Historic Crew Stadium • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Olivia Rodrigo: The Unraveled Tour",
+      "venue_line": "Schottenstein Center • Columbus",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Russ Taff w/ Steve Taylor",
+      "venue_line": "Southern Theatre • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Dead Man's Cell Phone",
+      "venue_line": "OSU Black Box Theatre • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "American Aquarium *LOW TIX WARNING*",
+      "venue_line": "Rumba Cafe • Columbus",
+      "price_label": "$38",
       "type_key": "music",
       "type_label": "Music"
     }

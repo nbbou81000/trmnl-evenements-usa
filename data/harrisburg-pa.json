@@ -1,17 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-10-28T15:40:34.661Z",
+  "updated_at": "2026-10-29T15:47:00.826Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
-      "venue_line": "XL Live • Harrisburg",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Marty Stuart",
+      "venue_line": "Appell Center for the Performing Arts • York",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

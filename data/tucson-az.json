@@ -1,47 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-28T15:41:14.068Z",
+  "updated_at": "2026-10-29T15:47:40.558Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Earshot New Music Readings",
-      "venue_line": "Crowder Hall - University of Arizona • Tucson",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Gregorian: Pure Chants Tour @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "AFI @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "OUT IN FRONT : Still Out Of Place Tour pt. 2",
-      "venue_line": "The Rock • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Arizona Wildcats Mens Basketball vs. Cal Poly Mustangs Mens Basketball",
+      "venue_line": "McKale Center • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Route 66: The Main Street Of America",
+      "venue_line": "Centennial Hall • Tucson",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Arizona Wildcats Hockey vs. Utah Men's Hockey",
+      "venue_line": "Tucson Arena • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Story So Far @ Rialto Theatre",
+      "venue_line": "Rialto Theatre-Tucson • Tucson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

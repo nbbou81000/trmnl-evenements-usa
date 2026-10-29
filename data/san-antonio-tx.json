@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-28T15:40:59.966Z",
+  "updated_at": "2026-10-29T15:47:26.532Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,36 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Squirrel Flower w/ Sour Widows",
-      "venue_line": "Paper Tiger • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Tauren Wells - Air1 Worship Now Tour",
-      "venue_line": "Summit Church • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Sarah Jakes Roberts",
-      "venue_line": "Majestic Theatre San Antonio • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     },
     {
       "day_label": "THU",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Wiz (Touring)",
+      "venue_line": "Majestic Theatre San Antonio • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "San Antonio Spurs vs. Minnesota Timberwolves",
+      "venue_line": "Frost Bank Center • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Aida Rodriguez",
+      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

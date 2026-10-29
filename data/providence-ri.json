@@ -1,27 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-28T15:40:30.104Z",
+  "updated_at": "2026-10-29T15:46:56.228Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "New England Revolution vs. Red Bull New York",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Halloween Line Dancing",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-02",
       "title": "Providence College Men's Basketball VS University of Maine",
       "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Brown University Bears Mens Basketball vs. New Hampshire Wildcats Mens Basketball",
+      "venue_line": "Paul Bailey Pizzitola Memorial Sports Center • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Providence College Friars Womens Basketball vs. Stonehill Skyhawks Womens Basketball",
+      "venue_line": "Alumni Hall - RI • Providence",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

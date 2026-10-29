@@ -1,47 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-28T15:41:25.314Z",
+  "updated_at": "2026-10-29T15:47:52.179Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Catch Your Breath w/ TX2",
-      "venue_line": "Showbox SODO • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Seattle Sounders FC vs. Houston Dynamo",
-      "venue_line": "Lumen Field • Seattle",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Haunt (21+ Event)",
-      "venue_line": "Baba Yaga • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Medium Build",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -58,7 +18,7 @@
       "date_iso": "2026-10-29",
       "title": "Ralph Barbosa",
       "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$51–$63",
+      "price_label": "$63",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -199,6 +159,46 @@
       "title": "Ralph Barbosa",
       "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
       "price_label": "$51–$63",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Seattle Mariners Ballpark Tour",
+      "venue_line": "T-Mobile Park • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Boo! Seattle",
+      "venue_line": "WAMU Theater • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Tacoma City Ballet Presents: Dracula",
+      "venue_line": "Pantages Theater • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     }

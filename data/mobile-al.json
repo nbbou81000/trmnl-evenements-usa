@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-28T15:41:10.039Z",
+  "updated_at": "2026-10-29T15:47:36.668Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Crescent Comedy Workshop",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$2",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Crescent Comedy Chaos",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$9",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -48,7 +28,7 @@
       "date_iso": "2026-10-30",
       "title": "MAC SABBATH",
       "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$33–$68",
+      "price_label": "$33",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -58,17 +38,7 @@
       "date_iso": "2026-10-30",
       "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
       "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$31",
+      "price_label": "$30",
       "type_key": "misc",
       "type_label": "Other"
     },
@@ -201,6 +171,36 @@
       "price_label": "$14–$39",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "CROBOT X DARK CHAPEL",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Off The Cuff Puppet Improv",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "AK’CHAMEL/FUCKLESS/MAMALON",
+      "venue_line": "Alabama Music Box • Mobile",
+      "price_label": "$24–$44",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

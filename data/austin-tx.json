@@ -1,77 +1,7 @@
 {
   "city_label": "Austin, TX",
-  "updated_at": "2026-10-28T15:41:00.412Z",
+  "updated_at": "2026-10-29T15:47:27.023Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "almost monday - THANK GOD IT'S ALMOST MONDAY",
-      "venue_line": "Scoot Inn • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Texas Longhorns Womens Volleyball vs. Georgia Bulldogs Volleyball",
-      "venue_line": "Gregory Gym • Austin",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "A Live Conversation with David Arquette - Scream",
-      "venue_line": "Bass Concert Hall • Austin",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Teddy Swims: The UGLY Tour",
-      "venue_line": "Moody Center ATX • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Austin FC vs. Real Salt Lake",
-      "venue_line": "Q2 Stadium • Austin",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Chasing Abbey w/ Killer Kaya",
-      "venue_line": "Antone's Nightclub • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Goonies 40th Anniversary Screening + Q&A",
-      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Hocus Pocus Drag Brunch",
+      "venue_line": "Cap City Comedy Club • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Freaky Deaky 2026 - Saturday 18+",
+      "venue_line": "Travis County Expo Center • Austin",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Texas Longhorns Football vs. Mississippi State Bulldogs Football",
+      "venue_line": "Darrell K Royal - Memorial Stadium • Austin",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Mr. Fantasy - Sexy Saturday Nights Tour",
+      "venue_line": "Scoot Inn • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Craig Robinson",
+      "venue_line": "Cap City Comedy Club • Austin",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "2026 U.S. Hockey Hall of Fame Game",
+      "venue_line": "H-E-B Center at Cedar Park • Cedar Park",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Kennedy Ryon: The Can We Evolve? Tour",
+      "venue_line": "Antone's Nightclub • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

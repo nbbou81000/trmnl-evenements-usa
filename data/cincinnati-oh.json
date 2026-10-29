@@ -1,57 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-28T15:40:50.095Z",
+  "updated_at": "2026-10-29T15:47:16.279Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Cyclones v. Fuel | $2 Beer + Pucks N Pups",
-      "venue_line": "Heritage Bank Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Open Mic Show & Tell with Adam Flaig",
-      "venue_line": "The Southgate House Revival - The Lounge • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Hannah Wicklund and Turning Jane: Cowards, Kings and the Queen of Hearts Tour",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Jady - The Nosebleeds Tour",
-      "venue_line": "Madison Live (734) • Covington ",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Living Tombstone",
-      "venue_line": "MegaCorp Pavilion • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -199,6 +149,56 @@
       "title": "Kansas",
       "venue_line": "Hard Rock Cincinnati Ballroom • Cincinnati",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Cincinnati Bengals vs. Tennessee Titans",
+      "venue_line": "Paycor Stadium • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Cincinnati Bearcats Women's Volleyball vs. West Virginia University Volleyball",
+      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Teddy Thompson",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "An Evening with Teddy Thompson",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$26",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Authority Zero, The Raging Nathans, Get Wrecked , Sleepy Drums",
+      "venue_line": "The Southgate House Revival - Revival Room • Newport",
+      "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
     }

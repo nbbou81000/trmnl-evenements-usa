@@ -1,37 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-28T15:40:48.780Z",
+  "updated_at": "2026-10-29T15:47:14.809Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "USA Hockey National Team Development Program vs. Muskegon Lumberjacks",
-      "venue_line": "USA Hockey Arena • Plymouth",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Line Dance Lessons at Diamondback Music Hall",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$11–$21",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Halfway To Yesterday, STATIC LACE, Levona, Nobody Wins",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +171,36 @@
       "price_label": "$11–$21",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Quinlan Mauer, Covier, Eastwood Drive, Ben Orion",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Michigan Wolverines Mens Soccer vs. Ohio State Buckeyes Mens Soccer",
+      "venue_line": "UM Soccer Stadium • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Michigan Wolverines Womens Basketball vs. UConn Huskies Womens Basketball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,137 +1,7 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-10-28T15:40:27.261Z",
+  "updated_at": "2026-10-29T15:46:53.584Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Great Gatsby (Touring)",
-      "venue_line": "Academy of Music - PA • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
-      "venue_line": "Walnut Street Theatre • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "20 Years of Nekrogoblikon with Special Guests Aborted",
-      "venue_line": "Brooklyn Bowl Philadelphia • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Great Gatsby (Touring)",
-      "venue_line": "Academy of Music - PA • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Addams Family (Touring)",
-      "venue_line": "Walnut Street Theatre • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
-      "venue_line": "Walnut Street Theatre • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Rocky Dale Davis",
-      "venue_line": "Punch Line Philly • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "JOURNEY - Final Frontier Tour (An Evening With)",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Suites - JOURNEY - Final Frontier Tour (an Evening With)",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Rasputina",
-      "venue_line": "MilkBoy Philadelphia • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Jukebox the Ghost",
-      "venue_line": "Union Transfer • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Bogmen - Ages 21+",
-      "venue_line": "Ardmore Music Hall • Ardmore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Nice As F*#k - Back As F**k Nice As Ever",
-      "venue_line": "Theatre of Living Arts • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +71,136 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Addams Family (Touring)",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Walnut Street Theatre's THE ADDAMS FAMILY: The Musical",
+      "venue_line": "Walnut Street Theatre • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Planta Industrial - Ages 21+",
+      "venue_line": "Underground Arts • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Speed w/ E-Town Concrete",
+      "venue_line": "Union Transfer • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Army, The Navy",
+      "venue_line": "The Foundry • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Hurricane Wisdom",
+      "venue_line": "Brooklyn Bowl Philadelphia • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Joanne McNally: Pinotphile",
+      "venue_line": "Punch Line Philly • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The Blair Witch Project Movie Screening and Q&A with Heather Donahue, Joshua Leonard, Michael C. Williams (under 16 with adult)",
+      "venue_line": "Keswick Theatre • Glenside",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Fright Nights - Ages 21+",
+      "venue_line": "NOTO Philadelphia • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Yunchan Lim w/ Philadelphia Orchestra",
+      "venue_line": "Marian Anderson Hall - Kimmel Center • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Afrojack (18 and Over)",
+      "venue_line": "Stateside Live Philadelphia • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Topdog/Underdog",
+      "venue_line": "Arden Theatre Company • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Joanne McNally: Pinotphile",
+      "venue_line": "Punch Line Philly • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

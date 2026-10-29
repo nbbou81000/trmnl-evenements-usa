@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-28T15:40:28.655Z",
+  "updated_at": "2026-10-29T15:46:54.934Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Rochester Americans vs Hershey Bears",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Rochester Americans vs. Hershey Bears",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Alicia Keys' Hell's Kitchen",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Brotality / Praun / YouWish!",
+      "venue_line": "The Bug Jar • Rochester",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

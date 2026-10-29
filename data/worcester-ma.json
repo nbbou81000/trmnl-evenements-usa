@@ -1,17 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-28T15:40:35.583Z",
+  "updated_at": "2026-10-29T15:47:01.823Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Arch Enemy w/ The Black Dahlia Murder",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -158,6 +148,16 @@
       "date_iso": "2026-11-04",
       "title": "FORBIDDEN: Chaos by Design US Tour 2026",
       "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Bumpin Uglies",
+      "venue_line": "Off The Rails Music Venue • Worcester",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

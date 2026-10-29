@@ -1,77 +1,7 @@
 {
   "city_label": "Sacramento, CA",
-  "updated_at": "2026-10-28T15:41:18.996Z",
+  "updated_at": "2026-10-29T15:47:45.514Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Open Mic hosted by Marcus Mangham - in the Callback Bar",
-      "venue_line": "Punch Line Sacramento Callback Bar • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Halloween (1978)",
-      "venue_line": "Crest Theater • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Michael Franti Trio - Heartstrings & Dynamite",
-      "venue_line": "Ace of Spades • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Sacramento Speakers Series Presents Liz Cheney",
-      "venue_line": "SAFE Credit Union Performing Arts Center • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Lance Woods",
-      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Studio 24 - Orville Peck (NOT A CONCERT TICKET)",
-      "venue_line": "Channel 24 • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Orville Peck - Man Turned Mule Tour",
-      "venue_line": "Channel 24 • Sacramento",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "R&B ONLY LIVE - Sacramento, CA",
+      "venue_line": "Ace of Spades • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Sacramento State Hornets Football vs. Kent State Golden Flashes Football",
+      "venue_line": "Hornet Stadium • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Dark and Darker Presents: Comedy of Horrors - in the Callback Bar",
+      "venue_line": "Punch Line Sacramento Callback Bar • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Sophie Buddle",
+      "venue_line": "Punch Line Comedy Club - Sacramento • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Disney On Ice presents Find Your Hero",
+      "venue_line": "Golden 1 Center • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Disney On Ice presents Find Your Hero",
+      "venue_line": "Golden 1 Center • Sacramento",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Seaside Massacre w/ Failure By Proxy",
+      "venue_line": "Goldfield Trading Post - Roseville • Roseville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

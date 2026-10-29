@@ -1,37 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-28T15:41:21.681Z",
+  "updated_at": "2026-10-29T15:47:48.431Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Mom Jeans",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Damitas Histeria (En Español)",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$56",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Fastball",
-      "venue_line": "The Fox Theater-Pomona • Pomona",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -68,16 +38,6 @@
       "date_iso": "2026-10-29",
       "title": "Don Omar \"The Last King World Tour\"",
       "venue_line": "Toyota Arena • Ontario",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Tom Jones (21+)",
-      "venue_line": "Yaamava Theater • Highland",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Ontario Reign vs. Tucson Roadrunners",
+      "venue_line": "Toyota Arena-CA • Ontario",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Escape",
+      "venue_line": "NOS Events Center • San Bernardino",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Escape",
+      "venue_line": "NOS Events Center • San Bernardino",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

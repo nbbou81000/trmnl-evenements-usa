@@ -1,77 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-10-28T15:41:17.637Z",
+  "updated_at": "2026-10-29T15:47:44.212Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Jake Cornell",
-      "venue_line": "House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Austin Giorgio",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "San Diego State Aztecs Mens Basketball vs. Long Beach State Men's Basketball",
-      "venue_line": "Viejas Arena at Aztec Bowl San Diego State University • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Jim Hensons Labyrinth: In Concert 40th Anniversary",
-      "venue_line": "The Magnolia • El Cajon",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Howie Day, Matthew Phillips",
-      "venue_line": "Belly Up • Solana Beach",
-      "price_label": "$38–$65",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Improvement Movement (21 and Over)",
-      "venue_line": "Casbah-San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -136,16 +66,6 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
-      "title": "Failure - The Rising Skyline Tour w/ Quannnic",
-      "venue_line": "Music Box • San Diego",
-      "price_label": "$44–$262",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
       "title": "Usama Siddiquee",
       "venue_line": "The American Comedy Co. • San Diego",
       "price_label": "Price not available",
@@ -161,6 +81,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Failure - The Rising Skyline Tour w/ Quannnic",
+      "venue_line": "Music Box • San Diego",
+      "price_label": "$44–$262",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "THU",
@@ -198,6 +128,76 @@
       "date_iso": "2026-10-30",
       "title": "Atomic Groove (21+ Event)",
       "venue_line": "Belly Up Tavern • Solana Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Knox",
+      "venue_line": "House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Missio",
+      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Mom Jeans",
+      "venue_line": "The Observatory North Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Knocked Loose & Denzel Curry",
+      "venue_line": "Petco Park • San Diego",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Usama Siddiquee",
+      "venue_line": "The American Comedy Co. • San Diego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "THE B-52s * DEVO:  COSMIC DE-EVOLUTION TOUR",
+      "venue_line": "North Island Credit Union Amphitheatre • Chula Vista",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Yandel - SINFÓNICO",
+      "venue_line": "Viejas Arena at Aztec Bowl San Diego State University • San Diego",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

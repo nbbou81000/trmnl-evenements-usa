@@ -1,17 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-28T15:41:13.204Z",
+  "updated_at": "2026-10-29T15:47:39.721Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Rocky Horror Show",
-      "venue_line": "Albuquerque Little Theatre • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Duke City Championship Wrestling",
+      "venue_line": "El Rey - NM • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

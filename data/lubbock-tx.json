@@ -1,6 +1,6 @@
 {
   "city_label": "Lubbock, TX",
-  "updated_at": "2026-10-28T15:41:01.825Z",
+  "updated_at": "2026-10-29T15:47:28.376Z",
   "events": [
     {
       "day_label": "FRI",
@@ -8,6 +8,16 @@
       "date_iso": "2026-10-30",
       "title": "Koe Wetzel",
       "venue_line": "Cook's Garage • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Michael Jackson the History Show",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -21,6 +31,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Rocky Horror Picture Show",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "MON",
@@ -133,6 +163,16 @@
       "type_label": "Sports"
     },
     {
+      "day_label": "MON",
+      "day_number": "16",
+      "date_iso": "2026-11-16",
+      "title": "Cirque Mechanics' Tilt!",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
       "day_label": "TUE",
       "day_number": "17",
       "date_iso": "2026-11-17",
@@ -157,46 +197,6 @@
       "day_number": "18",
       "date_iso": "2026-11-18",
       "title": "Charlie Brown Christmas (Touring)",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "19",
-      "date_iso": "2026-11-19",
-      "title": "John Crist",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "20",
-      "date_iso": "2026-11-20",
-      "title": "Waitress (Touring)",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "21",
-      "date_iso": "2026-11-21",
-      "title": "Waitress (Touring)",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "21",
-      "date_iso": "2026-11-21",
-      "title": "Waitress (Touring)",
       "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
       "price_label": "Price not available",
       "type_key": "arts",

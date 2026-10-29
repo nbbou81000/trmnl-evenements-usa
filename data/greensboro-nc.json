@@ -1,27 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-28T15:40:40.148Z",
+  "updated_at": "2026-10-29T15:47:06.265Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "An Evening With David Sedaris",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Premium Lounge - David Sedaris",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -188,6 +168,26 @@
       "date_iso": "2026-11-06",
       "title": "Greensboro Swarm vs. Long Island Nets",
       "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Quincy Roberts Presents 2026 Elite Muscle Classic",
+      "venue_line": "Piedmont Hall • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Elon University Phoenix Football vs. Hampton Pirates Football",
+      "venue_line": "Rhodes Stadium • Elon",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

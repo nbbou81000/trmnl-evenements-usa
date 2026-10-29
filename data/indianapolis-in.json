@@ -1,47 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-10-28T15:40:51.846Z",
+  "updated_at": "2026-10-29T15:47:18.066Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "PARKING PASS Pacers vs 76ers",
-      "venue_line": "Virginia Avenue Parking Garage • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Indiana Pacers vs. Philadelphia 76ers",
-      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Butler University Bulldogs Womens Basketball vs. Franklin College Grizzlies Women's Basketball",
-      "venue_line": "Hinkle Fieldhouse • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Lords of Acid - Ages 21+",
-      "venue_line": "Vogue Theatre - IN • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+      "venue_line": "Lucas Oil Stadium • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "VIP Soundcheck Party - The Living Tombstone - Not a Concert Ticket**",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Living Tombstone - The Multiplayer Tour",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Longest Johns",
+      "venue_line": "The Vogue • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

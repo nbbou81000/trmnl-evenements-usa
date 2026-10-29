@@ -1,47 +1,7 @@
 {
   "city_label": "Durham, NC",
-  "updated_at": "2026-10-28T15:40:39.703Z",
+  "updated_at": "2026-10-29T15:47:05.818Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Julien Baker w/ Tombstone Poetry",
-      "venue_line": "Cat's Cradle • Carrboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "North Carolina Symphony - Halloween At Hogwarts",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Duke Blue Devils Football vs. Boston College Eagles Football",
+      "venue_line": "Wallace Wade Stadium • Durham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "North Carolina State Wolfpack Football vs. California Golden Bears Football",
+      "venue_line": "Carter Finley Stadium • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "DPAC • Durham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-28T15:40:31.469Z",
+  "updated_at": "2026-10-29T15:46:57.687Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Machine Girl",
-      "venue_line": "Toad's Place • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Machine Girl",
-      "venue_line": "Toads Place - CT • New Haven",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -198,6 +178,26 @@
       "date_iso": "2026-10-31",
       "title": "Desi Banks",
       "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Desi Banks",
+      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Quinnipiac Bobcats Womens Basketball vs. St. Joseph's Hawks Womens Basketball",
+      "venue_line": "M&T Bank Arena • Hamden",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

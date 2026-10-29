@@ -1,27 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-28T15:40:48.360Z",
+  "updated_at": "2026-10-29T15:47:14.377Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Planet Kpop: The Ultimate Kpop Tribute",
-      "venue_line": "DeVos Performance Hall • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Emma Bieniewicz + Joe Dreams + Statice",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -191,6 +171,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Psychoblab Studios Presents: Drink and Draw",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SUN",

@@ -1,17 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-28T15:41:19.421Z",
+  "updated_at": "2026-10-29T15:47:45.950Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -199,6 +189,16 @@
       "title": "WE ARE YOUNG: 2010s PARTY! (Late show)",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$8",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "They Are Gutting A Body Of Water",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$26–$29",
       "type_key": "music",
       "type_label": "Music"
     }

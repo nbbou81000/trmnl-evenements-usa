@@ -1,67 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-10-28T15:40:27.719Z",
+  "updated_at": "2026-10-29T15:46:54.029Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Robert Morris University Women's Basketball vs. Saint Bonaventure(Exh)",
-      "venue_line": "UPMC Events Center • Moon Township",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "venue_line": "PPG Paints Arena • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Riff Raff (21+)",
-      "venue_line": "Spirit Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "UpDating",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$43–$114",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Hadestown (Touring)",
-      "venue_line": "Benedum Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Sammy Rae and The Friends w/ Melt",
-      "venue_line": "Stage AE • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +141,66 @@
       "price_label": "$44",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "R&B ONLY",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "R&B ONLY LIVE - Pittsburgh, PA",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Lotus",
+      "venue_line": "Mr Smalls Theater • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "TREVOR AUSTIN PRESENTS: FRIGHT NIGHT- DRESSED TO KILL",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$25–$77",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Lotus - HALLOWEEN AFTERPARTY Featuring DJ GREENIE",
+      "venue_line": "The Funhouse @ Mr Smalls • Millvale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Hadestown (Touring)",
+      "venue_line": "Benedum Center • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

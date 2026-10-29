@@ -1,77 +1,7 @@
 {
   "city_label": "Dallas, TX",
-  "updated_at": "2026-10-28T15:40:58.659Z",
+  "updated_at": "2026-10-29T15:47:25.035Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Saosin: 20 Years of Self-Titled",
-      "venue_line": "House of Blues Dallas  • Dallas",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
-      "venue_line": "Majestic Theatre Dallas • Dallas",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Boss' Daughter, Half Foot Hog, Kill Your TV",
-      "venue_line": "Three Links Deep Ellum • Dallas",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "James Tom Goes on a Mini-Tour, Casual Style",
-      "venue_line": "Punch Line Irving • Irving",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Kinda Kinks w/ The Rubinoos",
-      "venue_line": "Arlington Music Hall • Arlington",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Dallas Mavericks vs. Oklahoma City Thunder",
-      "venue_line": "American Airlines Center • Dallas",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Allen Americans Vs Idaho Steelheads",
-      "venue_line": "Comerica Center • Frisco",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -199,6 +129,76 @@
       "title": "Alejandro Escovedo",
       "venue_line": "The Kessler • Dallas",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "ALVARO DIAZ - OMAKASE TOUR",
+      "venue_line": "The Pavilion at Toyota Music Factory • Irving",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "A.R. Rahman Symphonic Experience",
+      "venue_line": "Texas Trust CU Theatre • Grand Prairie",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Clever",
+      "venue_line": "Dada Dallas • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "Massano (18 and Over)",
+      "venue_line": "SILO • Dallas",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Uforia Latino Mix Live",
+      "venue_line": "Dos Equis Pavilion • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Mitchell Ferguson",
+      "venue_line": "The Cambridge Room at House Of Blues • Dallas",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Fraxiom | Adventures of Jester Jackalope",
+      "venue_line": "Three Links Deep Ellum • Dallas",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,77 +1,7 @@
 {
   "city_label": "Miami, FL",
-  "updated_at": "2026-10-28T15:40:43.903Z",
+  "updated_at": "2026-10-29T15:47:09.909Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Leon Bridges Presents: Happiness Anytime",
-      "venue_line": "ZeyZey Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "SAP, Sludge Mother, and Easterlin in Miami",
-      "venue_line": "Lincoln's Beard • Miami",
-      "price_label": "$23",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Inter Miami CF vs FC Cincinnati",
-      "venue_line": "Nu Stadium • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Young Miko - Late Checkout Tour",
-      "venue_line": "Kaseya Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Bad Gyal - Más Cara World Tour 2026",
-      "venue_line": "The Fillmore Miami Beach at Jackie Gleason Theater • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
-      "venue_line": "Hard Rock Cafe Miami • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -197,6 +127,76 @@
       "day_number": "30",
       "date_iso": "2026-10-30",
       "title": "FearProv - Halloween Improv Show",
+      "venue_line": "Just the Funny • Miami",
+      "price_label": "$29",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "¡Dale! Impro - Impro en español",
+      "venue_line": "Just the Funny • Miami",
+      "price_label": "$18",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Sonic Live in Concert",
+      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Hablando Huevadas - US Tour 2026",
+      "venue_line": "James L Knight Center • Miami",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Loe Shimmy's ZOMBIELAND",
+      "venue_line": "Miramar Regional Park Amphitheater • Miramar",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Grupo Niche - Niche DIsco Tour",
+      "venue_line": "Hard Rock Live • Hollywood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Rocky Horror Picture Show (18+)",
+      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The BIG Show Improv Comedy Miami",
       "venue_line": "Just the Funny • Miami",
       "price_label": "$29",
       "type_key": "arts",

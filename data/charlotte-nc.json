@@ -1,17 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-28T15:40:38.753Z",
+  "updated_at": "2026-10-29T15:47:04.896Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Charlotte FC vs. CF Montréal",
-      "venue_line": "Bank of America Stadium • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -198,6 +188,16 @@
       "date_iso": "2026-10-31",
       "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
       "venue_line": "The Underground • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Sammy Rae & The Friends with special guest Melt",
+      "venue_line": "The Fillmore Charlotte • Charlotte",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

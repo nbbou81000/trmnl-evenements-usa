@@ -1,17 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-28T15:40:56.006Z",
+  "updated_at": "2026-10-29T15:47:22.265Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "SunSquabi, Dark Oceanz Live",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$34–$119",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Nebraska Cornhuskers Womens Basketball vs. Western Illinois Leathernecks Womens Basketball",
       "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Lincoln Stars vs. Waterloo Black Hawks",
+      "venue_line": "Ice Box • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

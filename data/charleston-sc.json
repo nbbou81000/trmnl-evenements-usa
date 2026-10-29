@@ -1,27 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-28T15:40:41.062Z",
+  "updated_at": "2026-10-29T15:47:07.183Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "CeCe Winans - COME WORSHIP! Tour",
-      "venue_line": "North Charleston Coliseum • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Sonic Live in Concert",
-      "venue_line": "North Charleston Performing Arts Center • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Charleston Cougars Mens Basketball vs. Newberry Wolves Mens Basketball",
+      "venue_line": "TD Arena • Charleston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "South Carolina Stingrays vs. Orlando Solar Bears",
+      "venue_line": "North Charleston Coliseum • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

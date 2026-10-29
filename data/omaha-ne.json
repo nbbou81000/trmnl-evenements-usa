@@ -1,47 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-28T15:40:55.513Z",
+  "updated_at": "2026-10-29T15:47:21.836Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Omaha Women's Basketball vs. Northern State",
-      "venue_line": "Baxter Arena • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Death Becomes Her (Touring)",
-      "venue_line": "Orpheum Theater - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Prince Daddy and The Hyena",
-      "venue_line": "Slowdown • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Akeem Ali",
-      "venue_line": "The Waiting Room - NE • Omaha",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Orpheum Theater - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Death Becomes Her (Touring)",
+      "venue_line": "Orpheum Theater - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Rehash",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Creighton Bluejays vs Kansas City Roos",
+      "venue_line": "CHI Health Center Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

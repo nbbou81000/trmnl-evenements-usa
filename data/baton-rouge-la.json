@@ -1,6 +1,6 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-28T15:41:07.465Z",
+  "updated_at": "2026-10-29T15:47:33.920Z",
   "events": [
     {
       "day_label": "THU",
@@ -36,21 +36,21 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "The Molly Ringwalds",
-      "venue_line": "L'Auberge Casino & Hotel Baton Rouge  • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
       "title": "Emo Night Halloween with Dan Lion and Mookie Darden (18 and Over)",
       "venue_line": "Chelsea's Live • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Molly Ringwalds",
+      "venue_line": "L'Auberge Casino & Hotel Baton Rouge  • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -68,7 +68,7 @@
       "date_iso": "2026-10-31",
       "title": "Safe Sex Worldwide Halloween with Bandeaux Pat, K Strikez and Love Yourself",
       "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$38",
+      "price_label": "$48",
       "type_key": "music",
       "type_label": "Music"
     },

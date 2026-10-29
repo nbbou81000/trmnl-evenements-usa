@@ -1,67 +1,7 @@
 {
   "city_label": "St. Petersburg, FL",
-  "updated_at": "2026-10-28T15:40:45.672Z",
+  "updated_at": "2026-10-29T15:47:11.734Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Rav \"Exopocalypse Tour\" in Tampa w/ Teller Bank$ & Fatboi Sharif",
-      "venue_line": "New World Music Hall • Tampa",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Hamilton (Touring)",
-      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "USF Jazz Ensemble",
-      "venue_line": "Peter and Cynthia Zinober Concert Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Milwaukee Brewers at Tampa Bay Rays: World Series (Home Game 3)",
-      "venue_line": "Tropicana Field • Saint Petersburg",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Steve Lacy: Oh yeah? Tour",
-      "venue_line": "Yuengling Center • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Monumental Sounds",
-      "venue_line": "Mahaffey Theater • St Petersburg",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-30",
       "title": "Hairball",
       "venue_line": "Ruth Eckerd Hall • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Chayanne - Bailemos Otra Vez Tour",
+      "venue_line": "Benchmark International Arena • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Emo Night Brooklyn (18 and Over)",
+      "venue_line": "Orpheum Theatre - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Don 'D.C.' Curry",
+      "venue_line": "Funny Bone Comedy Club - Tampa • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "South Florida Bulls Football vs. UAB Blazers Football",
+      "venue_line": "Raymond James Stadium • Tampa",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Hamilton (Touring)",
+      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Haunted Fest",
+      "venue_line": "Spa Beach Park at St. Pete Pier • Saint Petersburg",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

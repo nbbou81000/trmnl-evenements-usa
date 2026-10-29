@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-28T15:41:11.440Z",
+  "updated_at": "2026-10-29T15:47:37.929Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Colorado State University Rams Womens Basketball vs. Chadron State Eagles Womens Basketball",
-      "venue_line": "Moby Arena • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Colorado Eagles vs. Charlotte Checkers",
-      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -197,6 +177,26 @@
       "day_number": "12",
       "date_iso": "2026-11-12",
       "title": "Colorado State University Rams Womens Volleyball vs. Fresno State Bulldogs Womens Volleyball",
+      "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Cat Clyde w/ Dean Johnson",
+      "venue_line": "Aggie Theater • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Colorado State University Rams Womens Basketball vs. Wyoming Cowgirls Womens Basketball",
       "venue_line": "Moby Arena • Fort Collins",
       "price_label": "Price not available",
       "type_key": "sports",

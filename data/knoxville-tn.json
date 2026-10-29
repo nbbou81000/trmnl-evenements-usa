@@ -1,77 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-28T15:41:06.108Z",
+  "updated_at": "2026-10-29T15:47:32.602Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Q Series",
-      "venue_line": "Elks Lodge • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "October 28, 2026 - Loft & TriStar Club Seating",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Red Clay Strays",
-      "venue_line": "Food City Center • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Nurse Blake: But Did You Die? Tour",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Indigo Girls with Special Guest Linda Perry",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Clyde's (CBT)",
-      "venue_line": "The Jenny Boyd Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Sheena McCall Young People's Concert: Carnival",
-      "venue_line": "Knoxville Civic Auditorium • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -116,6 +46,16 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
+      "title": "The Rocky Horror Pop-Up Show",
+      "venue_line": "Tennessee Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
       "title": "90s Rave",
       "venue_line": "The 808 • Knoxville",
       "price_label": "Price not available",
@@ -153,16 +93,6 @@
       "type_label": "Film"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Rocky Horror Pop-Up Show",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
@@ -196,6 +126,76 @@
       "day_label": "SUN",
       "day_number": "1",
       "date_iso": "2026-11-01",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Tennessee Lady Volunteers Women's Basketball vs. Duquesne Womens Basketball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Bruce Cockburn with Livingston Taylor",
+      "venue_line": "Bijou Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Tennessee Volunteers Mens Basketball vs. Wofford Terriers Men's Basketball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Glenn Miller Orchestra",
+      "venue_line": "Bijou Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Yung Gravy: The Joyrider Tour",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "$43–$79",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "WDVX Presents Tennessee Shines & Station Birthday Bash",
+      "venue_line": "Bijou Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
       "title": "Clyde's (CBT)",
       "venue_line": "The Jenny Boyd Theatre • Knoxville",
       "price_label": "Price not available",

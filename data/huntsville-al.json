@@ -1,27 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-28T15:41:09.191Z",
+  "updated_at": "2026-10-29T15:47:35.770Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Lil Tracy",
-      "venue_line": "VBC Mars Music Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Chaos & Crawlers",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "KARLOUS MILLER",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$40–$53",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "October London",
+      "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,67 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-28T15:40:54.641Z",
+  "updated_at": "2026-10-29T15:47:20.934Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "All Elite Wrestling presents Dynamite & Collision Fright Night",
-      "venue_line": "Chaifetz Arena • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Spite",
-      "venue_line": "Pop's Concert Venue • Sauget",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "St. Louis City SC vs. Portland Timbers",
-      "venue_line": "Energizer Park • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The Billy Joel Legacy - A Tribute Experience",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Voodoo ZZ Top",
-      "venue_line": "Atomic Garage • St. Louis",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "WOLPH",
-      "venue_line": "Atomic Lounge • St. Louis",
-      "price_label": "$0–$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Voodoo Phish",
+      "venue_line": "Atomic Garage • St. Louis",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Post Sex Nachos",
+      "venue_line": "Delmar Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Swimming Paul",
+      "venue_line": "RYSE Nightclub • Saint Charles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Halloween Night with Danger Party",
+      "venue_line": "Pop's Nightclub • Sauget",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

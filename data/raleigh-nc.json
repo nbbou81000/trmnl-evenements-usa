@@ -1,37 +1,7 @@
 {
   "city_label": "Raleigh, NC",
-  "updated_at": "2026-10-28T15:40:39.188Z",
+  "updated_at": "2026-10-29T15:47:05.362Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Curtain Call From Beyond: Theatre Haunts & History",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "North Carolina Central Eagles Football vs. Howard University Bison Football",
+      "venue_line": "O'Kelly-Riddick Stadium • Durham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Lynne Koplitz",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$27–$82",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Clara La San - Chosen Silences Tour Fall 2026",
+      "venue_line": "The Ritz • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

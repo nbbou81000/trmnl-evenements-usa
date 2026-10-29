@@ -1,27 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-28T15:41:00.868Z",
+  "updated_at": "2026-10-29T15:47:27.447Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "The UTEP Dinner Theatre - Sweeney Todd",
-      "venue_line": "UTEP Dinner Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "INOHA w/ Buddha Trixie",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Raising The Barre- UTEP Theatre & Dance",
+      "venue_line": "June Sadowski Kruszewski Studio Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "El Paso Rhinos vs. Odessa Jackalopes",
+      "venue_line": "Events Center  • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

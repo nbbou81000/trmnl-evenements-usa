@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-28T15:40:29.116Z",
+  "updated_at": "2026-10-29T15:46:55.372Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,16 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Boots at the Brewery | Line Dancing",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$13–$25",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "THU",
@@ -199,6 +189,16 @@
       "title": "Boots at the Brewery | Line Dancing",
       "venue_line": "Middle Ages Music Hall • Syracuse",
       "price_label": "$13–$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Dominion Goth Night feat. MVTANT ",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$19",
       "type_key": "music",
       "type_label": "Music"
     }

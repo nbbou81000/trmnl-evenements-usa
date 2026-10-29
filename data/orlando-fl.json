@@ -1,87 +1,7 @@
 {
   "city_label": "Orlando, FL",
-  "updated_at": "2026-10-28T15:40:44.820Z",
+  "updated_at": "2026-10-29T15:47:10.778Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Cirque du Soleil: Drawn to Life",
-      "venue_line": "Walt Disney World • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Orlando Solar Bears vs. Florida Everblades",
-      "venue_line": "Kia Center • Orlando",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Hard Swingin' Country Soiree with Decker & Dimitrov",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Dolly Parton Tribute Show",
-      "venue_line": "Will's Pub • Orlando",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Blue Man Group",
-      "venue_line": "ICON Park • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Cirque du Soleil: Drawn to Life",
-      "venue_line": "Walt Disney World • Orlando",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Inferno: A Hell Themed Halloween Party (Void. Terror. Silence - Halloween Edition)",
-      "venue_line": "Conduit • Winter Park",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Nesto's Jazz Trio",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -166,16 +86,6 @@
       "day_label": "THU",
       "day_number": "29",
       "date_iso": "2026-10-29",
-      "title": "Skilla Baby: The Price of Fame Tour",
-      "venue_line": "The Beacham • Orlando",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
       "title": "WILL'S DIE-IN",
       "venue_line": "Will's Pub • Orlando",
       "price_label": "$15",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "COUNTRYOKE WITH DJ RYAN",
+      "venue_line": "WILD WEST END • Sanford",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "The JK Trio",
+      "venue_line": "Lil' Indies • Orlando",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "29",
+      "date_iso": "2026-10-29",
+      "title": "DAIKAIJU",
+      "venue_line": "Will's Pub • Orlando",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Cirque du Soleil: Drawn to Life",
+      "venue_line": "Walt Disney World • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "venue_line": "Steinmetz Hall • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Orlando Solar Bears vs. Jacksonville Icemen - Boo with the Bears",
+      "venue_line": "Kia Center • Orlando",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Daniel Sloss",
+      "venue_line": "Dr. Phillips Performing Arts Center • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Earthquake",
+      "venue_line": "Funny Bone Comedy Club - Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "UCF Knights Football vs Baylor - Space Game",
+      "venue_line": "Acrisure Bounce House • Orlando",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

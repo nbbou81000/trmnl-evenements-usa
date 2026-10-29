@@ -1,23 +1,13 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-10-28T15:40:38.293Z",
+  "updated_at": "2026-10-29T15:47:04.463Z",
   "events": [
     {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Hudson Westbrook",
-      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "DaBaby",
-      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Hawthorne Heights: 20th anniversary of If Only You Were Lonely",
+      "venue_line": "Elevation 27 • Virginia Beach",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -48,16 +38,6 @@
       "date_iso": "2026-10-30",
       "title": "Halloween MasqueRAGE with Sickick - Ages: 18 & Over",
       "venue_line": "Waterside District - VA • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Hawthorne Heights: 20th anniversary of If Only You Were Lonely",
-      "venue_line": "Elevation 27 • Virginia Beach",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Indiana Jones Raiders Of The Lost Ark - 7pm - Classic Movie Nights!",
+      "venue_line": "American Theatre • Hampton",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Monster Jam",
+      "venue_line": "Hampton Coliseum • Hampton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

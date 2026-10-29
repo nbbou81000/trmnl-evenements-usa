@@ -1,27 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-28T15:41:12.778Z",
+  "updated_at": "2026-10-29T15:47:39.298Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Boise State University Music Dept: Spook-tacular",
-      "venue_line": "Morrison Center for the Performing Arts • Boise",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Nahko and Medicine for the People  HOKA - 10th Anniversary Tour",
-      "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$44",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Katie Pruitt -  Fools for the Fleeting Tour",
+      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
+      "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "PLAYDEAD, Carrion Kids (Mexico City), Steve Turner (DJ Set, Mudhoney)",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$10",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

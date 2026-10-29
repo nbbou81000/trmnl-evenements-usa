@@ -1,37 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-10-28T15:40:36.961Z",
+  "updated_at": "2026-10-29T15:47:03.134Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "28",
-      "date_iso": "2026-10-28",
-      "title": "SIX (Touring)",
-      "venue_line": "Hippodrome at France-Merrick Performing Arts Center • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "August Wilson's \"Two Trains Running\" ",
-      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "29",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Leftover Salmon 2-Day Ticket (10/30-31) Valid Both Days, Cannot Split",
+      "venue_line": "Nevermore Hall • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Billy Strings 2-Day Ticket (10/30-10/31) Valid Both Days, Cannot Split",
+      "venue_line": "CFG Bank Arena • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Towson University Tigers Football vs. Hampton University Pirates Football",
+      "venue_line": "Towson University, Unitas Stadium • Towson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }
