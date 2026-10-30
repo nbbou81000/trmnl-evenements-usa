@@ -1,17 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-29T15:47:20.411Z",
+  "updated_at": "2026-10-30T15:28:55.780Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Old Crow Medicine Show: Union Made Tour - Ages 21 and under with Guardian",
-      "venue_line": "Knuckleheads Saloon • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -77,7 +67,7 @@
       "day_number": "31",
       "date_iso": "2026-10-31",
       "title": "Sporting Kansas City vs. FC Dallas",
-      "venue_line": "Children's Mercy Park • Kansas City",
+      "venue_line": "Sporting Park • Kansas City",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-03",
       "title": "MARIS",
       "venue_line": "Encore at Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The Damned w/ Flamin Groovies",
+      "venue_line": "The Truman - Kansas City • Kansas City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

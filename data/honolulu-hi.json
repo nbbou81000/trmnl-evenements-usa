@@ -1,37 +1,7 @@
 {
   "city_label": "Honolulu, HI",
-  "updated_at": "2026-10-29T15:47:52.992Z",
+  "updated_at": "2026-10-30T15:29:27.695Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Ka'au Crater Boys - The Second Chapter",
-      "venue_line": "Blue Note Hawaii • Honolulu",
-      "price_label": "$34–$57",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Cirque du Soleil: Auana",
-      "venue_line": "Outrigger Waikiki Beachcomber Hotel • Honolulu",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -199,6 +169,36 @@
       "title": "Gramps Morgan",
       "venue_line": "Blue Note Hawaii • Honolulu",
       "price_label": "$34–$46",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Wailers",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$46–$63",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Rachmaninoff & Copland",
+      "venue_line": "Neal S Blaisdell Concert Hall • Honolulu",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Wailers",
+      "venue_line": "Blue Note Hawaii • Honolulu",
+      "price_label": "$46–$63",
       "type_key": "music",
       "type_label": "Music"
     }

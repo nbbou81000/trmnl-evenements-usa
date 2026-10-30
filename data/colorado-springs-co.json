@@ -1,47 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-10-29T15:47:37.514Z",
+  "updated_at": "2026-10-30T15:29:12.620Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Icon for Hire: Scripted 15 Year Anniversary Tour",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Icon for Hire w/ Lauren Babic",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour - Colorado Springs, CO",
-      "venue_line": "New Life Church • Colorado Springs",
-      "price_label": "$30–$122",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "KOLBY COOPER",
-      "venue_line": "Whiskey Rose • Colorado Springs",
-      "price_label": "$24",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -198,6 +158,46 @@
       "date_iso": "2026-11-05",
       "title": "Air Force Academy Falcons Mens Basketball vs. Calumet College Crimson Wave Mens Basketball",
       "venue_line": "Clune Arena • USAF Academy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "MercyMe w/ Jeremy Camp",
+      "venue_line": "Broadmoor World Arena • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Trish Toledo, the Mananas",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Colorado College Tigers Hockey vs. Lindenwood",
+      "venue_line": "Ed Robson Arena • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Air Force Academy Falcons Hockey vs. Army Black Knights Hockey",
+      "venue_line": "Cadet Ice Arena • USAF Academy",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

@@ -1,17 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-29T15:47:35.770Z",
+  "updated_at": "2026-10-30T15:29:10.911Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Nurse Blake: But Did You Die? Comedy Tour",
-      "venue_line": "VBC Mars Music Hall • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Dustin Nickerson",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$33",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

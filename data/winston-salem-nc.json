@@ -1,17 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-29T15:47:06.720Z",
+  "updated_at": "2026-10-30T15:28:42.010Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "An Evening with Dirty Logic: A Steely Dan Tribute",
-      "venue_line": "The Ramkat • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-08",
       "title": "Simone Porter",
       "venue_line": "Theatre at Well-Spring • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "TOBYMAC, THIRD DAY, CHRIS TOMLIN",
+      "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,47 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-10-29T15:47:19.831Z",
+  "updated_at": "2026-10-30T15:28:55.093Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Minnesota Wild vs. New York Islanders",
-      "venue_line": "Grand Casino Arena • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Deconstructing The Music LIVE: The Beatles' Revolver",
-      "venue_line": "Dudley Riggs Theatre First Floor • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Akeem Ali (18 and Over with Valid Government ID)",
-      "venue_line": "Amsterdam Bar & Hall • St. Paul",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "U.S. Bank Stadium Tour",
-      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Hold On To Your Butts",
+      "venue_line": "Dudley Riggs Theatre First Floor • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Twin Cities Ballet Presents Phantom of the Opera",
+      "venue_line": "Fitzgerald Theater • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "THE HUNCHBACK OF NOTRE DAME silent film with LIVE ORCHESTRA (Early Show)",
+      "venue_line": "Luminary Arts Center • Minneapolis",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Periphery - A Pale White Dot US Tour",
+      "venue_line": "The Fillmore Minneapolis presented by Affinity Plus • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-29T15:47:06.265Z",
+  "updated_at": "2026-10-30T15:28:41.558Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "An Evening with Dirty Logic: A Steely Dan Tribute",
-      "venue_line": "The Ramkat • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Quincy Roberts Presents 2026 Elite Muscle Classic",
       "venue_line": "Piedmont Hall • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Greensboro Swarm vs. Long Island Nets",
+      "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

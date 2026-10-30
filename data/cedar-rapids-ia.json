@@ -1,6 +1,6 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-29T15:47:23.130Z",
+  "updated_at": "2026-10-30T15:28:58.361Z",
   "events": [
     {
       "day_label": "SAT",
@@ -136,11 +136,41 @@
       "day_label": "WED",
       "day_number": "18",
       "date_iso": "2026-11-18",
+      "title": "NJCAA DII Women's Volleyball Championships",
+      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
       "title": "Andy Grammer",
       "venue_line": "The Englert Theatre • Iowa City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "NJCAA DII Women's Volleyball Championships",
+      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "NJCAA DII Women's Volleyball Championships",
+      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -166,41 +196,11 @@
       "day_label": "SAT",
       "day_number": "21",
       "date_iso": "2026-11-21",
-      "title": "Cedar Rapids Roughriders vs. Sioux City Musketeers",
-      "venue_line": "IMON Ice • Cedar Rapids",
+      "title": "NJCAA DII Women's Volleyball Championships",
+      "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "27",
-      "date_iso": "2026-11-27",
-      "title": "Iowa Hawkeyes Football vs. Nebraska Cornhuskers Football",
-      "venue_line": "Kinnick Stadium • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "28",
-      "date_iso": "2026-11-28",
-      "title": "Cedar Rapids Roughriders vs. Waterloo Black Hawks",
-      "venue_line": "IMON Ice • Cedar Rapids",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "3",
-      "date_iso": "2026-12-03",
-      "title": "The Nutcracker Presented by Nolte Academy",
-      "venue_line": "The Englert Theatre • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
     }
   ]
 }

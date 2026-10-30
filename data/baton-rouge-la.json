@@ -1,17 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-29T15:47:33.920Z",
+  "updated_at": "2026-10-30T15:29:09.182Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "LSU Tigers Womens Basketball vs. Loyola Ramblers Womens Basketball",
-      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Paula Cole This Fire : 30 with Rett Madison",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$52–$135",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

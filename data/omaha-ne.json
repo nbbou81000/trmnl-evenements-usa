@@ -1,27 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-29T15:47:21.836Z",
+  "updated_at": "2026-10-30T15:28:57.059Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Omaha Women's Soccer vs. Oral Roberts",
-      "venue_line": "Caniglia Field • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Death Becomes Her (Touring)",
-      "venue_line": "Orpheum Theater - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -197,6 +177,26 @@
       "day_number": "2",
       "date_iso": "2026-11-02",
       "title": "Creighton Bluejays vs Kansas City Roos",
+      "venue_line": "CHI Health Center Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Omaha Men's Basketball vs. Mid-America Christian",
+      "venue_line": "Baxter Arena • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Creighton Bluejays vs Le Moyne Dolphins",
       "venue_line": "CHI Health Center Omaha • Omaha",
       "price_label": "Price not available",
       "type_key": "sports",

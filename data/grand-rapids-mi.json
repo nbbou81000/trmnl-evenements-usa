@@ -1,67 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-29T15:47:14.377Z",
+  "updated_at": "2026-10-30T15:28:49.660Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Emo Night",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Blue October:  The Foiled 20th Anniversary World Tour",
-      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Noah Gundersen: Rites of Spring US TOUR FALL 2026 + Runnner + Breakup Shoes",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$33–$117",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Chris Webby ??? Webby???s Arcade Tour",
-      "venue_line": "Intersection • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -98,7 +38,7 @@
       "date_iso": "2026-10-30",
       "title": "King Sickabilly With Kitten and The Tonics And  Delilah DeWylde",
       "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$18–$29",
+      "price_label": "$23",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -156,9 +96,9 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "Twerk or Treat 4 ft. DJ Omega Supreme + DJ Composition + Deeechild + DJ Jodi Dro",
+      "title": "SOLD OUT: Twerk or Treat 4 ft. DJ Omega Supreme + DJ Composition + Deeechild + DJ Jodi Dro",
       "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$27",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Flamingosis - Bright Moments 10th Anniversary + Pablo Eskobear + Drop Catch",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Metal Mondays",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Authority Zero - Apocalyptour 2026 + The Raging Nathans + Bayley Gottfried + Misplaced Memories",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "America For All: Kent County Democrats Election Watch Party",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Tip Top Tuesday Comedy",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The String Cheese Incident: Just Keep Spinning Tour",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

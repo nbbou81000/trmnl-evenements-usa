@@ -1,57 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-29T15:47:20.934Z",
+  "updated_at": "2026-10-30T15:28:56.218Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Yoga Happy Hour: Halloween Edition",
-      "venue_line": "Atomic Pavilion • St. Louis",
-      "price_label": "$0–$31",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "St. Louis Blues vs. Boston Bruins",
-      "venue_line": "Enterprise Center • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "BOOP! The Musical (Touring)",
-      "venue_line": "Fabulous Fox Theatre - St. Louis • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Thundercat: Distracted AF Tour",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The Brook & The Bluff: The Werewolf Tour",
-      "venue_line": "Delmar Hall • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -199,6 +149,56 @@
       "title": "Halloween Night with Danger Party",
       "venue_line": "Pop's Nightclub • Sauget",
       "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "St. Louis Billikens Mens Basketball vs. Lehigh Mountain Hawks Mens Basketball",
+      "venue_line": "Chaifetz Arena • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Saint Louis Billiken Mens Basketball vs. Lehigh Mens Basketball",
+      "venue_line": "Chaifetz Arena • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Open Mic Night",
+      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Undertale - The Determination Symphony World Tour",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Turnover - Down On Earth Tour",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

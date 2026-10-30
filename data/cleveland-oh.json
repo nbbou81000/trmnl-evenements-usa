@@ -1,67 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-10-29T15:47:15.834Z",
+  "updated_at": "2026-10-30T15:28:51.088Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "THIRTEENTH ANNUAL(ISH) PEABODY'S DAY",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "TIPSY TRIVIA (HORROR MOVIES)",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Ultimate Alt Rock Sampler Halloween Cover Show",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The Iron Maidens w/ Olathia",
-      "venue_line": "Beachland Ballroom • East Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "GS Harper, Kristine Jackson, Rick Z: From Inspiration to Original",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "BACKSTAGE PASS",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$13",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -168,7 +108,7 @@
       "date_iso": "2026-10-30",
       "title": "Ordinary World - Duran Duran Tribute",
       "venue_line": "The Winchester • Lakewood",
-      "price_label": "$13",
+      "price_label": "$20",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +138,66 @@
       "date_iso": "2026-10-30",
       "title": "Two Mile Moon (as Interpol)",
       "venue_line": "Beachland Tavern • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Cleveland BROWN: A Tribute to Ween",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "That Arena Rock Show",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "CIRQUE DU SOULESS",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$14",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "URGE: WITCHING HOUR",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$13",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+      "venue_line": "Huntington Convention Center of Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Jurassic Quest – Cleveland, OH | Huntington Convention Center",
+      "venue_line": "Huntington Convention Center of Cleveland • Cleveland",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"

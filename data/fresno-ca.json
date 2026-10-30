@@ -1,47 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-29T15:47:45.950Z",
+  "updated_at": "2026-10-30T15:29:21.127Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Colorado State",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Colorado State University Rams Womens Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Havok , Slackjaw, Xoth, Thrallr",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$32–$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Foreigner - 21+",
-      "venue_line": "Table Mountain Casino • Friant",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -143,6 +103,26 @@
       "type_label": "Music"
     },
     {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Fresno State Bulldogs Mens Basketball vs. Fresno Pacific University Mens Basketball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Fresno State Bulldogs Women's Basketball vs. UC Merced",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
@@ -196,9 +176,29 @@
       "day_label": "TUE",
       "day_number": "10",
       "date_iso": "2026-11-10",
+      "title": "Fresno State Bulldogs Mens Basketball vs. Georgia State Panthers Mens Basketball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
       "title": "They Are Gutting A Body Of Water",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$26–$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Leonid & Friends",
+      "venue_line": "Warnors Theatre • Fresno",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

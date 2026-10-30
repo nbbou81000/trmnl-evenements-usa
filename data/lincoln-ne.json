@@ -1,17 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-29T15:47:22.265Z",
+  "updated_at": "2026-10-30T15:28:57.482Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Silver Ticket Karaoke",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Blade Rave",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$27–$119",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-10-29T15:46:58.976Z",
+  "updated_at": "2026-10-30T15:28:34.156Z",
   "events": [
     {
       "day_label": "SUN",
@@ -88,6 +88,16 @@
       "date_iso": "2026-12-09",
       "title": "Bouncing Souls",
       "venue_line": "Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "12",
+      "date_iso": "2026-12-12",
+      "title": "Emo Night Brooklyn",
+      "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

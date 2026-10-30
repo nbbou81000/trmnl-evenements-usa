@@ -1,27 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-29T15:47:52.599Z",
+  "updated_at": "2026-10-30T15:29:27.271Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Spokane Public Schools Football - Pullman vs North Central",
-      "venue_line": "ONE Spokane Stadium • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Spokane Public Schools Football - Gonzaga Prep vs Lewis & Clark",
-      "venue_line": "ONE Spokane Stadium • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -168,7 +148,7 @@
       "date_iso": "2026-11-05",
       "title": "Daily Bread - Vanishing Point Tour",
       "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$122",
+      "price_label": "$22–$122",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Beck",
+      "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Beck",
+      "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

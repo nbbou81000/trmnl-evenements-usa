@@ -1,17 +1,7 @@
 {
   "city_label": "Santa Rosa, CA",
-  "updated_at": "2026-10-29T15:47:47.861Z",
+  "updated_at": "2026-10-30T15:29:22.907Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Lyle Lovett",
-      "venue_line": "Weill Hall at Sonoma State University • Rohnert Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-20",
       "title": "Y&T",
       "venue_line": "Mystic Theatre • Petaluma",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Susan Werner",
+      "venue_line": "HopMonk Tavern - Novato • Novato",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

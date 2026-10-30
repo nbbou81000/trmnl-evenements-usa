@@ -1,27 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-29T15:47:27.447Z",
+  "updated_at": "2026-10-30T15:29:02.629Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The UTEP Dinner Theatre - Sweeney Todd",
-      "venue_line": "UTEP Dinner Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The UTEP Wind Symphony in Concert - UTEP Department of Music",
-      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Fall Opera Showcase: Cinderella Stories - UTEP Department Of Music",
+      "venue_line": "Fox Fine Arts Recital Hall • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "they are gutting a body of water",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,87 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-10-29T15:47:15.231Z",
+  "updated_at": "2026-10-30T15:28:50.523Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Happy Hour w/ The Moment at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$2",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The Wrecks w/ Worry Club",
-      "venue_line": "Newport Music Hall • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "TreeHouse! w/ Rockstead & Land of Panda at Woodlands Tavern",
-      "venue_line": "Woodlands Tavern • Columbus",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "UniverSoul Circus",
-      "venue_line": "Universoul Circus - Columbus - Historic Crew Stadium • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Olivia Rodrigo: The Unraveled Tour",
-      "venue_line": "Schottenstein Center • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Dead Man's Cell Phone",
-      "venue_line": "OSU Black Box Theatre • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Willi Carlisle - The Universal Bubba Tour w/ Tall Tall Trees",
-      "venue_line": "Skully's Music Diner • Columbus",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Flooding w/ Wujeria",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -176,6 +96,16 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
+      "title": "American Aquarium *LOW TIX WARNING*",
+      "venue_line": "Rumba Cafe • Columbus",
+      "price_label": "$38",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
       "title": "Russ Taff w/ Steve Taylor",
       "venue_line": "Southern Theatre • Columbus",
       "price_label": "Price not available",
@@ -196,11 +126,81 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "American Aquarium *LOW TIX WARNING*",
+      "title": "American Aquarium",
       "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$38",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Kpop Club Night ft DJ Hype Girl Madi",
+      "venue_line": "Skully's Music Diner • Columbus",
+      "price_label": "$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Worst Ghoul In America: Hot Girl Halloween Dance Night - Ages 18+",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "The Rocky Horror Show",
+      "venue_line": "Short North Stage - Garden Theater • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "UniverSoul Circus",
+      "venue_line": "Universoul Circus - Columbus - Historic Crew Stadium • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Columbus Crew vs. D.C. United",
+      "venue_line": "ScottsMiracle-Gro Field • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Ohio State Buckeyes Women's Hockey vs. Bemidji State University Beavers Womens Hockey",
+      "venue_line": "Ohio State University Ice Rink • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "UniverSoul Circus",
+      "venue_line": "Universoul Circus - Columbus - Historic Crew Stadium • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

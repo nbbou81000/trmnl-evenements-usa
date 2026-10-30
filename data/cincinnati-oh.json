@@ -1,17 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-29T15:47:16.279Z",
+  "updated_at": "2026-10-30T15:28:51.581Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The Fighting Side",
-      "venue_line": "The Southgate House Revival - The Lounge • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +191,16 @@
       "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Northern Kentucky Norse Womens Basketball vs. Defiance Yellow Jackets",
+      "venue_line": "Truist Arena • Highland Heights",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

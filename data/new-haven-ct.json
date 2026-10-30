@@ -1,17 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-29T15:46:57.139Z",
+  "updated_at": "2026-10-30T15:28:32.362Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Rumours of Fleetwood Mac",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-05",
       "title": "Quinnipiac Bobcats Mens Basketball vs. Bryant Bulldogs Mens Basketball",
       "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Sacred Heart Pioneers Men's Basketball vs. Maine Mens Basketball",
+      "venue_line": "William H. Pitt Center • Fairfield",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

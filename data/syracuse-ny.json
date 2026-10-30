@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-29T15:46:55.372Z",
+  "updated_at": "2026-10-30T15:28:30.430Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,36 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Hocus Pocus Taste-A-Long® Experience",
-      "venue_line": "The Oncenter Crouse Hinds Theater • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The Black Dahlia Murder",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$37",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Noon Fifteen + Rising Ghosts",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -199,6 +169,36 @@
       "title": "Dominion Goth Night feat. MVTANT ",
       "venue_line": "The Song & Dance • Syracuse",
       "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Dev Lemons",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Dev Lemons - Eat the Pavement Tour",
+      "venue_line": "Funk N' Waffles • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Wheeler Walker Jr.",
+      "venue_line": "Kegs Canal Side • Jordan",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

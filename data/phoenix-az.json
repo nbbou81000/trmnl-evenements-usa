@@ -1,11 +1,11 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-10-29T15:47:41.133Z",
+  "updated_at": "2026-10-30T15:29:16.225Z",
   "events": [
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
       "title": "Chase Field Stadium Tours",
       "venue_line": "Chase Field • Phoenix",
       "price_label": "Price not available",
@@ -13,29 +13,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Suffs (Touring)",
-      "venue_line": "Phoenix Theatre - Hormel Theatre • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Worst Party Ever w/ Equipment",
-      "venue_line": "Nile Theater • Mesa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
       "title": "DIAMOND: The Neil Diamond Tribute",
       "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
       "price_label": "Price not available",
@@ -43,9 +23,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
       "title": "Annie (Touring)",
       "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
       "price_label": "Price not available",
@@ -53,29 +33,129 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "LUCY (COOPER B. HANDY)",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "HEX (18 and Over) - Friday",
+      "venue_line": "Rawhide Event Center • Chandler",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "VOILÀ",
-      "venue_line": "The Van Buren • Phoenix",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
+      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Gully Boys w/ Pollyanna",
+      "venue_line": "Nile Theater • Mesa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Chris Stussy",
+      "venue_line": "Rawhide Event Center • Chandler",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "BOO! Arizona",
+      "venue_line": "Westworld of Scottsdale • Scottsdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "MITCH FREEDOM // LO FI / BEATS / INSTRUMENTAL HIP HOP",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "DIAMOND: The Neil Diamond Tribute",
+      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Annie (Touring)",
+      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "CITYSWOON SPEED DATING @ VALLEY BAR",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "NIGHT OF THE LIVING DEAD WITH PRACTICALLY PEOPLE / GLENCOVE / GLUE STICKS",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$17",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Phoenix Suns vs. Denver Nuggets",
+      "venue_line": "Mortgage Matchup Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "OneCourt",
+      "venue_line": "Mortgage Matchup Center • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
       "title": "Suffs (Touring)",
       "venue_line": "Phoenix Theatre - Hormel Theatre • Phoenix",
       "price_label": "Price not available",
@@ -83,9 +163,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
       "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
       "venue_line": "Rose Theatre at Arizona Center • Phoenix",
       "price_label": "Price not available",
@@ -93,112 +173,32 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "LUCY (COOPER B. HANDY) = Ages 16+",
-      "venue_line": "Valley Bar • Phoenix",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "All Star Monster Truck Tour",
+      "venue_line": "Arizona State Fairgrounds • Phoenix",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Pigeons Playing Ping Pong",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "WAGE WAR - EMERGENCY BROADCAST TOUR",
       "venue_line": "Marquee Theatre • Tempe",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "VOILA w/ Weathers",
-      "venue_line": "Nile Theater • Mesa",
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl in Concert",
+      "venue_line": "Phoenix Symphony Hall • Phoenix",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Doja Cat - Tour Ma Vie World Tour",
-      "venue_line": "Mortgage Matchup Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Water for Elephants (Touring)",
-      "venue_line": "ASU Gammage • Tempe",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "THE BLACK ANGELS - PASSOVER 2026 TOUR",
-      "venue_line": "Crescent Ballroom • Phoenix",
-      "price_label": "$41",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Jim Henson's Labyrinth: In Concert",
-      "venue_line": "Orpheum Theatre - Phoenix • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Loterã­A Thursdays",
-      "venue_line": "Thunderbird Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Missio (21+ Event)",
-      "venue_line": "The Rebel Lounge • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "Rose Theatre at Arizona Center • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "LATIN NIGHT WITH DJ RECO",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

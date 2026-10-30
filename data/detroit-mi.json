@@ -1,87 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-10-29T15:47:13.928Z",
+  "updated_at": "2026-10-30T15:28:49.224Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "The Damned w/ Flamin Groovies",
-      "venue_line": "Majestic Theatre-MI • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Marshall Crenshaw",
-      "venue_line": "The Magic Bag • Ferndale",
-      "price_label": "$43",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Beat",
-      "venue_line": "Masonic Temple - Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Certified Psychos, Under the Lotus: The Final Act",
-      "venue_line": "The Shelter • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Rodrigo y Gabriela - OurHome Tour",
-      "venue_line": "The Fillmore Detroit • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Goddamn Gallows with Go Hang, King Sickobilly + Vlad’s Skeletal Circus",
-      "venue_line": "Small's • Hamtramck",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Kickstand Productions Presents Zauntee: God Remembers Tour",
-      "venue_line": "The Loving Touch • Ferndale",
-      "price_label": "$23–$70",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Detroit Red Wings vs. Chicago Blackhawks",
-      "venue_line": "Little Caesars Arena • Detroit",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -96,8 +16,8 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "Twiztid with Special Guests Blaze, ABK, The R.O.C., & Kaleido",
-      "venue_line": "Saint Andrew's Hall • Detroit",
+      "title": "King 810",
+      "venue_line": "The Crofoot Ballroom • Pontiac",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -106,8 +26,8 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "King 810",
-      "venue_line": "The Crofoot Ballroom • Pontiac",
+      "title": "Twiztid with Special Guests Blaze, ABK, The R.O.C., & Kaleido",
+      "venue_line": "Saint Andrew's Hall • Detroit",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -168,7 +88,7 @@
       "date_iso": "2026-10-30",
       "title": "NIRVANA GRUNGE NIGHT - The Ultimate Grunge Experience with Seven Circle Sunrise",
       "venue_line": "District 142 • Wyandotte",
-      "price_label": "$26",
+      "price_label": "$31–$42",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +119,86 @@
       "title": "Highway to Hell - an 80's Hair Metal / Glam Dance Party",
       "venue_line": "The Loving Touch • Ferndale",
       "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Magic Bag Presents: Mark Farina",
+      "venue_line": "The Magic Bag • Ferndale",
+      "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Ten Years Gone - Tribute to Led Zeppelin",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$12–$96",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "30",
+      "date_iso": "2026-10-30",
+      "title": "Devault x Fallon - Ages 18+",
+      "venue_line": "Magic Stick • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Detroit Red Wings vs. St. Louis Blues",
+      "venue_line": "Little Caesars Arena • Detroit",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Insane Clown Posse",
+      "venue_line": "Masonic Temple - Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "L7: The Last Hurrah Tour 2026",
+      "venue_line": "Saint Andrew's Hall • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Magic Bag Presents: 80s vs 90s - HELLABALOO",
+      "venue_line": "The Magic Bag • Ferndale",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "NIGHT OF THE BEAST featuring EYES OF THE NILE (Iron Maiden Tribute) and DEVIL'S CHILD (Judas Priest Tribute)",
+      "venue_line": "District 142 • Wyandotte",
+      "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
     }

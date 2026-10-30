@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-29T15:47:36.668Z",
+  "updated_at": "2026-10-30T15:29:11.760Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Extreme Dwarfanator Wrestling",
-      "venue_line": "The Electric Piano Parlor • Mobile",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "MGM LETT - FREE SHOW - 18+ Only",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -58,7 +38,7 @@
       "date_iso": "2026-10-31",
       "title": "THE EMO SOCIETY    ",
       "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$20",
+      "price_label": "$27",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "$24–$44",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "DRIVIN N CRYIN",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Nick Rochefort & Alex Schultz Live Stand Up Show",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$27",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

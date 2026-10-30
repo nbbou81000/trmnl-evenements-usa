@@ -1,17 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-29T15:46:58.590Z",
+  "updated_at": "2026-10-30T15:28:33.745Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Lauren Rainbow",
-      "venue_line": "BNH Stage • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -126,16 +116,6 @@
       "day_label": "FRI",
       "day_number": "13",
       "date_iso": "2026-11-13",
-      "title": "The Rush Tribute Project",
-      "venue_line": "Capitol Center for the Arts - NH • Concord",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "13",
-      "date_iso": "2026-11-13",
       "title": "Tusk: The Classic Fleetwood Mac Tribute",
       "venue_line": "Nashua Center For the Arts • Nashua",
       "price_label": "Price not available",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Cowboy Junkies ??? Celebrating 40 Years and Beyond",
+      "venue_line": "Nashua Center For the Arts • Nashua",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Seth Glier w/ Laurie MacAllister",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

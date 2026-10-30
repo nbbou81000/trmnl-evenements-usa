@@ -1,17 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-29T15:46:58.153Z",
+  "updated_at": "2026-10-30T15:28:33.297Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Third Eye Blind - Halloween 2026",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-10",
       "title": "Maine Mariners vs Wheeling Nailers",
       "venue_line": "Cross Insurance Arena  • Portland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Maine Mariners vs. Wheeling Nailers",
+      "venue_line": "Cross Insurance Arena • Portland",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

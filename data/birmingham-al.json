@@ -1,27 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-29T15:47:35.355Z",
+  "updated_at": "2026-10-30T15:29:10.481Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "CAIN",
-      "venue_line": "Leslie S Wright Fine Arts Center • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "FattMack X Big Yavo",
-      "venue_line": "Iron City • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -199,6 +179,26 @@
       "title": "The Ultimate Funk & Soul Experience: Morris Day & The Time & The S.O.S",
       "venue_line": "BJCC Concert Hall • Birmingham",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Alien Halloween feat. OmCat + Tin Roof Cats - Ages 18+",
+      "venue_line": "Saturn - Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Birmingham Bandstand (Open Mic) at the Nick",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$5",
       "type_key": "music",
       "type_label": "Music"
     }

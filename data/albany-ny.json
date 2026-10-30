@@ -1,27 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-29T15:46:55.792Z",
+  "updated_at": "2026-10-30T15:28:31.017Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Connor Wood",
-      "venue_line": "Funny Bone Comedy Club - Albany • Albany",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Scott Bradlees Postmodern Jukebox: The Future Is Vintage World Tour",
-      "venue_line": "Troy Savings Bank Music Hall • Troy",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Forbidden - Chaos By Design US Tour 2026",
+      "venue_line": "Empire Underground • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Siena MBB vs Princeton Tigers / Siena WBB vs Binghamton Bearcats",
+      "venue_line": "MVP Arena • Albany",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

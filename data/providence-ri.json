@@ -1,37 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-29T15:46:56.228Z",
+  "updated_at": "2026-10-30T15:28:31.457Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "Providence College Friars Womens Basketball vs. Southern New Hampshire Penmen Womens Basketball",
-      "venue_line": "Alumni Hall - RI • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "JOURNEY - Final Frontier Tour (An Evening With)",
-      "venue_line": "Amica Mutual Pavilion • Providence",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "29",
-      "date_iso": "2026-10-29",
-      "title": "LIGHTS OUT, Chainlacing, & Beth Kaplan and Her Band",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "30",
@@ -68,7 +38,7 @@
       "date_iso": "2026-10-30",
       "title": "Steve Sweeney, Mike McCarthy and James Dorsey",
       "venue_line": "Bally's Twin River Casino • Lincoln",
-      "price_label": "$29–$39",
+      "price_label": "$29–$43",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Rhode Island Rams Mens Basketball vs. Holy Cross Crusaders Mens Basketball",
+      "venue_line": "Ryan Center • Kingston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Line Dancing, Btches 'n Boots",
+      "venue_line": "Six String Grill and Stage • Foxboro",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "MICO",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
