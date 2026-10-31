@@ -1,6 +1,6 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-10-30T15:28:51.999Z",
+  "updated_at": "2026-10-31T14:57:27.143Z",
   "events": [
     {
       "day_label": "MON",
@@ -78,6 +78,16 @@
       "date_iso": "2026-11-10",
       "title": "Bowling Green Falcons Womens Basketball vs. Bellarmine Knights Womens Basketball",
       "venue_line": "Stroh Center • Bowling Green",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Toledo Rockets Mens Basketball vs. Wright State Raiders Mens Basketball",
+      "venue_line": "Savage Arena • Toledo",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -173,11 +183,11 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "FRI",
-      "day_number": "20",
-      "date_iso": "2026-11-20",
-      "title": "Bowling Green Falcons Hockey vs. Augustana Vikings Mens Hockey",
-      "venue_line": "Slater Family Ice Arena • Bowling Green",
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "Toledo Rockets Mens Basketball vs. Robert Morris College Eagles Mens Basketball",
+      "venue_line": "Savage Arena • Toledo",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -186,16 +196,6 @@
       "day_label": "FRI",
       "day_number": "20",
       "date_iso": "2026-11-20",
-      "title": "Toledo Walleye vs. Rapid City Rush",
-      "venue_line": "Huntington Center • Toledo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "21",
-      "date_iso": "2026-11-21",
       "title": "Bowling Green Falcons Hockey vs. Augustana Vikings Mens Hockey",
       "venue_line": "Slater Family Ice Arena • Bowling Green",
       "price_label": "Price not available",

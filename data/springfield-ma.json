@@ -1,37 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-30T15:28:37.342Z",
+  "updated_at": "2026-10-31T14:57:13.705Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "UMass Minutemen Hockey vs. Harvard Crimson Hockey",
-      "venue_line": "Mullins Center • Amherst",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Springfield Thunderbirds vs. Providence Bruins",
-      "venue_line": "MassMutual Center • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "ROAR! Comedy: Jeff Allen",
-      "venue_line": "The Armory at MGM Springfield • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-08",
       "title": "Chris Perondi's Stunt Dog Experience",
       "venue_line": "Bushnell/ Belding Theater • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Springfield Thunderbirds vs. Hartford Wolfpack",
+      "venue_line": "MassMutual Center • Springfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "BOOP! The Musical (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "BOOP! The Musical (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

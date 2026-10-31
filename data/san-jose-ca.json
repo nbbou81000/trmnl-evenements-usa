@@ -1,97 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-30T15:29:20.085Z",
+  "updated_at": "2026-10-31T14:57:53.042Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Bluey's Big Play",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Stanford Cardinal Womens Volleyball vs. California Golden Bears Womens Volleyball",
-      "venue_line": "Maples Pavilion • Stanford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Pablo Francisco",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$31–$83",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Moenia + Maria Jose Us Tour 2026",
-      "venue_line": "San Jose Civic • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Emo Night Tour",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$26–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Blues Traveler",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Jerry's Middle Finger",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "(((folkYEAH!))) Presents - The Mother Hips w/ Skyway Man",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$44",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Pablo Francisco",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$31–$83",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +111,96 @@
       "price_label": "$30",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Bluey's Big Play",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Bluey's Big Play",
+      "venue_line": "San Jose Center for the Performing Arts • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Bay FC vs. San Diego FC",
+      "venue_line": "PayPal Park • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Dog Man - The Musical",
+      "venue_line": "San Jose Civic • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "San Jose Barracuda vs. Bakersfield Condors",
+      "venue_line": "Tech CU Arena • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Moe's Alley Presents: Andrew Duhon Trio (Matinee Show)",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Pablo Francisco",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$31–$83",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Psychedelic Furs",
+      "venue_line": "The Guild Theatre - CA • Menlo Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Stanley Simmons",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

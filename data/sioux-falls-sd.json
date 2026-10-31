@@ -1,37 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-10-30T15:28:59.661Z",
+  "updated_at": "2026-10-31T14:57:34.297Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Goosebumps: The Musical",
-      "venue_line": "Orpheum Theater Sioux Falls - SD • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Augustana Vikings Mens Hockey vs. Northern Michigan Wildcats Hockey",
-      "venue_line": "Midco Arena • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "STAR WARS RAVE",
-      "venue_line": "Icon Events & Dada Gastropub • Sioux Falls",
-      "price_label": "$20–$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "USD vs Creighton Women's Basketball",
+      "venue_line": "Sanford Pentagon • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "STRUGGLE JENNINGS",
+      "venue_line": "Icon Events & Dada Gastropub • Sioux Falls",
+      "price_label": "$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Augustana Vikings Mens Hockey vs. Ferris State Bulldogs Hockey",
+      "venue_line": "Midco Arena • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

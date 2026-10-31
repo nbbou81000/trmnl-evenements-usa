@@ -1,67 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-30T15:28:49.660Z",
+  "updated_at": "2026-10-31T14:57:25.102Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Tim Burton's The Nightmare Before Christmas: In Concert Live to Film",
-      "venue_line": "DeVos Performance Hall • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Betka-Pope Productions presents Dancin With The Devil ft. Garbage Angel",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "King Sickabilly With Kitten and The Tonics And  Delilah DeWylde",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$23",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Gasolina Halloween Party (18+)",
-      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -199,6 +139,66 @@
       "title": "The String Cheese Incident: Just Keep Spinning Tour",
       "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Grand Rapids Griffins vs. Cleveland Monsters",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The Po' Ramblin' Boys wsg Round Creek String Band",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "King of Drag: The Royal Tour",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$39–$294",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Surfrajettes wsg Kitten and the Tonics",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Psychostick + Texas Toast Chainsaw Massacre + Plethora + dirtflesh",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Gridiron",
+      "venue_line": "Four Star Theatre • Grand Rapids",
+      "price_label": "$32",
       "type_key": "music",
       "type_label": "Music"
     }

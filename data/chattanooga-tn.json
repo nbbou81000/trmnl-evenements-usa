@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-30T15:29:08.306Z",
+  "updated_at": "2026-10-31T14:57:42.076Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Bobby Stone Film Series: Rocky Horror Picture Show Live",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -197,6 +187,16 @@
       "day_number": "25",
       "date_iso": "2026-11-25",
       "title": "Isaiah Rashad",
+      "venue_line": "The Signal • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Lupita Infante",
       "venue_line": "The Signal • Chattanooga",
       "price_label": "Price not available",
       "type_key": "music",

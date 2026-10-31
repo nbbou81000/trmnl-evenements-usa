@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-10-30T15:29:01.737Z",
+  "updated_at": "2026-10-31T14:57:36.023Z",
   "events": [
     {
       "day_label": "FRI",
@@ -16,16 +16,6 @@
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
-      "title": "Plim Plim - En Vivo!",
-      "venue_line": "Aztec Theatre • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
       "title": "Halloween at Hard Rock Cafe!",
       "venue_line": "Hard Rock Cafe - San Antonio • San Antonio",
       "price_label": "$13–$19",
@@ -33,66 +23,6 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Aida Rodriguez",
-      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Wiz (Touring)",
-      "venue_line": "Majestic Theatre San Antonio • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Black Flag",
-      "venue_line": "The Espee • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Thee Sinseers: Love Stories Tour",
-      "venue_line": "Stable Hall • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Silverada (17 and Under Admitted with Parent or Guardian Only)",
-      "venue_line": "John T Floore Country Store • Helotes",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Aida Rodriguez",
-      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
@@ -101,16 +31,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "BRICK CONVENTION | LEGO Fan Expo | San Antonio, TX",
-      "venue_line": "Freeman Expo Hall • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
     },
     {
       "day_label": "SAT",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "San Antonio Country and Rock Music Awards",
+      "venue_line": "Thirsty Horse Saloon • San Antonio",
+      "price_label": "$17",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "UIL State Marching Band Contest Session 1: 5A Prelims",
+      "venue_line": "Alamodome • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "San Antonio Spurs vs. Utah Jazz",
+      "venue_line": "Frost Bank Center • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "UIL State Marching Band Contest Combo: 5A Prelims/1A Prelims/5A Finals",
+      "venue_line": "Alamodome • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "UIL State Marching Band Contest Session 2: 1A Prelims & 5A Finals",
+      "venue_line": "Alamodome • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The Story So Far",
+      "venue_line": "Aztec Theatre • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Catch Your Breath",
+      "venue_line": "The Rock Box • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Jim Henson's Labyrinth: In Concert",
+      "venue_line": "H-E-B Performance Hall • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-10-30T15:28:36.439Z",
+  "updated_at": "2026-10-31T14:57:12.878Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fetty Wap",
-      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Lou Gramm , THE RELEASED TOUR ",
+      "venue_line": "F.M. Kirby Center • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,22 +1,12 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-30T15:29:24.645Z",
+  "updated_at": "2026-10-31T14:57:57.125Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "DEFT PUNKS (DAFT PUNK TRIBUTE) / ODD HOURS (THE CURE, NIN, DEPECHE MODE TRIBUTE) / BROKEN RISE AS AMERICAN IDIOTS (GREEN DAY TRIBUTE)",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "Halloween Trunk Or Trade market (Vendor link )",
+      "title": "Halloween Trick Or Trade market (Vendor link )",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$67–$314",
       "type_key": "music",
@@ -26,7 +16,7 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "Trunk Or Treat",
+      "title": "Trick Or Trade",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$0",
       "type_key": "misc",
@@ -117,6 +107,16 @@
       "day_number": "9",
       "date_iso": "2026-11-09",
       "title": "FREE SHOW: CERO VIEJO / 1967 / ZERO GIVEN",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "FREE SHOW: AUTOMATON TOM / POCKETWATCH INC. / THRIFT STORE TROUBADOURS",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$0",
       "type_key": "music",

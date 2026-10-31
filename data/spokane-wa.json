@@ -1,47 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-30T15:29:27.271Z",
+  "updated_at": "2026-10-31T14:57:59.518Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fright Night",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$53",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Spokane Chiefs vs. Medicine Hat Tigers",
-      "venue_line": "Numerica Veterans Arena • Spokane",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Nothing Shameful - Album Release Show ft. Hayes Noble",
-      "venue_line": "The District • Spokane",
-      "price_label": "$33–$61",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Goonies in Concert w/ Spokane Symphony",
-      "venue_line": "The Fox - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -148,7 +108,7 @@
       "date_iso": "2026-11-05",
       "title": "Daily Bread - Vanishing Point Tour",
       "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$22–$122",
+      "price_label": "$22–$67",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
+      "venue_line": "Knitting Factory - Spokane • Spokane",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Felipe Esparza",
+      "venue_line": "Spokane Live at Spokane Tribe Casino • Airway Heights",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "LOVE IN THE CLUB - 2000s R&B + Hip Hop Dance Party",
+      "venue_line": "The District • Spokane",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Lilac City Roller Derby: 20th Anniversary Tournament",
+      "venue_line": "Spokane Convention Center • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

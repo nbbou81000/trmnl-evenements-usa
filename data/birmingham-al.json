@@ -1,77 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-30T15:29:10.481Z",
+  "updated_at": "2026-10-31T14:57:44.090Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Rocky Horror Masquerade Ball",
-      "venue_line": "Avondale Brewery • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Practical Magic",
-      "venue_line": "Alabama Theatre • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Filmore",
-      "venue_line": "All Good Beverage Co • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Birmingham Bulls v. Athens Rock Lobsters",
-      "venue_line": "Pelham Civic Complex • Pelham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "CupcakKe",
-      "venue_line": "Iron City • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Q Dot & Jaxxxon + Friends at The Nick Halloween Eve",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Scare Your Face Off Fest XVI - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -199,6 +129,76 @@
       "title": "Birmingham Bandstand (Open Mic) at the Nick",
       "venue_line": "The Nick • Birmingham",
       "price_label": "$5",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "The Living Tombstone - The Multiplayer Tour",
+      "venue_line": "Iron City • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The Phil Collins Story",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The Phil Collins Story | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The A-List Upgrade: Thundercat - NOT A CONCERT TICKET",
+      "venue_line": "Avondale Brewing Co. • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "ELEVATE Upgrade: Thundercat - NOT A CONCERT TICKET",
+      "venue_line": "Avondale Brewing Co. • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Thundercat: Distracted AF Tour",
+      "venue_line": "Avondale Brewing Co. • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Prof",
+      "venue_line": "Iron City • Birmingham",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

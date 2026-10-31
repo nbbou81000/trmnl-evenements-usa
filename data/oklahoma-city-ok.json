@@ -1,47 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-10-30T15:29:05.661Z",
+  "updated_at": "2026-10-31T14:57:39.526Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Oklahoma Sooners Softball vs. Florida State Seminoles Softball",
-      "venue_line": "Love's Field • Norman",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Dylan Wheeler",
-      "venue_line": "Beer City Music Hall • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "My So Called Band - 90s Tribute - Ages 21+",
-      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Punchis Punchis (18 and Over)",
-      "venue_line": "Diamond Ballroom • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+      "venue_line": "The Criterion • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+      "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Oklahoma City Blue vs. Mexico City Capitanes",
+      "venue_line": "Paycom Center • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Dusty Slay",
+      "venue_line": "Tower Theatre - Oklahoma City • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

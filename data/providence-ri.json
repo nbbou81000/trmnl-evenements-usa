@@ -1,57 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-30T15:28:31.457Z",
+  "updated_at": "2026-10-31T14:57:08.141Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "High on Fire",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$39",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Long Stories, New Pollution, Robert Bushinsky, & Dëmonstration Tapes",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Vick Vapors, Holy Water, Craow, your iolaus, & Vudu Sister",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Steve Sweeney, Mike McCarthy and James Dorsey",
-      "venue_line": "Bally's Twin River Casino • Lincoln",
-      "price_label": "$29–$43",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "7 Day Weekend",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -78,7 +28,7 @@
       "date_iso": "2026-10-31",
       "title": "Who's Who",
       "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$28",
+      "price_label": "$50",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +151,56 @@
       "price_label": "$30",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Mico",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Shadow Monster, Prior Panic, & Vudu Sister",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Demon Chrome, Inner Cross, & Karath Delphi",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Providence College Friars Hockey vs. UConn Huskies Hockey",
+      "venue_line": "Schneider Arena • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "A Christmas Carol",
+      "venue_line": "Lederer Theater Center -  Dowling Theater • Providence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

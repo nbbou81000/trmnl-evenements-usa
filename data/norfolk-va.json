@@ -1,47 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-10-30T15:28:39.618Z",
+  "updated_at": "2026-10-31T14:57:15.823Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Hawthorne Heights: 20th anniversary of If Only You Were Lonely",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Norfolk Admirals vs. Greensboro Gargoyles",
-      "venue_line": "Scope Arena • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Freak Show Halloween Event (21 and Over)",
-      "venue_line": "The Norva • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Halloween MasqueRAGE with Sickick - Ages: 18 & Over",
-      "venue_line": "Waterside District - VA • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "SOLD OUT! Left It In The River Tour with Jamie MacDonald - Yorktown, VA",
+      "venue_line": "Waters Edge Church • Yorktown",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Norfolk Admirals vs. Reading Royals",
+      "venue_line": "Scope Arena • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Heroes Off Duty Comedy Tour",
+      "venue_line": "Attucks Theatre • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Corrosion of Conformity & The Sword",
+      "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

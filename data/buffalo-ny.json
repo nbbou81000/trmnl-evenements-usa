@@ -1,6 +1,6 @@
 {
   "city_label": "Buffalo, NY",
-  "updated_at": "2026-10-30T15:28:29.556Z",
+  "updated_at": "2026-10-31T14:57:06.501Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,56 +11,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "LFA 245",
-      "venue_line": "Seneca Niagara Resort & Casino Event Center • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Hell's Kitchen (Touring)",
-      "venue_line": "Shea's Buffalo Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Sweeney Todd",
-      "venue_line": "Shea's 710 Theatre • Buffalo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fri. 10/30/2026 - Highmark Stadium Tours",
-      "venue_line": "Highmark Stadium • Orchard Park",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Strangelove: The Depeche Mode Experience",
-      "venue_line": "OLG Stage at Fallsview Casino • Niagara Falls",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Robert Cray Band",
+      "venue_line": "Buffalo State Performing Arts Center • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Tue. 11/3/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Buffalo Sabres Single Game Suite Rental-Ottawa Senators",
+      "venue_line": "KeyBank Center • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Buffalo Sabres v Ottawa Senators",
+      "venue_line": "KeyBank Center • Buffalo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Wed. 11/4/2026 - Highmark Stadium Tours",
+      "venue_line": "Highmark Stadium • Orchard Park",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

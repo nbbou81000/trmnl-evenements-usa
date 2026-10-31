@@ -1,11 +1,21 @@
 {
   "city_label": "Los Angeles, CA",
-  "updated_at": "2026-10-30T15:29:18.767Z",
+  "updated_at": "2026-10-31T14:57:51.671Z",
   "events": [
     {
       "day_label": "FRI",
       "day_number": "30",
       "date_iso": "2026-10-30",
+      "title": "Emo Nite",
+      "venue_line": "Avalon Hollywood • Hollywood",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
       "title": "SoFi Stadium Tours",
       "venue_line": "SoFi Stadium Tours • Inglewood",
       "price_label": "Price not available",
@@ -13,9 +23,79 @@
       "type_label": "Other"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
+      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Pepperdine Waves Womens Soccer vs. San Diego Toreros Womens Soccer",
+      "venue_line": "Tari Frahm Rokus Field • Malibu",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
+      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Pumpkin Path & Fall Fun Fest",
+      "venue_line": "Santa Anita Park • Arcadia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Breeders' Cup Day in FrontRunner",
+      "venue_line": "Santa Anita Park • Arcadia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Music Man",
+      "venue_line": "Ahmanson Theatre • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Los Angeles Kings vs. Buffalo Sabres",
+      "venue_line": "Crypto.com Arena • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
       "title": "Live Racing at Santa Anita Park",
       "venue_line": "Santa Anita Park • Arcadia",
       "price_label": "Price not available",
@@ -23,184 +103,104 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Michale Graves, Sophia Mengrosso, Leave It To Cleaver, Mote It Be, Los Coyotes, Don't Follow, Superweapon",
-      "venue_line": "Whisky A Go Go • West Hollywood",
-      "price_label": "$28–$621",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Devils Night: Starcrawler w/ Violet Grohl, The Paranoyds (18+)",
-      "venue_line": "The Regent Theater • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Austin Giorgio: Lovers Never Die",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Failure - The Rising Skyline Tour",
-      "venue_line": "The Belasco • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Pigeons Playing Ping Pong - Fall Tour 2026",
-      "venue_line": "Teragram Ballroom • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Francis of Delirium with Beatrix",
-      "venue_line": "The Echo • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "USC Trojans Womens Volleyball vs. Wisconsin Badgers Womens Volleyball",
-      "venue_line": "Galen Center • Los Angeles",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "UCLA Bruins Football vs. Nevada Wolfpack Football",
+      "venue_line": "Rose Bowl • Pasadena",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Daði Freyr",
-      "venue_line": "The Wiltern • Los Angeles",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "The Who's Tommy (Touring)",
+      "venue_line": "Hollywood Pantages Theatre • Los Angeles",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Goapele",
-      "venue_line": "Blue Note Los Angeles • Los Angeles",
-      "price_label": "$19–$66",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "My Chemical Romance with Special Guest The Used",
-      "venue_line": "Hollywood Bowl • Hollywood",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Come from Away (Touring)",
+      "venue_line": "A Noise Within • Pasadena",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Drag Show \"Pumped Fridays\" @ Mary's West Hollywood",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Los Angeles Galaxy vs. Austin FC",
+      "venue_line": "Dignity Health Sports Park • Carson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
       "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "UCLA Bruins Womens Volleyball vs. Minnesota Gophers Womens Volleyball",
-      "venue_line": "Pauley Pavilion-UCLA • Los Angeles",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "USC Trojans Football vs. Ohio State Football",
+      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Leah Rudick and Irene Tu",
-      "venue_line": "Brea Improv • Brea",
-      "price_label": "$31–$102",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Jennifer's Body",
-      "venue_line": "Cinespia at Hollywood Forever Cemetery • Los Angeles",
-      "price_label": "$24–$31",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Tonight at the Improv ft. Cristela Alonzo, Lara Beitz, Ian Bagg, Orny Adams, Greg Fitzsimmons, Gary Cannon & more TBA",
-      "venue_line": "Hollywood Improv (The Main Room)  • Hollywood",
-      "price_label": "$29",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Low & Inside ft. Devyn Perry, Dave Waite, John Hastings, Samuel Orson, Johana Coca, Steve Furey, Avra Friedman, Cooper Lyden, Kate Lav, Josh Edelman, Radu Bondar, Aaron Brooks and more TBA",
-      "venue_line": "Hollywood Improv (The Lab) • Hollywood",
-      "price_label": "$14",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Phoebe Bridgers: The Lost Tour",
-      "venue_line": "Intuit Dome • Inglewood",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Coal Chamber",
+      "venue_line": "House of Blues Anaheim • Anaheim",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Come from Away (Touring)",
-      "venue_line": "A Noise Within • Pasadena",
-      "price_label": "Price not available",
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Larry La La's Halloween Comedy Show (Show 1)",
+      "venue_line": "The Stand Up Comedy Club • Bellflower",
+      "price_label": "$52–$264",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "HAHALLOWEEN: Tiffany Haddish, Nate Jackson, Faizon Love, Carl-Anthony Payne & More",
+      "venue_line": "Brea Improv • Brea",
+      "price_label": "$68",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Marilyn Manson: Live in Los Angeles",
+      "venue_line": "The Wiltern • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

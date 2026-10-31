@@ -1,117 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-10-30T15:29:23.353Z",
+  "updated_at": "2026-10-31T14:57:55.889Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Escape",
-      "venue_line": "NOS Events Center • San Bernardino",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Escape",
-      "venue_line": "NOS Events Center • San Bernardino",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Lenny Pearce - Toddler Rave World Tour",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ontario Reign vs. Tucson Roadrunners",
-      "venue_line": "Toyota Arena-CA • Ontario",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Brooks Wheelan",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$25–$77",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Brent Morin",
-      "venue_line": "Corona Improv • Corona",
-      "price_label": "$31",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Bobby Dee Presents The Flirts",
-      "venue_line": "Stage Red • Fontana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Brooks Wheelan",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$25–$77",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Brent Morin",
-      "venue_line": "Corona Improv • Corona",
-      "price_label": "$31",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Foliage - Garden Room @ RMA",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Bronco (21 and Over)",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "venue_line": "Yucaipa Performing Arts Center Indoor Theatre • Yucaipa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Brooks Wheelan",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$25–$77",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Brent Morin",
+      "venue_line": "Corona Improv • Corona",
+      "price_label": "$31",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Caifanes",
+      "venue_line": "Toyota Arena • Ontario",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Richard Marx - Ages 21+",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Ontario Reign vs. San Jose Barracuda",
+      "venue_line": "Toyota Arena-CA • Ontario",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Ralph Porter",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$31–$83",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Adicts",
+      "venue_line": "Riverside Municipal Auditorium • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Desi Comedy Fest",
+      "venue_line": "Ontario Improv • Ontario",
+      "price_label": "$31–$62",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The STARS Tour featuring Anne Wilson",
+      "venue_line": "Fox Performing Arts Center • Riverside",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

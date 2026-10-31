@@ -1,57 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-10-30T15:28:32.362Z",
+  "updated_at": "2026-10-31T14:57:09.082Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Yale Bulldogs Womens Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Yale Bulldogs Hockey vs. Brown University Bears Hockey",
-      "venue_line": "Ingalls Rink • New Haven",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Desi Banks",
-      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "AUTUMN LOVE: Musiq Soulchild, Donell Jones & Slim of 112",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Desi Banks",
-      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Hovvdy w/ Christian Lee Hutson",
+      "venue_line": "Space Ballroom • Hamden",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Cornell Big Red Women's Hockey",
+      "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sacred Heart Pioneers Women's Basketball vs. Mercy College Women's Basketball",
+      "venue_line": "William H. Pitt Center • Fairfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sacred Heart Pioneers Men's Ice Hockey vs. Canisius University Men's Hockey",
+      "venue_line": "Martire Family Arena  • Fairfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Hudson Westbrook The Hits Me Tour",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

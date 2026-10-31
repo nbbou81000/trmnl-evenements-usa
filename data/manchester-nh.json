@@ -1,27 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-10-30T15:28:33.745Z",
+  "updated_at": "2026-10-31T14:57:10.402Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Vampire Circus",
-      "venue_line": "Capitol Center for the Arts - NH • Concord",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Brass Against",
-      "venue_line": "BNH Stage • Concord",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Face 2 Face - Elton John & Billy Joel Tribute",
+      "venue_line": "Nashua Center For the Arts • Nashua",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "New Hampshire Jazz Orchestra",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

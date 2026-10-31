@@ -1,17 +1,7 @@
 {
   "city_label": "Santa Rosa, CA",
-  "updated_at": "2026-10-30T15:29:22.907Z",
+  "updated_at": "2026-10-31T14:57:55.485Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Bobby Lee: The Finally Tour 2026",
-      "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-20",
       "title": "Susan Werner",
       "venue_line": "HopMonk Tavern - Novato • Novato",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Sharon Cuneta",
+      "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,87 +1,7 @@
 {
   "city_label": "Durham, NC",
-  "updated_at": "2026-10-30T15:28:41.116Z",
+  "updated_at": "2026-10-31T14:57:17.150Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "North Carolina Tar Heels Mens Soccer vs. North Carolina State Wolfpack Mens Soccer",
-      "venue_line": "Dorrance Field • Chapel Hill",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Lynne Koplitz",
-      "venue_line": "Raleigh Improv • Cary",
-      "price_label": "$27–$82",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "North Carolina Tar Heels Womens Volleyball vs. Syracuse University Womens Volleyball",
-      "venue_line": "Carmichael Arena • Chapel Hill",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "North Carolina State Wolfpack Womens Volleyball vs. SMU Mustangs Womens Volleyball",
-      "venue_line": "Reynolds Coliseum • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Earl Sweatshirt & MIKE  Home on the Range Tour 2026",
-      "venue_line": "The Ritz • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Mrs. Doubtfire (Touring)",
-      "venue_line": "DPAC • Durham",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Carolina Ballet presents Dracula",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Julien Baker w/ Tombstone Poetry",
-      "venue_line": "Cat's Cradle • Carrboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Jackson Dean",
+      "venue_line": "Lincoln Theatre • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "31",
+      "date_iso": "2026-10-31",
+      "title": "Jackson Dean",
+      "venue_line": "Lincoln Theatre-NC • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "DPAC • Durham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Carolina Hurricanes vs. Winnipeg Jets",
+      "venue_line": "Lenovo Center • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "North Carolina State Wolfpack Womens Volleyball vs. Pittsburgh Panthers Womens Volleyball",
+      "venue_line": "Reynolds Coliseum • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "North Carolina Tar Heels Womens Volleyball vs. Boston College Eagles Womens Volleyball",
+      "venue_line": "Carmichael Arena • Chapel Hill",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Carolina Ballet presents Dracula",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "North Carolina Courage vs. Denver Summit FC",
+      "venue_line": "WakeMed Soccer Park • Cary",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

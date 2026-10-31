@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-10-30T15:28:30.430Z",
+  "updated_at": "2026-10-31T14:57:07.328Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,46 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "FUNK 'n WAFFLES FALL FEST feat: Sophistafunk, New Planets, TBC and more!",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Syracuse Crunch vs. Hamilton Hammers",
-      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Dark Hollow: Dark Holloween",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Big Eyed Phish - A Tribute to Dave Matthews Band",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$20",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -199,6 +159,46 @@
       "title": "Wheeler Walker Jr.",
       "venue_line": "Kegs Canal Side • Jordan",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "level:memory Album Release w/ A Kid Called Danger + Intext",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Syracuse University Men's Basketball vs. Cen. Connecticut Blue Devils",
+      "venue_line": "JMA Wireless Dome  • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Drag Bingo : Senior Citizen Edition",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Strange Machines w/s/g MJT",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$18",
       "type_key": "music",
       "type_label": "Music"
     }

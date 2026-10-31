@@ -1,67 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-30T15:28:55.780Z",
+  "updated_at": "2026-10-31T14:57:30.667Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Meduza - Ages 18+",
-      "venue_line": "KC Live! • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Tauren Wells: Air1 Worship Now Tour - Kansas City, MO",
-      "venue_line": "Sheffield Family Life Center • Kansas City ",
-      "price_label": "$24–$93",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "GEESE",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Zack Fox (DJ Set)",
-      "venue_line": "Uptown Theater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Rewind: 2000s Halloween Rave - Ages 18+",
-      "venue_line": "The Truman - Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "REZN - Cycles in the Infinite Dream Tour",
-      "venue_line": "Encore at Uptown Theater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -196,8 +136,68 @@
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
+      "title": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+      "venue_line": "Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
       "title": "The Damned w/ Flamin Groovies",
       "venue_line": "The Truman - Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Goose",
+      "venue_line": "The Midland Theatre - MO • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Kyle Gordon",
+      "venue_line": "recordBar • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Tank and The Bangas w/ Zeus",
+      "venue_line": "The Truman - Kansas City • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Daniel Donato's Cosmic Country",
+      "venue_line": "Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Little Image: Fall 2026 Tour",
+      "venue_line": "Encore at Uptown Theater • Kansas City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

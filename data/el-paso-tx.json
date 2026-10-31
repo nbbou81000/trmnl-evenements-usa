@@ -1,27 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-10-30T15:29:02.629Z",
+  "updated_at": "2026-10-31T14:57:36.810Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The UTEP Dinner Theatre - Sweeney Todd",
-      "venue_line": "UTEP Dinner Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Emo Night Tour",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -197,6 +177,26 @@
       "day_number": "6",
       "date_iso": "2026-11-06",
       "title": "they are gutting a body of water",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Morrissey",
+      "venue_line": "GECU Arena at the Don Haskins Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "ROZ",
       "venue_line": "Lowbrow Palace • El Paso",
       "price_label": "Price not available",
       "type_key": "music",

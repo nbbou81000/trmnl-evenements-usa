@@ -1,57 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-30T15:28:58.783Z",
+  "updated_at": "2026-10-31T14:57:33.504Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Wichita State Shockers Womens Volleyball vs. North Texas Mean Green Women's Volleyball",
-      "venue_line": "Charles Koch Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Tosca",
-      "venue_line": "Concert Hall at Century II • Wichita",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Rocky Horror Picture Show",
-      "venue_line": "Wichita Orpheum Theatre • Wichita",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "NGHTMRE w/ Luzcid",
-      "venue_line": "The Cotillion • Wichita",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Rocky Horror Picture Show",
-      "venue_line": "Wichita Orpheum Theatre • Wichita",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Cody Hibbard",
+      "venue_line": "Wave • Wichita",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "Concert Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Wichita Thunder vs. Idaho Steelheads",
+      "venue_line": "INTRUST Bank Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Wichita Thunder vs. Idaho Steelheads",
+      "venue_line": "INTRUST Bank Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Alice Cooper - Alice's Attic Tour",
+      "venue_line": "Heartland Credit Union Arena • Park City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

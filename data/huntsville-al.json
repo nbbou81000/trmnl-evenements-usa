@@ -1,47 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-30T15:29:10.911Z",
+  "updated_at": "2026-10-31T14:57:44.486Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fiona Cauley",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$23",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Three Days Grace - Alienation Tour",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Three Days Grace - Alienation Tour ",
-      "venue_line": "Orion Amphitheater • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fiona Cauley",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$23",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -199,6 +159,46 @@
       "title": "Dustin Nickerson",
       "venue_line": "Huntsville Levity Live • Huntsville",
       "price_label": "$33",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "October London",
+      "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Scuffed Realtor: LIVE with Nick Rochefort & Alex Schultz",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$46–$103",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Catacombs & Comedians",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$21",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Jonathan Kite",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$27",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     }

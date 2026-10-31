@@ -1,77 +1,7 @@
 {
   "city_label": "Fort Lauderdale, FL",
-  "updated_at": "2026-10-30T15:28:45.751Z",
+  "updated_at": "2026-10-31T14:57:21.286Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Honey Revenge x Dead Poet Society",
-      "venue_line": "Revolution Live • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Florida Panthers vs. Winnipeg Jets",
-      "venue_line": "Amerant Bank Arena • Sunrise",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Lemon City Trio",
-      "venue_line": "Thomson Plaza for the Arts • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Hocus Pocus - 3 Day Pass",
-      "venue_line": "Factory Town • Miami",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ed Sheeran: LOOP Tour",
-      "venue_line": "Hard Rock Live • Hollywood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Rocky Horror Picture Show (18+)",
-      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Miami Heat vs. Indiana Pacers (Emirates NBA Cup Game)",
-      "venue_line": "Kaseya Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -197,6 +127,76 @@
       "day_number": "2",
       "date_iso": "2026-11-02",
       "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Crowder LIVE! - Fort Lauderdale, FL",
+      "venue_line": "The Downtown Event Center • Fort Lauderdale",
+      "price_label": "$25–$70",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Florida Panthers vs. Detroit Red Wings",
+      "venue_line": "Amerant Bank Arena • Sunrise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Florida Atlantic University Vs. Liu",
+      "venue_line": "Abessinio Court at Eleanor R. Baldwin Arena • Boca Raton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Backstage & Burgers",
       "venue_line": "Hard Rock Cafe Miami • Miami",
       "price_label": "Price not available",
       "type_key": "misc",

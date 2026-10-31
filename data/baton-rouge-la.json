@@ -1,47 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-30T15:29:09.182Z",
+  "updated_at": "2026-10-31T14:57:42.865Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
-      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Emo Night Halloween",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Emo Night Halloween with Dan Lion and Mookie Darden (18 and Over)",
-      "venue_line": "Chelsea's Live • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Molly Ringwalds",
-      "venue_line": "L'Auberge Casino & Hotel Baton Rouge  • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -199,6 +159,46 @@
       "title": "Paula Cole This Fire : 30 with Rett Madison",
       "venue_line": "Chelsea’s Live • Baton Rouge",
       "price_label": "$52–$135",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "LSU Tigers Womens Basketball vs. McNeese State Cowboys Womens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Drivin N’ Cryin",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Madball with Rotting Out, Muscle and Hole Opener",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Chelsea's Live Presents: Cigarettes @ Sunset",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
     }

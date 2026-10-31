@@ -1,17 +1,7 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-10-30T15:28:44.254Z",
+  "updated_at": "2026-10-31T14:57:20.065Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Rodney Carrington",
-      "venue_line": "Columbia County Performing Arts Center • Evans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -181,6 +171,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "19",
+      "date_iso": "2026-12-19",
+      "title": "The Family That Lies Together - A Raisin AJ Production",
+      "venue_line": "Hardin Auditorium • Evans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

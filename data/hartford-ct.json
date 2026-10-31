@@ -1,47 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-30T15:28:31.899Z",
+  "updated_at": "2026-10-31T14:57:08.549Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Paledusk",
-      "venue_line": "Webster Underground • Hartford",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Springfield Thunderbirds vs. Providence Bruins",
-      "venue_line": "MassMutual Center • Springfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "ROAR! Comedy: Jeff Allen",
-      "venue_line": "The Armory at MGM Springfield • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "AUTUMN LOVE: Musiq Soulchild, Donell Jones & Slim of 112",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Big Ass Truck",
+      "venue_line": "Webster Underground • Hartford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "John Violinist",
+      "venue_line": "Bushnell/ Belding Theater • Hartford",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Punch Brothers",
+      "venue_line": "Jorgensen Center for the Performing Arts • Storrs Mansfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Dweezil Zappa DZ20:Like Father, Like Son",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

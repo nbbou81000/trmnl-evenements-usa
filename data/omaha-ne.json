@@ -1,37 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-30T15:28:57.059Z",
+  "updated_at": "2026-10-31T14:57:31.864Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Death Becomes Her (Touring)",
-      "venue_line": "Orpheum Theater - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Pre-Show Happy Hour: Gasolina Party - Not A Concert Ticket*",
-      "venue_line": "Steelhouse Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Gasolina Party - 18+",
-      "venue_line": "Steelhouse Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Authority Zero w/ The Raging Nathans",
+      "venue_line": "The Waiting Room - NE • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Omaha Hockey v St. Cloud State",
+      "venue_line": "Baxter Arena • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Marlon Wayans",
+      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

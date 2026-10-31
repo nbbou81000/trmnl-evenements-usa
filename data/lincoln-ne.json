@@ -1,37 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-10-30T15:28:57.482Z",
+  "updated_at": "2026-10-31T14:57:32.250Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ella Langley: The Dandelion Tour",
-      "venue_line": "Pinnacle Bank Arena • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Lincoln Stars vs. Omaha Lancers",
-      "venue_line": "Ice Box • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "PETROCK: A Spooky Smooth Night of Music",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$35–$62",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -199,6 +169,36 @@
       "title": "Blade Rave",
       "venue_line": "Bourbon Theatre • Lincoln",
       "price_label": "$27–$119",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Nebraska Cornhuskers Wrestling vs. Wyoming Cowboys Wrestling",
+      "venue_line": "Bob Devaney Sports Center • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Nebraska Cornhuskers Womens Basketball vs. North Carolina A & T Aggies Womens Basketball",
+      "venue_line": "Pinnacle Bank Arena • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "The Funeral Portrait, Pinknoise, Anyone Else",
+      "venue_line": "Bourbon Theatre • Lincoln",
+      "price_label": "$27–$166",
       "type_key": "music",
       "type_label": "Music"
     }

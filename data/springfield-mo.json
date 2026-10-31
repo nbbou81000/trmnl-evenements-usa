@@ -1,6 +1,6 @@
 {
   "city_label": "Springfield, MO",
-  "updated_at": "2026-10-30T15:28:56.631Z",
+  "updated_at": "2026-10-31T14:57:31.458Z",
   "events": [
     {
       "day_label": "SAT",
@@ -103,16 +103,6 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "28",
-      "date_iso": "2026-11-28",
-      "title": "Triumph: The Rock & Roll Machine Reloaded Tour",
-      "venue_line": "Great Southern Bank Arena • Springfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
       "day_label": "TUE",
       "day_number": "1",
       "date_iso": "2026-12-01",
@@ -186,6 +176,16 @@
       "day_label": "SAT",
       "day_number": "5",
       "date_iso": "2026-12-05",
+      "title": "The Lion King (Touring)",
+      "venue_line": "Juanita K. Hammons Hall • Springfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "6",
+      "date_iso": "2026-12-06",
       "title": "The Lion King (Touring)",
       "venue_line": "Juanita K. Hammons Hall • Springfield",
       "price_label": "Price not available",

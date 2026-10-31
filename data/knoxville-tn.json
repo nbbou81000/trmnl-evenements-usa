@@ -1,87 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-30T15:29:07.868Z",
+  "updated_at": "2026-10-31T14:57:41.654Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Covenant Health Classic - Baylor School v. Knoxville Catholic",
-      "venue_line": "Covenant Health Park • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Knoxville Ice Bears vs. Fayetteville Marksmen",
-      "venue_line": "Knoxville Civic Coliseum • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Rocky Horror Pop-Up Show",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "90s Rave",
-      "venue_line": "The 808 • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Zach John King w/ Jacob Hackworth",
-      "venue_line": "Open Chord Music • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Clyde's (CBT)",
-      "venue_line": "The Jenny Boyd Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Rocky Horror Picture Show",
-      "venue_line": "Tennessee Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "VVFL League Championships - Middle School Football",
-      "venue_line": "Covenant Health Park • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Tennessee Volunteers Volleyball vs. Mississippi State Bulldogs Volleyball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Josh Turner: This Country Music Thing Tour",
+      "venue_line": "Knoxville Civic Auditorium • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "College Night",
+      "venue_line": "The 808 • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Stan Society Presents Olivia Rodrigo Night",
+      "venue_line": "The Mill & Mine • Knoxville",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Tennessee Volunteers Football vs. Kentucky Wildcats Football",
+      "venue_line": "Neyland Stadium • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

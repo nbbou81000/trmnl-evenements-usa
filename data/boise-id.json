@@ -1,37 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-10-30T15:29:14.354Z",
+  "updated_at": "2026-10-31T14:57:47.737Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "All Hallows Eve",
-      "venue_line": "Revolution Concert House & Event Center • Garden City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Rival Sons - Domestic Bliss Tour",
-      "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Impostor Syndrome (Performs Deftones White Pony), Dedicated Servers, Bonehaus , Lovecraft ",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "IDAHO STEELHEADS VS RAPID CITY RUSH",
+      "venue_line": "Idaho Central Arena • Boise",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "JSTJR, EZA, Elijah Andres",
+      "venue_line": "Knitting Factory - Boise • Boise",
+      "price_label": "$28",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sparta, Public Opinion, Mylo Bybee",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

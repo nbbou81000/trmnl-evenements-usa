@@ -1,37 +1,7 @@
 {
   "city_label": "Tucson, AZ",
-  "updated_at": "2026-10-30T15:29:15.804Z",
+  "updated_at": "2026-10-31T14:57:48.932Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Arizona Wildcats Womens Volleyball vs. Houston Cougars Womens Volleyball",
-      "venue_line": "McKale Center • Tucson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Stewart Copeland - Have I Said Too Much @ Rialto Theatre",
-      "venue_line": "Rialto Theatre-Tucson • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Southern Culture on the Skids @ 191 Toole",
-      "venue_line": "191 Toole • Tucson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Arizona Wildcats Womens Volleyball vs. Utah Utes Womens Volleyball",
+      "venue_line": "McKale Center • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Arizona Wildcats Hockey vs. Utah Men's Hockey",
+      "venue_line": "Tucson Arena • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Tucson Roadrunners vs. Coachella Valley Firebirds",
+      "venue_line": "Tucson Arena • Tucson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

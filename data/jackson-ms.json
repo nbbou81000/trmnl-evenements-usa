@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-30T15:29:10.057Z",
+  "updated_at": "2026-10-31T14:57:43.688Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "It's A 2000's Halloween Party: Jackson",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Masterclass Trap Orchestra ft. Boosie",
+      "venue_line": "Thalia Mara Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

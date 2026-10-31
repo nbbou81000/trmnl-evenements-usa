@@ -1,57 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-30T15:28:50.083Z",
+  "updated_at": "2026-10-31T14:57:25.505Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Michigan Wolverines Womens Volleyball vs. Nebraska Cornhuskers Womens Volleyball",
-      "venue_line": "Crisler Center • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Lilyisthatyou - SOLD OUT, James the Seventh",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "lilyisthatyou",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ten Years Gone - Tribute to Led Zeppelin",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$12–$96",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Halloween Gone Wild",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$23–$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -78,7 +28,7 @@
       "date_iso": "2026-10-31",
       "title": "Country CarnEvil: Halloween Party & Costume Contest",
       "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$16–$32",
+      "price_label": "$19–$29",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -88,7 +38,7 @@
       "date_iso": "2026-10-31",
       "title": "The Prince Experience Starring Gabriel Sanchez - HALLOWEEN COSTUME PARTY",
       "venue_line": "The Token Lounge • Westland",
-      "price_label": "$24–$107",
+      "price_label": "$24–$158",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +149,56 @@
       "title": "Maddie Zahm w/ Semler",
       "venue_line": "Blind Pig • Ann Arbor",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Saddle Up: Country Grammar",
+      "venue_line": "Diamondback Music Hall • Belleville",
+      "price_label": "$7–$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Power Play Detroit",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$12–$45",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Michigan Twang: Americana & Country Music Showcase   , Payton & Annabelle, Maria and the Coins",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$14",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Michigan Wolverines Football vs. Michigan State Spartans Football",
+      "venue_line": "Michigan Stadium • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Completely Unchained - The Ultimate Tribute to Van Halen, AC/DC Tribute - POWERAGE",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$19–$24",
       "type_key": "music",
       "type_label": "Music"
     }

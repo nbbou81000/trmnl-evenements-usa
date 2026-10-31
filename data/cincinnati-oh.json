@@ -1,87 +1,7 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-10-30T15:28:51.581Z",
+  "updated_at": "2026-10-31T14:57:26.738Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Story So Far",
-      "venue_line": "The Andrew J Brady Music Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "All Them Witches - 21 Shows / 21 Days",
-      "venue_line": "Bogart's • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Haunted Fest",
-      "venue_line": "MegaCorp Pavilion • Newport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "BLKBOK",
-      "venue_line": "Ludlow Garage Cincinnati • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Blake Tyler",
-      "venue_line": "Lori's Roadhouse • West Chester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Rocky In Concert: 50th Anniversary",
-      "venue_line": "Taft Theatre • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Gravedancer's Ball/  A Night of The Living Dead w/Ramble On Bros",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Trauma Illinois Pink Motel Album Release w/Lombardy",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -201,6 +121,86 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Xavier Musketeers Mens Basketball vs. Mount St. Mary's Mountaineers Mens Basketball",
+      "venue_line": "Cintas Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "The Longest Johns",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Cincinnati Bearcats Mens Basketball vs. American University Eagles Mens Basketball",
+      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Turnover - Down On Earth Tour",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "WesGhost – If It’s Not Forever the tour",
+      "venue_line": "Madison Live (734) • Covington ",
+      "price_label": "$28–$111",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Abbie Gamboa - Have You Ever Looked Around Tour",
+      "venue_line": "Bogart's • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Cincinnati Bearcats Women's Basketball vs. East Texas A&M Women's Basketball",
+      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Open Mic Show & Tell with Adam Flaig",
+      "venue_line": "The Southgate House Revival - The Lounge • Newport",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

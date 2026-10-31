@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-30T15:29:11.760Z",
+  "updated_at": "2026-10-31T14:57:45.244Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "MAC SABBATH",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$30",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -199,6 +179,26 @@
       "title": "Nick Rochefort & Alex Schultz Live Stand Up Show",
       "venue_line": "Crescent Theater  • Mobile",
       "price_label": "$27",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Nick Rochefort & Alex Schultz Live Stand Up + Podcast Ticket",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$50",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Scuffed Realtor Live feat. Nick Rochefort & Alex Schultz",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$39",
       "type_key": "misc",
       "type_label": "Other"
     }

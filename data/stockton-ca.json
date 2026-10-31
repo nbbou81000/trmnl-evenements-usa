@@ -1,17 +1,7 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-30T15:29:22.026Z",
+  "updated_at": "2026-10-31T14:57:54.649Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Stockton Thunder vs. Baton Rouge Zydeco",
-      "venue_line": "Adventist Health Arena • Stockton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -197,6 +187,16 @@
       "day_number": "15",
       "date_iso": "2026-12-15",
       "title": "Stockton Kings vs. Salt Lake City Stars",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "16",
+      "date_iso": "2026-12-16",
+      "title": "Stockton Thunder vs. Topeka Scarecrows",
       "venue_line": "Adventist Health Arena • Stockton",
       "price_label": "Price not available",
       "type_key": "sports",

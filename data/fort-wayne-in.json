@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-10-30T15:28:53.757Z",
+  "updated_at": "2026-10-31T14:57:28.973Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fort Wayne Komets vs. Wheeling Nailers",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Fort Wayne Komets vs. Wheeling Nailers",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -143,6 +123,16 @@
       "type_label": "Sports"
     },
     {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Hannibal Buress",
+      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
       "day_label": "FRI",
       "day_number": "13",
       "date_iso": "2026-11-13",
@@ -193,14 +183,24 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "21",
-      "date_iso": "2026-11-21",
-      "title": "Charlie Berens: The Lost and Found Tour",
-      "venue_line": "Embassy Theatre • Fort Wayne",
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "Keb' Mo'",
+      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "Big Daddy Weave",
+      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,57 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-30T15:28:42.493Z",
+  "updated_at": "2026-10-31T14:57:18.421Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "South Carolina Stingrays vs. Savannah Ghost Pirates",
-      "venue_line": "North Charleston Coliseum • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "David Sedaris",
-      "venue_line": "Gaillard Center • Charleston",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "SC Ballet Presents Dracula",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Lucy Darling: Halloween Spooktacular",
-      "venue_line": "North Charleston Performing Arts Center • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "It's A 2000s (Halloween) Party: Charleston - 18+",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -198,6 +148,56 @@
       "date_iso": "2026-11-06",
       "title": "AJJ - Dirty Old Power Tour",
       "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Citadel Bulldogs Football vs. Furman Paladins Football",
+      "venue_line": "Johnson Hagood Stadium • Charleston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Charleston Southern Buccaneers Football vs. Tennessee Martin Skyhawks Football",
+      "venue_line": "Buccaneer Field • Charleston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "KATHLEEN MADIGAN: FLYING CATS & MARCHING ARMADILLOS TOUR",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "South Carolina Stingrays vs. Orlando Solar Bears",
+      "venue_line": "North Charleston Coliseum • North Charleston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Wynonna Judd - The Hard Truth Tour",
+      "venue_line": "North Charleston Performing Arts Center • North Charleston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

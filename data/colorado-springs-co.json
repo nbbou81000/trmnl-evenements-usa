@@ -1,57 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-10-30T15:29:12.620Z",
+  "updated_at": "2026-10-31T14:57:46.117Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Colorado College Tigers Hockey vs. Minnesota Duluth",
-      "venue_line": "Ed Robson Arena • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Colorado Springs Philharmonic presents Edward Scissorhands",
-      "venue_line": "Pikes Peak Center • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Wednesday 13, Dead On a Sunday, Above Snakes",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Wednesday 13 w/ Dead on a Sunday",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Prince Daddy and The Hyena w/ Combat - Band",
-      "venue_line": "What's Left Records • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -76,7 +26,7 @@
       "day_label": "SAT",
       "day_number": "31",
       "date_iso": "2026-10-31",
-      "title": "Spite, Stick To Your Guns, No Cure, Vomit Forth",
+      "title": "Spite, No Cure, Vomit Forth",
       "venue_line": "Black Sheep • Colorado Springs",
       "price_label": "Price not available",
       "type_key": "music",
@@ -196,6 +146,56 @@
       "day_label": "FRI",
       "day_number": "6",
       "date_iso": "2026-11-06",
+      "title": "Air Force Academy Falcons Hockey vs. Army Black Knights Hockey",
+      "venue_line": "Cadet Ice Arena • USAF Academy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Michael Carbonaro",
+      "venue_line": "Pikes Peak Center • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Vincent Neil Emerson, Kade Hoffman",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Air Force Academy Falcons Womens Basketball vs. St. Marys CA Gaels Womens Basketball",
+      "venue_line": "Clune Arena • USAF Academy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Colorado College Tigers Hockey vs. Lindenwood",
+      "venue_line": "Ed Robson Arena • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
       "title": "Air Force Academy Falcons Hockey vs. Army Black Knights Hockey",
       "venue_line": "Cadet Ice Arena • USAF Academy",
       "price_label": "Price not available",

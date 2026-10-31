@@ -1,17 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-30T15:28:41.558Z",
+  "updated_at": "2026-10-31T14:57:17.558Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "NCA&T Homecoming Step Show",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Greensboro Swarm vs. Long Island Nets",
       "venue_line": "Novant Health Fieldhouse at the Greensboro Complex • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Greensboro Gargoyles vs Maine Mariners - Wizard Weekend",
+      "venue_line": "First Horizon Coliseum • Greensboro",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

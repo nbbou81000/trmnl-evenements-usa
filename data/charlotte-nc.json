@@ -1,87 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-30T15:28:40.065Z",
+  "updated_at": "2026-10-31T14:57:16.319Z",
   "events": [
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Jackiem Joyner",
-      "venue_line": "Middle C Jazz • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Diva Royale Drag Queen Show (18+ Event)",
-      "venue_line": "The Scorpio • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "UNC Charlotte 49ers Football vs. Tulane Green Wave Football",
-      "venue_line": "Jerry Richardson Stadium • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Bruce Cockburn with Livingston Taylor",
-      "venue_line": "The Carolina • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "The Renaissance Orchestra",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ethan Regan: Young Regan Tour",
-      "venue_line": "Neighborhood Theatre Main Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "It's A 2000's (Halloween) Party: Charlotte(18+)",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Ray Volpe (18+ Event)",
-      "venue_line": "Blackbox Theater - Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "31",
@@ -198,6 +118,86 @@
       "date_iso": "2026-11-01",
       "title": "Young Miko - Late Checkout Tour",
       "venue_line": "Spectrum Center • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "almost monday - THANK GOD IT'S ALMOST MONDAY",
+      "venue_line": "The Underground • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Charlotte Hornets vs. Detroit Pistons",
+      "venue_line": "Spectrum Center • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "THE ARCADIAN WILD: Make It Out Alive Tour",
+      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Rod Wave: Don't Look Down Tour",
+      "venue_line": "Spectrum Center • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "THE ARMY, THE NAVY: THE FAKE BRAVE TOUR 2026",
+      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "World Of Outlaws World Finals",
+      "venue_line": "Charlotte Motor Speedway • Concord",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "\"Search Party: Where's Pawpaw?\" film premiere",
+      "venue_line": "The Carolina • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "VOILÀ Presents: Moonbloom",
+      "venue_line": "The Fillmore Charlotte • Charlotte",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
