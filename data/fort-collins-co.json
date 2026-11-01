@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-10-31T14:57:46.541Z",
+  "updated_at": "2026-11-01T15:42:07.168Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Colorado State University Rams Womens Soccer vs. Washington State Cougars Womens Soccer",
-      "venue_line": "CSU Soccer Field • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Digable Planets",
-      "venue_line": "Aggie Theater • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-14",
       "title": "Northern Colorado Bears Football vs. Montana State Bobcats Football",
       "venue_line": "Nottingham Field • Greeley",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Sparta Combat League",
+      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Colorado State University Rams Womens Volleyball vs. Texas State San Marcos Bobcats Womens Volleyball",
+      "venue_line": "Moby Arena • Fort Collins",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

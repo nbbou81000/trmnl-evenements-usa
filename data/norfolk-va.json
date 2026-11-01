@@ -1,67 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-10-31T14:57:15.823Z",
+  "updated_at": "2026-11-01T15:41:35.598Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Old Dominion Monarchs Football vs. Marshall Thundering Herd Football",
-      "venue_line": "Kornblau Field at S.B. Ballard Stadium • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Rocky Horror Picture Show - with Shadow Cast - Classic Movie Nights!",
-      "venue_line": "American Theatre • Hampton",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Norfolk Admirals vs. Greensboro Gargoyles",
-      "venue_line": "Scope Arena • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Movements w/ Balance & Composure",
-      "venue_line": "The Norva • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Babyface",
-      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It's A 2000s Party by Slacker University (Ages 18 & Up)",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Monster Jam",
+      "venue_line": "Hampton Coliseum • Hampton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": " Culture Clash: Crowd Karaoke (Ages 21 & Up)",
+      "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Brains On! LIVE: Your Brain is Magic!",
+      "venue_line": "Attucks Theatre • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Monster Jam",
+      "venue_line": "Hampton Coliseum • Hampton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
+      "venue_line": "William Price Stadium • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Indiana Jones: DOUBLE FEATURE - Temple of Doom 7pm/Last Crusade 9:30pm",
+      "venue_line": "American Theatre • Hampton",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

@@ -1,57 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-10-31T14:57:40.400Z",
+  "updated_at": "2026-11-01T15:42:00.928Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Beetlejuice (Touring)",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Central Arkansas Bears Football vs. North Alabama Lions Football",
-      "venue_line": "Estes Stadium • Conway",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Beetlejuice (Touring)",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Micro Wrestling",
-      "venue_line": "The Hall • Little Rock",
-      "price_label": "$34–$65",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Simmons Bank Championship: Saturday Admission",
-      "venue_line": "Pleasant Valley Country Club • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Central Arkansas Bears Football vs. Austin Peay Governors Football",
+      "venue_line": "Estes Stadium • Conway",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Desi Banks: Your Favorite Cousin",
+      "venue_line": "Robinson Center • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "A Celtic Christmas by A Taste of Ireland",
+      "venue_line": "Robinson Center • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "THIRD DAY, CHRIS TOMLIN, TOBYMAC",
+      "venue_line": "Simmons Bank Arena • North Little Rock",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "MOJO BROOKZZ: OUTTA POCKET TOUR",
+      "venue_line": "Robinson Center • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

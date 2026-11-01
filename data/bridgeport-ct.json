@@ -1,97 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-10-31T14:57:09.504Z",
+  "updated_at": "2026-11-01T15:41:29.255Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Rock and Roll Playhouse",
-      "venue_line": "The Warehouse at FTC • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Stony Brook Seawolves Football vs. Sacred Heart Pioneers Football",
-      "venue_line": "Kenneth P. LaValle Stadium • Stony Brook",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Quinnipiac Bobcats Mens Ice Hockey vs. Providence College Friars Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Brown University Bears Womens Hockey",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Desi Banks",
-      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Nekrogoblikon",
-      "venue_line": "District Music Hall • Norwalk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Bad Co Legacy",
-      "venue_line": "Palace Theatre Stamford • Stamford",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Sessions Presents Halloween Haunted House featuring DJ Theo (21+)",
-      "venue_line": "The Paramount in concert with Northwell • Huntington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Desi Banks",
-      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Quinnipiac Bobcats Mens Basketball vs. Bryant Bulldogs Mens Basketball",
+      "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Hovvdy w/ Christian Lee Hutson",
+      "venue_line": "Space Ballroom • Hamden",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Dweezil Zappa DZ20: Like Father, Like Son",
+      "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Theresa Caputo",
+      "venue_line": "Ridgefield Playhouse • Ridgefield",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Quinnipiac Bobcats Womens Ice Hockey vs. Cornell Big Red Women's Hockey",
+      "venue_line": "M&T Bank Arena • Hamden",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sacred Heart Pioneers Women's Basketball vs. Mercy College Women's Basketball",
+      "venue_line": "William H. Pitt Center • Fairfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sacred Heart Pioneers Men's Ice Hockey vs. Canisius University Men's Hockey",
+      "venue_line": "Martire Family Arena  • Fairfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Super Trans Am",
+      "venue_line": "StageOne • Fairfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jessica Kirson",
+      "venue_line": "District Music Hall • Norwalk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-10-31T14:57:08.549Z",
+  "updated_at": "2026-11-01T15:41:28.420Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Central Connecticut St Blue Devils Football vs. Robert Morris Colonial Football",
-      "venue_line": "Arute Field • New Britain",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "ROAR! Comedy: Splou",
-      "venue_line": "The Armory at MGM Springfield • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Chris Perondi's Stunt Dog Experience - 11am Relaxed Performance",
+      "venue_line": "Bushnell/ Belding Theater • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Chris Perondi's Stunt Dog Experience",
+      "venue_line": "Bushnell/ Belding Theater • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "UConn Huskies Womens Basketball vs. Iowa Hawkeyes Womens Basketball",
+      "venue_line": "Gampel Pavilion • Storrs Mansfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-10-31T14:57:34.297Z",
+  "updated_at": "2026-11-01T15:41:54.085Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Augustana Vikings Mens Hockey vs. Northern Michigan Wildcats Hockey",
-      "venue_line": "Midco Arena • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Goosebumps: The Musical",
-      "venue_line": "Orpheum Theater Sioux Falls - SD • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "EMO NIGHT (Sioux Falls)",
-      "venue_line": "Icon Events & Dada Gastropub • Sioux Falls",
-      "price_label": "$20–$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "MarketBeat Invitational Women's Basketball",
+      "venue_line": "Sanford Pentagon • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Augustana Vikings Mens Hockey vs. Ferris State Bulldogs Hockey",
+      "venue_line": "Midco Arena • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "PINK PONY CLUB NIGHT",
+      "venue_line": "Club David • Sioux Falls",
+      "price_label": "$14–$36",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

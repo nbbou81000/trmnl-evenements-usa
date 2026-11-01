@@ -1,47 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-10-31T14:57:25.505Z",
+  "updated_at": "2026-11-01T15:41:45.337Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Michigan Wolverines Womens Volleyball vs. Indiana Hoosiers Womens Volleyball",
-      "venue_line": "Crisler Center • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Pajamas Performing The Music of David Bowie",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Country CarnEvil: Halloween Party & Costume Contest",
-      "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$19–$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Prince Experience Starring Gabriel Sanchez - HALLOWEEN COSTUME PARTY",
-      "venue_line": "The Token Lounge • Westland",
-      "price_label": "$24–$158",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -158,7 +118,7 @@
       "date_iso": "2026-11-06",
       "title": "Saddle Up: Country Grammar",
       "venue_line": "Diamondback Music Hall • Belleville",
-      "price_label": "$7–$32",
+      "price_label": "$13–$32",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +161,46 @@
       "price_label": "$19–$24",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Daft Disko: A French House & Disco Party",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "THE QUEERS • Permanently Pissed • Sniff Test",
+      "venue_line": "The Token Lounge • Westland",
+      "price_label": "$19",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Michigan Wolverines Womens Basketball vs. Wright State Raiders Womens Basketball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Andrea Gibson's Love Letter From The Afterlife",
+      "venue_line": "Michigan Theater • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

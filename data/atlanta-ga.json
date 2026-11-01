@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-10-31T14:57:19.267Z",
+  "updated_at": "2026-11-01T15:41:39.050Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,19 +23,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Georgia State Panthers Football vs Coastal Carolina Football",
-      "venue_line": "Center Parc Stadium • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Buena Vista Social Club",
       "venue_line": "Fox Theatre - Atlanta • Atlanta",
       "price_label": "Price not available",
@@ -43,9 +33,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Like Father",
       "venue_line": "Alliance Theatre • Atlanta",
       "price_label": "Price not available",
@@ -53,9 +43,139 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Roob and Noob",
+      "venue_line": "Alliance Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Hocus Pocus: Live With The Atlanta Symphony Orchestra",
+      "venue_line": "Atlanta Symphony Hall • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Garage - 1180 Peachtree St: Hocus Pocus",
+      "venue_line": "Atlanta Symphony Hall • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Atlanta United FC vs. Toronto FC",
+      "venue_line": "Mercedes-Benz Stadium • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Roob and Noob",
+      "venue_line": "Alliance Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "The Menzingers: Everything I Ever Saw North American Tour",
+      "venue_line": "The Masquerade - Heaven • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Buena Vista Social Club",
+      "venue_line": "Fox Theatre - Atlanta • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "SiriusXM Octane Presents: Ninth Key",
+      "venue_line": "The Masquerade - Purgatory • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Sap's Erasure Tour",
+      "venue_line": "The Masquerade  - Altar • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Emo Orchestra With The Spill Canvas - An Evening Of Emo",
+      "venue_line": "Center Stage Theater • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Like Father",
+      "venue_line": "Alliance Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Music Discovery Series Performance",
+      "venue_line": "Woodruff Arts Center • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Music Discovery Series Performance",
+      "venue_line": "Woodruff Arts Center • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
       "title": "Tours: Truist Park",
       "venue_line": "Truist Park • Atlanta",
       "price_label": "Price not available",
@@ -63,144 +183,24 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Invesco QQQ Atlanta Gridiron Classic",
-      "venue_line": "Mercedes-Benz Stadium • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Haunted Fest",
-      "venue_line": "Piedmont Park • Atlanta",
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Zade Dirani",
+      "venue_line": "Atlanta Symphony Hall • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "8 Rooms of Terror Experience",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "8 Rooms of Terror Experience",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Masquerade & Emo Nite Present: Dark Wave Comedy | 18+",
-      "venue_line": "The Masquerade  - Altar • Atlanta",
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Fruit Wine Productions & OBSESSED Present Hokus Pokus Live!",
+      "venue_line": "Center Stage Theater • Atlanta",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Atkins Test 4",
-      "venue_line": "Ticketmaster Test Stadium • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Johnny Gill & Maze",
-      "venue_line": "VyStar Amphitheater At The Bridge • Stockbridge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "8 Rooms of Terror Experience",
-      "venue_line": "Selfie Paradise Museum • Douglasville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Buena Vista Social Club",
-      "venue_line": "Fox Theatre - Atlanta • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Like Father",
-      "venue_line": "Alliance Theatre • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Young Miko - Late Checkout Tour",
-      "venue_line": "State Farm Arena • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "almost monday",
-      "venue_line": "Center Stage Theater • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Sophie Truax",
-      "venue_line": "Vinyl • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Neal Francis w/ Sam Fribush Organ Trio",
-      "venue_line": "Terminal West • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     }
   ]
 }

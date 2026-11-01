@@ -1,57 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-10-31T14:57:59.518Z",
+  "updated_at": "2026-11-01T15:42:20.206Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Eastern Washington Eagles Football vs. Montana Grizzlies Football",
-      "venue_line": "Roos Field • Cheney",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
-      "venue_line": "Martin Woldson Theater at the Fox • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Black Jacket Symphony",
-      "venue_line": "The Fox - Spokane • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It's A 2000s (Halloween) Party: Spokane (10/31)",
-      "venue_line": "Knitting Factory - Spokane • Spokane",
-      "price_label": "$28–$39",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "DARK SCENE HALLOWEEN",
-      "venue_line": "The District • Spokane",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Disney On Ice presents Jump In - (Age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older)",
+      "venue_line": "Numerica Veterans Arena • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Disney On Ice presents Jump In - (Age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older)",
+      "venue_line": "Numerica Veterans Arena • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Killers of Kill Tony",
+      "venue_line": "First Interstate Center for the Arts • Spokane",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Disney On Ice presents Jump In - (Age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older)",
+      "venue_line": "Numerica Veterans Arena • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "John Oates & The Good Road Band",
+      "venue_line": "Spokane Live at Spokane Tribe Casino • Airway Heights",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

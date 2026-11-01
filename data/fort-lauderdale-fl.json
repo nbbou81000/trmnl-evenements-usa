@@ -1,77 +1,7 @@
 {
   "city_label": "Fort Lauderdale, FL",
-  "updated_at": "2026-10-31T14:57:21.286Z",
+  "updated_at": "2026-11-01T15:41:41.144Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Sonic Live in Concert",
-      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Grupo Niche - Niche DIsco Tour",
-      "venue_line": "Hard Rock Live • Hollywood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Rocky Horror Picture Show (18+)",
-      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Loe Shimmy's ZOMBIELAND",
-      "venue_line": "Miramar Regional Park Amphitheater • Miramar",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Hablando Huevadas - US Tour 2026",
-      "venue_line": "James L Knight Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "HALLOWEEN FESTIVAL AT BACKYARD FTL Ft. ZOEY808 X 9B49",
-      "venue_line": "Backyard • Fort Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lost Frequencies",
-      "venue_line": "LIV Nightclub Miami • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The Place To Be prior to Daniel Sloss",
+      "venue_line": "The Place To Be at The Parker • Fort Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The Haller Club prior to Daniel Sloss",
+      "venue_line": "The Haller Club at The Parker • Fort Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Daniel Sloss: BITTER (Brand New Tour!)",
+      "venue_line": "Wells Hall at The Parker • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "The Incredible Boris (18+ Event)",
+      "venue_line": "Boca Black Box • Boca Raton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "GWAR - Gor Gor Must Die",
+      "venue_line": "Revolution Live • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

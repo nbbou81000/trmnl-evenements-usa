@@ -1,17 +1,7 @@
 {
   "city_label": "Jackson, MS",
-  "updated_at": "2026-10-31T14:57:43.688Z",
+  "updated_at": "2026-11-01T15:42:04.301Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Nether Hour",
-      "venue_line": "Duling Hall • Jackson",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-27",
       "title": "Masterclass Trap Orchestra ft. Boosie",
       "venue_line": "Thalia Mara Hall • Jackson",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "1",
+      "date_iso": "2026-12-01",
+      "title": "Futurebirds w/ Arts Fishing Club - Far Out Country Tour ",
+      "venue_line": "Duling Hall • Jackson",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,87 +1,7 @@
 {
   "city_label": "Miami, FL",
-  "updated_at": "2026-10-31T14:57:20.872Z",
+  "updated_at": "2026-11-01T15:41:40.743Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Sonic Live in Concert",
-      "venue_line": "Au-Rene Theater at the Broward Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Hablando Huevadas - US Tour 2026",
-      "venue_line": "James L Knight Center • Miami",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Loe Shimmy's ZOMBIELAND",
-      "venue_line": "Miramar Regional Park Amphitheater • Miramar",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Grupo Niche - Niche DIsco Tour",
-      "venue_line": "Hard Rock Live • Hollywood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Rocky Horror Picture Show (18+)",
-      "venue_line": "Rose & Alfred Miniaci Performing Arts Center • Ft Lauderdale",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The BIG Show Improv Comedy Miami",
-      "venue_line": "Just the Funny • Miami",
-      "price_label": "$29",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Improvised Horror Movie",
-      "venue_line": "Just the Funny • Miami",
-      "price_label": "$29",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lost Frequencies",
-      "venue_line": "LIV Nightclub Miami • Miami Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -199,6 +119,86 @@
       "title": "Ride and Dine with Us! Thriller Speedboat Tours",
       "venue_line": "Hard Rock Cafe Miami • Miami",
       "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "GWAR - Gor Gor Must Die",
+      "venue_line": "Revolution Live • Ft Lauderdale",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Ride and Dine! Hard Rock Cafe Miami and Big Bus Tours Miami",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Ride and Dine with Us! Thriller Speedboat Tours",
+      "venue_line": "Hard Rock Cafe Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "STA Players: Alice in Wonderland",
+      "venue_line": "Bienes Center at St. Thomas Aquinas • Ft. Lauderdale",
+      "price_label": "$7–$14",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Floozies",
+      "venue_line": "ZeyZey Miami • Miami",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Miami Hurricanes Women's Basketball vs. Jacksonville Dolphins",
+      "venue_line": "Watsco Center at the University of Miami • Coral Gables",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Balance and Composure & Midrift in Miami",
+      "venue_line": "Lincoln's Beard • Miami",
+      "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Improv Acting 1 - Improv Scenework",
+      "venue_line": "Just the Funny • Miami",
+      "price_label": "$297",
       "type_key": "misc",
       "type_label": "Other"
     }

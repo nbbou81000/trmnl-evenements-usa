@@ -1,27 +1,7 @@
 {
   "city_label": "Tulsa, OK",
-  "updated_at": "2026-10-31T14:57:39.997Z",
+  "updated_at": "2026-11-01T15:42:00.516Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Red Stripes",
-      "venue_line": "Vanguard - OK • Tulsa",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Warrant with Firehouse (21 and Over)",
-      "venue_line": "Hard Rock Live Tulsa • Catoosa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Hayes Carll",
+      "venue_line": "Cain's Ballroom • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Ari Matti",
+      "venue_line": "Bricktown Comedy Club  - Tulsa • Tulsa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

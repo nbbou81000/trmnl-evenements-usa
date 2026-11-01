@@ -1,47 +1,7 @@
 {
   "city_label": "Provo, UT",
-  "updated_at": "2026-10-31T14:57:47.329Z",
+  "updated_at": "2026-11-01T15:42:07.977Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "BYU Cougars Football vs. Arizona State Sun Devils Football",
-      "venue_line": "LaVell Edwards Stadium • Provo",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Addams Family",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Addams Family",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Addams Family",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "BYU Cougars Womens Volleyball vs. Cincinnati Bearcats Womens Volleyball",
+      "venue_line": "Smith Fieldhouse • Provo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "23",
+      "date_iso": "2026-11-23",
+      "title": "Disney's Frozen the Musical",
+      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "24",
+      "date_iso": "2026-11-24",
+      "title": "Disney's Frozen the Musical",
+      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "25",
+      "date_iso": "2026-11-25",
+      "title": "Disney's Frozen the Musical",
+      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

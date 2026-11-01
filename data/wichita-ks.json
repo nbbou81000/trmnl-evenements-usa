@@ -1,27 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-10-31T14:57:33.504Z",
+  "updated_at": "2026-11-01T15:41:53.315Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Wichita Thunder vs. Tulsa Oilers - Hockey",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Wichita Thunder vs. Tulsa Oilers",
-      "venue_line": "INTRUST Bank Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "Concert Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Mrs. Doubtfire (Touring)",
+      "venue_line": "Concert Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,77 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-10-31T14:57:31.072Z",
+  "updated_at": "2026-11-01T15:41:50.885Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "St. Louis City SC vs. San Diego FC",
-      "venue_line": "Energizer Park • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Voodoo Phish",
-      "venue_line": "Atomic Garage • St. Louis",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Post Sex Nachos",
-      "venue_line": "Delmar Hall • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
-      "venue_line": "The Factory • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Swimming Paul",
-      "venue_line": "RYSE Nightclub • Saint Charles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Halloween Night with Danger Party",
-      "venue_line": "Pop's Nightclub • Sauget",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Heather Shaw",
+      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Prof",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "West 22nd",
+      "venue_line": "Delmar Hall • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sisters Of The Canyon",
+      "venue_line": "Atomic Lounge • St. Louis",
+      "price_label": "$0–$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Craig Conant",
+      "venue_line": "Helium Comedy Club - St. Louis • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The String Cheese Incident: Just Keep Spinning Tour",
+      "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

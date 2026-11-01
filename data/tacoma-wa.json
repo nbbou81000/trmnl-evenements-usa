@@ -1,77 +1,7 @@
 {
   "city_label": "Tacoma, WA",
-  "updated_at": "2026-10-31T14:57:59.124Z",
+  "updated_at": "2026-11-01T15:42:19.790Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Boo! Seattle",
-      "venue_line": "WAMU Theater • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Tacoma City Ballet Presents: Dracula",
-      "venue_line": "Pantages Theater • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lumen Field Stadium Tours",
-      "venue_line": "Lumen Field Stadium Tours • Seattle",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ralph Barbosa",
-      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
-      "price_label": "$63",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "EQC After Dark: Midnight Manor Halloween Party",
-      "venue_line": "Emerald Queen Casino • Tacoma",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Rival Sons w/ The Blue Stones",
-      "venue_line": "The Showbox • Seattle",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Clock-Out Lounge Presents: The Lovecats (Tribute to The Cure) + Sour Times (Tribute to Portishead)",
-      "venue_line": "Clock-Out Lounge • Seattle",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -199,6 +129,76 @@
       "title": "Tight Five Tuesdays Open Mic!",
       "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
       "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Jessie Reyez: A Little Vengeance Tour",
+      "venue_line": "WAMU Theater • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "WAMU Theater Amplified Access: Jessie Reyez (Not an Event Ticket)",
+      "venue_line": "WAMU Theater • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Pinhead Gunpowder",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Lumen Field Stadium Tours",
+      "venue_line": "Lumen Field Stadium Tours • Seattle",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Raised By TV Events Presents: all ages Scooby Doo 1 & 2 films Trivia Night",
+      "venue_line": "Clock-Out Lounge • Seattle",
+      "price_label": "$11",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Women United Comedy Night",
+      "venue_line": "Nate Jackson's Super Funny Comedy Club • Tacoma",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The Best One Yet - Ages 21+",
+      "venue_line": "The Showbox • Seattle",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     }

@@ -1,67 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-10-31T14:57:30.667Z",
+  "updated_at": "2026-11-01T15:41:50.473Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Sporting Kansas City vs. FC Dallas",
-      "venue_line": "Sporting Park • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "SOMBR - You Are The Reason Tour",
-      "venue_line": "T-Mobile Center • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Zingara w/ MUST DIE!",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Neko Case - Neon Grey Midnight Green Tour",
-      "venue_line": "Uptown Theater • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Dolewite & Ashton Martin",
-      "venue_line": "VooDoo at Harrah's Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Dolewite & Ashton Martin | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "VooDoo at Harrah's Kansas City • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Kansas City Mavericks vs Tahoe Knight Monsters",
+      "venue_line": "Cable Dahmer Arena • Independence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "LOCKED SHUT",
+      "venue_line": "recordBar • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Airshow & 65 North Pickers",
+      "venue_line": "Encore at Uptown Theater • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "\"Dad Rock Night\" (2000's Rock Tribute) presented by Council Hill",
+      "venue_line": "Madrid Theatre • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "2026 KC Pet Fest ",
+      "venue_line": "Hale Arena • Kansas City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Kansas City Mavericks vs Tahoe Knight Monsters",
+      "venue_line": "Cable Dahmer Arena • Independence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

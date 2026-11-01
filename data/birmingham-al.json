@@ -1,87 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-10-31T14:57:44.090Z",
+  "updated_at": "2026-11-01T15:42:04.756Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Birmingham Bulls v. Knoxville Ice Bears",
-      "venue_line": "Pelham Civic Complex • Pelham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Samford University Bulldogs Football vs. Wofford College Terriers Football",
-      "venue_line": "Pete Hanna Center • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Red Clay Strays | Official BJCC Ticket + Hotel Packages. ",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Red Clay Strays",
-      "venue_line": "Legacy Arena at the BJCC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "So Good! The Neil Diamond Experience starring Robert Neary",
-      "venue_line": "The Lyric Theatre • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Heaven & Hell: The Resurrection",
-      "venue_line": "The Fennec - Main Stage • Birmingham",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "All Get Out - The Upstairs at Avondale",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Drag Night at The Nick Halloween",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$12",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -198,6 +118,86 @@
       "date_iso": "2026-11-03",
       "title": "Prof",
       "venue_line": "Iron City • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Rehash (18 and Over)",
+      "venue_line": "Saturn - Birmingham • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "MoonKill + Subhymnal, Flowing & Mayweather at The Nick",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "UAB Blazers Mens Basketball vs. Nicholls State Colonels Mens Basketball",
+      "venue_line": "Bartow Arena • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Charlie Berens: The Lost and Found Tour",
+      "venue_line": "The Lyric Theatre • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Levity",
+      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Birmingham Bulls v. Knoxville Ice Bears",
+      "venue_line": "Pelham Civic Complex • Pelham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jonas Brothers | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "Legacy Arena at the BJCC • Birmingham",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

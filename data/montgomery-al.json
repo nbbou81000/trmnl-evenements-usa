@@ -1,17 +1,7 @@
 {
   "city_label": "Montgomery, AL",
-  "updated_at": "2026-10-31T14:57:44.887Z",
+  "updated_at": "2026-11-01T15:42:05.564Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Extreme Dwarfanator Wrestling",
-      "venue_line": "Garrett Coliseum • Montgomery",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -196,6 +186,16 @@
       "day_label": "FRI",
       "day_number": "11",
       "date_iso": "2026-12-11",
+      "title": "The NutQracker",
+      "venue_line": "Montgomery Performing Arts Centre • Montgomery",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "12",
+      "date_iso": "2026-12-12",
       "title": "The NutQracker",
       "venue_line": "Montgomery Performing Arts Centre • Montgomery",
       "price_label": "Price not available",

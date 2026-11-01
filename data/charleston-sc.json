@@ -1,37 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-10-31T14:57:18.421Z",
+  "updated_at": "2026-11-01T15:41:38.237Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Charleston Southern Buccaneers Football vs. Western Illinois Leathernecks Football",
-      "venue_line": "Buccaneer Field • Charleston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Hokus Pokus Live!",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Gasolina Halloween Party - 18+",
-      "venue_line": "Music Farm • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -199,6 +169,36 @@
       "title": "Wynonna Judd - The Hard Truth Tour",
       "venue_line": "North Charleston Performing Arts Center • North Charleston",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "KATHLEEN MADIGAN: FLYING CATS & MARCHING ARMADILLOS TOUR",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Holywatr",
+      "venue_line": "Music Farm • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "JUDAH AND THE LION",
+      "venue_line": "The Refinery • Charleston",
+      "price_label": "$47–$243",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,27 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-10-31T14:57:17.968Z",
+  "updated_at": "2026-11-01T15:41:37.810Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Wake Forest Demon Deacons Football vs. Virginia Cavaliers Football",
-      "venue_line": "Allegacy Federal Credit Union Stadium • Winston Salem",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "NCA&T Homecoming Concert",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Greensboro Gargoyles vs Worcester Railers - I Love Greensboro Night",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Zack Fox",
+      "venue_line": "Piedmont Hall • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

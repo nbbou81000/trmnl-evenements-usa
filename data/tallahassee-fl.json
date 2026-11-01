@@ -1,37 +1,7 @@
 {
   "city_label": "Tallahassee, FL",
-  "updated_at": "2026-10-31T14:57:23.011Z",
+  "updated_at": "2026-11-01T15:41:42.858Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Florida A&M Rattlers vs. Southern University Football",
-      "venue_line": "FAMU Bragg Memorial Stadium • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Florida State Seminoles Football vs. Clemson Tigers Football",
-      "venue_line": "Doak Campbell Stadium • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Spookfest Halloween Costume Party - Ages 21+",
-      "venue_line": "The Moon - FL • Tallahassee",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-24",
       "title": "Florida State Seminoles Mens Basketball vs. UNC Asheville Bulldogs Mens Basketball",
       "venue_line": "Donald L. Tucker Center • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Florida State Seminoles Football vs. Florida Gators Football",
+      "venue_line": "Doak Campbell Stadium • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "4",
+      "date_iso": "2026-12-04",
+      "title": "Get the Led Out - Ages 18+",
+      "venue_line": "The Moon - FL • Tallahassee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "5",
+      "date_iso": "2026-12-05",
+      "title": "Club Seats - FSU MBB vs Dayton",
+      "venue_line": "Donald L. Tucker Civic Center • Tallahassee",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

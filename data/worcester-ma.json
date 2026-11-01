@@ -1,37 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-10-31T14:57:13.292Z",
+  "updated_at": "2026-11-01T15:41:33.022Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Whose Live Anyway?",
-      "venue_line": "Hanover Theatre • Worcester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Disco Biscuits - SATURDAY",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Puff Down Presents: Boo in the Woo",
-      "venue_line": "Off The Rails Music Venue • Worcester",
-      "price_label": "$25–$51",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -196,6 +166,36 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
+      "title": "The Bodyguard (Touring)",
+      "venue_line": "Hanover Theatre • Worcester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "The Bodyguard (Touring)",
+      "venue_line": "Hanover Theatre • Worcester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Worcester Railers vs. Wheeling Nailers - Autism Awareness Day",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
       "title": "The Bodyguard (Touring)",
       "venue_line": "Hanover Theatre • Worcester",
       "price_label": "Price not available",

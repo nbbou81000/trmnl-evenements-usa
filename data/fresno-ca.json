@@ -1,57 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-10-31T14:57:53.851Z",
+  "updated_at": "2026-11-01T15:42:14.542Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Gonzaga Bulldogs Women's Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Fresno State Bulldogs Womens Volleyball vs. Gonzaga Bulldogs Womens Volleyball",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Mom Jeans., Harrison Gordon, Sobs",
-      "venue_line": "Tioga Sequoia Brewery  • Fresno",
-      "price_label": "$42",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "38 Special",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Fresno State Bulldogs Football vs. Oregon State Beavers Football",
-      "venue_line": "Valley Children's Stadium • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -199,6 +149,56 @@
       "title": "Clarion, Novulent",
       "venue_line": "Strummer's • Fresno",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Clarion w/ NOVULENT",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Bluey's Big Play",
+      "venue_line": "William Saroyan Theatre Fresno Convention & Entertainment Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "TRSH Gone Fishin' Tour with Adjust The Sails, Dear Maryanne, Dear Cincinnati",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$26–$29",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Chase Petra, JER, Leisure Hour, Idkconundrum",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$32–$35",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Turnover, Nothing, Trauma Ray",
+      "venue_line": "Tioga Sequoia Brewery  • Fresno",
+      "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
     }

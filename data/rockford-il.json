@@ -1,17 +1,7 @@
 {
   "city_label": "Rockford, IL",
-  "updated_at": "2026-10-31T14:57:23.911Z",
+  "updated_at": "2026-11-01T15:41:43.671Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Hitz Boxing: Rock The Ring - Halloween Havoc",
-      "venue_line": "Hard Rock Live Rockford • Rockford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Stayin' Alive: One Night of the Bee Gees",
+      "venue_line": "Coronado Theatre • Rockford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

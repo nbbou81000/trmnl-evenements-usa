@@ -1,67 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-10-31T14:57:08.141Z",
+  "updated_at": "2026-11-01T15:41:28.005Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Rhode Island Rams Football vs. Maine Black Bears Football",
-      "venue_line": "Centreville Bank Stadium • Pawtucket",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Navy-Notre Dame presented by Navy Federal and Navy Mutual",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Who's Who",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$50",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "DJ Meredith Marks : YOU. CAN. DANCE. TOUR",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$46–$178",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "DJ Meredith Marks",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Halloween Party with DJ John Price",
-      "venue_line": "Six String Grill and Stage • Foxboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Frank Santos Jr. R-Rated Hypnotist",
+      "venue_line": "Agoro's • Somerset",
+      "price_label": "$34",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Rhode Island Comic Con",
+      "venue_line": "Amica Mutual Pavilion • Providence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Hot Mulligan",
+      "venue_line": "Strand Theatre-RI • Providence",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Brown University Bears Mens Basketball",
+      "venue_line": "Paul Bailey Pizzitola Memorial Sports Center • Providence",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "A Christmas Carol",
+      "venue_line": "Lederer Theater Center -  Dowling Theater • Providence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Mushroom Cloud w/ Canopy",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

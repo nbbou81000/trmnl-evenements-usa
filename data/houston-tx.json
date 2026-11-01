@@ -1,11 +1,31 @@
 {
   "city_label": "Houston, TX",
-  "updated_at": "2026-10-31T14:57:35.588Z",
+  "updated_at": "2026-11-01T15:41:55.343Z",
   "events": [
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Faust",
+      "venue_line": "Brown Theatre-Wortham Center • Houston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Houston Dash vs. Portland Thorns FC",
+      "venue_line": "Shell Energy Stadium • Houston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
       "venue_line": "The Emerald Theatre • Houston",
       "price_label": "Price not available",
@@ -13,9 +33,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
       "venue_line": "The Emerald Theatre • Houston",
       "price_label": "Price not available",
@@ -23,19 +43,49 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "FATT MACK — (WAREHOUSE LIVE, MIDTOWN)",
-      "venue_line": "Warehouse Live Midtown • Houston",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Black Flag",
+      "venue_line": "House of Blues Houston • Houston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Pandji",
+      "venue_line": "Punch Line Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Dogs on Shady Lane",
+      "venue_line": "The End - Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour - Webster, TX",
+      "venue_line": "Gateway Community Church • Webster",
+      "price_label": "$30–$122",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Steve Byrne",
       "venue_line": "Houston Improv • Houston",
       "price_label": "Price not available",
@@ -43,39 +93,9 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "The Emerald Theatre • Houston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Cameron Whitcomb - Kingdom of Fear Tour",
-      "venue_line": "House of Blues Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "City of the Sun",
-      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Steve Byrne",
       "venue_line": "Improv Comedy Club- Houston • Houston",
       "price_label": "Price not available",
@@ -83,121 +103,101 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Susannah",
-      "venue_line": "Brown Theatre-Wortham Center • Houston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Houston Rockets vs. Oklahoma City Thunder",
-      "venue_line": "Toyota Center - TX • Houston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Victoria Monét: Frequency Of Love Tour",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Morrissey",
       "venue_line": "713 Music Hall • Houston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ha Ha Halloween Showcase",
-      "venue_line": "Punch Line Houston • Houston",
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Houston Cougars Womens Basketball vs. Hampton Pirates Womens Basketball",
+      "venue_line": "Fertitta Center • Houston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Houston Cougars Mens Basketball vs. La Salle Explorers Mens Basketball",
+      "venue_line": "Fertitta Center • Houston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Skilla Baby: The Price of Fame Tour - Ages 18+",
+      "venue_line": "House of Blues Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Houston Rockets vs. Boston Celtics",
+      "venue_line": "Toyota Center - TX • Houston",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "ESTEMAN & DANIELA SPALLA - AMORIO USA TOUR",
+      "venue_line": "House of Blues Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Bombargo",
+      "venue_line": "White Oak Music Hall - Upstairs  • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Beetlejuice (Touring)",
+      "venue_line": "Hobby Center • Houston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Rewind: 2000s Halloween Rave",
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Dinosaur Jr. - Fall Tour 2026 with special guest Stef Chura",
+      "venue_line": "House of Blues Houston • Houston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Julia Jacklin: North America Tour 2026",
       "venue_line": "White Oak Music Hall - Downstairs • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The War and Treaty",
-      "venue_line": "Heights Theater • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ye Live in Houston",
-      "venue_line": "Reliant Stadium • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Yesenia Then: Levántate Tour",
-      "venue_line": "Arena Theatre • Houston",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Emo Forever Emo Night",
-      "venue_line": "Scout Bar - Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Drunk Shakespeare: Drunk Dracula (21+ Event)",
-      "venue_line": "The Emerald Theatre • Houston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "House Party Rave - Ages 18+",
-      "venue_line": "The Bronze Peacock at House of Blues Houston • Houston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Porter Robinson (18 and Over)",
-      "venue_line": "DUCTWORK - Houston • Houston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

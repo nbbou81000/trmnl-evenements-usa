@@ -1,37 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-10-31T14:57:42.076Z",
+  "updated_at": "2026-11-01T15:42:02.712Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Chattanooga Moccasins Football vs. VMI Keydets Football",
-      "venue_line": "Finley Stadium Davenport Field • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Funeral Portrait",
-      "venue_line": "The Signal • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Funeral Portrait: A Ghoulish Gathering In Suffocate City",
-      "venue_line": "The Signal - Concert Hall • Chattanooga",
-      "price_label": "$38–$63",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -199,6 +169,36 @@
       "title": "Lupita Infante",
       "venue_line": "The Signal • Chattanooga",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Lupita Infante",
+      "venue_line": "The Signal - Concert Hall • Chattanooga",
+      "price_label": "$28–$59",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "29",
+      "date_iso": "2026-11-29",
+      "title": "Gabriel Iglesias: The 1976 Tour",
+      "venue_line": "Soldiers and Sailors Memorial Auditorium • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "5",
+      "date_iso": "2026-12-05",
+      "title": "SOLD OUT! Gaither Homecoming Christmas: Bill Gaither & The Gaither Vocal Band - Chattanooga, TN",
+      "venue_line": "Redemption to the Nations • Chattanooga",
+      "price_label": "$48–$89",
       "type_key": "music",
       "type_label": "Music"
     }

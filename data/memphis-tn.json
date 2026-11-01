@@ -1,77 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-10-31T14:57:40.822Z",
+  "updated_at": "2026-11-01T15:42:01.386Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Memphis Grizzlies vs. Sacramento Kings",
-      "venue_line": "FedExForum • Memphis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Memphis Tigers Football vs. Army Black Knights Football",
-      "venue_line": "Simmons Bank Liberty Stadium • Memphis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Mid-South Monarchs vs. Columbus River Dragons",
-      "venue_line": "Landers Center  • Southaven",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Love in the Club - 2000's Hip Hop and R&B Party",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Blac Youngsta Presents: The Sammie Krueger Fest",
-      "venue_line": "Minglewood Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Memphis Hustle vs. Osceola Magic",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Daniel In The Lions' Den Tour",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Memphis Grizzlies vs. Denver Nuggets",
+      "venue_line": "FedExForum • Memphis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Aaron Lewis",
+      "venue_line": "Cannon Center for the Performing Arts • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Medium Build Presents The King of Having Fun on Tour",
+      "venue_line": "Satellite Music Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Memphis Hustle vs. Oklahoma City Blue",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Memphis Hustle vs. Oklahoma City Blue",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

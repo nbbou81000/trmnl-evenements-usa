@@ -1,27 +1,7 @@
 {
   "city_label": "Huntsville, AL",
-  "updated_at": "2026-10-31T14:57:44.486Z",
+  "updated_at": "2026-11-01T15:42:05.168Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Huntsville Havoc Vs. Macon Mayhem",
-      "venue_line": "Von Braun Center Propst Arena • Huntsville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Dark & Scary",
-      "venue_line": "Huntsville Levity Live • Huntsville",
-      "price_label": "$16",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -191,6 +171,26 @@
       "price_label": "$21",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Jonathan Kite",
+      "venue_line": "Huntsville Levity Live • Huntsville",
+      "price_label": "$27",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Caleb Mills",
+      "venue_line": "VBC Mars Music Hall • Huntsville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "FRI",

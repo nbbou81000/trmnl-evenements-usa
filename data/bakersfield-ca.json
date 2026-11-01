@@ -1,17 +1,7 @@
 {
   "city_label": "Bakersfield, CA",
-  "updated_at": "2026-10-31T14:57:54.242Z",
+  "updated_at": "2026-11-01T15:42:14.943Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "MILLIONAIRE$ HALL-O-SCENE plus Whitney Peyton, Blade Trip",
-      "venue_line": "Temblor Brewing Company • Bakersfield",
-      "price_label": "$26–$42",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "Bakersfield Condors vs. Abbotsford Canucks",
+      "venue_line": "Dignity Health Arena • Bakersfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

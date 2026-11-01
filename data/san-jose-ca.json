@@ -1,117 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-10-31T14:57:53.042Z",
+  "updated_at": "2026-11-01T15:42:13.721Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Bluey's Big Play",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "San Jose Sharks vs. Ottawa Senators",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "San Jose State Spartans Football vs. New Mexico Lobos Football",
-      "venue_line": "CEFCU Stadium • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Bluey's Big Play - ASL Performance",
-      "venue_line": "San Jose Center for the Performing Arts • San Jose",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "San Jose Earthquakes vs. Real Salt Lake",
-      "venue_line": "PayPal Park • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Pablo Francisco",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$31–$83",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Jorge Medina - Legendario Tour",
-      "venue_line": "San Jose Civic • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Stu Allen",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "JERRY'S MIDDLE FINGER: HALLOWEEN BALL - Ages 21+",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Halloween Costume Party",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$19–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Moe's Alley Halloween Bash with High Step Society + Floratura",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$30",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Moe's Alley Presents: Parlor Greens w/ The GT's (The Grease Traps Rhythm Section)",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Santa Clara Broncos Mens Basketball vs. Towson Tigers Mens Basketball",
+      "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Stanford Cardinal Mens Basketball vs. Eastern Washington Eagles Mens Basketball",
+      "venue_line": "Maples Pavilion • Stanford",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "San Jose Sharks vs. Calgary Flames",
+      "venue_line": "SAP Center at San Jose • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Psychedelic Furs",
+      "venue_line": "The Guild Theatre - CA • Menlo Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Prince Daddy and The Hyena, Combat, Walter Etc., Friendship Games",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$31–$521",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Los Gaiteros de San Jacinto",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Santa Clara Broncos Mens Basketball vs. UW- Milwaukee Panthers Mens Basketball",
+      "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "PX Floro",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$31–$83",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Strawberry Fuzz",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The Lowtimers w/ Red McAdam + Kentucky Mule",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

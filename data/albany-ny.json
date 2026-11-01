@@ -1,47 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-10-31T14:57:07.746Z",
+  "updated_at": "2026-11-01T15:41:27.595Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Albany Great Danes Football vs. Campbell Fighting Camels Football",
-      "venue_line": "Bob Ford Field Tom & Mary Casey Stadium • Albany",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Union College Garnet Chargers Hockey vs. Rensselaer Polytechnic Engineers Mens Hockey",
-      "venue_line": "M&T Bank Center • Schenectady",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It's A 2000's (Halloween) Party: Albany",
-      "venue_line": "Empire Live • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ally Venable",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -198,6 +158,46 @@
       "date_iso": "2026-11-09",
       "title": "The Rush Tribute Project",
       "venue_line": "Hart Theatre at the Egg • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "The Rush Tribute Project",
+      "venue_line": "Hart Theatre at The Egg • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Andy Grammer - Greater Than Pt. II: A One Man Show",
+      "venue_line": "Troy Savings Bank Music Hall • Troy",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Trey Anastasio",
+      "venue_line": "The Palace Theatre Albany • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "The Rock Orchestra: Arena of Fire",
+      "venue_line": "MVP Arena • Albany",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

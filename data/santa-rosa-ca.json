@@ -1,27 +1,7 @@
 {
   "city_label": "Santa Rosa, CA",
-  "updated_at": "2026-10-31T14:57:55.485Z",
+  "updated_at": "2026-11-01T15:42:16.160Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Teresa Cheung",
-      "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Pride and Joy - Halloween Party (21 and Over)",
-      "venue_line": "HopMonk Tavern - Novato • Novato",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-21",
       "title": "Sharon Cuneta",
       "venue_line": "The Event at Graton Resort & Casino • Rohnert Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Susan Werner",
+      "venue_line": "HopMonk Tavern - Novato • Novato",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "29",
+      "date_iso": "2026-11-29",
+      "title": "Brad Williams",
+      "venue_line": "Luther Burbank Center • Santa Rosa",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

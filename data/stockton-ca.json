@@ -1,17 +1,7 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-10-31T14:57:54.649Z",
+  "updated_at": "2026-11-01T15:42:15.357Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Stockton Thunder vs. Baton Rouge Zydeco",
-      "venue_line": "Adventist Health Arena • Stockton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "20",
+      "date_iso": "2026-12-20",
+      "title": "Friends of the Fox presents: White Christmas",
+      "venue_line": "Bob Hope Theatre • Stockton",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

@@ -1,47 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-10-31T14:57:09.938Z",
+  "updated_at": "2026-11-01T15:41:29.704Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Great Pumpkin Ball: Low Sensory Hour",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "ECLIPSE: A Tribute To Pink Floyd",
-      "venue_line": "Aura • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Great Pumpkin Ball",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "New England Motorsports Classic",
-      "venue_line": "Cross Insurance Arena  • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "CHRIS TOMLIN, TOBYMAC, THIRD DAY",
+      "venue_line": "Cross Insurance Arena  • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "The Rush Tribute Project",
+      "venue_line": "Westbrook Performing Arts Center • Westbrook",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Side Stories",
+      "venue_line": "Aura • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "A Drag Queen Christmas",
+      "venue_line": "Merrill Auditorium • Portland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

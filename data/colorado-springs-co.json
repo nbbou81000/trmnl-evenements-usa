@@ -1,47 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-10-31T14:57:46.117Z",
+  "updated_at": "2026-11-01T15:42:06.760Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Air Force Academy Falcons Football vs. UConn Huskies Football",
-      "venue_line": "Falcon Stadium • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Colorado College Tigers Hockey vs. Minnesota Duluth",
-      "venue_line": "Ed Robson Arena • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Spite, No Cure, Vomit Forth",
-      "venue_line": "Black Sheep • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Colorado Springs Philharmonic presents Edward Scissorhands",
-      "venue_line": "Pikes Peak Center • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -198,6 +158,46 @@
       "date_iso": "2026-11-07",
       "title": "Air Force Academy Falcons Hockey vs. Army Black Knights Hockey",
       "venue_line": "Cadet Ice Arena • USAF Academy",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Slothrust: The Dystopian Theatre Tour",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Slothrust",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Chayce Beckham",
+      "venue_line": "Whiskey Rose • Colorado Springs",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Air Force Academy Falcons Mens Basketball vs. Idaho State Bengals Mens Basketball",
+      "venue_line": "Clune Arena • USAF Academy",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

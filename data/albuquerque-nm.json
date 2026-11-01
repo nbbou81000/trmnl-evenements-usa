@@ -1,47 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-10-31T14:57:48.137Z",
+  "updated_at": "2026-11-01T15:42:08.806Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "New Mexico Goatheads VS Rapid City Rush",
-      "venue_line": "Rio Rancho Events Center • Rio Rancho",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Crazy Train - Americas Ozzy Tribute",
-      "venue_line": "Route 66 Casino • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Rocky Horror Show",
-      "venue_line": "Albuquerque Little Theatre • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It???s A 2000???s (Halloween) Party: Albuquerque - Ages 18+",
-      "venue_line": "Revel Entertainment Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Big Time Boxing Albuquerque",
+      "venue_line": "Kiva Auditorium at the Albuquerque Convention Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "New Mexico Lobos Mens Basketball vs. Northern Arizona Lumberjacks Mens Basketball",
+      "venue_line": "The Pit (University Arena) • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+      "venue_line": "Revel Entertainment Center • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

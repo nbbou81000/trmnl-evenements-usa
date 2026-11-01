@@ -1,67 +1,7 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-10-31T14:57:29.810Z",
+  "updated_at": "2026-11-01T15:41:49.601Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Annie",
-      "venue_line": "Capitol Theater - Overture Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Wisconsin Badgers Hockey vs. Notre Dame Fighting Irish Hockey",
-      "venue_line": "Kohl Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Annie",
-      "venue_line": "Capitol Theater - Overture Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Evan Honer-It's An Even Longer Road Tour",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "HalloWEEN '26",
-      "venue_line": "High Noon Saloon • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Roxxy Wicked Weekends 10/31 ft. NowRitmo",
-      "venue_line": "Roxxy • Madison",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -197,6 +137,66 @@
       "day_number": "5",
       "date_iso": "2026-11-05",
       "title": "Wisconsin Badgers Womens Basketball vs. Oakland Golden Grizzlies Womens Basketball",
+      "venue_line": "Kohl Center • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Wisconsin Badgers Womens Volleyball vs. Michigan State Spartans Womens Volleyball",
+      "venue_line": "UW Field House • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Andrea Gibson's Love Letter From The Afterlife",
+      "venue_line": "Barrymore Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
+      "venue_line": "Orpheum Theater • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Die Spitz",
+      "venue_line": "Majestic Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Bends",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Wisconsin Badgers Mens Basketball vs. Delaware Blue Hens Mens Basketball",
       "venue_line": "Kohl Center • Madison",
       "price_label": "Price not available",
       "type_key": "sports",

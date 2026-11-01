@@ -1,37 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-10-31T14:57:42.865Z",
+  "updated_at": "2026-11-01T15:42:03.492Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "I -10 Bound Band Halloween Party",
-      "venue_line": "Southern Rhythm Venue & Entertainment • Denham Springs",
-      "price_label": "$0–$64",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Safe Sex Worldwide Halloween with Bandeaux Pat, K Strikez and Love Yourself",
-      "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$48",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Chee Weez & The Chase Tyler Band Monster Mash-Up",
-      "venue_line": "Texas Club • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +171,36 @@
       "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "LSU Tigers Womens Basketball vs. Denver Pioneers Womens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Tracy Lawrence w/ Parish County Line & Caiden Wallace",
+      "venue_line": "Texas Club • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Southern University Football",
+      "venue_line": "A.W. Mumford Stadium - Southern University • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,97 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-10-31T14:57:28.554Z",
+  "updated_at": "2026-11-01T15:41:48.383Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Kim's Convenience",
-      "venue_line": "Indiana Repertory Theatre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
-      "venue_line": "Lucas Oil Stadium • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "VIP Soundcheck Party - The Living Tombstone - Not a Concert Ticket**",
-      "venue_line": "Old National Centre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Living Tombstone - The Multiplayer Tour",
-      "venue_line": "Old National Centre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Longest Johns",
-      "venue_line": "The Vogue • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "gavn!",
-      "venue_line": "Turntable • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "gavn! (18+ Event)",
-      "venue_line": "Turntable • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Longest Johns (21+ Event)",
-      "venue_line": "Vogue Theatre - IN • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It's A 2000's (Halloween) Party: Indianapolis",
-      "venue_line": "Old National Centre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Grateful Shred",
+      "venue_line": "Turntable • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Indy Fuel Vs Cincinnati Cyclones",
+      "venue_line": "Fishers Event Center • Fishers",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "2026 Noblesville Boom Open Scrimmage",
+      "venue_line": "Riverview Health Arena at Innovation Mile • Noblesville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Three Days Grace - Alienation Tour ",
+      "venue_line": "Gainbridge Fieldhouse • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Butler Bulldogs Men's Basketball vs. Fairleigh Dickinson Men's Basketball",
+      "venue_line": "Hinkle Fieldhouse • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Hunxho's \"2night Only\" Tour",
+      "venue_line": "Old National Centre • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Maddie Zahm",
+      "venue_line": "HI-FI Indy and HI-FI Annex • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "IU Indianapolis Jaguars Women's Basketball vs. SIUE",
+      "venue_line": "James T. Morris Arena • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

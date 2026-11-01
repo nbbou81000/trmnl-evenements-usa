@@ -1,107 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-10-31T14:57:12.014Z",
+  "updated_at": "2026-11-01T15:41:31.763Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lehigh Mountain Hawks Football vs. Bucknell Bison Football",
-      "venue_line": "Goodman Stadium • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lafayette College Leopards Football vs. Villanova Wildcats Football",
-      "venue_line": "Fisher Stadium • Easton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Haunted Illusions",
-      "venue_line": "State Theatre- Easton • Easton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "SAVING ABLE PERFORMING ON ARTIES BAR AND GRILL HALLOWEEN NIGHT BASH AN",
-      "venue_line": "Artie's Bar and Grill • Frenchtown",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Peter Scavello Performing with Saving Able On Arties Bar and Grill Hal",
-      "venue_line": "Artie's Bar and Grill • Frenchtown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "The Phoenix Within Performing with Saving Able On Arties Bar and Grill",
-      "venue_line": "Artie's Bar and Grill • Frenchtown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Odd Men Out Performing with Saving Able On the Arties Bar and Grill Ha",
-      "venue_line": "Artie's Bar and Grill • Frenchtown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Who On Earth Performing with Saving Able On the Arties Bar and Grill H",
-      "venue_line": "Artie's Bar and Grill • Frenchtown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It's A 2000's (Halloween) Party: Allentown",
-      "venue_line": "Archer Music Hall • Allentown",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "BLADE RAVE - 21+",
-      "venue_line": "Arrow • Allentown",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Best of Steve Martin & Martin Short",
+      "venue_line": "The Wind Creek Event Center • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Lehigh Mountain Hawks Football vs. Colgate University Raiders Football",
+      "venue_line": "Goodman Stadium • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "In Her Own Words x Every Avenue",
+      "venue_line": "Arrow • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Adam Ray: WHO IS ME Tour",
+      "venue_line": "The Wind Creek Event Center • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Hollywood Nights",
+      "venue_line": "Penn's Peak • Jim Thorpe",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Dead Poet Society x Honey Revenge",
+      "venue_line": "Archer Music Hall • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "The Maine",
+      "venue_line": "Archer Music Hall • Allentown",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "The Record Company - Give It Back To You 10th Anniversary Tour",
+      "venue_line": "Musikfest Cafe • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Jingle Jam",
+      "venue_line": "State Theatre- Easton • Easton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Aries Spears",
+      "venue_line": "The Wind Creek Event Center • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

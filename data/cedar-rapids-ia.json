@@ -1,27 +1,7 @@
 {
   "city_label": "Cedar Rapids, IA",
-  "updated_at": "2026-10-31T14:57:33.098Z",
+  "updated_at": "2026-11-01T15:41:52.898Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Iowa Hawkeyes Football vs. Wisconsin Badgers Football",
-      "venue_line": "Kinnick Stadium • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Heads In Motion - Talking Heads Tribute",
-      "venue_line": "The Englert Theatre • Iowa City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-21",
       "title": "NJCAA DII Women's Volleyball Championships",
       "venue_line": "Alliant Energy PowerHouse • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Cedar Rapids Roughriders vs. Sioux City Musketeers",
+      "venue_line": "IMON Ice • Cedar Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Iowa Hawkeyes Football vs. Nebraska Cornhuskers Football",
+      "venue_line": "Kinnick Stadium • Iowa City",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

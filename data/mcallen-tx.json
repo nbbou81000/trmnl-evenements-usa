@@ -1,27 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-10-31T14:57:38.366Z",
+  "updated_at": "2026-11-01T15:41:58.380Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Disney On Ice: Magic in the Stars",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Disney On Ice: Magic in the Stars",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Rio Grande Valley Vipers vs. Laketown Squadron",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Mike Salazar",
+      "venue_line": "McAllen Performing Arts Center • McAllen",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

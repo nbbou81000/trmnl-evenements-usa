@@ -1,61 +1,31 @@
 {
   "city_label": "Los Angeles, CA",
-  "updated_at": "2026-10-31T14:57:51.671Z",
+  "updated_at": "2026-11-01T15:42:12.444Z",
   "events": [
     {
-      "day_label": "FRI",
-      "day_number": "30",
-      "date_iso": "2026-10-30",
-      "title": "Emo Nite",
-      "venue_line": "Avalon Hollywood • Hollywood",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "SoFi Stadium Tours",
-      "venue_line": "SoFi Stadium Tours • Inglewood",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Los Angeles Rams VIP Tailgate",
+      "venue_line": "Hollywood Park Casino • Inglewood",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
-      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Seabiscuit Tram Tour",
+      "venue_line": "Santa Anita Park • Arcadia",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Pepperdine Waves Womens Soccer vs. San Diego Toreros Womens Soccer",
-      "venue_line": "Tari Frahm Rokus Field • Malibu",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
-      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Pumpkin Path & Fall Fun Fest",
       "venue_line": "Santa Anita Park • Arcadia",
       "price_label": "Price not available",
@@ -63,19 +33,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Breeders' Cup Day in FrontRunner",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "The Music Man",
       "venue_line": "Ahmanson Theatre • Los Angeles",
       "price_label": "Price not available",
@@ -83,39 +43,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Los Angeles Kings vs. Buffalo Sabres",
-      "venue_line": "Crypto.com Arena • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Live Racing at Santa Anita Park",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "UCLA Bruins Football vs. Nevada Wolfpack Football",
-      "venue_line": "Rose Bowl • Pasadena",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "The Who's Tommy (Touring)",
       "venue_line": "Hollywood Pantages Theatre • Los Angeles",
       "price_label": "Price not available",
@@ -123,9 +53,69 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Live Racing at Santa Anita Park",
+      "venue_line": "Santa Anita Park • Arcadia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Rocky Horror Drag Brunch",
+      "venue_line": "Brea Improv • Brea",
+      "price_label": "$31–$102",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Los Angeles Rams vs. Los Angeles Chargers",
+      "venue_line": "SoFi Stadium • Inglewood",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "La Mirada Theatre presents: Dear Evan Hansen",
+      "venue_line": "La Mirada Theatre for the Performing Arts • La Mirada",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "USC Trojans Womens Volleyball vs. Minnesota Gophers Womens Volleyball",
+      "venue_line": "Galen Center • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "UCLA Bruins Womens Volleyball vs. Wisconsin Badgers Womens Volleyball",
+      "venue_line": "Pauley Pavilion-UCLA • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
       "title": "Come from Away (Touring)",
       "venue_line": "A Noise Within • Pasadena",
       "price_label": "Price not available",
@@ -133,74 +123,84 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Los Angeles Galaxy vs. Austin FC",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Angel City FC vs. Boston Legacy FC",
       "venue_line": "Dignity Health Sports Park • Carson",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Drag Show: “Saturday Drag Brunch” at Hamburger Mary's West Hollywood",
-      "venue_line": "Hamburger Mary's - West Hollywood • West Hollywood",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "USC Trojans Football vs. Ohio State Football",
-      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Los Angeles Football Club vs. Minnesota United FC",
+      "venue_line": "BMO Stadium • Los Angeles",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Coal Chamber",
-      "venue_line": "House of Blues Anaheim • Anaheim",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Los Angeles Lakers vs. Toronto Raptors: Luka Doncic Bobblehead",
+      "venue_line": "Crypto.com Arena • Los Angeles",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Larry La La's Halloween Comedy Show (Show 1)",
-      "venue_line": "The Stand Up Comedy Club • Bellflower",
-      "price_label": "$52–$264",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Masood Boomgaard",
+      "venue_line": "Brea Improv • Brea",
+      "price_label": "$31–$102",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "HAHALLOWEEN: Tiffany Haddish, Nate Jackson, Faizon Love, Carl-Anthony Payne & More",
-      "venue_line": "Brea Improv • Brea",
-      "price_label": "$68",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "California Dream On: Aerosmith & Friends",
+      "venue_line": "Hollywood Bowl • Hollywood",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "Gully Boys w/ Pollyanna & Julez and the Rollerz",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "The Who's Tommy (Touring)",
+      "venue_line": "Hollywood Pantages Theatre • Los Angeles",
+      "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Marilyn Manson: Live in Los Angeles",
-      "venue_line": "The Wiltern • Los Angeles",
+      "day_label": "SUN",
+      "day_number": "1",
+      "date_iso": "2026-11-01",
+      "title": "The Music Man",
+      "venue_line": "Ahmanson Theatre • Los Angeles",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

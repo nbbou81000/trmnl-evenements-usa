@@ -1,57 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-10-31T14:57:25.102Z",
+  "updated_at": "2026-11-01T15:41:44.931Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Tim Burton's The Nightmare Before Christmas: In Concert Live to Film",
-      "venue_line": "DeVos Performance Hall • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Danger Dear with 50 Waves Of Grey",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "SOLD OUT: Twerk or Treat 4 ft. DJ Omega Supreme + DJ Composition + Deeechild + DJ Jodi Dro",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Draft Disko - Ages 21+",
-      "venue_line": "Intersection - Elevation • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -199,6 +149,56 @@
       "title": "Gridiron",
       "venue_line": "Four Star Theatre • Grand Rapids",
       "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Grand Rapids Griffins vs. Milwaukee Admirals",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Pigeons Playing Ping Pong w/ Dizgo",
+      "venue_line": "Intersection - Elevation • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Blitzkid: Modern Hel Tour + EPCYA + RTNR + The Burdens",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$27–$73",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Midori Plays Shostakovich - Grand Rapids Symphony",
+      "venue_line": "DeVos Performance Hall • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "North By North with Saint Maybe, Quilter, Wilson Ave, Low Light",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$12",
       "type_key": "music",
       "type_label": "Music"
     }

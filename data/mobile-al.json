@@ -1,27 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-10-31T14:57:45.244Z",
+  "updated_at": "2026-11-01T15:42:05.950Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Jacob Brock and His Night Mares",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "THE EMO SOCIETY    ",
-      "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -68,7 +48,7 @@
       "date_iso": "2026-11-04",
       "title": "The Brook & The Bluff",
       "venue_line": "Soul Kitchen • Mobile",
-      "price_label": "$36–$166",
+      "price_label": "$36–$73",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +181,26 @@
       "price_label": "$39",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Stagner's Showcase feat. Justin Stagner & Friends",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$14–$50",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Justin Moore Live In Concert",
+      "venue_line": "Saenger Theatre Mobile • Mobile",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

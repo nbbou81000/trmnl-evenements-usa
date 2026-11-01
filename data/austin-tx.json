@@ -1,117 +1,7 @@
 {
   "city_label": "Austin, TX",
-  "updated_at": "2026-10-31T14:57:36.418Z",
+  "updated_at": "2026-11-01T15:41:56.165Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Hocus Pocus Drag Brunch",
-      "venue_line": "Cap City Comedy Club • Austin",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Freaky Deaky 2026 - Saturday 18+",
-      "venue_line": "Travis County Expo Center • Austin",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Texas Longhorns Football vs. Mississippi State Bulldogs Football",
-      "venue_line": "Darrell K Royal - Memorial Stadium • Austin",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Mr. Fantasy - Sexy Saturday Nights Tour",
-      "venue_line": "Scoot Inn • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Craig Robinson",
-      "venue_line": "Cap City Comedy Club • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "2026 U.S. Hockey Hall of Fame Game",
-      "venue_line": "H-E-B Center at Cedar Park • Cedar Park",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Kennedy Ryon: The Can We Evolve? Tour",
-      "venue_line": "Antone's Nightclub • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Madeon",
-      "venue_line": "Austin City Limits Live at The Moody Theater • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ghostland Observatory (Under 17 with guardian)",
-      "venue_line": "Buck's Backyard • Buda",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Craig Robinson",
-      "venue_line": "Cap City Comedy Club • Austin",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Four Tet (21 and Over)",
-      "venue_line": "The Concourse Project • Austin",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Doja Cat - Tour Ma Vie World Tour",
+      "venue_line": "Moody Center ATX • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "All Get Out",
+      "venue_line": "3TEN ACL Live • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Texas Longhorns Womens Basketball vs. Fairleigh Dickinson Knights Womens Basketball",
+      "venue_line": "Moody Center ATX • Austin",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Adelitas Way",
+      "venue_line": "Come and Take It Live • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Slow Pulp",
+      "venue_line": "Emo's Austin • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "A Beautiful Noise (Touring)",
+      "venue_line": "Bass Concert Hall • Austin",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Jimbo the Drag Clown",
+      "venue_line": "Cap City Comedy Club • Austin",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "An Evening with Shadowgrass",
+      "venue_line": "Antone's Nightclub • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Stephen Day",
+      "venue_line": "3TEN ACL Live • Austin",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "That Arena Rock Show - 17 & Under admitted with a parent or guardian ONLY",
+      "venue_line": "Haute Spot Event Venue • Cedar Park",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Texas Longhorns Mens Basketball vs. Gardner Webb Bulldogs Mens Basketball",
+      "venue_line": "Moody Center ATX • Austin",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

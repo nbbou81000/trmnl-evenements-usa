@@ -1,97 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-10-31T14:57:16.319Z",
+  "updated_at": "2026-11-01T15:41:36.052Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Charlotte FC vs. Orlando City SC",
-      "venue_line": "Bank of America Stadium • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Jackiem Joyner",
-      "venue_line": "Middle C Jazz • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Charlotte Hornets vs. Philadelphia 76ers",
-      "venue_line": "Spectrum Center • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
-      "venue_line": "The Underground • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Sammy Rae & The Friends with special guest Melt",
-      "venue_line": "The Fillmore Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Jackiem Joyner",
-      "venue_line": "Middle C Jazz • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Blue Monday Band",
-      "venue_line": "Amos Southend • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "sCarrie Prom: Celebrating the 50th Anniversary of Carrie",
-      "venue_line": "The Carolina • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Ray Volpe (18+ Event)",
-      "venue_line": "Blackbox Theater - Charlotte • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "ZAUNTEE: God Remembers Tour",
+      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "World Of Outlaws World Finals",
+      "venue_line": "Charlotte Motor Speedway • Concord",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
+      "venue_line": "The Fillmore Charlotte • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Victoria Monét-MOVED TO OVENS AUDITORIUM",
+      "venue_line": "Skyla Credit Union Amphitheatre • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Tab Benoit: Soul of the Swamp Tour",
+      "venue_line": "Neighborhood Theatre Main Room • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Victoria Monét - Frequency Of Love Tour",
+      "venue_line": "Ovens Auditorium • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "World of Outlaws World Finals",
+      "venue_line": "Charlotte Motor Speedway • Concord",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Charlotte Hornets vs. Boston Celtics(Emirates NBA Cup Group Game)",
+      "venue_line": "Spectrum Center • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Diva Royale Drag Queen Show (18+ Event)",
+      "venue_line": "The Scorpio • Charlotte",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

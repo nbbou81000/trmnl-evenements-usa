@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-10-31T14:57:28.973Z",
+  "updated_at": "2026-11-01T15:41:48.786Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Fort Wayne Komets vs. Toledo Walleye",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Fort Wayne Komets vs. Toledo Walleye",
-      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Charlie Berens: The Lost and Found Tour",
+      "venue_line": "Embassy Theatre • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "Fort Wayne Komets vs. Bloomington Bison",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

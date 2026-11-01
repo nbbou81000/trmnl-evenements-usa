@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-10-31T14:57:58.319Z",
+  "updated_at": "2026-11-01T15:42:18.949Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Oregon Ducks Football vs. Northwestern Wildcats Football",
-      "venue_line": "Autzen Stadium • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Witches Ball 2026",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -199,6 +179,26 @@
       "title": "Johnny Franco",
       "venue_line": "WOW Hall • Eugene",
       "price_label": "$17",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Oregon Ducks Football vs. University of Michigan Wolverines Football",
+      "venue_line": "Autzen Stadium • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Cantrip",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$31",
       "type_key": "music",
       "type_label": "Music"
     }

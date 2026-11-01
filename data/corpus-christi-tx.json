@@ -1,17 +1,7 @@
 {
   "city_label": "Corpus Christi, TX",
-  "updated_at": "2026-10-31T14:57:37.214Z",
+  "updated_at": "2026-11-01T15:41:57.013Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Corpus Christi IceRays vs. Lonestar Brahmas",
-      "venue_line": "Hilliard Center Arena • Corpus Christi",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -91,6 +81,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "TYFA -Tx. Youth Cheer & Dance State Competition",
+      "venue_line": "Hilliard Center Arena • Corpus Christi",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "TUE",

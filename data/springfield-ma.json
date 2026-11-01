@@ -1,37 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-10-31T14:57:13.705Z",
+  "updated_at": "2026-11-01T15:41:33.438Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Dracula",
-      "venue_line": "Hartford Stage • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "ROAR! Comedy: Splou",
-      "venue_line": "The Armory at MGM Springfield • Springfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Leenalchi",
-      "venue_line": "The Drake - Amherst • Amherst",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -196,6 +166,36 @@
       "day_label": "WED",
       "day_number": "11",
       "date_iso": "2026-11-11",
+      "title": "BOOP! The Musical (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Pokey LaFarge w/ Cicada Rhythm",
+      "venue_line": "The Drake - Amherst • Amherst",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Peter Wolf and the Midnight Travelers",
+      "venue_line": "Academy of Music Theatre - MA • Northampton",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
       "title": "BOOP! The Musical (Touring)",
       "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
       "price_label": "Price not available",

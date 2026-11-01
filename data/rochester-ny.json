@@ -1,27 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-10-31T14:57:06.934Z",
+  "updated_at": "2026-11-01T15:41:26.773Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lil Baby: Upstate Fest Feat. Fetty Wap, Key Glock, Boosie, & KenTheMan",
-      "venue_line": "Blue Cross Arena • Rochester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "HALLOWEEN at BUG JAR ft. Tabby / Bad Bloom / Riverbed / The Salinas",
-      "venue_line": "The Bug Jar • Rochester",
-      "price_label": "$12–$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "The Rush Tribute Project",
+      "venue_line": "Kodak Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "WBEE's Guitars & Stars",
+      "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

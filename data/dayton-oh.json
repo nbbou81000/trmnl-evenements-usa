@@ -1,17 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-10-31T14:57:27.992Z",
+  "updated_at": "2026-11-01T15:41:47.964Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Gary Allan",
-      "venue_line": "Hobart Arena • Troy",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Dayton Philharmonic Orchestra presents Barber???s Cello Concerto",
+      "venue_line": "Schuster PAC • Dayton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

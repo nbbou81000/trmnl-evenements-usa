@@ -1,67 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-10-31T14:57:17.558Z",
+  "updated_at": "2026-11-01T15:41:37.379Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "North Carolina A & T Aggies Football vs. Elon University Phoenix Football",
-      "venue_line": "Truist Stadium • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Prelude Dining - Lucy Darling",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Lucy Darling: Halloween Spooktacular",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "5:30PM Pre-Show Talkback with Carisa Hendrix",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Premium Lounge - Lucy Darling",
-      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "NCA&T Homecoming Concert",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Gwar w/ Midnight - Band",
+      "venue_line": "The Ramkat • Winston Salem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Four Seasons Reimagined",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "BOOTS & REGGAETON FT FREDY FRESCO",
+      "venue_line": "The Grand GSO • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Simone Porter",
+      "venue_line": "Theatre at Well-Spring • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "TOBYMAC, THIRD DAY, CHRIS TOMLIN",
+      "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Rick Steves' Europe: A Symphonic Journey",
+      "venue_line": "Steven Tanger Center for the Performing Arts • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

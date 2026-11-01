@@ -1,37 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-10-31T14:57:57.125Z",
+  "updated_at": "2026-11-01T15:42:17.751Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Halloween Trick Or Trade market (Vendor link )",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$67–$314",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Trick Or Trade",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Emo Nightmare",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$24–$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -199,6 +169,36 @@
       "title": "FREE SHOW: HIP-HOP AND R&B NIGHT WITH DJ TURKEYLEG & DJ WABBIT",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "NOCHE DE GÓTICOS: VAMPIRES VS GOTHS",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "FREE SHOW: XOM / OVERBITE / LASHFUL / DERIT",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "28",
+      "date_iso": "2026-11-28",
+      "title": "CUMBIA VS. REGGAETON WITH DJ BOOTLEG",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$11",
       "type_key": "music",
       "type_label": "Music"
     }

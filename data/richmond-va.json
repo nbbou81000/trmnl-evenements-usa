@@ -1,67 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-10-31T14:57:14.959Z",
+  "updated_at": "2026-11-01T15:41:34.757Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Halloween Spooktacular",
-      "venue_line": "Carpenter Theatre at Dominion Energy Center • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Black Kray w/ Smokedope2016",
-      "venue_line": "The National • Richmond",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Funny Marco",
-      "venue_line": "Funny Bone Comedy Club - Richmond • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Thriller Night w/ Andrew Hypes - Richmond???s Biggest Halloween Party 2026 - Ages 21+",
-      "venue_line": "Uptown Alley Richmond • Midlothian",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Funny Marco",
-      "venue_line": "Funny Bone Comedy Club - Richmond • Richmond",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Halloween Night: Hip Hop vs Reggae",
-      "venue_line": "Ember Music Hall • Richmond",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +141,66 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Virginia State Football Season Pass",
+      "venue_line": "ROGERS STADIUM • Petersburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Virginia State Football vs Virginia Union University",
+      "venue_line": "ROGERS STADIUM • Petersburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "The Notebook (Touring)",
+      "venue_line": "Altria Theater • Richmond",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Red Not Chili Peppers",
+      "venue_line": "Ember Music Hall • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "SOLD OUT! Making Peace with What I Can't Control Tour with Lysa TerKeurst and Tasha Layton - Mechanicsville, VA",
+      "venue_line": "Atlee Church • Mechanicsville",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "The Notebook (Touring)",
+      "venue_line": "Altria Theater • Richmond",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

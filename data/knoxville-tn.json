@@ -1,27 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-10-31T14:57:41.654Z",
+  "updated_at": "2026-11-01T15:42:02.287Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Mannequin Pussy",
-      "venue_line": "Bijou Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Bear Grillz",
-      "venue_line": "The 808 • Knoxville",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -78,7 +58,7 @@
       "date_iso": "2026-11-03",
       "title": "Yung Gravy: The Joyrider Tour",
       "venue_line": "The Mill & Mine • Knoxville",
-      "price_label": "$43–$79",
+      "price_label": "$43",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -196,6 +176,26 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
+      "title": "Clyde's (CBT)",
+      "venue_line": "The Jenny Boyd Theatre • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Tennessee Volunteers Volleyball vs. University of Alabama Crimson Tide Volleyball",
+      "venue_line": "Food City Center • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
       "title": "Clyde's (CBT)",
       "venue_line": "The Jenny Boyd Theatre • Knoxville",
       "price_label": "Price not available",

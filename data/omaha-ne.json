@@ -1,117 +1,7 @@
 {
   "city_label": "Omaha, NE",
-  "updated_at": "2026-10-31T14:57:31.864Z",
+  "updated_at": "2026-11-01T15:41:51.708Z",
   "events": [
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Death Becomes Her (Touring)",
-      "venue_line": "Orpheum Theater - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Omaha Men's Soccer vs. Kansas City",
-      "venue_line": "Caniglia Field • Omaha",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Death Becomes Her (Touring)",
-      "venue_line": "Orpheum Theater - Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Omaha Lancers vs. Lincoln Stars",
-      "venue_line": "Liberty First Credit Union Arena • Ralston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Donny Benet w/ OTNES",
-      "venue_line": "Slowdown • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Fool House | Official Caesars Ticket + Hotel Packages",
-      "venue_line": "Whiskey Roadhouse-Horseshoe Council Bluffs Casino • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Fool House - The Ultimate 90's Party: Wow! That's What I Call 90's",
-      "venue_line": "Whiskey Roadhouse-Horseshoe Council Bluffs Casino • Council Bluffs",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Daughtry - 20 Years Unplugged Tour",
-      "venue_line": "The Astro Theater • La Vista",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "It's A 2000's (Halloween) Party - 21+",
-      "venue_line": "Steelhouse Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Pre-Show Happy Hour: It's A 2000's (Halloween) Party - Not A Ticket*",
-      "venue_line": "Steelhouse Omaha • Omaha",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "31",
-      "date_iso": "2026-10-31",
-      "title": "Emo Nite (18 and Over)",
-      "venue_line": "The Waiting Room - NE • Omaha",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SUN",
       "day_number": "1",
@@ -201,6 +91,116 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Stewart Copeland",
+      "venue_line": "The Admiral-NE • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Pork Tornadoes",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Quiet Riot | Official Caesars Ticket + Hotel Packages",
+      "venue_line": "Whiskey Roadhouse-Horseshoe Council Bluffs Casino • Council Bluffs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Quiet Riot",
+      "venue_line": "Whiskey Roadhouse-Horseshoe Council Bluffs Casino • Council Bluffs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Marlon Wayans",
+      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Marlon Wayans",
+      "venue_line": "Funny Bone Comedy Club - Omaha • Omaha",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Omaha Hockey v St. Cloud State",
+      "venue_line": "Baxter Arena • Omaha",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Crowder LIVE!",
+      "venue_line": "Bellevue Christian Center • Bellevue",
+      "price_label": "$35–$104",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Everclear - Lucky 7 Tour",
+      "venue_line": "The Astro Theater • La Vista",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Kat Hasty",
+      "venue_line": "Slowdown • Omaha",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "THE WAR AND TREATY",
+      "venue_line": "Barnato • Omaha",
+      "price_label": "$44–$88",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
