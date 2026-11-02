@@ -1,17 +1,7 @@
 {
   "city_label": "Virginia Beach, VA",
-  "updated_at": "2026-11-01T15:41:35.189Z",
+  "updated_at": "2026-11-02T19:02:40.092Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Choir! Choir! Choir!: Landslide: An Epic Fleetwood Mac Singalong!",
-      "venue_line": "Attucks Theatre • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Clutch w/ Slomosa",
       "venue_line": "The Norva • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Drake & Future Night Virginia Beach: All-Night Dance Party (21+)",
+      "venue_line": "Elevation 27 • Virginia Beach",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

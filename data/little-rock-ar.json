@@ -1,37 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-11-01T15:42:00.928Z",
+  "updated_at": "2026-11-02T19:03:06.423Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Beetlejuice (Touring)",
-      "venue_line": "Robinson Center • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "The Brook & The Bluff - The Werewolf Tour",
-      "venue_line": "The Hall • Little Rock",
-      "price_label": "$25–$154",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Simmons Bank Championship: Sunday Admission",
-      "venue_line": "Pleasant Valley Country Club • Little Rock",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "MOJO BROOKZZ: OUTTA POCKET TOUR",
+      "venue_line": "Robinson Center • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "30",
+      "date_iso": "2026-11-30",
+      "title": "WWE Monday Night RAW",
+      "venue_line": "Simmons Bank Arena • North Little Rock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "1",
+      "date_iso": "2026-12-01",
+      "title": "Jodeci - 35th Anniversary Tour of Forever My Lady",
+      "venue_line": "Simmons Bank Arena • North Little Rock",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

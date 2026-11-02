@@ -1,27 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-11-01T15:41:38.237Z",
+  "updated_at": "2026-11-02T19:02:43.251Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "South Carolina Stingrays vs. Atlanta Gladiators",
-      "venue_line": "North Charleston Coliseum • North Charleston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,7 +178,27 @@
       "date_iso": "2026-11-08",
       "title": "JUDAH AND THE LION",
       "venue_line": "The Refinery • Charleston",
-      "price_label": "$47–$243",
+      "price_label": "$47–$63",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Tab Benoit - Soul of the Swamp Tour",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "I’ve Got A Fire Tour with Pat Barrett - Ballwin, MO",
+      "venue_line": "First Free Church • Ballwin",
+      "price_label": "$28–$86",
       "type_key": "music",
       "type_label": "Music"
     }

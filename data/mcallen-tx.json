@@ -1,37 +1,7 @@
 {
   "city_label": "McAllen, TX",
-  "updated_at": "2026-11-01T15:41:58.380Z",
+  "updated_at": "2026-11-02T19:03:04.292Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Disney On Ice: Magic in the Stars",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Disney On Ice: Magic in the Stars",
-      "venue_line": "Bert Ogden Arena • Edinburg",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Black Flag - The Box Theater",
-      "venue_line": "Payne Arena • Hidalgo",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -176,6 +146,16 @@
       "day_label": "THU",
       "day_number": "19",
       "date_iso": "2026-11-19",
+      "title": "Sound of Julie - A Tribute to Julie Andrews & Friends",
+      "venue_line": "McAllen Performing Arts Center • McAllen",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
       "title": "Pedro Fernández - Ave Fénix Two'r",
       "venue_line": "Payne Arena • Hidalgo",
       "price_label": "Price not available",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Tito Double P - Palenque Hidalgo",
+      "venue_line": "Payne Arena • Hidalgo",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Rio Grande Valley Vipers vs. Laketown Squadron",
+      "venue_line": "Bert Ogden Arena • Edinburg",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

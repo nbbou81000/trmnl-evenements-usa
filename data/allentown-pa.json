@@ -1,27 +1,7 @@
 {
   "city_label": "Allentown, PA",
-  "updated_at": "2026-11-01T15:41:31.763Z",
+  "updated_at": "2026-11-02T19:02:36.451Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Lehigh Valley Phantoms v Providence Bruins",
-      "venue_line": "PPL Center • Allentown",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Alice Cooper - Alice's Attic Tour",
-      "venue_line": "The Wind Creek Event Center • Bethlehem",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-12",
       "title": "Aries Spears",
       "venue_line": "The Wind Creek Event Center • Bethlehem",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Pete Correale",
+      "venue_line": "Archer Music Hall • Allentown",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "WXPN Land of the Lost Dance Party + Live Broadcast",
+      "venue_line": "Arrow • Allentown",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

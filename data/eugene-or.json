@@ -1,17 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-11-01T15:42:18.949Z",
+  "updated_at": "2026-11-02T19:03:25.314Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Oregon Ducks Volleyball vs. University of Iowa Volleyball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "$31",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Oregon Ducks Men's Basketball vs. Pepperdine Waves",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

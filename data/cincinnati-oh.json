@@ -1,73 +1,13 @@
 {
   "city_label": "Cincinnati, OH",
-  "updated_at": "2026-11-01T15:41:46.602Z",
+  "updated_at": "2026-11-02T19:02:52.069Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Cincinnati Bengals vs. Tennessee Titans",
-      "venue_line": "Paycor Stadium • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Cincinnati Bearcats Women's Volleyball vs. West Virginia University Volleyball",
-      "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Teddy Thompson",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "An Evening with Teddy Thompson",
-      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
-      "price_label": "$26",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Authority Zero, The Raging Nathans, Get Wrecked , Sleepy Drums",
-      "venue_line": "The Southgate House Revival - Revival Room • Newport",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
       "date_iso": "2026-11-02",
       "title": "Northern Kentucky Norse Womens Basketball vs. Defiance Yellow Jackets",
       "venue_line": "Truist Arena • Highland Heights",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Xavier Musketeers Mens Basketball vs. Mount St. Mary's Mountaineers Mens Basketball",
-      "venue_line": "Cintas Center • Cincinnati",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -88,6 +28,16 @@
       "date_iso": "2026-11-02",
       "title": "Cincinnati Bearcats Mens Basketball vs. American University Eagles Mens Basketball",
       "venue_line": "Fifth Third Arena At Shoemaker Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Xavier Musketeers Mens Basketball vs. Mount St. Mary's Mountaineers Mens Basketball",
+      "venue_line": "Cintas Center • Cincinnati",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -199,6 +149,56 @@
       "title": "The Maine w/ In Color",
       "venue_line": "MegaCorp Pavilion • Newport",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Satsang “Elohim Tour 2026\" w/ Brian Ernst",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$38–$120",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Cyclones v. Fuel | Pride Night - Shutout the Hate",
+      "venue_line": "Heritage Bank Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Xavier Musketeers Mens Basketball vs. Eastern Michigan Eagles Mens Basketball",
+      "venue_line": "Cintas Center • Cincinnati",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sam Shackleton, Gabrielle Hope ",
+      "venue_line": "The Southgate House Revival - Revival Room • Newport",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Bill Taylor & The Appalachian Heathens with Blake Branscom and Sam Lewis",
+      "venue_line": "The Southgate House Revival - Sanctuary • Newport",
+      "price_label": "$27",
       "type_key": "music",
       "type_label": "Music"
     }

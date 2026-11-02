@@ -1,37 +1,7 @@
 {
   "city_label": "Harrisburg, PA",
-  "updated_at": "2026-11-01T15:41:32.207Z",
+  "updated_at": "2026-11-02T19:02:36.991Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Clue",
-      "venue_line": "Hershey Theatre • Hershey",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Hershey Bears vs. Wilkes Barre Scranton Penguins -Hockey Fights Cancer",
-      "venue_line": "GIANT Center • Hershey",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Clue",
-      "venue_line": "Hershey Theatre • Hershey",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Hershey Bears vs. Hamilton Hammers - Hometown Heroes",
+      "venue_line": "GIANT Center • Hershey",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Dr. Seuss' How The Grinch Stole Christmas! The Musical",
+      "venue_line": "Hershey Theatre • Hershey",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Havok",
+      "venue_line": "Capital City Music Hall • Harrisburg",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

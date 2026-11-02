@@ -1,17 +1,7 @@
 {
   "city_label": "Winston-Salem, NC",
-  "updated_at": "2026-11-01T15:41:37.810Z",
+  "updated_at": "2026-11-02T19:02:42.790Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Greensboro Gargoyles vs Norfolk Admirals - Sunday Funday",
-      "venue_line": "First Horizon Coliseum • Greensboro",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Twin City Thunderbirds Vs Watertown Wolves",
+      "venue_line": "Winston-Salem Fairgrounds • Winston Salem",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-11-01T15:41:38.652Z",
+  "updated_at": "2026-11-02T19:02:43.685Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Prof",
-      "venue_line": "The Senate • Columbia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -197,6 +187,16 @@
       "day_number": "17",
       "date_iso": "2026-11-17",
       "title": "University of South Carolina Gamecocks Women's Basketball vs. Florida Gulf Coast University Womens Basketball",
+      "venue_line": "Colonial Life Arena • Columbia",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "University of South Carolina Gamecocks Mens Basketball vs. Elon Phoenix Men's Basketball",
       "venue_line": "Colonial Life Arena • Columbia",
       "price_label": "Price not available",
       "type_key": "sports",

@@ -1,27 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-11-01T15:42:14.542Z",
+  "updated_at": "2026-11-02T19:03:20.580Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "MILLIONAIRE$ HALL-O-SCENE plus Solely Veil, Blade Trip",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$26–$42",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "YG: THE GENTLEMEN'S CLUB TOUR",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "$41",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Fresno State Bulldogs Women's Basketball vs. Northern Arizona Women's Basketball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Fresno State Bulldogs Mens Basketball vs. UC Riverside Men's Basketball",
+      "venue_line": "Save Mart Center • Fresno",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,87 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-11-01T15:41:50.055Z",
+  "updated_at": "2026-11-02T19:02:55.608Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Hold On To Your Butts",
-      "venue_line": "Dudley Riggs Theatre First Floor • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Twin Cities Ballet Presents Phantom of the Opera",
-      "venue_line": "Fitzgerald Theater • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Microwave & Free Throw",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
-      "venue_line": "Green Room • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "SOMBR - You Are The Reason Tour",
-      "venue_line": "Target Center • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Hold On To Your Butts",
-      "venue_line": "Dudley Riggs Theatre First Floor • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Allison Russell (18 and Over with Valid Government ID)",
-      "venue_line": "First Avenue • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "U.S. Bank Stadium Tour",
-      "venue_line": "U.S. Bank Stadium Tours • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,6 +118,86 @@
       "date_iso": "2026-11-03",
       "title": "Orville Peck - Man Turned Mule Tour",
       "venue_line": "Armory • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Post Sex Nachos - 18+",
+      "venue_line": "7th Street Entry • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Rodrigo y Gabriela",
+      "venue_line": "Fitzgerald Theater • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "2Slimey - Straight Bass Tour",
+      "venue_line": "Varsity Theater • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "How the Grinch Stole Christmas (Touring) - Ages 5 and up",
+      "venue_line": "UnitedHealth Group Stage-The Childrens Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "St. Thomas Tommies Womens Basketball vs. Bethel University Wildcats Womens Basketball",
+      "venue_line": "Lee and Penny Anderson Arena • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "PIVOT with Kara Swisher & Scott Galloway presented by beehiiv",
+      "venue_line": "State Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Andrea Gibson: Love Letters from the Afterlife w/ Megan Falley",
+      "venue_line": "Fitzgerald Theater • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Sleep (18 and Over with Valid Government ID)",
+      "venue_line": "First Avenue • Minneapolis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

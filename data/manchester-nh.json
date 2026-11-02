@@ -1,17 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-11-01T15:41:30.100Z",
+  "updated_at": "2026-11-02T19:02:34.783Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Hocus Pocus: Taste A Long",
-      "venue_line": "BNH Stage • Concord",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "24",
+      "date_iso": "2026-11-24",
+      "title": "Jim Henson's Labyrinth: In Concert",
+      "venue_line": "Capitol Center for the Arts - NH • Concord",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

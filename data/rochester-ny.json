@@ -1,17 +1,7 @@
 {
   "city_label": "Rochester, NY",
-  "updated_at": "2026-11-01T15:41:26.773Z",
+  "updated_at": "2026-11-02T19:02:31.249Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Leaking Head / Spooky Visions / Eclectic Blend",
-      "venue_line": "The Bug Jar • Rochester",
-      "price_label": "$12–$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -138,7 +128,7 @@
       "date_iso": "2026-11-06",
       "title": "Brotality / Praun / YouWish!",
       "venue_line": "The Bug Jar • Rochester",
-      "price_label": "$23",
+      "price_label": "$18–$23",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-11",
       "title": "WBEE's Guitars & Stars",
       "venue_line": "West Herr Auditorium Theatre at West Herr Performing Arts Center • Rochester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "BEAT - Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
+      "venue_line": "Kodak Center • Rochester",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

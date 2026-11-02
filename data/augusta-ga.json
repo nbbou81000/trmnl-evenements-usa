@@ -1,6 +1,6 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-11-01T15:41:39.953Z",
+  "updated_at": "2026-11-02T19:02:45.050Z",
   "events": [
     {
       "day_label": "FRI",
@@ -66,6 +66,16 @@
       "day_label": "FRI",
       "day_number": "20",
       "date_iso": "2026-11-20",
+      "title": "NUTCRACKER! Magical Christmas Ballet",
+      "venue_line": "Miller Theater - GA • Augusta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
       "title": "Blackberry Smoke: 25th Anniversary Tour 2026",
       "venue_line": "Columbia County Performing Arts Center • Evans",
       "price_label": "Price not available",
@@ -111,6 +121,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "4",
+      "date_iso": "2026-12-04",
+      "title": "The Sunkicks: Home for the Holidays",
+      "venue_line": "Miller Theater - GA • Augusta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "FRI",

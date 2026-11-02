@@ -1,27 +1,7 @@
 {
   "city_label": "Wichita, KS",
-  "updated_at": "2026-11-01T15:41:53.315Z",
+  "updated_at": "2026-11-02T19:02:59.004Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Wichita State Shockers Womens Volleyball vs. Florida Atlantic Owls Womens Volleyball",
-      "venue_line": "Charles Koch Arena • Wichita",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Tosca",
-      "venue_line": "Concert Hall at Century II • Wichita",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-12",
       "title": "Mrs. Doubtfire (Touring)",
       "venue_line": "Concert Hall at Century II • Wichita",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Wichita State Shockers Womens Volleyball vs. Temple Owls Womens Volleyball",
+      "venue_line": "Charles Koch Arena • Wichita",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Tom Segura Live",
+      "venue_line": "Wichita Orpheum Theatre • Wichita",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

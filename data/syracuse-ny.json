@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-11-01T15:41:27.162Z",
+  "updated_at": "2026-11-02T19:02:31.672Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,26 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Jazz Jam",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Open mic hosted by Attamizk & friends",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "MON",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Syracuse Crunch vs. Hartford Wolf Pack",
+      "venue_line": "Upstate Medical University Arena at The Oncenter War Memorial • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "A Musical Tribute In Honor of Paul Armstrong",
+      "venue_line": "The Lost Horizon • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

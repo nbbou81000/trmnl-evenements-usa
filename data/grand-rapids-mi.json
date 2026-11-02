@@ -1,47 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-11-01T15:41:44.931Z",
+  "updated_at": "2026-11-02T19:02:50.355Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Psychoblab Studios Presents: Drink and Draw",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
-      "venue_line": "Van Andel Arena • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Flamingosis - Bright Moments 10th Anniversary + Pablo Eskobear + Drop Catch",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -178,7 +138,7 @@
       "date_iso": "2026-11-06",
       "title": "Blitzkid: Modern Hel Tour + EPCYA + RTNR + The Burdens",
       "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$27–$73",
+      "price_label": "$27",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -199,6 +159,46 @@
       "title": "North By North with Saint Maybe, Quilter, Wilson Ave, Low Light",
       "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
       "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Grand Valley State Lakers Football vs. Northern Michigan Wildcats Football",
+      "venue_line": "Lubbers Stadium • Allendale",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "251st Marine Corps Ball",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Grand Rapids Gold vs. Sioux Falls Skyforce",
+      "venue_line": "Van Andel Arena • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Pouya - The Forever Glades Tour",
+      "venue_line": "The Intersection • Grand Rapids",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

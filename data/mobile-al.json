@@ -1,17 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-11-01T15:42:05.950Z",
+  "updated_at": "2026-11-02T19:03:11.539Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Sunday Funniez Comedy Showcase",
-      "venue_line": "Crescent Theater  • Mobile",
-      "price_label": "$14–$39",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -199,6 +189,16 @@
       "title": "Justin Moore Live In Concert",
       "venue_line": "Saenger Theatre Mobile • Mobile",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "CORY BRANAN",
+      "venue_line": "The Merry Widow • Mobile",
+      "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
     }

@@ -1,81 +1,101 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-11-01T15:42:17.387Z",
+  "updated_at": "2026-11-02T19:03:23.618Z",
   "events": [
     {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Los Angeles Rams VIP Tailgate",
-      "venue_line": "Hollywood Park Casino • Inglewood",
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Gully Boys w/ Pollyanna & Jesse Detor",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
       "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Seabiscuit Tram Tour",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Pumpkin Path & Fall Fun Fest",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Rocky Horror Drag Brunch",
-      "venue_line": "Brea Improv • Brea",
-      "price_label": "$31–$102",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "The Outsiders (Touring)",
-      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Live Racing at Santa Anita Park",
-      "venue_line": "Santa Anita Park • Arcadia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Brunch: Trust 1 and the Sunday Gospel Band",
-      "venue_line": "Ivan'z House at Mozambique • Laguna Beach",
-      "price_label": "$9–$212",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Los Angeles Lakers vs. Miami Heat",
+      "venue_line": "Crypto.com Arena • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "USC Trojans Mens Basketball vs. UW- Milwaukee Panthers Mens Basketball",
+      "venue_line": "Galen Center • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Olivia O'Brien Presents: The PIXIE Tour",
+      "venue_line": "Pacific Electric • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "2",
+      "date_iso": "2026-11-02",
+      "title": "Los Angeles Coliseum Historic Tours",
+      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Riff Raff",
+      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Johnny Dawson - Album Release Ft. Charlie Havenick & Elijah Wells",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Freak Slug",
+      "venue_line": "Constellation Room • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Championship Wrestling",
+      "venue_line": "Irvine Improv • Irvine",
+      "price_label": "$20–$83",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
       "title": "The Music Man",
       "venue_line": "Ahmanson Theatre • Los Angeles",
       "price_label": "Price not available",
@@ -83,124 +103,104 @@
       "type_label": "Other"
     },
     {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "La Mirada Theatre presents: Dear Evan Hansen",
-      "venue_line": "La Mirada Theatre for the Performing Arts • La Mirada",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Angel City FC vs. Boston Legacy FC",
-      "venue_line": "Dignity Health Sports Park • Carson",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Come from Away (Touring)",
-      "venue_line": "A Noise Within • Pasadena",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "USC Trojans Womens Volleyball vs. Minnesota Gophers Womens Volleyball",
-      "venue_line": "Galen Center • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Mafia Rusa, Heavenly Trip To Hell, Undisputed World Champions, The Transers - Dia de los Muertos",
-      "venue_line": "Garden Amphitheatre • Garden Grove",
-      "price_label": "$17",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Cash, Skynyrd, Petty Tributes with Mike Staggs & The Soul",
-      "venue_line": "Garden Amphitheatre • Garden Grove",
-      "price_label": "$11",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Anaheim Ducks v Ottawa Senators",
-      "venue_line": "Honda Center • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Los Angeles Football Club vs. Minnesota United FC",
-      "venue_line": "BMO Stadium • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Masood Boomgaard",
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Comedy Juice Featuring: Jessimae Peluso, Rell Battle, Jeremiah Watkins, Fumi Abe!",
       "venue_line": "Brea Improv • Brea",
-      "price_label": "$31–$102",
+      "price_label": "$31–$83",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Lyle Lovett and his Small Large Band",
+      "venue_line": "Cerritos Center for the Performing Arts • Cerritos",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Los Angeles Coliseum Historic Tours",
+      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
+      "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Tommy Davidson",
-      "venue_line": "Irvine Improv • Irvine",
-      "price_label": "$31–$102",
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Bluey's Big Play - The Stage Show",
+      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
+      "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Brent Morin",
-      "venue_line": "Corona Improv • Corona",
-      "price_label": "$31",
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Bluey's Big Play - The Stage Show",
+      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
+      "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Los Angeles Lakers vs. Toronto Raptors: Luka Doncic Bobblehead",
-      "venue_line": "Crypto.com Arena • Los Angeles",
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Taylor Bickett",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Obskuros",
+      "venue_line": "Constellation Room • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "133 Band",
+      "venue_line": "Ivan'z House at Mozambique • Laguna Beach",
+      "price_label": "$7–$212",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Ontario Reign vs. San Jose Barracuda",
+      "venue_line": "Toyota Arena-CA • Ontario",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Ahmed Al-Kadri",
+      "venue_line": "Irvine Improv • Irvine",
+      "price_label": "$31–$102",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

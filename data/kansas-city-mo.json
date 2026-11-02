@@ -1,27 +1,7 @@
 {
   "city_label": "Kansas City, MO",
-  "updated_at": "2026-11-01T15:41:50.473Z",
+  "updated_at": "2026-11-02T19:02:56.027Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "The Story So Far w/ The Starting Line",
-      "venue_line": "The Midland Theatre - MO • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Katy Nichole - \"Honest Conversations Tour\" Fall 2026",
-      "venue_line": "Madrid Theatre • Kansas City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "I've Got A Fire Tour with Pat Barrett - Blue Springs, MO",
+      "venue_line": "Blue Springs Christian Church • Blue Springs",
+      "price_label": "$28–$86",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "A Chorus Line",
+      "venue_line": "The White Theatre at The J • Leawood",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

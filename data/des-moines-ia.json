@@ -1,27 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-11-01T15:41:52.488Z",
+  "updated_at": "2026-11-02T19:02:58.091Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Daughtry - 20 Years Unplugged Tour",
-      "venue_line": "Hoyt Sherman Place • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Diles Que No Me Maten",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-10",
       "title": "Everclear - Lucky 7 Tour",
       "venue_line": "Hoyt Sherman Place • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Sqwerv",
+      "venue_line": "xBk Live • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Queen of the Night! Remembering Whitney",
+      "venue_line": "The Ingersoll • Des Moines",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

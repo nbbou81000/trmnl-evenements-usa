@@ -1,57 +1,7 @@
 {
   "city_label": "Baltimore, MD",
-  "updated_at": "2026-11-01T15:41:34.294Z",
+  "updated_at": "2026-11-02T19:02:39.216Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "SIX (Touring)",
-      "venue_line": "Hippodrome at France-Merrick Performing Arts Center • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "August Wilson's \"Two Trains Running\" ",
-      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Toby's Dinner Theatre Presents: Summer - The Donna Summer Musical",
-      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Lucy Darling",
-      "venue_line": "The Lyric - Baltimore • Baltimore",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Eric Gales w/ Dennis Chambers",
-      "venue_line": "Rams Head On Stage • Annapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -76,7 +26,7 @@
       "day_label": "MON",
       "day_number": "2",
       "date_iso": "2026-11-02",
-      "title": "Morgan State Basketball Doubleheader",
+      "title": "Morgan State Men's Basketball vs Cheyney University of Pennsylvania",
       "venue_line": "Hill Field House • Baltimore",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -198,6 +148,56 @@
       "date_iso": "2026-11-06",
       "title": "Ron White",
       "venue_line": "The Lyric - Baltimore • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Briston Maroney",
+      "venue_line": "Rams Head On Stage • Annapolis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Navy Midshipmen Football vs. Temple Owls Football",
+      "venue_line": "Navy Marine Corps Memorial Stadium • Annapolis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Toby's Dinner Theatre Presents: White Christmas",
+      "venue_line": "Toby's Dinner Theatre Columbia • Columbia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "The Wrecks - Finally : OUTSIDE Tour",
+      "venue_line": "Nevermore Hall • Baltimore",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "MSU Musical Theatre Presents \"Kenya's Soul\"",
+      "venue_line": "Morgan State University - Murphy Fine Arts Center  • Baltimore",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

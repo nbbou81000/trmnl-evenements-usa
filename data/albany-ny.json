@@ -1,17 +1,7 @@
 {
   "city_label": "Albany, NY",
-  "updated_at": "2026-11-01T15:41:27.595Z",
+  "updated_at": "2026-11-02T19:02:32.118Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "In Her Own Words x Every Avenue",
-      "venue_line": "Empire Underground • Albany",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-12",
       "title": "The Rock Orchestra: Arena of Fire",
       "venue_line": "MVP Arena • Albany",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Carnivore A.D.",
+      "venue_line": "Empire Underground • Albany",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

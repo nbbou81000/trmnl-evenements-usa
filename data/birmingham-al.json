@@ -1,47 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-11-01T15:42:04.756Z",
+  "updated_at": "2026-11-02T19:03:10.354Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Southern Music Research Center Fundraiser",
-      "venue_line": "Lakeview Marina Music Park • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Piano Series Concert 1 Angel Stanislav Wang",
-      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "The Ultimate Funk & Soul Experience: Morris Day & The Time & The S.O.S",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Alien Halloween feat. OmCat + Tin Roof Cats - Ages 18+",
-      "venue_line": "Saturn - Birmingham • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -123,6 +83,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Songwriters Night at The Nick",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "THU",
       "day_number": "5",
       "date_iso": "2026-11-05",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-06",
       "title": "Jonas Brothers | Official BJCC Ticket + Hotel Packages",
       "venue_line": "Legacy Arena at the BJCC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "8Ball & MJG and Bun B ft. The Renaissance Orchestra",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "8 Ball & MJG and Bun B | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Kitchen Dwellers + Dogs In A Pile",
+      "venue_line": "Iron City • Birmingham",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,17 +1,7 @@
 {
   "city_label": "Richmond, VA",
-  "updated_at": "2026-11-01T15:41:34.757Z",
+  "updated_at": "2026-11-02T19:02:39.668Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Kitchen Dwellers w/ Dogs In A Pile",
-      "venue_line": "The National • Richmond",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "The Sword w/ Hippie Death Cult",
+      "venue_line": "The National • Richmond",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

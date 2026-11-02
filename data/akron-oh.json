@@ -1,37 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-11-01T15:41:47.551Z",
+  "updated_at": "2026-11-02T19:02:52.928Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "MTP Presents: Evil Dead The Musical",
-      "venue_line": "John, James and Clara Knight Stage • Akron",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "William Shatner Live On-Stage w/ Star Trek II: The Wrath of Khan",
-      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "STING 3.0 Tour",
-      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Blade Runner Live",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Wild Thread Presents: Shelter by Eric Mansfield",
+      "venue_line": "Wild Oscar's • Akron",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Akron Zips Mens Basketball vs. Muskingum Fighting Muskies Mens Basketball",
+      "venue_line": "James Rhodes Arena • Akron",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-11-01T15:41:40.344Z",
+  "updated_at": "2026-11-02T19:02:45.459Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Jacksonville Jaguars vs. Indianapolis Colts",
-      "venue_line": "EverBank Stadium  • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Standing Room Only - Jacksonville Jaguars v Indianapolis Colts",
-      "venue_line": "EverBank Stadium  • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "R&B ONLY LIVE - Jacksonville, FL",
+      "venue_line": "FIVE • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Ben Bankas",
+      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-11-01T15:41:28.005Z",
+  "updated_at": "2026-11-02T19:02:32.557Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Sabrina Cast Reunion 30 Year Anniversary Live",
-      "venue_line": "Uptown Theatre Providence • Providence",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "New England Revolution vs. Inter Miami CF",
-      "venue_line": "Gillette Stadium • Foxborough",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -199,6 +179,26 @@
       "title": "The Mushroom Cloud w/ Canopy",
       "venue_line": "Fete Music Hall • Providence",
       "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Miles to Go Tour: Holdyn Barder w/ Michael James",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$22",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Andy Grammer",
+      "venue_line": "Historic Park Theatre and Event Center • Cranston",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

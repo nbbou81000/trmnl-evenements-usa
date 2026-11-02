@@ -1,6 +1,6 @@
 {
   "city_label": "Anchorage, AK",
-  "updated_at": "2026-11-01T15:42:11.244Z",
+  "updated_at": "2026-11-02T19:03:17.109Z",
   "events": [
     {
       "day_label": "THU",
@@ -118,6 +118,16 @@
       "date_iso": "2026-12-17",
       "title": "Thursday Night Fights:Boxing",
       "venue_line": "William a Egan Civic and Convention Center • Anchorage",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "31",
+      "date_iso": "2026-12-31",
+      "title": "University of Alaska Anchorage Seawolves Hockey vs. Colorado College Tigers Hockey",
+      "venue_line": "Sullivan Sports Arena • Anchorage",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

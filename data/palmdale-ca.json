@@ -1,17 +1,7 @@
 {
   "city_label": "Palmdale, CA",
-  "updated_at": "2026-11-01T15:42:17.751Z",
+  "updated_at": "2026-11-02T19:03:24.073Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "REGGIE RARE / C-DANKY / MUNCHIES & JUST JOE / ANDY TREES / 2 TONE / PLUS MORE",
-      "venue_line": "Transplants Brewing Company • Palmdale",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -199,6 +189,16 @@
       "title": "CUMBIA VS. REGGAETON WITH DJ BOOTLEG",
       "venue_line": "Transplants Brewing Company • Palmdale",
       "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "29",
+      "date_iso": "2026-11-29",
+      "title": "Exploited  Live  In Transplants",
+      "venue_line": "Transplants Brewing Company • Palmdale",
+      "price_label": "$36–$41",
       "type_key": "music",
       "type_label": "Music"
     }

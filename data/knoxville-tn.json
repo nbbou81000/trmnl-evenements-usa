@@ -1,17 +1,7 @@
 {
   "city_label": "Knoxville, TN",
-  "updated_at": "2026-11-01T15:42:02.287Z",
+  "updated_at": "2026-11-02T19:03:07.715Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Clyde's (CBT)",
-      "venue_line": "The Jenny Boyd Theatre • Knoxville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Knoxville Ice Bears vs. Huntsville Havoc",
+      "venue_line": "Knoxville Civic Coliseum • Knoxville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

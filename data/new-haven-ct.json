@@ -1,27 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-11-01T15:41:28.847Z",
+  "updated_at": "2026-11-02T19:02:33.487Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Rocky In Concert",
-      "venue_line": "Toyota Oakdale Theatre • Wallingford",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Desi Banks",
-      "venue_line": "Stress Factory Comedy Club - Bridgeport • Bridgeport",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-07",
       "title": "Hot Mulligan",
       "venue_line": "College Street Music Hall • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Wheeler Walker Jr.",
+      "venue_line": "Toad's Place • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Wheeler Walker Jr.",
+      "venue_line": "Toads Place - CT • New Haven",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,27 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-11-01T15:42:01.386Z",
+  "updated_at": "2026-11-02T19:03:06.877Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Monty Python's Spamalot (Touring)",
-      "venue_line": "The Orpheum Theatre Memphis • Memphis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-13",
       "title": "Memphis Hustle vs. Oklahoma City Blue",
       "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Paul Oakenfold + The Crystal Method",
+      "venue_line": "Minglewood Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Memphis Grizzlies vs. Brooklyn Nets",
+      "venue_line": "FedExForum • Memphis",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

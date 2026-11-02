@@ -1,17 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-11-01T15:41:33.022Z",
+  "updated_at": "2026-11-02T19:02:37.863Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Worcester Railers vs. Adirondack Thunder - School Day Game",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Saosin w/ Silent Planet",
+      "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

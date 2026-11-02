@@ -1,57 +1,7 @@
 {
   "city_label": "Detroit, MI",
-  "updated_at": "2026-11-01T15:41:44.541Z",
+  "updated_at": "2026-11-02T19:02:49.940Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Detroit Lions vs. Minnesota Vikings",
-      "venue_line": "Ford Field • Detroit",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Amble",
-      "venue_line": "Saint Andrew's Hall • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Akeem Ali",
-      "venue_line": "Majestic Theatre-MI • Detroit",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Detroit",
-      "venue_line": "Garden Theater at Midtown • Detroit",
-      "price_label": "$59–$277",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "MANÁ: VIVIR SIN AIRE TOUR",
-      "venue_line": "Little Caesars Arena • Detroit",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "MON",
       "day_number": "2",
@@ -198,6 +148,56 @@
       "date_iso": "2026-11-05",
       "title": "The String Cheese Incident: Just Keep Spinning Tour",
       "venue_line": "The Fillmore Detroit • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Millionaire$ wsg Davvn",
+      "venue_line": "TSDMAAC • Detroit",
+      "price_label": "$12–$70",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Chat Pile w/ Soul Glo",
+      "venue_line": "Majestic Theatre-MI • Detroit",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Detroit Red Wings vs. Vegas Golden Knights",
+      "venue_line": "Little Caesars Arena • Detroit",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "GAURI B: YEARS IN THE BREAKING",
+      "venue_line": "The Magic Bag • Ferndale",
+      "price_label": "$32–$43",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Charles Wesley Godwin",
+      "venue_line": "Royal Oak Music Theatre • Royal Oak",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

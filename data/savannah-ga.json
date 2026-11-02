@@ -1,17 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-11-01T15:41:39.484Z",
+  "updated_at": "2026-11-02T19:02:44.626Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "Savannah Ghost Pirates vs. Greenville Swamp Rabbits",
-      "venue_line": "Enmarket Arena • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "8",
+      "date_iso": "2026-12-08",
+      "title": "Jodeci - 35th Anniversary Tour of Forever My Lady",
+      "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

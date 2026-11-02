@@ -1,17 +1,7 @@
 {
   "city_label": "Montgomery, AL",
-  "updated_at": "2026-11-01T15:42:05.564Z",
+  "updated_at": "2026-11-02T19:03:11.162Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "CAIN Live and In Worship Tour with special guest Patrick Mayberry - Montgomery, AL",
-      "venue_line": "Vaughn Forest Church • Montgomery",
-      "price_label": "$25–$167",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "31",
+      "date_iso": "2026-12-31",
+      "title": "Countdown Kickback: New Year's Eve with Cecily Wilborn",
+      "venue_line": "BB King's Blues Club - Montgomery • Montgomery",
+      "price_label": "$39–$333",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }
