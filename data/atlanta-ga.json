@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-11-02T19:02:44.183Z",
+  "updated_at": "2026-11-03T16:46:41.732Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,56 +23,6 @@
       "type_label": "Other"
     },
     {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Georgia State Panthers Mens Basketball vs Bowling Green",
-      "venue_line": "GSU Convocation Center • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Zade Dirani",
-      "venue_line": "Atlanta Symphony Hall • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Fruit Wine Productions & OBSESSED Present Hokus Pokus Live!",
-      "venue_line": "Center Stage Theater • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Khantrast",
-      "venue_line": "Vinyl • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Higher Learning",
-      "venue_line": "Variety Playhouse • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
       "day_label": "TUE",
       "day_number": "3",
       "date_iso": "2026-11-03",
@@ -91,16 +41,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Hampton Pirates Mens Basketball",
-      "venue_line": "McCamish Pavilion • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "TUE",
@@ -131,6 +71,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Hampton Pirates Mens Basketball",
+      "venue_line": "McCamish Pavilion • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "TUE",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Daniel Sloss: BITTER (Brand New Tour!)",
+      "venue_line": "Tabernacle Presented by iTHINK Financial • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Aaron Lee Tasjan w/ special guest Madeleine Kelson",
+      "venue_line": "Eddie's Attic • Decatur",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Aaron Lee Tasjan",
+      "venue_line": "Eddie's Attic • Decatur",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Dave Chappelle Karmageddon",
+      "venue_line": "State Farm Arena • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Like Father",
+      "venue_line": "Alliance Theatre • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

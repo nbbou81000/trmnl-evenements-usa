@@ -1,47 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-11-02T19:03:19.726Z",
+  "updated_at": "2026-11-03T16:47:16.383Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Santa Clara Broncos Mens Basketball vs. Towson Tigers Mens Basketball",
-      "venue_line": "Leavey Event Center • Santa Clara",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "San Jose Sharks vs. Calgary Flames",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Stanford Cardinal Mens Basketball vs. Eastern Washington Eagles Mens Basketball",
-      "venue_line": "Maples Pavilion • Stanford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Psychedelic Furs",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -199,6 +159,46 @@
       "title": "Mon Laferte - Femme Fatale Tour",
       "venue_line": "SAP Center at San Jose • San Jose",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Elijah Scott - Ages 21+",
+      "venue_line": "Felton Music Hall • Felton",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "PEOPLE'S DISCO featuring DJ Alvaro",
+      "venue_line": "Moe's Alley • Santa Cruz",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Dan and Phil: Hard Launch World Tour",
+      "venue_line": "San Jose Civic • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "ROCK EN ESPANOL NIGHT",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$19–$521",
       "type_key": "music",
       "type_label": "Music"
     }

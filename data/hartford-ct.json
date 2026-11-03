@@ -1,27 +1,7 @@
 {
   "city_label": "Hartford, CT",
-  "updated_at": "2026-11-02T19:02:33.051Z",
+  "updated_at": "2026-11-03T16:46:30.715Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "UConn Huskies Womens Basketball vs. Cornell Big Red Womens Basketball",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "UConn Huskies Mens Basketball vs. Gardner Webb Bulldogs Mens Basketball",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -156,21 +136,21 @@
       "day_label": "SUN",
       "day_number": "8",
       "date_iso": "2026-11-08",
-      "title": "Chris Perondi's Stunt Dog Experience",
-      "venue_line": "Bushnell/ Belding Theater • Hartford",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SUN",
-      "day_number": "8",
-      "date_iso": "2026-11-08",
       "title": "UConn Huskies Womens Basketball vs. Iowa Hawkeyes Womens Basketball",
       "venue_line": "Gampel Pavilion • Storrs Mansfield",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Chris Perondi's Stunt Dog Experience",
+      "venue_line": "Bushnell/ Belding Theater • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "SUN",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Springfield Thunderbirds vs. Hartford Wolfpack",
+      "venue_line": "MassMutual Center • Springfield",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "BOOP! The Musical (Touring)",
+      "venue_line": "Bushnell Theatre/ Mortensen Hall • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-11-02T19:03:12.387Z",
+  "updated_at": "2026-11-03T16:47:09.211Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Air Force Academy Falcons Womens Basketball vs. Denver Pioneers Womens Basketball",
-      "venue_line": "Clune Arena • USAF Academy",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Wheel of Fortune Live!",
+      "venue_line": "Phil Long Music Hall at Bourbon Brothers • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

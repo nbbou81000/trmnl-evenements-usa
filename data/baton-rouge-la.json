@@ -1,17 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-11-02T19:03:09.020Z",
+  "updated_at": "2026-11-03T16:47:05.937Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "LSU Tigers Womens Basketball vs. Southeastern Louisiana Lions Womens Basketball",
-      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -103,6 +93,16 @@
       "type_label": "Sports"
     },
     {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Baton Rouge Latin Nights",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "SUN",
       "day_number": "8",
       "date_iso": "2026-11-08",
@@ -128,7 +128,7 @@
       "date_iso": "2026-11-09",
       "title": "Paula Cole This Fire : 30 with Rett Madison",
       "venue_line": "Chelsea’s Live • Baton Rouge",
-      "price_label": "$52–$135",
+      "price_label": "$52",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -166,6 +166,16 @@
       "day_label": "THU",
       "day_number": "12",
       "date_iso": "2026-11-12",
+      "title": "Cigarettes @ Sunset",
+      "venue_line": "Chelsea's Live • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
       "title": "Chelsea's Live Presents: Cigarettes @ Sunset",
       "venue_line": "Chelsea’s Live • Baton Rouge",
       "price_label": "$0",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "14",
-      "date_iso": "2026-11-14",
-      "title": "Southern University Football",
-      "venue_line": "A.W. Mumford Stadium - Southern University • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "city_label": "Augusta, GA",
-  "updated_at": "2026-11-02T19:02:45.050Z",
+  "updated_at": "2026-11-03T16:46:42.562Z",
   "events": [
     {
       "day_label": "FRI",
@@ -173,6 +173,16 @@
       "type_label": "Music"
     },
     {
+      "day_label": "THU",
+      "day_number": "17",
+      "date_iso": "2026-12-17",
+      "title": "Cirque Musica",
+      "venue_line": "Miller Theater - GA • Augusta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
       "day_label": "FRI",
       "day_number": "18",
       "date_iso": "2026-12-18",
@@ -191,16 +201,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "19",
-      "date_iso": "2026-12-19",
-      "title": "The Family That Lies Together - A Raisin AJ Production",
-      "venue_line": "Hardin Auditorium • Evans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     }
   ]
 }

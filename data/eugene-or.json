@@ -1,34 +1,14 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-11-02T19:03:25.314Z",
+  "updated_at": "2026-11-03T16:47:21.917Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Oregon Women's Basketball vs. University of Hawaii Warriors Women's Basketball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Oregon Ducks Men's Basketball vs. University of Montana Grizzlies Mens Basketball",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
       "date_iso": "2026-11-03",
       "title": "Fox Stevenson & Mystery Skulls",
       "venue_line": "WOW Hall • Eugene",
-      "price_label": "$36",
+      "price_label": "$20–$36",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -197,6 +177,26 @@
       "day_number": "15",
       "date_iso": "2026-11-15",
       "title": "Oregon Ducks Men's Basketball vs. Pepperdine Waves",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Oregon Women's Basketball vs. Murray State Racers Womens Basketball",
+      "venue_line": "Matthew Knight Arena • Eugene",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "Oregon Ducks Volleyball vs. University of Washington Huskies Women's Volleyball",
       "venue_line": "Matthew Knight Arena • Eugene",
       "price_label": "Price not available",
       "type_key": "sports",

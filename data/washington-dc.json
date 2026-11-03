@@ -1,87 +1,7 @@
 {
   "city_label": "Washington, DC",
-  "updated_at": "2026-11-02T19:02:38.707Z",
+  "updated_at": "2026-11-03T16:46:36.418Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "MBB v. UMBC",
-      "venue_line": "EagleBank Arena • Fairfax",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "George Washington Mens Basketball vs. Navy Midshipman Mens Basketball",
-      "venue_line": "Charles E. Smith Center • Washington",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Brass Against - Halloween Tour",
-      "venue_line": "The Atlantis • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Georgetown Hoyas Men's Basketball v Loyola (MD)",
-      "venue_line": "Capital One Arena • Washington",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Maryland Terrapins Mens Basketball vs. Bucknell Bison Mens Basketball",
-      "venue_line": "Xfinity Center - MD • College Park",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Slavoj Zizek: Signs from the Future",
-      "venue_line": "Lisner Auditorium • Washington",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Hovvdy",
-      "venue_line": "9:30 CLUB • Washington",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "WBB v. Temple",
-      "venue_line": "EagleBank Arena • Fairfax",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -191,6 +111,86 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Hot Club of San Francisco",
+      "venue_line": "Blues Alley Club • Washington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Mamma Mia!",
+      "venue_line": "The National Theatre • Washington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Ashley Monroe & Charlie Worsham",
+      "venue_line": "Birchmere • Alexandria",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "All The World's a Stage",
+      "venue_line": "Signature Theatre • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Paige Fish",
+      "venue_line": "Pearl Street Warehouse • Washington",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "almost monday - THANK GOD IT'S ALMOST MONDAY Tour",
+      "venue_line": "The Fillmore Silver Spring • Silver Spring",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "RAWAYANA - ¿Dónde es el after? World Tour",
+      "venue_line": "The Theater at MGM National Harbor • National Harbor",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Dante Gebel - World Tour Despedida 2026",
+      "venue_line": "Capital One Hall • Tysons",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "WED",

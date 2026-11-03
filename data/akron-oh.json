@@ -1,27 +1,7 @@
 {
   "city_label": "Akron, OH",
-  "updated_at": "2026-11-02T19:02:52.928Z",
+  "updated_at": "2026-11-03T16:46:50.220Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Akron Zips Womens Basketball vs. South Alabama Jaguars Womens Basketball",
-      "venue_line": "James Rhodes Arena • Akron",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "STING 3.0 Tour",
-      "venue_line": "E.J. Thomas Hall - The University of Akron • Akron",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-09",
       "title": "Akron Zips Mens Basketball vs. Muskingum Fighting Muskies Mens Basketball",
       "venue_line": "James Rhodes Arena • Akron",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Little Feat: The Last Farewell Tour",
+      "venue_line": "Goodyear Theater • Akron",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Akron Zips Football vs. Western Michigan Broncos Football",
+      "venue_line": "InfoCision Stadium - Summa Field • Akron",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

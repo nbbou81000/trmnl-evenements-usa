@@ -1,6 +1,6 @@
 {
   "city_label": "Burlington, VT",
-  "updated_at": "2026-11-02T19:02:35.187Z",
+  "updated_at": "2026-11-03T16:46:32.852Z",
   "events": [
     {
       "day_label": "TUE",
@@ -88,6 +88,16 @@
       "date_iso": "2026-12-12",
       "title": "Emo Night Brooklyn",
       "venue_line": "Showcase Lounge at Higher Ground • South Burlington",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "1",
+      "date_iso": "2027-01-01",
+      "title": "Kitchen Dwellers",
+      "venue_line": "Higher Ground • South Burlington",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

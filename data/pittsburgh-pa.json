@@ -1,17 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-11-02T19:02:30.323Z",
+  "updated_at": "2026-11-03T16:46:28.081Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Pittsburgh Panthers Mens Basketball vs. Rider Broncs Mens Basketball",
-      "venue_line": "Petersen Events Center • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -38,7 +28,7 @@
       "date_iso": "2026-11-03",
       "title": "Sueco with Special Guest Jeris Johnson",
       "venue_line": "Mr Smalls Theatre • Millvale",
-      "price_label": "$37–$557",
+      "price_label": "$37",
       "type_key": "music",
       "type_label": "Music"
     },
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "WPIAL Soccer Finals",
+      "venue_line": "F.N.B. Stadium • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

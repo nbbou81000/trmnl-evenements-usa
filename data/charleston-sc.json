@@ -1,27 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-11-02T19:02:43.251Z",
+  "updated_at": "2026-11-03T16:46:40.849Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Charleston Cougars Mens Basketball vs. Southern Wesleyan Warriors Mens Basketball",
-      "venue_line": "TD Arena • Charleston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "An Evening with Jake Shimabukuro",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -199,6 +179,26 @@
       "title": "I’ve Got A Fire Tour with Pat Barrett - Ballwin, MO",
       "venue_line": "First Free Church • Ballwin",
       "price_label": "$28–$86",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "UB40: Unstoppable Tour",
+      "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

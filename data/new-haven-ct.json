@@ -1,27 +1,7 @@
 {
   "city_label": "New Haven, CT",
-  "updated_at": "2026-11-02T19:02:33.487Z",
+  "updated_at": "2026-11-03T16:46:31.125Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Quinnipiac Bobcats Womens Basketball vs. St. Joseph's Hawks Womens Basketball",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Sacred Heart Pioneers Men's Basketball vs. Us Coast Guard Academy Basketball",
-      "venue_line": "William H. Pitt Center • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-07",
       "title": "Wheeler Walker Jr.",
       "venue_line": "Toads Place - CT • New Haven",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Dweezil Zappa DZ20:Like Father, Like Son",
+      "venue_line": "Toyota Oakdale Theatre • Wallingford",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Quinnipiac Bobcats Womens Basketball vs. UMBC Retrievers Womens Basketball",
+      "venue_line": "M&T Bank Arena • Hamden",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

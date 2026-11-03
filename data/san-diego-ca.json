@@ -1,47 +1,7 @@
 {
   "city_label": "San Diego, CA",
-  "updated_at": "2026-11-02T19:03:18.840Z",
+  "updated_at": "2026-11-03T16:47:15.556Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "San Diego State Aztecs Women's Basketball vs. Cal State Fullerton Titans Women's Basketball",
-      "venue_line": "Viejas Arena at Aztec Bowl San Diego State University • San Diego",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "The Haunt - \"The Ghost Tour\"",
-      "venue_line": "Voodoo Room at the House of Blues San Diego • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Medium Build Presents The King of Having Fun on Tour",
-      "venue_line": "The Observatory North Park • San Diego",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Snapdragon Stadium Tours",
-      "venue_line": "Snapdragon Stadium • San Diego",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -199,6 +159,46 @@
       "title": "Fitz and The Tantrums - Greatest Hits Show",
       "venue_line": "Belly Up • Solana Beach",
       "price_label": "$56–$92",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Fitz and the Tantrums",
+      "venue_line": "Belly Up Tavern • Solana Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Six60 - Right Here Right Now - North America 2026 w/ We the Commas",
+      "venue_line": "Music Box • San Diego",
+      "price_label": "$33",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "bunii - BUNIIVERSITY TOUR",
+      "venue_line": "SOMA - Sidestage • San Diego",
+      "price_label": "$39",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Lyle Lovett & His Small Large Band",
+      "venue_line": "The Sound • Del Mar",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

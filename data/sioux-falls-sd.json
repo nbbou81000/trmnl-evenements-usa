@@ -1,27 +1,7 @@
 {
   "city_label": "Sioux Falls, SD",
-  "updated_at": "2026-11-02T19:02:59.938Z",
+  "updated_at": "2026-11-03T16:46:56.950Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "THE QUEERS",
-      "venue_line": "Club David • Sioux Falls",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Iowa State vs Memphis Men's Basketball",
-      "venue_line": "Sanford Pentagon • Sioux Falls",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Sioux Falls Skyforce vs. Windy City Bulls",
+      "venue_line": "Sanford Pentagon • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Casey Donahew",
+      "venue_line": "The District • Sioux Falls",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

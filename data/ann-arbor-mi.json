@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-11-02T19:02:50.778Z",
+  "updated_at": "2026-11-03T16:46:48.101Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Michigan Wolverines Mens Basketball vs. Oakland Golden Grizzlies Mens Basketball",
-      "venue_line": "Crisler Center • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Blind Pig Comedy",
-      "venue_line": "Blind Pig • Ann Arbor",
-      "price_label": "$3",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Blind Pig Comedy",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$3",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "The Bends, Common People",
+      "venue_line": "Blind Pig • Ann Arbor",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

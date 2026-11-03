@@ -1,27 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-11-02T19:02:53.353Z",
+  "updated_at": "2026-11-03T16:46:50.643Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Dayton Flyers Men's Basketball v. NJIT",
-      "venue_line": "University of Dayton Arena • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Wright State Raiders Mens Basketball vs. Air Force Academy Falcons Mens Basketball",
-      "venue_line": "Wright State University Nutter Center • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -197,6 +177,26 @@
       "day_number": "21",
       "date_iso": "2026-11-21",
       "title": "Dayton Philharmonic Orchestra presents Barber???s Cello Concerto",
+      "venue_line": "Schuster PAC • Dayton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "24",
+      "date_iso": "2026-11-24",
+      "title": "Clue (Touring)",
+      "venue_line": "Schuster PAC • Dayton",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "25",
+      "date_iso": "2026-11-25",
+      "title": "Clue (Touring)",
       "venue_line": "Schuster PAC • Dayton",
       "price_label": "Price not available",
       "type_key": "arts",

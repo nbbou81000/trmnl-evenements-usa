@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Worth, TX",
-  "updated_at": "2026-11-02T19:03:00.845Z",
+  "updated_at": "2026-11-03T16:46:57.807Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "TCU Horned Frogs Mens Basketball vs. Lindenwood Lions Mens Basketball",
-      "venue_line": "Ed and Rae Schollmaier Arena • Fort Worth",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -21,6 +11,16 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Test Your Mic",
+      "venue_line": "Arlington Improv • Arlington",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "WED",

@@ -1,37 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-11-02T19:02:32.557Z",
+  "updated_at": "2026-11-03T16:46:30.275Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Providence College Friars Mens Basketball vs. Maine Black Bears Mens Basketball",
-      "venue_line": "Amica Mutual Pavilion • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Providence College Men's Basketball VS University of Maine",
-      "venue_line": "Amica Mutual Pavilion • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Brown University Bears Mens Basketball vs. New Hampshire Wildcats Mens Basketball",
-      "venue_line": "Paul Bailey Pizzitola Memorial Sports Center • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-06",
       "title": "Andy Grammer",
       "venue_line": "Historic Park Theatre and Event Center • Cranston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Corey Rodrigues",
+      "venue_line": "Bally's Twin River Casino • Lincoln",
+      "price_label": "$29–$39",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Eric Grant Band",
+      "venue_line": "Six String Grill and Stage • Foxboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Emo Night Brooklyn",
+      "venue_line": "Alchemy • Providence",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

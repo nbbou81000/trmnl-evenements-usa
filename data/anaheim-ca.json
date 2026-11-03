@@ -1,57 +1,7 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-11-02T19:03:23.618Z",
+  "updated_at": "2026-11-03T16:47:20.268Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Gully Boys w/ Pollyanna & Jesse Detor",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Los Angeles Lakers vs. Miami Heat",
-      "venue_line": "Crypto.com Arena • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "USC Trojans Mens Basketball vs. UW- Milwaukee Panthers Mens Basketball",
-      "venue_line": "Galen Center • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Olivia O'Brien Presents: The PIXIE Tour",
-      "venue_line": "Pacific Electric • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Los Angeles Coliseum Historic Tours",
-      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -201,6 +151,56 @@
       "price_label": "$31–$102",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Drag Show: \"Wild Wednesdays\" @ Hamburger Mary's Long Beach",
+      "venue_line": "Hamburger Mary's - Long Beach • Long Beach",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "ICT: The Laugh Track",
+      "venue_line": "Beverly O'Neill - Long Beach Convention and Entertainment Center • Long Beach",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "The Music Man",
+      "venue_line": "Ahmanson Theatre • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Tyler Fischer",
+      "venue_line": "Brea Improv • Brea",
+      "price_label": "$31–$102",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Clay Street Unit",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

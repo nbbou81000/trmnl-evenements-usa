@@ -1,37 +1,7 @@
 {
   "city_label": "Raleigh, NC",
-  "updated_at": "2026-11-02T19:02:41.411Z",
+  "updated_at": "2026-11-03T16:46:39.081Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "MOVEMENTS - HAPPIER NOW USA TOUR",
-      "venue_line": "The Ritz • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Duke Blue Devils Mens Basketball vs. Army Black Knights Mens Basketball",
-      "venue_line": "Cameron Indoor Stadium • Durham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "North Carolina State Wolfpack Mens Basketball vs. Campbell Fighting Camels Mens Basketball",
-      "venue_line": "Lenovo Center • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -199,6 +169,36 @@
       "title": "Liza Treyger",
       "venue_line": "Raleigh Improv • Cary",
       "price_label": "$27–$82",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Little Big Town - For The Art Of It Tour",
+      "venue_line": "DPAC • Durham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "North Carolina Symphony - Tchaikovsky Symphony No. 5",
+      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Joe List",
+      "venue_line": "Goodnights Comedy Club • Raleigh",
+      "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     }

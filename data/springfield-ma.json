@@ -1,27 +1,7 @@
 {
   "city_label": "Springfield, MA",
-  "updated_at": "2026-11-02T19:02:38.267Z",
+  "updated_at": "2026-11-03T16:46:35.905Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "UConn Huskies Womens Basketball vs. Cornell Big Red Womens Basketball",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "UConn Huskies Mens Basketball vs. Gardner Webb Bulldogs Mens Basketball",
-      "venue_line": "PeoplesBank Arena • Hartford",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-13",
       "title": "UMass Minutemen Hockey vs. Boston College Eagles Hockey",
       "venue_line": "Mullins Center • Amherst",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Dusty Slay",
+      "venue_line": "Bushnell/ Belding Theater • Hartford",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "UConn Huskies Mens Basketball vs. Ohio State Buckeyes Mens Basketball",
+      "venue_line": "PeoplesBank Arena • Hartford",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

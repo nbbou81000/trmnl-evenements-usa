@@ -1,27 +1,7 @@
 {
   "city_label": "Bridgeport, CT",
-  "updated_at": "2026-11-02T19:02:33.908Z",
+  "updated_at": "2026-11-03T16:46:31.559Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Quinnipiac Bobcats Womens Basketball vs. St. Joseph's Hawks Womens Basketball",
-      "venue_line": "M&T Bank Arena • Hamden",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Sacred Heart Pioneers Men's Basketball vs. Us Coast Guard Academy Basketball",
-      "venue_line": "William H. Pitt Center • Fairfield",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -86,6 +66,16 @@
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
+      "title": "Beautiful: The Carole King Musical (Touring)",
+      "venue_line": "ACT of Connecticut • Ridgefield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
       "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
       "venue_line": "The Paramount in concert with Northwell • Huntington",
       "price_label": "Price not available",
@@ -101,6 +91,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Beautiful: The Carole King Musical (Touring)",
+      "venue_line": "ACT of Connecticut • Ridgefield",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
       "day_label": "THU",
@@ -196,11 +196,11 @@
       "day_label": "FRI",
       "day_number": "6",
       "date_iso": "2026-11-06",
-      "title": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
-      "venue_line": "The Paramount in concert with Northwell • Huntington",
+      "title": "Beautiful: The Carole King Musical (Touring)",
+      "venue_line": "ACT of Connecticut • Ridgefield",
       "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

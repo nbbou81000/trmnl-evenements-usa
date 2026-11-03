@@ -1,87 +1,7 @@
 {
   "city_label": "Phoenix, AZ",
-  "updated_at": "2026-11-02T19:03:15.880Z",
+  "updated_at": "2026-11-03T16:47:12.611Z",
   "events": [
-    {
-      "day_label": "SUN",
-      "day_number": "1",
-      "date_iso": "2026-11-01",
-      "title": "HALLOWEEN COSTUME + DANCE PARTY!",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "TADHG NOLAN",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "$21",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "TADHG NOLAN - Ages 16+",
-      "venue_line": "Valley Bar • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Grand Canyon University Lopes Mens Basketball vs. Texas Southern Tigers Mens Basketball",
-      "venue_line": "Global Credit Union Arena • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "THE WILDWOODS",
-      "venue_line": "Crescent Ballroom • Phoenix",
-      "price_label": "$35–$46",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "ALVARO DIAZ - OMAKASE TOUR",
-      "venue_line": "The Van Buren • Phoenix",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Sun Devil Men's Basketball v East Tennessee State",
-      "venue_line": "Desert Financial Arena • Tempe",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Sun Devil Women's Basketball v Jackson State",
-      "venue_line": "Desert Financial Arena • Tempe",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -118,6 +38,16 @@
       "date_iso": "2026-11-03",
       "title": "Jay Webb",
       "venue_line": "Valley Bar • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "3",
+      "date_iso": "2026-11-03",
+      "title": "Karaoke Tuesdays Feat. DJ Snow",
+      "venue_line": "Thunderbird Lounge • Phoenix",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Annie (Touring)",
+      "venue_line": "Hale Centre Theatre - Arizona • Gilbert",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "BLIND WINE TASTING",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$29",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "SUPERTASTE",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "SUPERTASTE - Ages 21+",
+      "venue_line": "Valley Bar • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Eelke Kleijn",
+      "venue_line": "Walter Studios • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Eelke Kleijn",
+      "venue_line": "Walter Studios • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Drag Bingo Feat. Barbra Seville",
+      "venue_line": "Thunderbird Lounge • Phoenix",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

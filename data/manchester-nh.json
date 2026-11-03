@@ -1,17 +1,7 @@
 {
   "city_label": "Manchester, NH",
-  "updated_at": "2026-11-02T19:02:34.783Z",
+  "updated_at": "2026-11-03T16:46:32.477Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Boots & Ballots featuring Riley Green",
-      "venue_line": "SNHU Arena • Manchester",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "7",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "24",
+      "date_iso": "2026-11-24",
+      "title": "Jessica Lynn???s ??? A Very Merry Classic Christmas",
+      "venue_line": "Nashua Center For the Arts • Nashua",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

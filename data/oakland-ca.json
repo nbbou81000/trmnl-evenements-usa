@@ -1,67 +1,7 @@
 {
   "city_label": "Oakland, CA",
-  "updated_at": "2026-11-02T19:03:21.901Z",
+  "updated_at": "2026-11-03T16:47:18.610Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "California Golden Bears Mens Basketball vs. Adams State Grizzlies Mens Basketball",
-      "venue_line": "Haas Pavilion • Berkeley",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "California Golden Bears Womens Basketball vs. Washington State Cougars Womens Basketball",
-      "venue_line": "Haas Pavilion • Berkeley",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Golden State Warriors vs. Phoenix Suns",
-      "venue_line": "Chase Center • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Los Gaiteros de San Jacinto w/ Fruko",
-      "venue_line": "Great American Music Hall • San Francisco",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Lexi Jayde",
-      "venue_line": "The Independent • San Francisco",
-      "price_label": "$32–$130",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Psychedelic Furs",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -199,6 +139,66 @@
       "title": "Ms. Lauryn Hill & Wyclef Jean Celebrating 30 years of Fugees The Score",
       "venue_line": "Greek Theatre-U.C. Berkeley • Berkeley",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Josh Garrels",
+      "venue_line": "August Hall • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Pain Of Truth w/ Killing Time",
+      "venue_line": "Great American Music Hall • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Winston Hodges",
+      "venue_line": "Punch Line Comedy Club - San Francisco • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Cobb's Comedy Allstars",
+      "venue_line": "Cobb's Comedy Club • San Francisco",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Neck of the Woods SF Open Mic Wednesdays",
+      "venue_line": "Neck of the Woods • San Francisco",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Roman Candle/ Postdrome/ The American Dream",
+      "venue_line": "Neck of the Woods • San Francisco",
+      "price_label": "$22",
       "type_key": "music",
       "type_label": "Music"
     }

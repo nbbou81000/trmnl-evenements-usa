@@ -1,27 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-11-02T19:02:56.443Z",
+  "updated_at": "2026-11-03T16:46:53.667Z",
   "events": [
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "St. Louis Billikens Mens Basketball vs. Lehigh Mountain Hawks Mens Basketball",
-      "venue_line": "Chaifetz Arena • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "MON",
-      "day_number": "2",
-      "date_iso": "2026-11-02",
-      "title": "Saint Louis Billiken Mens Basketball vs. Lehigh Mens Basketball",
-      "venue_line": "Chaifetz Arena • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "TUE",
       "day_number": "3",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-06",
       "title": "The String Cheese Incident: Just Keep Spinning Tour",
       "venue_line": "The Factory • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "MISERY by William Goldman, Based on the Book by Stephen King",
+      "venue_line": "The Gaslight Theater • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Ole Smoky Roadshow Presents: Moonshine & Music w/ Pynk Beard & More",
+      "venue_line": "Delmar Hall • Saint Louis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
