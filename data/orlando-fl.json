@@ -1,77 +1,7 @@
 {
   "city_label": "Orlando, FL",
-  "updated_at": "2026-11-03T16:46:44.219Z",
+  "updated_at": "2026-11-04T16:46:03.341Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Rock The Polls",
-      "venue_line": "Will's Pub • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Running Punks",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "UCF Knights Womens Basketball vs. Florida A&M Rattlers Womens Basketball",
-      "venue_line": "Addition Financial Arena • Orlando",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "OK Goodnight, Lux Terminus, Eve, and Kaupe in Orlando",
-      "venue_line": "Conduit • Winter Park",
-      "price_label": "$28",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Crowder LIVE!",
-      "venue_line": "Northland Church • Longwood",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Loose Lips",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Indie 900 Jam",
-      "venue_line": "Lil' Indies • Orlando",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "UCF Knights Womens Soccer vs. Iowa State Cyclones Women's Soccer",
+      "venue_line": "UCF Soccer and Track Complex • Orlando",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Jackson Dean: Magnolia Sage Tour presented by K92.3",
+      "venue_line": "House of Blues Orlando • Orlando",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Thursday Thinks Trivia",
+      "venue_line": "Dirty Laundry • Orlando",
+      "price_label": "$0",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "SONS OF PARADISE WITH STYLIE,MELLODOSE AND ONE CULTURE",
+      "venue_line": "West End Trading Company • Sanford",
+      "price_label": "$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Carrie: the Musical",
+      "venue_line": "Bay Street Players Theatre • Eustis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Cirque du Soleil: Drawn to Life",
+      "venue_line": "Walt Disney World • Orlando",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "COUNTRYOKE WITH DJ RYAN",
+      "venue_line": "WILD WEST END • Sanford",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

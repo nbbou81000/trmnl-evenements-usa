@@ -1,17 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-11-03T16:46:38.174Z",
+  "updated_at": "2026-11-04T16:45:56.680Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Holywatr: Deo Gratias Tour",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "The ABBA REUNION Tribute Show",
       "venue_line": "Sandler Center For The Performing Arts • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Clutch w/ Slomosa",
+      "venue_line": "The Norva • Norfolk",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

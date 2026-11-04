@@ -1,77 +1,7 @@
 {
   "city_label": "Salt Lake City, UT",
-  "updated_at": "2026-11-03T16:47:10.029Z",
+  "updated_at": "2026-11-04T16:46:29.915Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Jake Minch",
-      "venue_line": "Kilby Court • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Periphery  A Pale White Dot US Tour",
-      "venue_line": "The Union • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Utah Utes Womens Basketball vs. Eastern Washington Eagles Womens Basketball",
-      "venue_line": "Huntsman Center • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Teddy Swims w/ Freak Freely",
-      "venue_line": "Delta Center • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Quadeca",
-      "venue_line": "The Depot • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Everclear",
-      "venue_line": "The Complex - UT • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Mon Laferte",
-      "venue_line": "Eccles Theater - Salt Lake City • Salt Lake City",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +131,76 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Whales (21+ Event)",
+      "venue_line": "Soundwell • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Warren Miller's Days Off",
+      "venue_line": "The Depot • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jessica Audiffred\r\nJessica Audiffred - Ages 18+",
+      "venue_line": "The Complex - UT • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Disney On Ice Presents Find Your Hero",
+      "venue_line": "Delta Center • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Disney On Ice Presents Find Your Hero",
+      "venue_line": "Delta Center • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Little Women",
+      "venue_line": "CenterPoint Legacy Theatre • Centerville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Utah Utes Football vs. BYU Cougars Football",
+      "venue_line": "Rice Eccles Stadium • Salt Lake City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

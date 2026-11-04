@@ -1,23 +1,13 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-11-03T16:46:53.667Z",
+  "updated_at": "2026-11-04T16:46:13.066Z",
   "events": [
     {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Open Mic Night",
-      "venue_line": "Funny Bone Comedy Club - St. Louis • St, Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Undertale - The Determination Symphony World Tour",
-      "venue_line": "The Factory • Saint Louis",
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Noah Gundersen",
+      "venue_line": "City Winery - City Foundry STL • Saint Louis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -141,6 +131,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Mizzou vs. SLU Men's Basketball",
+      "venue_line": "Enterprise Center • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",

@@ -1,27 +1,7 @@
 {
   "city_label": "Durham, NC",
-  "updated_at": "2026-11-03T16:46:39.542Z",
+  "updated_at": "2026-11-04T16:45:58.029Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Motionless In White: The Sweat and Blood Tour",
-      "venue_line": "Lenovo Center • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Duke Blue Devils Womens Basketball vs. Wisconsin Green Bay Phoenix Womens Basketball",
-      "venue_line": "Cameron Indoor Stadium • Durham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-06",
       "title": "Madeon presents Victory Live",
       "venue_line": "The Ritz • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Little Big Town - For The Art Of It Tour",
+      "venue_line": "DPAC • Durham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Aaron Lee Tasjan w/ Madeleine Kelson",
+      "venue_line": "Cat's Cradle Back Room • Carrboro",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

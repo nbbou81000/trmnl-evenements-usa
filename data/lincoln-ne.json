@@ -1,17 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-11-03T16:46:54.894Z",
+  "updated_at": "2026-11-04T16:46:14.497Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Claudio Simonetti's Goblin Performing Tenebre",
-      "venue_line": "Bourbon Theatre • Lincoln",
-      "price_label": "$59–$69",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -101,6 +91,16 @@
       "price_label": "$27–$119",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Blade Rave: A Vampire Themed Rave",
+      "venue_line": "Bourbon Theatre-NE • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     },
     {
       "day_label": "SUN",

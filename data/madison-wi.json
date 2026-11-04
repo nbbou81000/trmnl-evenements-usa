@@ -1,38 +1,8 @@
 {
   "city_label": "Madison, WI",
-  "updated_at": "2026-11-03T16:46:52.362Z",
+  "updated_at": "2026-11-04T16:46:11.777Z",
   "events": [
     {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Wisconsin Badgers Womens Basketball vs. Bradley Braves Womens Basketball",
-      "venue_line": "Kohl Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Donny Benét",
-      "venue_line": "Majestic Theatre • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Trippie Redd - The Non-disclosure Agreement Tour",
-      "venue_line": "The Sylvee • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
@@ -48,16 +18,6 @@
       "date_iso": "2026-11-04",
       "title": "Dave Matthews Band",
       "venue_line": "Kohl Center • Madison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Sophie Hunter Presents: Stereoscope The Tour",
-      "venue_line": "High Noon Saloon • Madison",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Wisconsin Badgers Football vs. Rutgers Scarlet Knights Football",
+      "venue_line": "Camp Randall • Madison",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Unrest Fest 2026",
+      "venue_line": "High Noon Saloon • Madison",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Sabrina Cast Reunion 30 Year Anniversary Live",
+      "venue_line": "Barrymore Theatre • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Dave Attell",
+      "venue_line": "Orpheum Theater • Madison",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

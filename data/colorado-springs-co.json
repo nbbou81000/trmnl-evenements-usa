@@ -1,17 +1,7 @@
 {
   "city_label": "Colorado Springs, CO",
-  "updated_at": "2026-11-03T16:47:09.211Z",
+  "updated_at": "2026-11-04T16:46:29.005Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Agriculture",
-      "venue_line": "What's Left Records • Colorado Springs",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Glare, Summer of Peril, Strainer, Skarlet",
+      "venue_line": "Black Sheep • Colorado Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

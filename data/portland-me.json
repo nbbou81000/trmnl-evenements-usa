@@ -1,17 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-11-03T16:46:31.991Z",
+  "updated_at": "2026-11-04T16:45:50.594Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Blue October",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Dweezil Zappa DZ20: Like Father, Like Son",
+      "venue_line": "State Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

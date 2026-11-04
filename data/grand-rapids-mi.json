@@ -1,27 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-11-03T16:46:47.602Z",
+  "updated_at": "2026-11-04T16:46:06.844Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "America For All: Kent County Democrats Election Watch Party",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Tip Top Tuesday Comedy",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "SOLD OUT: CKY + Tombstunner + Stretched Thin",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Yacht Rocket",
+      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
+      "price_label": "$12",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

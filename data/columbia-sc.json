@@ -1,17 +1,7 @@
 {
   "city_label": "Columbia, SC",
-  "updated_at": "2026-11-03T16:46:41.299Z",
+  "updated_at": "2026-11-04T16:45:59.894Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "University of South Carolina Gamecocks Mens Basketball vs. Stetson Hatters Mens Basketball",
-      "venue_line": "Colonial Life Arena • Columbia",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Corey Smith 2026 Tour",
+      "venue_line": "The Senate • Columbia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

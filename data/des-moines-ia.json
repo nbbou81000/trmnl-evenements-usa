@@ -1,17 +1,7 @@
 {
   "city_label": "Des Moines, IA",
-  "updated_at": "2026-11-03T16:46:55.297Z",
+  "updated_at": "2026-11-04T16:46:14.916Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Hot Freaks w/ Thesaurus Rex",
-      "venue_line": "xBk Live • Des Moines",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-12",
       "title": "Queen of the Night! Remembering Whitney",
       "venue_line": "The Ingersoll • Des Moines",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
+      "venue_line": "Hoyt Sherman Place • Des Moines",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

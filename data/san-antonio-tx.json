@@ -1,6 +1,6 @@
 {
   "city_label": "San Antonio, TX",
-  "updated_at": "2026-11-03T16:46:58.647Z",
+  "updated_at": "2026-11-04T16:46:18.456Z",
   "events": [
     {
       "day_label": "FRI",
@@ -11,76 +11,6 @@
       "price_label": "$84",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Story So Far",
-      "venue_line": "Aztec Theatre • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Catch Your Breath",
-      "venue_line": "The Rock Box • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Jim Henson's Labyrinth: In Concert",
-      "venue_line": "H-E-B Performance Hall • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "UIL State Marching Band Contest Session 3: 1A Finals",
-      "venue_line": "Alamodome • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Mark Paul",
-      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "UIL State Marching Band Contest Combo: 1A Prelims/5A Finals/1A Finals",
-      "venue_line": "Alamodome • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "UIL State Marching Band Contest Session 4: 3A Prelims",
-      "venue_line": "Alamodome • San Antonio",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -198,6 +128,76 @@
       "date_iso": "2026-11-06",
       "title": "ACID BATH",
       "venue_line": "Boeing Center at Tech Port • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Skillet: Comatose 20 Years, Still Screaming Tour",
+      "venue_line": "Aztec Theatre • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Zach Williams",
+      "venue_line": "Majestic Theatre San Antonio • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Chingo Bling",
+      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Chingo Bling",
+      "venue_line": "Laugh Out Loud Comedy Club • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Ouija Macc",
+      "venue_line": "The Rock Box • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Doja Cat - Tour Ma Vie World Tour",
+      "venue_line": "Frost Bank Center • San Antonio",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Dinosaur Jr w/ Stef Chura",
+      "venue_line": "Paper Tiger • San Antonio",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

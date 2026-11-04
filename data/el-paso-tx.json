@@ -1,27 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-11-03T16:46:59.477Z",
+  "updated_at": "2026-11-04T16:46:19.273Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Linda Lindas",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Linda Lindas",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -136,16 +116,6 @@
       "day_label": "FRI",
       "day_number": "6",
       "date_iso": "2026-11-06",
-      "title": "they are gutting a body of water",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "6",
-      "date_iso": "2026-11-06",
       "title": "Morrissey",
       "venue_line": "GECU Arena at the Don Haskins Center • El Paso",
       "price_label": "Price not available",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "UTEP FB v Hawaii",
+      "venue_line": "Sun Bowl Stadium • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "UTEP Miners Volleyball vs UC Davis",
+      "venue_line": "Memorial Gym • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "The UTEP Dinner Theatre - Sweeney Todd",
+      "venue_line": "UTEP Dinner Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

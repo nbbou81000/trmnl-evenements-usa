@@ -1,27 +1,7 @@
 {
   "city_label": "Charlotte, NC",
-  "updated_at": "2026-11-03T16:46:38.647Z",
+  "updated_at": "2026-11-04T16:45:57.164Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Rod Wave: Don't Look Down Tour",
-      "venue_line": "Spectrum Center • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "THE ARMY, THE NAVY: THE FAKE BRAVE TOUR 2026",
-      "venue_line": "Neighborhood Theatre Tap Room • Charlotte",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-07",
       "title": "Davidson College Wildcats Football vs. Stetson Hatters Football",
       "venue_line": "Davidson College Stadium • Davidson",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "World of Outlaws World Finals",
+      "venue_line": "Charlotte Motor Speedway • Concord",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Charlotte Checkers vs. Wilkes Barre Scranton Penguins",
+      "venue_line": "Bojangles Coliseum • Charlotte",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

@@ -1,77 +1,7 @@
 {
   "city_label": "Columbus, OH",
-  "updated_at": "2026-11-03T16:46:48.516Z",
+  "updated_at": "2026-11-04T16:46:07.684Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "DISPATCH FAMILY VALUE PACK-CBJ VS. COLORADO AVALANCHE",
-      "venue_line": "Nationwide Arena • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "CBJ V. COLORADO AVALANCHE",
-      "venue_line": "Nationwide Arena • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "she's green",
-      "venue_line": "Ace of Cups • Columbus",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Maybe Happy Ending (Touring)",
-      "venue_line": "Ohio Theatre • Columbus",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Oso Oso w/ Liquid Mike",
-      "venue_line": "A&R Music Bar • Columbus",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Abbie Gamboa w/ Chelsea Plank",
-      "venue_line": "Newport Music Hall • Columbus",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Archer Oh w/ Integra Pink",
-      "venue_line": "Rumba Cafe • Columbus",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -183,16 +113,6 @@
       "type_label": "Music"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "2026 Big Ten Field Hockey Tournament Presented By Allstate",
-      "venue_line": "Buckeye Varsity Field • Columbus",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
       "day_label": "THU",
       "day_number": "5",
       "date_iso": "2026-11-05",
@@ -201,6 +121,86 @@
       "price_label": "$2",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Ohio State Buckeyes Womens Basketball vs. Central Michigan Chippewas Womens Basketball",
+      "venue_line": "Schottenstein Center • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "DISPATCH FAMILY VALUE PACK-CBJ VS. DALLAS STARS",
+      "venue_line": "Nationwide Arena • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "CBJ V. DALLAS STARS",
+      "venue_line": "Nationwide Arena • Columbus",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Brokes at Woodlands Tavern",
+      "venue_line": "Woodlands Tavern • Columbus",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "UniverSoul Circus",
+      "venue_line": "Universoul Circus - Columbus - Historic Crew Stadium • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Gridiron",
+      "venue_line": "Ace of Cups • Columbus",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Maybe Happy Ending (Touring)",
+      "venue_line": "Ohio Theatre • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Dead Man's Cell Phone",
+      "venue_line": "OSU Black Box Theatre • Columbus",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

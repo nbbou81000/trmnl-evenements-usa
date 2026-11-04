@@ -1,27 +1,7 @@
 {
   "city_label": "Raleigh, NC",
-  "updated_at": "2026-11-03T16:46:39.081Z",
+  "updated_at": "2026-11-04T16:45:57.588Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Motionless In White: The Sweat and Blood Tour",
-      "venue_line": "Lenovo Center • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Duke Blue Devils Womens Basketball vs. Wisconsin Green Bay Phoenix Womens Basketball",
-      "venue_line": "Cameron Indoor Stadium • Durham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Judah & the Lion",
+      "venue_line": "The Ritz • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "DC Youngfly",
+      "venue_line": "Raleigh Improv • Cary",
+      "price_label": "$52–$127",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

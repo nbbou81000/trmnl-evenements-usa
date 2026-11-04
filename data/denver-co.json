@@ -1,107 +1,7 @@
 {
   "city_label": "Denver, CO",
-  "updated_at": "2026-11-03T16:47:08.822Z",
+  "updated_at": "2026-11-04T16:46:28.593Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Knocked Loose & Denzel Curry",
-      "venue_line": "Fillmore Auditorium (Denver) • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Wldlfe",
-      "venue_line": "Marquis • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
-      "venue_line": "Summit Music Hall • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Andy Mann & The Eli West Trio - Evening One",
-      "venue_line": "Bellco Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Beauty And The Beast (Touring)",
-      "venue_line": "Buell Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "PJ Morton - Saturday Night Sunday Morning Tour",
-      "venue_line": "Paramount Theatre • Denver",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "lilyisthatyou (16 and Over)",
-      "venue_line": "Cervantes Other Side • Denver",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "bleood",
-      "venue_line": "Cervantes Masterpiece Ballroom • Denver",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
-      "venue_line": "Red Rocks Amphitheatre • Morrison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Fuerza Regida - This Is Our Dream Tour 2026",
-      "venue_line": "Red Rocks Amphitheatre • Morrison",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +101,106 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "Band of Heathens w/ Donavon Frankenreiter",
+      "venue_line": "Bluebird Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "4",
+      "date_iso": "2026-11-04",
+      "title": "ROZ",
+      "venue_line": "Cervantes Masterpiece Ballroom • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Beauty And The Beast (Touring)",
+      "venue_line": "Buell Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Reel Rock",
+      "venue_line": "Oriental Theatre-CO • Denver",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Hails - Duckpond Tour",
+      "venue_line": "Marquis • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Louie TheSinger",
+      "venue_line": "Summit Music Hall • Denver",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Colorado Buffaloes Womens Soccer vs. Oklahoma State Cowgirls Women???s Soccer",
+      "venue_line": "Prentup Field • Boulder",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Candace Bushnell True Tales of Sex, Success, and Sex and the City",
+      "venue_line": "Paramount Theatre • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Ian Bagg",
+      "venue_line": "Comedy Works • Denver",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Colorado Avalanche v Nashville Predators",
+      "venue_line": "Ball Arena • Denver",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

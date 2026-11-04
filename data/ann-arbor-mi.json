@@ -1,27 +1,7 @@
 {
   "city_label": "Ann Arbor, MI",
-  "updated_at": "2026-11-03T16:46:48.101Z",
+  "updated_at": "2026-11-04T16:46:07.260Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Wheel Of Fortune - Live!",
-      "venue_line": "Michigan Theater • Ann Arbor",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Eastern Michigan Eagles Football vs. Central Michigan Chippewas Football",
-      "venue_line": "Rynearson Stadium • Ypsilanti",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Eastern Michigan Eagles Mens Basketball vs. Great Lakes Christian College Mens Basketball",
+      "venue_line": "George Gervin GameAbove Center • Ypsilanti",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Michigan Wolverines Mens Basketball vs. Marquette Golden Eagles Mens Basketball",
+      "venue_line": "Crisler Center • Ann Arbor",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Boise, ID",
-  "updated_at": "2026-11-03T16:47:10.832Z",
+  "updated_at": "2026-11-04T16:46:30.776Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Rittz",
-      "venue_line": "9th St. Parallel at Knitting Factory • Boise",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "LAST , Shadow and Claw, Larkspur",
-      "venue_line": "Neurolux Lounge • Boise",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,7 +178,27 @@
       "date_iso": "2026-11-08",
       "title": "Daily Bread - Vanishing Point Tour",
       "venue_line": "Knitting Factory - Boise • Boise",
-      "price_label": "$18–$108",
+      "price_label": "$18–$84",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "CHIPPED NAIL POLISH , McKenna Esteb, Red Caroline",
+      "venue_line": "Neurolux Lounge • Boise",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Daily Bread",
+      "venue_line": "Knitting Factory Concert House - Boise • Boise",
+      "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     }

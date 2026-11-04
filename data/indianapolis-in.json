@@ -1,17 +1,7 @@
 {
   "city_label": "Indianapolis, IN",
-  "updated_at": "2026-11-03T16:46:51.070Z",
+  "updated_at": "2026-11-04T16:46:10.397Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
-      "venue_line": "Old National Centre • Indianapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Southbank Theatre Presents Describe The Night",
+      "venue_line": "Shelton Auditorium at Butler Arts Center • Indianapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

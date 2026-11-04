@@ -1,6 +1,6 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-11-03T16:47:19.421Z",
+  "updated_at": "2026-11-04T16:46:39.445Z",
   "events": [
     {
       "day_label": "WED",
@@ -68,7 +68,7 @@
       "date_iso": "2026-11-06",
       "title": "Cristela Alonzo: The Midlife Mixtape Tour",
       "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$31–$49",
+      "price_label": "$31",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -81,16 +81,6 @@
       "price_label": "$25",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "6",
-      "date_iso": "2026-11-06",
-      "title": "Led Zepagain",
-      "venue_line": "Stage Red • Fontana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Laura Peek",
+      "venue_line": "Corona Improv • Corona",
+      "price_label": "$25",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

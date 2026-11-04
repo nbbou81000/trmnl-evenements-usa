@@ -1,27 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-11-03T16:47:16.383Z",
+  "updated_at": "2026-11-04T16:46:36.460Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Prince Daddy and The Hyena, Combat, Walter Etc., Friendship Games",
-      "venue_line": "The Ritz • San Jose",
-      "price_label": "$31–$521",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Los Gaiteros de San Jacinto",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "$19–$521",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Mark Normand",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$49–$120",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Santa Clara Broncos Womens Volleyball vs. Portland Pilots Womens Volleyball",
+      "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

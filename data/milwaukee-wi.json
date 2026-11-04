@@ -1,47 +1,7 @@
 {
   "city_label": "Milwaukee, WI",
-  "updated_at": "2026-11-03T16:46:51.900Z",
+  "updated_at": "2026-11-04T16:46:11.291Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Marquette Golden Eagles Womens Basketball vs. Mississippi Valley State Delta Devils Womens Basketball",
-      "venue_line": "Al McGuire Center • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "SOMBR - You Are The Reason Tour",
-      "venue_line": "Fiserv Forum • Milwaukee",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Two Cents Tuesday",
-      "venue_line": "Milwaukee Improv (The Lab) • Brookfield",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Adam Ezra Group",
-      "venue_line": "Shank Hall • Milwaukee",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -198,6 +158,46 @@
       "date_iso": "2026-11-06",
       "title": "Brigitte Calls Me Baby",
       "venue_line": "Vivarium • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Davy Knowles",
+      "venue_line": "Shank Hall • Milwaukee",
+      "price_label": "$30",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Waterparks",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Colby Acuff",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Trippie Redd ??? The Non-Disclosure Agreement Tour",
+      "venue_line": "The Rave-Eagles Club • Milwaukee",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

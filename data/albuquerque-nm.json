@@ -1,27 +1,7 @@
 {
   "city_label": "Albuquerque, NM",
-  "updated_at": "2026-11-03T16:47:11.341Z",
+  "updated_at": "2026-11-04T16:46:31.201Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "& Juliet (Touring)",
-      "venue_line": "Popejoy Hall • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Ryan Bingham and The Texas Gentlemen ??? Still Gettin??? Away With It Tour",
-      "venue_line": "Revel Entertainment Center • Albuquerque",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Rival Sons w/ The Blue Stones",
+      "venue_line": "Sunshine Theatre • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "& Juliet (Touring)",
+      "venue_line": "Popejoy Hall • Albuquerque",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

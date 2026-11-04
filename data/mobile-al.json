@@ -1,17 +1,7 @@
 {
   "city_label": "Mobile, AL",
-  "updated_at": "2026-11-03T16:47:08.406Z",
+  "updated_at": "2026-11-04T16:46:28.103Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "DAIKAIJU",
-      "venue_line": "The Merry Widow • Mobile",
-      "price_label": "$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "$24",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Comedy Shorts: 3 Short Shows, One Low Price",
+      "venue_line": "Crescent Theater  • Mobile",
+      "price_label": "$9",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

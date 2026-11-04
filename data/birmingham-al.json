@@ -1,77 +1,7 @@
 {
   "city_label": "Birmingham, AL",
-  "updated_at": "2026-11-03T16:47:07.197Z",
+  "updated_at": "2026-11-04T16:46:26.885Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Phil Collins Story",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Phil Collins Story | Official BJCC Ticket + Hotel Packages",
-      "venue_line": "BJCC Concert Hall • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The A-List Upgrade: Thundercat - NOT A CONCERT TICKET",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "ELEVATE Upgrade: Thundercat - NOT A CONCERT TICKET",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Thundercat: Distracted AF Tour",
-      "venue_line": "Avondale Brewing Co. • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Prof",
-      "venue_line": "Iron City • Birmingham",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Songwriters Night at The Nick",
-      "venue_line": "The Nick • Birmingham",
-      "price_label": "$9",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -199,6 +129,76 @@
       "title": "Hayes Carll - Ages 18+",
       "venue_line": "Saturn - Birmingham • Birmingham",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Fulkrum, Centerfire, BoLee & BitterRoute at The Nick",
+      "venue_line": "The Nick • Birmingham",
+      "price_label": "$9",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "UAB Blazers Football vs. Charlotte 49ers Football",
+      "venue_line": "Protective Stadium • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Tracy Lawrence | Official BJCC Ticket + Hotel Packages",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Tracy Lawrence: No Alibis Tour",
+      "venue_line": "BJCC Concert Hall • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Levity",
+      "venue_line": "Alys Robinson Stephens PAC • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "The Fab Four: Tribute to the Beatles' A Hard Day's Night",
+      "venue_line": "The Lyric Theatre • Birmingham",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "The Fennec Presents: Creed Fisher",
+      "venue_line": "The Fennec - Main Stage • Birmingham",
+      "price_label": "$25",
       "type_key": "music",
       "type_label": "Music"
     }

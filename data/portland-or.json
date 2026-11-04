@@ -1,57 +1,7 @@
 {
   "city_label": "Portland, OR",
-  "updated_at": "2026-11-03T16:47:21.115Z",
+  "updated_at": "2026-11-04T16:46:41.149Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Two-Step Tuesday with Countryside Ride and Dance Lessons with Robbie",
-      "venue_line": "Showdown Saloon • Portland",
-      "price_label": "$14",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Daley - US Tour",
-      "venue_line": "Jack London Revue • Portland",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Cardinal Bloom (21 and Over)",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "John Scofield (21 and Over)",
-      "venue_line": "Revolution Hall - Portland • Portland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Greg Freeman w/ Trinity Ace",
-      "venue_line": "Aladdin Theater • Portland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "TRUE FEAR with Resist LA, When The Broken Burn, Crucible of Absolution, & Oddities",
+      "venue_line": "Dante's • Portland",
+      "price_label": "$18",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Suitcase Junket with Rattlesnake Mama",
+      "venue_line": "Showdown Saloon • Portland",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "The Last Revel (21+ Event)",
+      "venue_line": "The Get Down Music Venue • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Brandi Carlile: Burn The Setlist (The All Request Tour)",
+      "venue_line": "Revolution Hall - Portland • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Buzzcocks (21 and Over)",
+      "venue_line": "Wonder Ballroom • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

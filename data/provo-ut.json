@@ -1,17 +1,7 @@
 {
   "city_label": "Provo, UT",
-  "updated_at": "2026-11-03T16:47:10.421Z",
+  "updated_at": "2026-11-04T16:46:30.343Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Pride and Prejudice",
-      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "27",
+      "date_iso": "2026-11-27",
+      "title": "Disney's Frozen the Musical",
+      "venue_line": "The Ruth and Nathan Hale Theater • Pleasant Grove",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

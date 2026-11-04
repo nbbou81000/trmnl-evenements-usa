@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-11-03T16:46:29.409Z",
+  "updated_at": "2026-11-04T16:45:47.900Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,16 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Syracuse University Women's Basketball vs. Sacred Heart Pioneers",
-      "venue_line": "JMA Wireless Dome  • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "WED",
@@ -171,6 +161,16 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Boots at the Brewery | Line Dancing (Open Dance)",
+      "venue_line": "Middle Ages Music Hall • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SAT",

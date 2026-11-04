@@ -1,6 +1,6 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-11-03T16:47:13.457Z",
+  "updated_at": "2026-11-04T16:46:33.383Z",
   "events": [
     {
       "day_label": "MON",
@@ -11,16 +11,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Last Revel, Nathaniel Riley",
-      "venue_line": "The Alpine • Reno",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "WED",
@@ -123,6 +113,16 @@
       "type_label": "Other"
     },
     {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Blade Rave: A Vampire Themed Rave",
+      "venue_line": "Cargo • Reno",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
@@ -176,7 +176,7 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
-      "title": "Everglade w/ Shared Scars, Memoire, Sun Collider & Caelum",
+      "title": "Everglade w/ Shared Scars, Memoire, Bleeding Aconite & Caelum",
       "venue_line": "The Alpine • Reno",
       "price_label": "$19",
       "type_key": "music",

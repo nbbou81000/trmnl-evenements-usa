@@ -1,6 +1,6 @@
 {
   "city_label": "Fargo, ND",
-  "updated_at": "2026-11-03T16:46:56.517Z",
+  "updated_at": "2026-11-04T16:46:16.201Z",
   "events": [
     {
       "day_label": "THU",
@@ -186,6 +186,16 @@
       "day_label": "FRI",
       "day_number": "1",
       "date_iso": "2027-01-01",
+      "title": "Fargo Force vs USA Hockey NTDP",
+      "venue_line": "Scheels Arena • Fargo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "2",
+      "date_iso": "2027-01-02",
       "title": "Fargo Force vs USA Hockey NTDP",
       "venue_line": "Scheels Arena • Fargo",
       "price_label": "Price not available",

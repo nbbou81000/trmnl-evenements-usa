@@ -1,87 +1,7 @@
 {
   "city_label": "Anaheim, CA",
-  "updated_at": "2026-11-03T16:47:20.268Z",
+  "updated_at": "2026-11-04T16:46:40.341Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Riff Raff",
-      "venue_line": "The Parish at House of Blues Anaheim • Anaheim",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Johnny Dawson - Album Release Ft. Charlie Havenick & Elijah Wells",
-      "venue_line": "The Moroccan Lounge • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Freak Slug",
-      "venue_line": "Constellation Room • Santa Ana",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Championship Wrestling",
-      "venue_line": "Irvine Improv • Irvine",
-      "price_label": "$20–$83",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "The Music Man",
-      "venue_line": "Ahmanson Theatre • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Comedy Juice Featuring: Jessimae Peluso, Rell Battle, Jeremiah Watkins, Fumi Abe!",
-      "venue_line": "Brea Improv • Brea",
-      "price_label": "$31–$83",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Lyle Lovett and his Small Large Band",
-      "venue_line": "Cerritos Center for the Performing Arts • Cerritos",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Los Angeles Coliseum Historic Tours",
-      "venue_line": "Los Angeles Memorial Coliseum • Los Angeles",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -156,16 +76,6 @@
       "day_label": "WED",
       "day_number": "4",
       "date_iso": "2026-11-04",
-      "title": "Drag Show: \"Wild Wednesdays\" @ Hamburger Mary's Long Beach",
-      "venue_line": "Hamburger Mary's - Long Beach • Long Beach",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
       "title": "ICT: The Laugh Track",
       "venue_line": "Beverly O'Neill - Long Beach Convention and Entertainment Center • Long Beach",
       "price_label": "Price not available",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Bluey's Big Play - The Stage Show",
+      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Bluey's Big Play - The Stage Show",
+      "venue_line": "Segerstrom Center for the Arts-Segerstrom Hall • Costa Mesa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Sorry Ghost: Insufferably Indie Tour 2026 w/ Super Cassette",
+      "venue_line": "The Moroccan Lounge • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Armand Hammer",
+      "venue_line": "Constellation Room • Santa Ana",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "SOS Booking Presents: Pain of Truth",
+      "venue_line": "The Regent Theater • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "ESTEMAN & DANIELA SPALLA - AMORIO USA TOUR",
+      "venue_line": "The Belasco • Los Angeles",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Steve Trevino",
+      "venue_line": "Improv Comedy Club-Irvine • Irvine",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Steve Trevino",
+      "venue_line": "Irvine Improv • Irvine",
+      "price_label": "$37–$108",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "ICT: The Laugh Track",
+      "venue_line": "Beverly O'Neill - Long Beach Convention and Entertainment Center • Long Beach",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

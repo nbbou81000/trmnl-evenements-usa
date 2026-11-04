@@ -1,47 +1,7 @@
 {
   "city_label": "Tampa, FL",
-  "updated_at": "2026-11-03T16:46:44.639Z",
+  "updated_at": "2026-11-04T16:46:03.756Z",
   "events": [
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Tampa Bay Lightning vs. Detroit Red Wings",
-      "venue_line": "Benchmark International Arena • Tampa",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "Hamilton (Touring)",
-      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "3",
-      "date_iso": "2026-11-03",
-      "title": "USF Percussion Ensemble",
-      "venue_line": "Peter and Cynthia Zinober Concert Hall • Tampa",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Dinosaur World Live!",
-      "venue_line": "Dinosaur World - Florida • Plant City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "WED",
       "day_number": "4",
@@ -201,6 +161,46 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "CRUSH! The Bon Jovi Experience (Free Show!!!)",
+      "venue_line": "Ferg's Pavilion • St. Petersburg",
+      "price_label": "$0–$58",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Hamilton (Touring)",
+      "venue_line": "David A. Straz Center - Carol Morsani Hall • Tampa",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Phil Collins Story",
+      "venue_line": "Ruth Eckerd Hall • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Classic Albums Live Presents AC/DC Highway To Hell",
+      "venue_line": "Bilheimer Capitol Theatre • Clearwater",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }
