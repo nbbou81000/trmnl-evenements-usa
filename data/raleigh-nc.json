@@ -1,37 +1,7 @@
 {
   "city_label": "Raleigh, NC",
-  "updated_at": "2026-11-04T16:45:57.588Z",
+  "updated_at": "2026-11-05T17:02:23.808Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Saosin: 20 Years of Self-Titled",
-      "venue_line": "The Ritz • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Danielle Jensen: Author Event",
-      "venue_line": "Martin Marietta Center for the Performing Arts • Raleigh",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Duke Blue Devils Mens Basketball vs. Coastal Carolina Chanticleers Mens Basketball",
-      "venue_line": "Cameron Indoor Stadium • Durham",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -101,6 +71,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Duke Blue Devils Mens Basketball vs. Coastal Carolina Chanticleers Mens Basketball",
+      "venue_line": "Cameron Indoor Stadium • Durham",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "THU",
@@ -198,9 +178,29 @@
       "date_iso": "2026-11-07",
       "title": "DC Youngfly",
       "venue_line": "Raleigh Improv • Cary",
-      "price_label": "$52–$127",
+      "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "North Carolina State Wolfpack Football vs. Duke Blue Devils Football",
+      "venue_line": "Carter Finley Stadium • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Joe List",
+      "venue_line": "Goodnights Comedy Club • Raleigh",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

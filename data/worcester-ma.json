@@ -1,57 +1,7 @@
 {
   "city_label": "Worcester, MA",
-  "updated_at": "2026-11-04T16:45:54.095Z",
+  "updated_at": "2026-11-05T17:02:19.836Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Disney Worlds Collide Concert Tour",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "FORBIDDEN: Chaos by Design US Tour 2026",
-      "venue_line": "Palladium-MA • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Bumpin Uglies",
-      "venue_line": "Off The Rails Music Venue • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Commuter Rail Railyard-5:30PM-Disney Worlds Collide (NOT AN EVENT TICK",
-      "venue_line": "DCU Center • Worcester",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Bumpin Uglies with Artikal Sound System & Joey Harkum",
-      "venue_line": "Off The Rails Music Venue • Worcester",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -198,6 +148,56 @@
       "date_iso": "2026-11-10",
       "title": "Big Ass Truck w/ Mugshot",
       "venue_line": "Palladium-MA • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Menopause the Musical",
+      "venue_line": "Hanover Theatre • Worcester",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Commuter Rail Railyard-6:30PM-The Rock Orchestra(NOT AN EVENT TICKET)",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "The Rock Orchestra: Arena of Fire",
+      "venue_line": "DCU Center • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "The Rush Tribute Project",
+      "venue_line": "Hanover Theatre • Worcester",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "The Rush Tribute Project",
+      "venue_line": "The Hanover Theatre • Worcester",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

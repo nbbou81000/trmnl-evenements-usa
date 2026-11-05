@@ -1,87 +1,7 @@
 {
   "city_label": "Minneapolis, MN",
-  "updated_at": "2026-11-04T16:46:12.208Z",
+  "updated_at": "2026-11-05T17:02:38.180Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "2Slimey - Straight Bass Tour",
-      "venue_line": "Varsity Theater • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "How the Grinch Stole Christmas (Touring) - Ages 5 and up",
-      "venue_line": "UnitedHealth Group Stage-The Childrens Theatre • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "St. Thomas Tommies Womens Basketball vs. Bethel University Wildcats Womens Basketball",
-      "venue_line": "Lee and Penny Anderson Arena • St. Paul",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "PIVOT with Kara Swisher & Scott Galloway presented by beehiiv",
-      "venue_line": "State Theatre • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Andrea Gibson: Love Letters from the Afterlife w/ Megan Falley",
-      "venue_line": "Fitzgerald Theater • Saint Paul",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Sleep (18 and Over with Valid Government ID)",
-      "venue_line": "First Avenue • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "MSHSL State Soccer Tournament",
-      "venue_line": "U.S. Bank Stadium • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Sondergard, Parker and Sibelius with Minnesota Orchestra",
-      "venue_line": "Orchestra Hall-MN • Minneapolis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -198,6 +118,86 @@
       "date_iso": "2026-11-06",
       "title": "Ari Matti Live",
       "venue_line": "Pantages Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "How the Grinch Stole Christmas (Touring) - Ages 5 and up",
+      "venue_line": "UnitedHealth Group Stage-The Childrens Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Minnesota Gophers Mens Basketball vs. St. Thomas Tommies Mens Basketball",
+      "venue_line": "The Barn • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "St. Thomas Tommies Mens Hockey vs. University of Alaska Anchorage Seawolves Hockey",
+      "venue_line": "Lee and Penny Anderson Arena • St. Paul",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "St. Thomas Tommies Womens Volleyball vs. Nebraska Omaha Mavericks Womens Volleyball",
+      "venue_line": "Schoenecker Arena • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "SOLD OUT! I’ve Got A Fire Tour with Pat Barrett - Arden Hills, MN",
+      "venue_line": "North Heights Lutheran Church • Arden Hills",
+      "price_label": "$34",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Minnesota Wild vs. San Jose Sharks",
+      "venue_line": "Grand Casino Arena • Saint Paul",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Algorithm is Gonna Get You",
+      "venue_line": "Dudley Riggs Theatre • Minneapolis",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Serial Killers: with Dr. Scott Bonn",
+      "venue_line": "Ames Center • Burnsville",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"

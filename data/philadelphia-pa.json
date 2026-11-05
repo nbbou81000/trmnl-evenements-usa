@@ -1,97 +1,7 @@
 {
   "city_label": "Philadelphia, PA",
-  "updated_at": "2026-11-04T16:45:46.134Z",
+  "updated_at": "2026-11-05T17:02:11.458Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Kate Nash, Big Benny Bailey",
-      "venue_line": "Nikki Lopez Philly • Philadelphia",
-      "price_label": "$34",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Philly All-Pro Comedy Showcase",
-      "venue_line": "Punch Line Philly • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Adam Ray: WHO IS ME Tour",
-      "venue_line": "The Fillmore Philadelphia • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Jackie Evans (21+ Event)",
-      "venue_line": "MilkBoy Philadelphia • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Brutalismus 3000 w/ Dorian Electra",
-      "venue_line": "Union Transfer • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Madds Buckley 2026/2027 North American Tour",
-      "venue_line": "The Foundry • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Young Miko - Late Checkout Tour",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Suites - Young Miko - Late Checkout Tour",
-      "venue_line": "Xfinity Mobile Arena • Philadelphia",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Hiss Golden Messenger (21 and Over)",
-      "venue_line": "Ardmore Music Hall • Ardmore",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Villanova Wildcats Mens Basketball vs. Holy Cross Crusaders Mens Basketball",
+      "venue_line": "Finneran Pavilion • Villanova",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Josh Johnson",
+      "venue_line": "Academy of Music - PA • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
+      "venue_line": "Academy of Music • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Philadelphia",
+      "venue_line": "Plays & Players Theatre • Philadelphia",
+      "price_label": "$87–$277",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Topdog/Underdog",
+      "venue_line": "Arden Theatre Company • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Wrecks - Finally : OUTSIDE Tour",
+      "venue_line": "Theatre of Living Arts • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Banshee, Laila Mach",
+      "venue_line": "Nikki Lopez Philly • Philadelphia",
+      "price_label": "$26–$59",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "VOILA",
+      "venue_line": "Union Transfer • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Tony Baker",
+      "venue_line": "Punch Line Philly • Philadelphia",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

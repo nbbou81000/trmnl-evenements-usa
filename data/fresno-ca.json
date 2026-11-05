@@ -1,37 +1,7 @@
 {
   "city_label": "Fresno, CA",
-  "updated_at": "2026-11-04T16:46:37.364Z",
+  "updated_at": "2026-11-05T17:03:04.444Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Fresno State Bulldogs Women's Basketball vs. UC Merced",
-      "venue_line": "Save Mart Center • Fresno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Psychedelic Furs With Special Guests We Are Scientists",
-      "venue_line": "Warnors Theatre • Fresno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Prince Daddy And The Hyena, Teen Suicide, Combat, Walter Etc.",
-      "venue_line": "Strummer's • Fresno",
-      "price_label": "$32–$35",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Give em Hell Kid, Godzilla Radio, Nyte Gaze, California License",
+      "venue_line": "Strummer's • Fresno",
+      "price_label": "$21–$24",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Tig Notaro: Out Of Nowhere",
+      "venue_line": "Warnors Theatre • Fresno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "KC And The Sunshine Band - Ages 21+",
+      "venue_line": "Table Mountain Casino • Friant",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,117 +1,7 @@
 {
   "city_label": "New Orleans, LA",
-  "updated_at": "2026-11-04T16:46:25.187Z",
+  "updated_at": "2026-11-05T17:02:51.830Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Soul Sensations",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Leroy Jones Quintet",
-      "venue_line": "Chickie Wah Wah • New Orleans",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Living Tombstone - The Multiplayer Tour",
-      "venue_line": "House of Blues New Orleans  • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Mark Winters w/ Lyla DiPaul, Lynn Drury & Taylor Williams",
-      "venue_line": "The Den at Howlin' Wolf • New Orleans",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "New Orleans Pelicans vs. Utah Jazz",
-      "venue_line": "Smoothie King Center • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Uptown Jazz Orchestra with Terrence Taplin",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
-      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Cuffing Season w/ Sarah Mootz & ISƧY",
-      "venue_line": "The Porch at The Howlin Wolf • New Orleans",
-      "price_label": "$13–$19",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Laney Jones, Felix Rabito, and Tasche de la Rocha",
-      "venue_line": "Gasa Gasa • New Orleans",
-      "price_label": "$15",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Nick Shoulders",
-      "venue_line": "Tipitina's • New Orleans",
-      "price_label": "$31",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Uptown Jazz Orchestra with Terrence Taplin",
-      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
-      "price_label": "$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -199,6 +89,116 @@
       "title": "Tony Dagradi Quartet",
       "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
       "price_label": "$36",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "New Orleans Pelicans vs. Minnesota Timberwolves",
+      "venue_line": "Smoothie King Center • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Chuck Redd Bebop to Brazil",
+      "venue_line": "Snug Harbor Jazz Bistro • New Orleans",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Eric Lindell",
+      "venue_line": "Chickie Wah Wah • New Orleans",
+      "price_label": "$45–$64",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "ZOLTAN KASZAS: WORLDWIDE(ish) TOUR",
+      "venue_line": "The Joy Theater • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Lion King (Touring) - Recommended for ages 6 and up. All guests entering the theater, regardless of age, must have a ticket",
+      "venue_line": "Saenger Theatre-New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Bowling For Soup",
+      "venue_line": "Tipitina's • New Orleans",
+      "price_label": "$51",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Sweeney Todd",
+      "venue_line": "Westwego Perf Arts Theatre • Westwego",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jon B.",
+      "venue_line": "House of Blues New Orleans  • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Pretty Lights - Soundship Space Bus Tour",
+      "venue_line": "The Fillmore New Orleans • New Orleans",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
+      "venue_line": "Jefferson Perf Arts Center • Metairie",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Alex Sandra w/ Everstatic, Amorance & Weeping Hour",
+      "venue_line": "The Den at Howlin' Wolf • New Orleans",
+      "price_label": "$16–$19",
       "type_key": "music",
       "type_label": "Music"
     }

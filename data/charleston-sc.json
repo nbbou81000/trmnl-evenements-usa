@@ -1,17 +1,7 @@
 {
   "city_label": "Charleston, SC",
-  "updated_at": "2026-11-04T16:45:59.451Z",
+  "updated_at": "2026-11-05T17:02:25.646Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Mountain Grass Unit - Appalachian Smoke Tour",
-      "venue_line": "The Charleston Music Hall • Charleston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-10",
       "title": "UB40: Unstoppable Tour",
       "venue_line": "The Charleston Music Hall • Charleston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "(Phish Tribute) Runaway Gin",
+      "venue_line": "Music Farm • Charleston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

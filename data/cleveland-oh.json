@@ -1,97 +1,7 @@
 {
   "city_label": "Cleveland, OH",
-  "updated_at": "2026-11-04T16:46:08.101Z",
+  "updated_at": "2026-11-05T17:02:34.066Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "20 Years of Nekrogoblikon with Special Guests Aborted",
-      "venue_line": "House of Blues Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Metalcore Wednesday w/ Angelo",
-      "venue_line": "The Foundry • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "BOOZY BINGO (BOOK BINGO)",
-      "venue_line": "The Winchester • Lakewood",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "We Are Wednesdays w/ Da Land Brass Band",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Hadestown (Touring)",
-      "venue_line": "Connor Palace - Cleveland • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Noah Gittell and Ashley Gulla",
-      "venue_line": "Treelawn Social Club • Cleveland",
-      "price_label": "$13",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Great Grog Bake Off",
-      "venue_line": "Grog Shop • Cleveland Heights",
-      "price_label": "$10",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Hunter Flynn",
-      "venue_line": "Beachland Tavern • Cleveland",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "SHIT SHOW KARAOKE",
-      "venue_line": "B Side Lounge • Cleveland Heights",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -166,7 +76,7 @@
       "day_label": "THU",
       "day_number": "5",
       "date_iso": "2026-11-05",
-      "title": "Jessica Lea Mayfield w/ Rachel Bobbitt",
+      "title": "Karina Eleni",
       "venue_line": "Beachland Tavern • Cleveland",
       "price_label": "Price not available",
       "type_key": "music",
@@ -201,6 +111,96 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Westside Live ft Jaxx Axyl",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$25",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Micky Dolenz - 60 YEARS OF THE MONKEES",
+      "venue_line": "Northfield Park Racino - Center Stage • Northfield",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Brokes - Too Broke to Stroke",
+      "venue_line": "The Winchester • Lakewood",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "King of Drag: The Royal Tour",
+      "venue_line": "Grog Shop • Cleveland Heights",
+      "price_label": "$38–$292",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "REPRISE",
+      "venue_line": "Beachland Ballroom • East Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Zack Fox - DJ",
+      "venue_line": "Agora Theatre • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "ANIME POP NIGHT:THE GHIBLI FALL FESTIVAL",
+      "venue_line": "The Foundry • Cleveland",
+      "price_label": "$11",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "PLAY ANOTHER SLOW JAM: SCORPIO SZN",
+      "venue_line": "B Side Lounge • Cleveland Heights",
+      "price_label": "$20",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Hadestown (Touring)",
+      "venue_line": "Connor Palace - Cleveland • Cleveland",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

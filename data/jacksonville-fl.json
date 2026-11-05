@@ -1,37 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-11-04T16:46:02.038Z",
+  "updated_at": "2026-11-05T17:02:27.880Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Watsky x Infinity 10th Anniversary Screening Tour",
-      "venue_line": "Ritz Theatre • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "All Elite Wrestling Dynamite presents Blood & Guts",
-      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Doktor Kaboom!",
-      "venue_line": "Florida Theatre Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -197,6 +167,36 @@
       "day_number": "7",
       "date_iso": "2026-11-07",
       "title": "DJ Pauly D - Ages 18+",
+      "venue_line": "Decca Live • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Jacksonville Icemen vs Florida Everblades - Publix Family Funday",
+      "venue_line": "VyStar Veterans Memorial Arena • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Trapt",
+      "venue_line": "Eclipse • Jacksonville",
+      "price_label": "$31",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "honestav - The Sweet American Boy Tour",
       "venue_line": "Decca Live • Jacksonville",
       "price_label": "Price not available",
       "type_key": "music",

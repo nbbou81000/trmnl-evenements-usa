@@ -1,6 +1,6 @@
 {
   "city_label": "Boston, MA",
-  "updated_at": "2026-11-04T16:45:45.701Z",
+  "updated_at": "2026-11-05T17:02:10.952Z",
   "events": [
     {
       "day_label": "SUN",
@@ -13,9 +13,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -23,9 +23,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -33,9 +33,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -43,9 +43,9 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
       "title": "The Sports Museum Tour",
       "venue_line": "The Sports Museum • Boston",
       "price_label": "Price not available",
@@ -53,9 +53,39 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Late Night Thoughts, Sneaky Miles",
+      "venue_line": "Sonia • Cambridge",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Palace - USA & Canada Tour 2026",
+      "venue_line": "Citizens House of Blues Boston • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Gavin Adcock: The Day I Hang It Up Tour 2026",
+      "venue_line": "MGM Music Hall at Fenway • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
       "title": "To Kill a Mockingbird (Touring)",
       "venue_line": "Huntington Theatre • Boston",
       "price_label": "Price not available",
@@ -63,29 +93,59 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Sports Museum Tour",
-      "venue_line": "The Sports Museum • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Amity Affliction: HOUSE OF CARDS 2026",
-      "venue_line": "Citizens House of Blues Boston • Boston",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Ethan Regan: Young Regan Tour",
+      "venue_line": "Paradise Rock Club presented by Citizens • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Joe Alterman Trio",
+      "venue_line": "Regattabar • Cambridge",
+      "price_label": "$30–$42",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Kylie Morgan: Healed Cowgirl Tour",
+      "venue_line": "Brighton Music Hall presented by Citizens • Boston",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Boston College Eagles Hockey vs. Vermont Catamounts Hockey",
+      "venue_line": "Conte Forum • Chestnut Hill",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Merrimack Warriors Men's Basketball vs. UMass Lowell River Hawks Mens Basketball",
+      "venue_line": "Lawler Arena • North Andover",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
       "title": "Wicked (Touring)",
       "venue_line": "Citizens Opera House • Boston",
       "price_label": "Price not available",
@@ -93,114 +153,54 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Rocky In Concert",
-      "venue_line": "Emerson Colonial Theatre • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Canyon Lights with Mojo Thunder",
-      "venue_line": "Middle East - Upstairs • Cambridge",
-      "price_label": "$22",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "To Kill a Mockingbird (Touring)",
-      "venue_line": "Huntington Theatre • Boston",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Pretty Sick",
-      "venue_line": "Brighton Music Hall presented by Citizens • Boston",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Boston",
-      "venue_line": "The Regent Theatre • Arlington",
-      "price_label": "$59–$277",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Boston Celtics vs. Milwaukee Bucks",
-      "venue_line": "TD Garden • Boston",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Best Friends with Nicole Byer & Sasheer Zamata",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Tim Dillon",
       "venue_line": "The Wilbur • Boston",
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Gregg Allman: The Music of My Soul",
-      "venue_line": "Arrow Street Arts • Cambridge",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Late Nite Catechism: Til Death Do Us Part",
+      "venue_line": "Charles Playhouse Theater 2 • Boston",
       "price_label": "Price not available",
-      "type_key": "film",
-      "type_label": "Film"
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Duff Goldman Presents: The Tao of Duff",
-      "venue_line": "Crystal Ballroom at Somerville Theatre • Somerville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "half alive",
-      "venue_line": "The Sinclair Music Hall • Cambridge",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "CHIEF KEEF",
+      "venue_line": "MGM Music Hall at Fenway • Boston",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Michelle Branch",
-      "venue_line": "Roadrunner-Boston • Boston",
-      "price_label": "Price not available",
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Mollie, City Chiropractor, Phia Lauree",
+      "venue_line": "Middle East - Upstairs • Cambridge",
+      "price_label": "$23",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "5",
+      "date_iso": "2026-11-05",
+      "title": "Joanne McNally: Pinotphile",
+      "venue_line": "Arts at the Armory • Somerville",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

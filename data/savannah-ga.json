@@ -1,27 +1,7 @@
 {
   "city_label": "Savannah, GA",
-  "updated_at": "2026-11-04T16:46:01.196Z",
+  "updated_at": "2026-11-05T17:02:27.023Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Motionless In White: The Sweat and Blood Tour",
-      "venue_line": "VyStar Pavilion • Port Wentworth",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Savannah Ghost Pirates vs. Atlanta Gladiators",
-      "venue_line": "Enmarket Arena • Savannah",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +178,26 @@
       "date_iso": "2026-12-08",
       "title": "Jodeci - 35th Anniversary Tour of Forever My Lady",
       "venue_line": "Savannah Civic Center - Johnny Mercer Theatre • Savannah",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "11",
+      "date_iso": "2026-12-11",
+      "title": "Bingo Loco",
+      "venue_line": "Victory North • Savannah",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "11",
+      "date_iso": "2026-12-11",
+      "title": "Bingo Loco",
+      "venue_line": "Victory North • Savannah",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

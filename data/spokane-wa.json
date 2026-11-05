@@ -1,17 +1,7 @@
 {
   "city_label": "Spokane, WA",
-  "updated_at": "2026-11-04T16:46:43.319Z",
+  "updated_at": "2026-11-05T17:03:10.603Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Tauren Wells",
-      "venue_line": "First Interstate Center for the Arts • Spokane",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Disney On Ice presents Jump In - (Age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older)",
+      "venue_line": "Numerica Veterans Arena • Spokane",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

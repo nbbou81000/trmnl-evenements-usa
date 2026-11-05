@@ -1,57 +1,7 @@
 {
   "city_label": "St. Louis, MO",
-  "updated_at": "2026-11-04T16:46:13.066Z",
+  "updated_at": "2026-11-05T17:02:39.078Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Noah Gundersen",
-      "venue_line": "City Winery - City Foundry STL • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Turnover - Down On Earth Tour",
-      "venue_line": "The Pageant • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Jodeci- 35th Anniversary Tour of Forever My Lady",
-      "venue_line": "Stifel Theatre • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Voodoo Ween",
-      "venue_line": "Atomic Garage • St. Louis",
-      "price_label": "$17",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Russian Circles",
-      "venue_line": "Delmar Hall • Saint Louis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -199,6 +149,56 @@
       "title": "Ole Smoky Roadshow Presents: Moonshine & Music w/ Pynk Beard & More",
       "venue_line": "Delmar Hall • Saint Louis",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+      "venue_line": "Family Arena • Saint Charles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+      "venue_line": "Family Arena • Saint Charles",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Three Days Grace - Alienation Tour ",
+      "venue_line": "Enterprise Center • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+      "venue_line": "The Pageant • Saint Louis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Basement",
+      "venue_line": "The Hawthorn • St. Louis",
+      "price_label": "$43",
       "type_key": "music",
       "type_label": "Music"
     }

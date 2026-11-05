@@ -1,27 +1,7 @@
 {
   "city_label": "Little Rock, AR",
-  "updated_at": "2026-11-04T16:46:23.056Z",
+  "updated_at": "2026-11-05T17:02:49.586Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Straight No Chaser",
-      "venue_line": "Reynolds Performance Hall • Conway",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Daniel Donato’s Cosmic Country",
-      "venue_line": "The Hall • Little Rock",
-      "price_label": "$23–$53",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "SAT",
       "day_number": "7",
@@ -199,6 +179,26 @@
       "title": "Jodeci - 35th Anniversary Tour of Forever My Lady",
       "venue_line": "Simmons Bank Arena • North Little Rock",
       "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "2",
+      "date_iso": "2026-12-02",
+      "title": "Catch Your Breath w/ TX2",
+      "venue_line": "The Hall - Little Rock • Little Rock",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "2",
+      "date_iso": "2026-12-02",
+      "title": "Catch Your Breath - Not Broken Enough Tour",
+      "venue_line": "The Hall • Little Rock",
+      "price_label": "$39–$72",
       "type_key": "music",
       "type_label": "Music"
     }

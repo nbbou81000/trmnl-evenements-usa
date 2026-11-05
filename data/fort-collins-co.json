@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-11-04T16:46:29.480Z",
+  "updated_at": "2026-11-05T17:02:56.201Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Lissie",
-      "venue_line": "Aggie Theater • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-20",
       "title": "Colorado State University Rams Womens Basketball vs. Harvard Crimson Womens Basketball",
       "venue_line": "Moby Arena • Fort Collins",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Colorado Eagles vs. Grand Rapids Griffins",
+      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

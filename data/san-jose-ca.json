@@ -1,47 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-11-04T16:46:36.460Z",
+  "updated_at": "2026-11-05T17:03:03.559Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Santa Clara Broncos Mens Basketball vs. UW- Milwaukee Panthers Mens Basketball",
-      "venue_line": "Leavey Event Center • Santa Clara",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "PX Floro",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$31–$83",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Strawberry Fuzz",
-      "venue_line": "Felton Music Hall • Felton",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "The Lowtimers w/ Red McAdam + Kentucky Mule",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -198,6 +158,46 @@
       "date_iso": "2026-11-07",
       "title": "Santa Clara Broncos Womens Volleyball vs. Portland Pilots Womens Volleyball",
       "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Total Vibez Live",
+      "venue_line": "Lake Cunningham Regional Park • San Jose",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "San Jose State Spartans Football vs. Northern Illinois Huskies Football",
+      "venue_line": "CEFCU Stadium • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Earlybirds Club",
+      "venue_line": "The Ritz • San Jose",
+      "price_label": "$0",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "San Jose Barracuda vs. Bakersfield Condors",
+      "venue_line": "Tech CU Arena • San Jose",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

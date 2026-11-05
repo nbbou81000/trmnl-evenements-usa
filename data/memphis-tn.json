@@ -1,27 +1,7 @@
 {
   "city_label": "Memphis, TN",
-  "updated_at": "2026-11-04T16:46:23.495Z",
+  "updated_at": "2026-11-05T17:02:50.115Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Memphis Grizzlies vs. Indiana Pacers",
-      "venue_line": "FedExForum • Memphis",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Prof",
-      "venue_line": "Satellite Music Hall • Memphis",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-14",
       "title": "Bingo Loco",
       "venue_line": "Minglewood Hall • Memphis",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Mid-South Monarchs vs. Columbus River Dragons",
+      "venue_line": "Landers Center  • Southaven",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Lyle Lovett",
+      "venue_line": "Graceland Soundstage • Memphis",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

@@ -1,57 +1,7 @@
 {
   "city_label": "Pittsburgh, PA",
-  "updated_at": "2026-11-04T16:45:46.603Z",
+  "updated_at": "2026-11-05T17:02:11.960Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Boney James",
-      "venue_line": "City Winery - Pittsburgh • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Free Throw + Microwave",
-      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Charles McBee",
-      "venue_line": "Pittsburgh Improv • Pittsburgh",
-      "price_label": "$25",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Father Frank & Under The Canopy",
-      "venue_line": "Club Cafe • Pittsburgh",
-      "price_label": "$12",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "JUDY COLLINS - SWEET JUDY BLUE EYES: FAREWELL",
-      "venue_line": "Carnegie Music Hall • Pittsburgh",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "George Clanton",
+      "venue_line": "Spirit Hall • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Vince Staples - Cry Baby Tour",
+      "venue_line": "Roxian Theatre Presented By Citizens • McKees Rocks",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "T.J. Miller",
+      "venue_line": "Pittsburgh Improv • Pittsburgh",
+      "price_label": "$37–$108",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Robert Morris University Colonials Womens Hockey vs. RIT",
+      "venue_line": "Clearview Arena • Pittsburgh",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Chat Pile - Who Loves The Sun Tour 2026 with Soul Glo and Shallowater",
+      "venue_line": "Mr Smalls Theatre • Millvale",
+      "price_label": "$41",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

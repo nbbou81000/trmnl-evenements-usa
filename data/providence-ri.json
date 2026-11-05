@@ -1,27 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-11-04T16:45:48.841Z",
+  "updated_at": "2026-11-05T17:02:14.343Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Shadow Monster, Prior Panic, & Vudu Sister",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Demon Chrome, Inner Cross, & Karath Delphi",
-      "venue_line": "Fete Music Hall • Providence",
-      "price_label": "$16",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "A Christmas Carol",
+      "venue_line": "Lederer Theater Center -  Dowling Theater • Providence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Lucy Darling",
+      "venue_line": "The VETS • Providence",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

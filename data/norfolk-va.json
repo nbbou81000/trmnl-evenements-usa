@@ -1,17 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-11-04T16:45:56.680Z",
+  "updated_at": "2026-11-05T17:02:22.866Z",
   "events": [
-    {
-      "day_label": "WED",
-      "day_number": "4",
-      "date_iso": "2026-11-04",
-      "title": "Old Dominion Monarchs Mens Basketball vs. Regent University Royals Mens Basketball",
-      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "THU",
       "day_number": "5",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-07",
       "title": "Clutch w/ Slomosa",
       "venue_line": "The Norva • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "CHIEF KEEF",
+      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
