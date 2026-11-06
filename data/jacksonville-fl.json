@@ -1,17 +1,7 @@
 {
   "city_label": "Jacksonville, FL",
-  "updated_at": "2026-11-05T17:02:27.880Z",
+  "updated_at": "2026-11-06T16:32:22.536Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Ben Bankas",
-      "venue_line": "Comedy Zone - Jacksonville • Jacksonville",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
+      "title": "The Farm at Okefenokee",
+      "venue_line": "Jacksonville Center for the Performing Arts - Terry Theater • Jacksonville",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     }
   ]
 }

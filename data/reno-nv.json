@@ -1,6 +1,6 @@
 {
   "city_label": "Reno, NV",
-  "updated_at": "2026-11-05T17:03:00.186Z",
+  "updated_at": "2026-11-06T16:33:00.941Z",
   "events": [
     {
       "day_label": "MON",
@@ -13,44 +13,14 @@
       "type_label": "Arts & Theater"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Laugh Factory",
-      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Nevada Wolfpack Football vs. New Mexico Lobos Football",
+      "venue_line": "Mackay Stadium • Reno",
       "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "RiFF RAFF",
-      "venue_line": "The Alpine • Reno",
-      "price_label": "$35–$92",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Riff Raff",
-      "venue_line": "The Alpine - NV • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Rival Sons - Domestic Bliss Tour",
-      "venue_line": "Grand Sierra Resort and Casino • Reno",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "FRI",
@@ -111,16 +81,6 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "7",
-      "date_iso": "2026-11-07",
-      "title": "Nevada Wolfpack Football vs. New Mexico Lobos Football",
-      "venue_line": "Mackay Stadium • Reno",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -196,6 +156,46 @@
       "day_label": "SUN",
       "day_number": "8",
       "date_iso": "2026-11-08",
+      "title": "Laugh Factory",
+      "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Veterans Bowl",
+      "venue_line": "National Bowling Stadium • Reno",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "deathtape, No One Good, FoolZDen, Fall Is In Flames",
+      "venue_line": "The Alpine • Reno",
+      "price_label": "$23",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Outlander In Concert",
+      "venue_line": "Grand Sierra Resort and Casino • Reno",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "12",
+      "date_iso": "2026-11-12",
       "title": "Laugh Factory",
       "venue_line": "Laugh Factory at the Silver Legacy Casino • Reno",
       "price_label": "Price not available",

@@ -1,27 +1,7 @@
 {
   "city_label": "Portland, ME",
-  "updated_at": "2026-11-05T17:02:16.307Z",
+  "updated_at": "2026-11-06T16:32:08.942Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "WWE Road To Survivor Series: WarGames",
-      "venue_line": "Cross Insurance Arena  • Portland",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Marc Maron: Yammering into the Void Tour",
-      "venue_line": "State Theatre • Portland",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "An Evening With Goose",
+      "venue_line": "Cross Insurance Arena  • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "The War And Treaty",
+      "venue_line": "State Theatre • Portland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

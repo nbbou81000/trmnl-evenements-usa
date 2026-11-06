@@ -1,27 +1,7 @@
 {
   "city_label": "Toledo, OH",
-  "updated_at": "2026-11-05T17:02:34.946Z",
+  "updated_at": "2026-11-06T16:32:30.744Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Bert Kreischer",
-      "venue_line": "Stranahan Theatre • Toledo",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Bowling Green Falcons Womens Basketball vs. Cleveland State Vikings Womens Basketball",
-      "venue_line": "Stroh Center • Bowling Green",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -196,6 +176,26 @@
       "day_label": "FRI",
       "day_number": "20",
       "date_iso": "2026-11-20",
+      "title": "Toledo Walleye vs. Rapid City Rush",
+      "venue_line": "Huntington Center • Toledo",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Bowling Green Falcons Hockey vs. Augustana Vikings Mens Hockey",
+      "venue_line": "Slater Family Ice Arena • Bowling Green",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
       "title": "Toledo Walleye vs. Rapid City Rush",
       "venue_line": "Huntington Center • Toledo",
       "price_label": "Price not available",

@@ -1,17 +1,7 @@
 {
   "city_label": "Chattanooga, TN",
-  "updated_at": "2026-11-05T17:02:51.405Z",
+  "updated_at": "2026-11-06T16:32:50.792Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Charlie Berens: The Lost and Found Tour",
-      "venue_line": "The Walker Theatre • Chattanooga",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "3",
+      "date_iso": "2026-12-03",
+      "title": "Bobby Stone Film Series: Christmas in Connecticut",
+      "venue_line": "The Walker Theatre • Chattanooga",
+      "price_label": "Price not available",
+      "type_key": "film",
+      "type_label": "Film"
     },
     {
       "day_label": "THU",

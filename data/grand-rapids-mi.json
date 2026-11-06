@@ -1,27 +1,7 @@
 {
   "city_label": "Grand Rapids, MI",
-  "updated_at": "2026-11-05T17:02:32.826Z",
+  "updated_at": "2026-11-06T16:32:27.951Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "The Surfrajettes wsg Kitten and the Tonics",
-      "venue_line": "Tip Top Deluxe Bar & Grill • Grand Rapids",
-      "price_label": "$29",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Psychostick + Texas Toast Chainsaw Massacre + Plethora + dirtflesh",
-      "venue_line": "The Pyramid Scheme • Grand Rapids",
-      "price_label": "$27",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +181,26 @@
       "price_label": "$0",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "TRIVIUM: CROWN IN THE GRAVE WORLD TOUR",
+      "venue_line": "GLC Live at 20 Monroe • Grand Rapids",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "All Get Out + Motherfolk + Saint Blonde",
+      "venue_line": "The Pyramid Scheme • Grand Rapids",
+      "price_label": "$27",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

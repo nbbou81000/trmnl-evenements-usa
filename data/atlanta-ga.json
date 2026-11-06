@@ -1,6 +1,6 @@
 {
   "city_label": "Atlanta, GA",
-  "updated_at": "2026-11-05T17:02:26.596Z",
+  "updated_at": "2026-11-06T16:32:21.040Z",
   "events": [
     {
       "day_label": "THU",
@@ -23,9 +23,9 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
       "title": "Tours: Truist Park",
       "venue_line": "Truist Park • Atlanta",
       "price_label": "Price not available",
@@ -33,49 +33,119 @@
       "type_label": "Sports"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Chris Brown & Usher Listening Experience",
-      "venue_line": "Hard Rock Cafe - Atlanta • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Knox",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
       "venue_line": "The Masquerade - Heaven • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Qendresa: Date Night Tour",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Havok",
+      "venue_line": "The Masquerade - Hell • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Trivium w/ In Flames",
+      "venue_line": "The Eastern-GA • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Dälek",
       "venue_line": "The Masquerade - Purgatory • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Brad Goodall w/ Craig Greenberg",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The OBGMs - Heart Problems",
+      "venue_line": "The Masquerade  - Altar • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Atlanta Hawks vs. Washington Wizards",
+      "venue_line": "State Farm Arena • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Georgia Tech Yellow Jackets Womens Volleyball vs. North Carolina State Wolfpack Womens Volleyball",
+      "venue_line": "O'Keefe Gymnasium • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Georgia Southern Eagles Mens Basketball",
+      "venue_line": "McCamish Pavilion • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Jim Lauderdale",
       "venue_line": "Eddie's Attic • Decatur",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "College Park Skyhawks vs. Raptors 905",
+      "venue_line": "Gateway Center Arena • College Park",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Rick Braun with special guest Peachtree Jazz Edition",
+      "venue_line": "Trilith LIVE • Fayetteville",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
       "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
       "venue_line": "Mercedes-Benz Stadium • Atlanta",
       "price_label": "Price not available",
@@ -83,9 +153,19 @@
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Waiting to Exhale in Concert",
+      "venue_line": "Fox Theatre - Atlanta • Atlanta",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
       "title": "Like Father",
       "venue_line": "Alliance Theatre • Atlanta",
       "price_label": "Price not available",
@@ -93,111 +173,31 @@
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Wim Tapley & The Cannons",
-      "venue_line": "Aisle 5 • Atlanta",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "The Fab Four: Tribute To The Beatles A Hard Days Night",
+      "venue_line": "Buckhead Theatre • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Bach + Brahms",
-      "venue_line": "Atlanta Symphony Hall • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "The Arcadian Wild",
-      "venue_line": "Center Stage Theater • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "The Afghan Whigs",
-      "venue_line": "Variety Playhouse • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Wim Tapley & The Cannons",
-      "venue_line": "Aisle 5 • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Joe Jordan",
-      "venue_line": "Smiths Olde Bar • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Madeon",
-      "venue_line": "The Eastern-GA • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Kitchen Dwellers w/ Dogs In A Pile",
-      "venue_line": "Terminal West • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Joe Jordan",
-      "venue_line": "Smith's Olde Bar • Atlanta",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Nico Carney",
-      "venue_line": "Helium Comedy Club - GA • Alpharetta",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "It's A Wonderful Life - A Live Radio Play",
+      "venue_line": "Strand Theatre - GA • Marietta",
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
     },
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Tucker Underwood w/ Madelyn Tallent",
-      "venue_line": "Eddie's Attic • Decatur",
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
+      "venue_line": "Tabernacle Presented by iTHINK Financial • Atlanta",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

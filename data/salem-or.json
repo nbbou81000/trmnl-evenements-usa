@@ -1,6 +1,6 @@
 {
   "city_label": "Salem, OR",
-  "updated_at": "2026-11-05T17:03:08.866Z",
+  "updated_at": "2026-11-06T16:33:10.707Z",
   "events": [
     {
       "day_label": "FRI",
@@ -127,6 +127,16 @@
       "day_number": "18",
       "date_iso": "2026-11-18",
       "title": "Straight No Chaser",
+      "venue_line": "Elsinore Theatre • Salem",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "29",
+      "date_iso": "2026-11-29",
+      "title": "Home Free",
       "venue_line": "Elsinore Theatre • Salem",
       "price_label": "Price not available",
       "type_key": "music",

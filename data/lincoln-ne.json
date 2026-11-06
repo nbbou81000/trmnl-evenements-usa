@@ -1,17 +1,7 @@
 {
   "city_label": "Lincoln, NE",
-  "updated_at": "2026-11-05T17:02:40.554Z",
+  "updated_at": "2026-11-06T16:32:38.285Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "NSAA Girls Volleyball Championship -Thursday- D2, D1, C2 - First Round",
-      "venue_line": "Pinnacle Bank Arena • Lincoln",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-14",
       "title": "Nebraska Cornhuskers Womens Volleyball vs. Iowa Hawkeyes Womens Volleyball",
       "venue_line": "Bob Devaney Sports Center • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
+      "title": "Lincoln Stars vs. Sioux Falls Stampede",
+      "venue_line": "Ice Box • Lincoln",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

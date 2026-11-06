@@ -1,17 +1,7 @@
 {
   "city_label": "Scranton, PA",
-  "updated_at": "2026-11-05T17:02:19.405Z",
+  "updated_at": "2026-11-06T16:32:12.688Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Blue Man Group - A New Holiday Surprise",
-      "venue_line": "Scranton Cultural Center • Scranton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Wilkes-Barre/Scranton Penguins vs. Rochester Americans",
+      "venue_line": "Mohegan Arena at Casey Plaza • Wilkes Barre",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

@@ -1,37 +1,7 @@
 {
   "city_label": "Providence, RI",
-  "updated_at": "2026-11-05T17:02:14.343Z",
+  "updated_at": "2026-11-06T16:32:06.941Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Providence College Friars Hockey vs. UConn Huskies Hockey",
-      "venue_line": "Schneider Arena • Providence",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "A Christmas Carol",
-      "venue_line": "Lederer Theater Center -  Dowling Theater • Providence",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Frank Santos Jr. R-Rated Hypnotist",
-      "venue_line": "Agoro's • Somerset",
-      "price_label": "$34",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "misc",
       "type_label": "Other"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "EMO NIGHT ENCORE",
+      "venue_line": "Fete Music Hall • Providence",
+      "price_label": "$16",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "MJ LIVE – Michael Jackson Tribute Concert",
+      "venue_line": "Bally's Event Center • Lincoln",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Lez Zeppelin",
+      "venue_line": "Greenwich Odeum • East Greenwich",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

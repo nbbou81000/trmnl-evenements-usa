@@ -1,27 +1,7 @@
 {
   "city_label": "Baton Rouge, LA",
-  "updated_at": "2026-11-05T17:02:52.255Z",
+  "updated_at": "2026-11-06T16:32:51.946Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "The Red Clay Strays",
-      "venue_line": "Raising Canes River Center Arena • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "LSU Tigers Womens Basketball vs. Texas Southern Tigers Womens Basketball",
-      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -197,6 +177,26 @@
       "day_number": "16",
       "date_iso": "2026-11-16",
       "title": "LSU Tigers Womens Basketball vs. Troy Trojans Womens Basketball",
+      "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "17",
+      "date_iso": "2026-11-17",
+      "title": "ALOK presented by Laugh Life Comedy",
+      "venue_line": "Chelsea’s Live • Baton Rouge",
+      "price_label": "$36",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "18",
+      "date_iso": "2026-11-18",
+      "title": "LSU Tigers Mens Basketball vs. Louisiana Monroe Warhawks Mens Basketball",
       "venue_line": "LSU Pete Maravich Assembly Center • Baton Rouge",
       "price_label": "Price not available",
       "type_key": "sports",

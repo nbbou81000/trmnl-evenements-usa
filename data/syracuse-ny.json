@@ -1,6 +1,6 @@
 {
   "city_label": "Syracuse, NY",
-  "updated_at": "2026-11-05T17:02:13.425Z",
+  "updated_at": "2026-11-06T16:32:05.964Z",
   "events": [
     {
       "day_label": "SUN",
@@ -11,56 +11,6 @@
       "price_label": "$208",
       "type_key": "misc",
       "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Wheeler Walker Jr.",
-      "venue_line": "Kegs Canal Side • Jordan",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "level:memory Album Release w/ A Kid Called Danger + Intext",
-      "venue_line": "Middle Ages Music Hall • Syracuse",
-      "price_label": "$0",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Syracuse University Men's Basketball vs. Cen. Connecticut Blue Devils",
-      "venue_line": "JMA Wireless Dome  • Syracuse",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Drag Bingo : Senior Citizen Edition",
-      "venue_line": "The Song & Dance • Syracuse",
-      "price_label": "$0",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Strange Machines w/s/g MJT",
-      "venue_line": "Funk 'n Waffles • Syracuse",
-      "price_label": "$18",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "FRI",
@@ -201,6 +151,56 @@
       "price_label": "$0",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Megan Woods: The Truth Tour - North Syracuse, NY",
+      "venue_line": "The Gathering Place • North Syracuse",
+      "price_label": "$24–$46",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "MONDAY 'DEAD NIGHT feat. Gratefully Yours",
+      "venue_line": "Funk 'n Waffles • Syracuse",
+      "price_label": "$13",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Hell's Kitchen (Touring)",
+      "venue_line": "Landmark Theatre • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Member Lounge",
+      "venue_line": "Landmark Theatre • Syracuse",
+      "price_label": "Price not available",
+      "type_key": "misc",
+      "type_label": "Other"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Let Them Eat Cake : A DIY Wish Tin Event",
+      "venue_line": "The Song & Dance • Syracuse",
+      "price_label": "$6",
+      "type_key": "misc",
+      "type_label": "Other"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Fort Wayne, IN",
-  "updated_at": "2026-11-05T17:02:36.815Z",
+  "updated_at": "2026-11-06T16:32:33.336Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Cheap Trick: All Washed Up Tour with James Hatem",
-      "venue_line": "The Clyde Theatre-IN • Fort Wayne",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -191,6 +181,16 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "Fort Wayne Komets vs. Bloomington Bison",
+      "venue_line": "Allen County War Memorial Coliseum • Fort Wayne",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     },
     {
       "day_label": "SUN",

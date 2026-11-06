@@ -1,37 +1,7 @@
 {
   "city_label": "Virginia Beach, VA",
-  "updated_at": "2026-11-05T17:02:22.405Z",
+  "updated_at": "2026-11-06T16:32:15.701Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Old Dominion Monarchs Womens Basketball vs. Virginia State Trojans Womens Basketball",
-      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Little Big Town - For The Art Of It Tour",
-      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Whiskey Glasses Nashville: Morgan Wallen Tribute",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -86,6 +56,16 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
+      "title": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
+      "venue_line": "William Price Stadium • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
       "title": " Culture Clash: Crowd Karaoke (Ages 21 & Up)",
       "venue_line": "Elevation 27 • Virginia Beach",
       "price_label": "Price not available",
@@ -101,16 +81,6 @@
       "price_label": "Price not available",
       "type_key": "arts",
       "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "7",
-      "date_iso": "2026-11-07",
-      "title": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
-      "venue_line": "William Price Stadium • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
     },
     {
       "day_label": "SAT",
@@ -198,6 +168,36 @@
       "date_iso": "2026-11-10",
       "title": "Free Throw + Microwave",
       "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "Madeon",
+      "venue_line": "The Norva • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "The Bodyguard (Touring)",
+      "venue_line": "Harrison Opera House • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "WED",
+      "day_number": "11",
+      "date_iso": "2026-11-11",
+      "title": "Catch Your Breath w/ TX2",
+      "venue_line": "The Norva • Norfolk",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

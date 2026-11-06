@@ -1,6 +1,6 @@
 {
   "city_label": "Stockton, CA",
-  "updated_at": "2026-11-05T17:03:05.399Z",
+  "updated_at": "2026-11-06T16:33:06.600Z",
   "events": [
     {
       "day_label": "FRI",
@@ -51,16 +51,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "14",
-      "date_iso": "2026-11-14",
-      "title": "Ramon Ayala - Historia De Un Final",
-      "venue_line": "Adventist Health Arena • Stockton",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "SUN",
@@ -201,6 +191,16 @@
       "price_label": "Price not available",
       "type_key": "film",
       "type_label": "Film"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "20",
+      "date_iso": "2026-12-20",
+      "title": "Stockton Thunder vs. Topeka Scarecrows",
+      "venue_line": "Adventist Health Arena • Stockton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

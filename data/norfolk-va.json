@@ -1,37 +1,7 @@
 {
   "city_label": "Norfolk, VA",
-  "updated_at": "2026-11-05T17:02:22.866Z",
+  "updated_at": "2026-11-06T16:32:16.208Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Old Dominion Monarchs Womens Basketball vs. Virginia State Trojans Womens Basketball",
-      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Little Big Town - For The Art Of It Tour",
-      "venue_line": "The Dome by Rutter Mills • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Whiskey Glasses Nashville: Morgan Wallen Tribute",
-      "venue_line": "Elevation 27 • Virginia Beach",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -106,6 +76,16 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
+      "title": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
+      "venue_line": "William Price Stadium • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
       "title": "Monster Jam",
       "venue_line": "Hampton Coliseum • Hampton",
       "price_label": "Price not available",
@@ -138,16 +118,6 @@
       "date_iso": "2026-11-07",
       "title": "Monster Jam",
       "venue_line": "Hampton Coliseum • Hampton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "7",
-      "date_iso": "2026-11-07",
-      "title": "Norfolk State Spartans Football vs. North Carolina Central Eagles Football",
-      "venue_line": "William Price Stadium • Norfolk",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Drake & Future Night Virginia Beach: All-Night Dance Party (21+)",
+      "venue_line": "Elevation 27 • Virginia Beach",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Monster Jam",
+      "venue_line": "Hampton Coliseum • Hampton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Old Dominion Monarchs Womens Basketball vs. Tennessee State Lady Tigers Womens Basketball",
+      "venue_line": "Chartway Arena at Ted Constant Convocation Center • Norfolk",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

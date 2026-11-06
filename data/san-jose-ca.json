@@ -1,57 +1,7 @@
 {
   "city_label": "San Jose, CA",
-  "updated_at": "2026-11-05T17:03:03.559Z",
+  "updated_at": "2026-11-06T16:33:04.419Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Santa Clara Broncos Womens Volleyball vs. Seattle University Redhawks Womens Volleyball",
-      "venue_line": "Leavey Event Center • Santa Clara",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Jack Assadourian Jr.",
-      "venue_line": "San Jose Improv • San Jose",
-      "price_label": "$37–$114",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Don Omar \"The Last King World Tour\"",
-      "venue_line": "SAP Center at San Jose • San Jose",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Thomas Dolby",
-      "venue_line": "The Guild Theatre - CA • Menlo Park",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Moe's Alley Presents: Clay Street Unit w/ Blue Dream",
-      "venue_line": "Moe's Alley • Santa Cruz",
-      "price_label": "$25",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -156,6 +106,16 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
+      "title": "San Jose State Spartans Football vs. Northern Illinois Huskies Football",
+      "venue_line": "CEFCU Stadium • San Jose",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
       "title": "Santa Clara Broncos Womens Volleyball vs. Portland Pilots Womens Volleyball",
       "venue_line": "Leavey Event Center • Santa Clara",
       "price_label": "Price not available",
@@ -176,16 +136,6 @@
       "day_label": "SAT",
       "day_number": "7",
       "date_iso": "2026-11-07",
-      "title": "San Jose State Spartans Football vs. Northern Illinois Huskies Football",
-      "venue_line": "CEFCU Stadium • San Jose",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "7",
-      "date_iso": "2026-11-07",
       "title": "Earlybirds Club",
       "venue_line": "The Ritz • San Jose",
       "price_label": "$0",
@@ -201,6 +151,56 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Mark Normand",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "$0",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Mark Normand",
+      "venue_line": "San Jose Improv • San Jose",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Santa Clara Broncos Mens Basketball vs. Sacramento State Hornets Mens Basketball",
+      "venue_line": "Leavey Event Center • Santa Clara",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Dan + Shay: The Young Tour",
+      "venue_line": "Shoreline Amphitheatre • Mountain View",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "ALVARO DIAZ - OMAKASE TOUR",
+      "venue_line": "San Jose Civic • San Jose",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

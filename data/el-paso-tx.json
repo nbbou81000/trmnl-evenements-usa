@@ -1,37 +1,7 @@
 {
   "city_label": "El Paso, TX",
-  "updated_at": "2026-11-05T17:02:45.665Z",
+  "updated_at": "2026-11-06T16:32:43.683Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "The UTEP Dinner Theatre - Sweeney Todd",
-      "venue_line": "UTEP Dinner Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Raising The Barre- UTEP Theatre & Dance",
-      "venue_line": "June Sadowski Kruszewski Studio Theatre • El Paso",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Tanner Usrey",
-      "venue_line": "Lowbrow Palace • El Paso",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +171,36 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Jose Madero - USA Tour 2026",
+      "venue_line": "Abraham Chavez Theatre • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "TRSH",
+      "venue_line": "Lowbrow Palace • El Paso",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "TUE",
+      "day_number": "10",
+      "date_iso": "2026-11-10",
+      "title": "UTEP Miners Womens Basketball vs New Mexico State",
+      "venue_line": "GECU Arena at the Don Haskins Center • El Paso",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
     }
   ]
 }

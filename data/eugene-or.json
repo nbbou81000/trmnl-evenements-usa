@@ -1,27 +1,7 @@
 {
   "city_label": "Eugene, OR",
-  "updated_at": "2026-11-05T17:03:09.316Z",
+  "updated_at": "2026-11-06T16:33:11.192Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Mdou Moctar (solo)",
-      "venue_line": "WOW Hall • Eugene",
-      "price_label": "$33",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Gabriel Iglesias: The 1976 Tour",
-      "venue_line": "Matthew Knight Arena • Eugene",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "19",
+      "date_iso": "2026-11-19",
+      "title": "Polyrhythmics",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$32",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "20",
+      "date_iso": "2026-11-20",
+      "title": "Fire Priestess, Code Red, VudooDollz",
+      "venue_line": "WOW Hall • Eugene",
+      "price_label": "$21",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

@@ -1,27 +1,7 @@
 {
   "city_label": "Fort Collins, CO",
-  "updated_at": "2026-11-05T17:02:56.201Z",
+  "updated_at": "2026-11-06T16:32:56.632Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Colorado State University Rams Womens Volleyball vs. Gonzaga Bulldogs Womens Volleyball",
-      "venue_line": "Moby Arena • Fort Collins",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Blippi The Musical",
-      "venue_line": "Union Colony Civic Center • Greeley",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-20",
       "title": "Colorado Eagles vs. Grand Rapids Griffins",
       "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "21",
+      "date_iso": "2026-11-21",
+      "title": "Colorado Eagles vs. Grand Rapids Griffins",
+      "venue_line": "Blue Arena at The Ranch Events Complex • Loveland",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "22",
+      "date_iso": "2026-11-22",
+      "title": "Colorado State University Rams Womens Basketball vs. Weber State Wildcats Womens Basketball",
+      "venue_line": "Moby Arena • Fort Collins",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"

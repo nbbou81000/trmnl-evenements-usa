@@ -1,37 +1,7 @@
 {
   "city_label": "Oklahoma City, OK",
-  "updated_at": "2026-11-05T17:02:48.686Z",
+  "updated_at": "2026-11-06T16:32:47.401Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Phantom Of The Opera (Touring)",
-      "venue_line": "Civic Center Music Hall • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Chencho Corleone",
-      "venue_line": "Criterion Theater - Oklahoma City • Oklahoma City",
-      "price_label": "Price not available",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
-    {
-      "day_label": "FRI",
-      "day_number": "6",
-      "date_iso": "2026-11-06",
-      "title": "Oklahoma Sooners Mens Basketball vs. Mississippi Valley State Devils Mens Basketball",
-      "venue_line": "Lloyd Noble Center • Norman",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -78,6 +48,16 @@
       "date_iso": "2026-11-06",
       "title": "Oklahoma Warriors vs. Shreveport Mudbugs",
       "venue_line": "Blazers Ice Centre • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "6",
+      "date_iso": "2026-11-06",
+      "title": "Oklahoma Sooners Mens Basketball vs. Mississippi Valley State Devils Mens Basketball",
+      "venue_line": "Lloyd Noble Center • Norman",
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
@@ -198,6 +178,26 @@
       "date_iso": "2026-11-08",
       "title": "Low Cut Connie",
       "venue_line": "Beer City Music Hall • Oklahoma City",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Oklahoma Sooners Mens Basketball vs. North Alabama Lions Mens Basketball",
+      "venue_line": "Lloyd Noble Center • Norman",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Jonas Brothers: The Burning Up Tour All Over Again",
+      "venue_line": "Paycom Center • Oklahoma City",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"

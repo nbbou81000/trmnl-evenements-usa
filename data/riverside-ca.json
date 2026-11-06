@@ -1,27 +1,7 @@
 {
   "city_label": "Riverside, CA",
-  "updated_at": "2026-11-05T17:03:06.708Z",
+  "updated_at": "2026-11-06T16:33:08.251Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "The Adicts",
-      "venue_line": "Riverside Municipal Auditorium • Riverside",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Desi Comedy Fest",
-      "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$31–$62",
-      "type_key": "misc",
-      "type_label": "Other"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -48,7 +28,7 @@
       "date_iso": "2026-11-06",
       "title": "Cristela Alonzo: The Midlife Mixtape Tour",
       "venue_line": "Ontario Improv • Ontario",
-      "price_label": "$31",
+      "price_label": "$0",
       "type_key": "arts",
       "type_label": "Arts & Theater"
     },
@@ -201,6 +181,26 @@
       "price_label": "$31–$49",
       "type_key": "arts",
       "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "John Hastings",
+      "venue_line": "Corona Improv • Corona",
+      "price_label": "$31",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "8",
+      "date_iso": "2026-11-08",
+      "title": "Jose Mari Chan and The CompanY (21 and Over)",
+      "venue_line": "Yaamava Theater • Highland",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
     }
   ]
 }

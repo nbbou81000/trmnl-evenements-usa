@@ -1,26 +1,16 @@
 {
   "city_label": "Lubbock, TX",
-  "updated_at": "2026-11-05T17:02:46.517Z",
+  "updated_at": "2026-11-06T16:32:44.715Z",
   "events": [
     {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Texas Tech Red Raiders Womens Basketball vs. UNC Charlotte 49ers Womens Basketball",
-      "venue_line": "United Supermarkets Arena • Lubbock",
+      "day_label": "SAT",
+      "day_number": "7",
+      "date_iso": "2026-11-07",
+      "title": "Zach Williams w/ Cochren & Co.",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
       "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Texas Tech Red Raiders Mens Basketball vs. Bethune-Cookman Wildcats Mens Basketball",
-      "venue_line": "United Supermarkets Arena • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
+      "type_key": "music",
+      "type_label": "Music"
     },
     {
       "day_label": "SAT",
@@ -31,16 +21,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "7",
-      "date_iso": "2026-11-07",
-      "title": "Zach Williams w/ Cochren & Co.",
-      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
-      "price_label": "Price not available",
-      "type_key": "music",
-      "type_label": "Music"
     },
     {
       "day_label": "MON",
@@ -201,6 +181,26 @@
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
+    },
+    {
+      "day_label": "THU",
+      "day_number": "26",
+      "date_iso": "2026-11-26",
+      "title": "Texas Tech Red Raiders Football vs. TCU Horned Frogs Football",
+      "venue_line": "Galaxy Stadium • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "29",
+      "date_iso": "2026-11-29",
+      "title": "Dolly Parton's Smoky Mountain Christmas Carol",
+      "venue_line": "Helen DeVitt Jones Theater at The Buddy Holly Hall • Lubbock",
+      "price_label": "Price not available",
+      "type_key": "arts",
+      "type_label": "Arts & Theater"
     }
   ]
 }

@@ -1,17 +1,7 @@
 {
   "city_label": "Dayton, OH",
-  "updated_at": "2026-11-05T17:02:35.900Z",
+  "updated_at": "2026-11-06T16:32:31.919Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Dayton Flyers Women's Basketball v. Illinois State",
-      "venue_line": "University of Dayton Arena • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -113,6 +103,26 @@
       "type_label": "Other"
     },
     {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Dayton Flyers Women's Basketball v. Penn State",
+      "venue_line": "University of Dayton Arena • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "MON",
+      "day_number": "9",
+      "date_iso": "2026-11-09",
+      "title": "Ed Sheeran",
+      "venue_line": "YS Firehouse • Yellow Springs",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
       "day_label": "TUE",
       "day_number": "10",
       "date_iso": "2026-11-10",
@@ -146,7 +156,27 @@
       "day_label": "SAT",
       "day_number": "14",
       "date_iso": "2026-11-14",
+      "title": "Hotel California",
+      "venue_line": "APAC - Arbogast Performing Arts Center • Troy",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "SAT",
+      "day_number": "14",
+      "date_iso": "2026-11-14",
       "title": "Dayton Flyers Men's Basketball v. Cincinnati",
+      "venue_line": "University of Dayton Arena • Dayton",
+      "price_label": "Price not available",
+      "type_key": "sports",
+      "type_label": "Sports"
+    },
+    {
+      "day_label": "SUN",
+      "day_number": "15",
+      "date_iso": "2026-11-15",
+      "title": "Dayton Flyers Women's Basketball v. Western Michigan",
       "venue_line": "University of Dayton Arena • Dayton",
       "price_label": "Price not available",
       "type_key": "sports",
@@ -171,36 +201,6 @@
       "price_label": "Price not available",
       "type_key": "sports",
       "type_label": "Sports"
-    },
-    {
-      "day_label": "WED",
-      "day_number": "18",
-      "date_iso": "2026-11-18",
-      "title": "Wright State Raiders Mens Basketball vs. Malone University Men's Basketball",
-      "venue_line": "Wright State University Nutter Center • Dayton",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
-    {
-      "day_label": "SAT",
-      "day_number": "21",
-      "date_iso": "2026-11-21",
-      "title": "Dayton Philharmonic Orchestra presents Barber???s Cello Concerto",
-      "venue_line": "Schuster PAC • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
-    },
-    {
-      "day_label": "TUE",
-      "day_number": "24",
-      "date_iso": "2026-11-24",
-      "title": "Clue (Touring)",
-      "venue_line": "Schuster PAC • Dayton",
-      "price_label": "Price not available",
-      "type_key": "arts",
-      "type_label": "Arts & Theater"
     }
   ]
 }

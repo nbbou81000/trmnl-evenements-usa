@@ -1,17 +1,7 @@
 {
   "city_label": "Greensboro, NC",
-  "updated_at": "2026-11-05T17:02:24.693Z",
+  "updated_at": "2026-11-06T16:32:18.270Z",
   "events": [
-    {
-      "day_label": "THU",
-      "day_number": "5",
-      "date_iso": "2026-11-05",
-      "title": "Extreme Dwarfanator Wrestling",
-      "venue_line": "American Legion I.T. Mann Post 87 • High Point",
-      "price_label": "Price not available",
-      "type_key": "sports",
-      "type_label": "Sports"
-    },
     {
       "day_label": "FRI",
       "day_number": "6",
@@ -198,6 +188,16 @@
       "date_iso": "2026-11-13",
       "title": "Banda MS",
       "venue_line": "First Horizon Coliseum • Greensboro",
+      "price_label": "Price not available",
+      "type_key": "music",
+      "type_label": "Music"
+    },
+    {
+      "day_label": "FRI",
+      "day_number": "13",
+      "date_iso": "2026-11-13",
+      "title": "Ashley McBryde: Into The Wild Tour",
+      "venue_line": "Piedmont Hall • Greensboro",
       "price_label": "Price not available",
       "type_key": "music",
       "type_label": "Music"
